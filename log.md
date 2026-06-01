@@ -18,3 +18,5 @@
 2026-06-02 [UPDATE] 삼성전자 컨센서스 테이블에 국내 3행 추가(🌐/🇰🇷 구분), 분포 국내 33만~57만 병기
 2026-06-02 [INGEST] 마이크론 — 국내사 정식 TP 부재 확인. read-across 패턴 기록(UBS 15배 PER→삼성 70만/하이닉스 440만 환산, "80만전자·700만닉스")
 2026-06-02 [UPDATE] 마이크론 페이지에 국내 read-across 섹션 신설, SK하이닉스 밸류방법론에 440만 환산 크로스레퍼런스 추가
+2026-06-02 [DEPLOY] Quartz v4.5.2 + GitHub Pages 배포 파이프라인 구축 (stage.mjs로 wiki/→content/ 스테이징, Actions 자동배포) → https://fabelian.github.io/research-wiki/
+2026-06-02 [LINT] 깨진 위키링크 해소 — 스텁 2개 생성([[AI서버]] 테마, [[엔비디아]] 수요측 앵커 stock). 두 페이지 모두 데이터 공백으로 표기, 후속 보강 필요. index.md 홈 title 추가
