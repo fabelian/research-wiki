@@ -1,0 +1,5 @@
+# 로컬 에이전트/도구 상태 (커밋 안 함)
+.omc/
+
+# Obsidian 로컬 작업공간 상태 (머신별)
+.obsidian/workspace.json
