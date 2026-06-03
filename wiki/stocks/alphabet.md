@@ -23,3 +23,9 @@ updated: 2026-05-27
 
 ## 최근 동향
 - 2026년 5월, 한국 개인 투자자들의 미국 기술주 순매수 상위 종목에 오르는 등 국내 투자자들의 관심이 증가했습니다 (출처: [Businesskorea](https://www.businesskorea.co.kr/news/articleView.html?idxno=269922), 2026-05-21).
+
+
+## 최근 주요 이벤트 (2026-06-02)
+- **$80B 대규모 자금 조달**: AI 인프라 확장을 가속화하기 위해 800억 달러 규모의 자금 조달 계획을 발표했습니다. 워렌 버핏의 버크셔 해서웨이가 100억 달러 투자를 통해 지원에 나섰습니다. (출처: [EconoTimes](https://www.econotimes.com/Alphabet-Unveils-80-Billion-Capital-Raise-to-Accelerate-AI-Expansion-Secures-10-Billion-Backing-from-Berkshire-Hathaway-1743227), 2026-06-02)
+- **내부자 거래 혐의**: 구글 엔지니어가 내부 사용자 데이터 접근 권한을 이용해 불법적인 금융 거래를 한 혐의로 기소되어 내부 통제 관련 우려가 제기되었습니다. (출처: [EBN](https://www.ebn.co.kr/news/articleView.html?idxno=1710375), 2026-05-27)
+- **소셜 미디어 중독 소송 합의**: 켄터키 주 교육구가 제기한 소셜 미디어 중독 소송에서 자회사인 유튜브와 관련하여 800만 달러를 지불하기로 합의했습니다. (출처: [EconoTimes](https://www.econotimes.com/Kentucky-School-District-Secures-27-Million-in-Social-Media-Addiction-Lawsuit-Settlements-1743060), 2026-05-30)

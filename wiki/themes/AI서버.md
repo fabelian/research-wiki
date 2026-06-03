@@ -50,3 +50,7 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 ## 정부 정책 동향 (2026-06-02 업데이트)
 
 *   **대한민국 AI 3대 강국 전략**: 과학기술정보통신부는 국가 AI 경쟁력 강화를 위해 [[엔비디아]]를 포함한 글로벌 빅테크와 협력을 강화하고, 첨단 GPU 26만 장 확보 등 국가 AI 인프라 확충을 추진 중. 이는 국내 AI서버 시장의 구조적 성장을 뒷받침하는 정책임. (Dailysecu 2026-06-02)
+
+
+## 주요 이벤트 업데이트 (2026-06-02)
+- **🆕 2026-06-02 🇺🇸**: [[Alphabet]](구글)이 AI 인프라 확장을 위해 800억 달러 규모의 대규모 자금 조달 계획을 발표. 하이퍼스케일러의 공격적인 투자가 지속되고 있음을 시사. (출처: [EconoTimes](https://www.econotimes.com/Alphabet-Unveils-80-Billion-Capital-Raise-to-Accelerate-AI-Expansion-Secures-10-Billion-Backing-from-Berkshire-Hathaway-1743227))
