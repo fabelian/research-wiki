@@ -21,3 +21,7 @@ updated: 2026-06-03
 - https://www.chosun.com/economy/auto/2026/06/03/IBWB3RSJ65H5DIWPICGTPUJMFQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 - https://www.nocutnews.co.kr/news/6527073?utm_source=naver&utm_medium=article&utm_campaign=20260603021731
 - http://www.inews24.com/view/1973557
+
+
+## 2026-06-03 업데이트
+- **'전동화 허브'로 역할 확대**: [[기아]] [[스포티지]] 하이브리드 양산이 시작되면서, HMGMA는 기존 전기차 전용 생산기지에서 하이브리드까지 아우르는 '전동화 허브'로 역할이 확대되었다. 스포티지 하이브리드는 [[아이오닉 5]], [[아이오닉 9]]에 이어 HMGMA에서 생산되는 세 번째 차종이다. (2026-06-03, [[전동화 생산축 넓히는 기아…조지아 메타플랜트서 스포티지 하이브리드...]])
