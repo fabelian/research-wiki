@@ -38,3 +38,8 @@ updated: 2026-06-03
 - [Rechargeable Battery Industry] Monthly: Orders to surge in 2H26 (Business Korea, 2026-06-03)
 - [테슬라, 자율주행차 전용 관리 기지 만든다..그 배경은?](https://www.dailycar.co.kr/content/news.html?type=view&autoId=61752) (Dailycar, 2026-06-03)
 - [What’s Driving Trump’s Big A.I. Pivot](https://www.nytimes.com/2026/06/03/business/dealbook/trump-ai-pivot.html?partner=naver) (New York Times, 2026-06-03)
+
+
+## 기타 연관 정보
+
+- **SpaceX IPO 가능성**: CEO 일론 머스크가 이끄는 SpaceX의 IPO 관련 언론 보도가 있었음. Tesla와 직접적인 사업 연관성은 낮지만, CEO의 개인 유동성 및 경영 집중도에 영향을 줄 수 있는 변수임. (출처: AP 연합뉴스, 2026-06-03)
