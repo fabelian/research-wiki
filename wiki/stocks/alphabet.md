@@ -29,3 +29,11 @@ updated: 2026-05-27
 - **$80B 대규모 자금 조달**: AI 인프라 확장을 가속화하기 위해 800억 달러 규모의 자금 조달 계획을 발표했습니다. 워렌 버핏의 버크셔 해서웨이가 100억 달러 투자를 통해 지원에 나섰습니다. (출처: [EconoTimes](https://www.econotimes.com/Alphabet-Unveils-80-Billion-Capital-Raise-to-Accelerate-AI-Expansion-Secures-10-Billion-Backing-from-Berkshire-Hathaway-1743227), 2026-06-02)
 - **내부자 거래 혐의**: 구글 엔지니어가 내부 사용자 데이터 접근 권한을 이용해 불법적인 금융 거래를 한 혐의로 기소되어 내부 통제 관련 우려가 제기되었습니다. (출처: [EBN](https://www.ebn.co.kr/news/articleView.html?idxno=1710375), 2026-05-27)
 - **소셜 미디어 중독 소송 합의**: 켄터키 주 교육구가 제기한 소셜 미디어 중독 소송에서 자회사인 유튜브와 관련하여 800만 달러를 지불하기로 합의했습니다. (출처: [EconoTimes](https://www.econotimes.com/Kentucky-School-District-Secures-27-Million-in-Social-Media-Addiction-Lawsuit-Settlements-1743060), 2026-05-30)
+
+
+## 목표주가 히스토리
+| 날짜 | 출처 | 투자의견 | 목표주가 | 근거 | 비고 |
+|---|---|---|---|---|---|
+| 2022-12-19 | 글로벌 애널리스트 44명 컨센서스 | - | $127.80 | [뉴욕증시 리포트](http://www.dt.co.kr/contents.html?article_no=2022122002101563060001&ref=naver) | 당시 주가(90달러) 대비 평균 목표가. |
+| 2025-10-31 | Evercore ISI | 아웃퍼폼 | $325 | [edaily.co.kr](http://www.edaily.co.kr/news/newspath.asp?newsid=01797446642361456) | AI 기반 분기 매출 1000억 달러 돌파. |
+| 2025-11-25 | 리서치센터 | BUY | - | [etoday.co.kr](https://www.etoday.co.kr/news/view/2529467) | AI S/W, H/W 역량 개선. |
