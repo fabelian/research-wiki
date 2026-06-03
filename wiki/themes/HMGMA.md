@@ -1,0 +1,23 @@
+---
+type: theme
+name: HMGMA
+created: 2026-06-03
+updated: 2026-06-03
+---
+# [[HMGMA]]
+
+## 정의
+- 현대차그룹 메타플랜트 아메리카(Hyundai Motor Group Metaplant America). 미국 조지아주에 위치한 현대차그룹의 전기차 및 전동화 모델 생산 거점. 미국 인플레이션 감축법(IRA)에 대응하는 핵심 전략 자산이다. (2026-06-03)
+
+## 수혜·피해 종목
+- [[현대차]]
+- [[기아]]
+
+## 관련 동향
+- **생산 차종 확대**: 2023년 가동 이후 [[현대차]]의 전기차([[아이오닉 5]], [[아이오닉 9]])를 생산해왔다. (2026-06-03, [[기아, 美 HMGMA서 스포티지 생산 개시... 현지 생산으로 관세 돌파]])
+- **첫 하이브리드 및 기아 모델 생산**: 2026년 6월 2일, [[기아]]의 스포티지 하이브리드 생산을 시작했다. 이는 HMGMA에서 생산되는 첫 기아 모델이자 첫 하이브리드 차량이다. ([[기아, 미국 현대차그룹 공장서 스포티지 하이브리드 생산]])
+
+## 관련 리서치 링크
+- https://www.chosun.com/economy/auto/2026/06/03/IBWB3RSJ65H5DIWPICGTPUJMFQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+- https://www.nocutnews.co.kr/news/6527073?utm_source=naver&utm_medium=article&utm_campaign=20260603021731
+- http://www.inews24.com/view/1973557
