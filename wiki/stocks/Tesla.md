@@ -43,3 +43,8 @@ updated: 2026-06-03
 ## 기타 연관 정보
 
 - **SpaceX IPO 가능성**: CEO 일론 머스크가 이끄는 SpaceX의 IPO 관련 언론 보도가 있었음. Tesla와 직접적인 사업 연관성은 낮지만, CEO의 개인 유동성 및 경영 집중도에 영향을 줄 수 있는 변수임. (출처: AP 연합뉴스, 2026-06-03)
+
+
+## 최근 이벤트
+
+- **[[SpaceX]] IPO 관련 보도 (2026-06-03)**: Elon Musk가 이끄는 [[SpaceX]]의 IPO 가능성이 보도되었습니다. IPO가 현실화될 경우 Tesla와의 시너지 또는 리스크에 대한 시장의 관심이 높아질 수 있습니다. (출처: [SpaceX IPO](https://n.news.naver.com/mnews/article/077/0007032629?sid=104), 2026-06-03)
