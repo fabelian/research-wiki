@@ -33,3 +33,27 @@ updated: 2025-07-06
 - **소송 리스크:** 2021년 12월, 블루오리진과의 연방 증권 사기 혐의로 집단소송에 휘말림. (출처: [더구루](https://www.theguru.co.kr/news/article.html?no=29728))
 
 ## 관련 출처 링크
+
+
+---
+type: stock
+ticker: RDW
+name: Redwire
+sector: [[우주항공]]
+created: 2026-05-28
+updated: 2026-05-28
+---
+# Redwire (RDW)
+
+미국의 우주 인프라 전문 기업.
+
+## 핵심 투자포인트
+*   **우주 내 제조/실험**: 국제우주정거장(ISS)에서 단백질 결정 배양 실험을 진행하며 우주 제약 플랫폼을 구축하고 있으며, 첨단 소재 분야 사업도 영위한다. (출처: [newsian.co.kr](http://www.newsian.co.kr/news/articleView.html?idxno=87174))
+
+## 최근 이벤트
+*   **주가 급등 (2026-05-27)**: [[SpaceX]]의 IPO 추진 소식에 따른 우주 산업 전반에 대한 관심이 증폭되면서 주가가 26% 급등했다. 6개월간 주가 상승률은 310%에 달한다. (출처: [theguru.co.kr](https://www.theguru.co.kr/news/article.html?no=102276), [00news.co.kr](http://www.00news.co.kr/news/articleView.html?idxno=104068))
+
+## 관련 출처 링크
+*   [[지구 밖 공장 시대②] 무중력 공장·진공 반도체…우주에서 만드는 '초...](http://www.newsian.co.kr/news/articleView.html?idxno=87174)
+*   ['스페이스X IPO'에 낙관론 확대…우주산업 관심 '증폭'](https://www.theguru.co.kr/news/article.html?no=102276)
+*   [[김현철의 美증시] 유가 변동성 속 솟구치는 우주 테마주](http://www.00news.co.kr/news/articleView.html?idxno=104068)
