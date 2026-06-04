@@ -17,6 +17,7 @@
 | [[Intuitive Machines]] | LUNR | [[우주항공]] | 2026-04-15 |
 | [[Intuitive Machines]] | LUNR | [[우주항공]] | 2026-04-15 |
 | [[Rocket Lab]] | RKLB | [[우주항공]] | 2026-04-09 |
+| [[SK하이닉스]] | 000660 | [[반도체]] | 2026-06-04 |
 
 ## 섹터 (wiki/sectors/)
 | 섹터 | 주요 종목 | 최근 업데이트 |
