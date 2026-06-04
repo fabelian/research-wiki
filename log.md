@@ -48,3 +48,15 @@
 
 
 2026-04-17: Rocket Lab(RKLB) 종목 및 '우주항공' 섹터, '미국우주항공 지수' 테마 편입. (근거: 다수결)
+
+
+---
+
+### 2026-04-30: Broadcom 및 Custom AI Chip 테마 추가
+
+- **요약**: 다수 뉴스를 바탕으로 [[Broadcom]]이 [[메타]], [[alphabet|Google]] 등 빅테크들의 커스텀 AI 칩(ASIC) 개발에 핵심 파트너로 참여하고 있음을 확인. 이를 반영하여 `wiki/stocks/Broadcom.md` 종목 페이지와 `wiki/themes/Custom_AI_Chip.md` 테마 페이지를 신규 생성.
+- **영향받는 페이지**:
+  - `wiki/stocks/Broadcom.md` (신규)
+  - `wiki/themes/Custom_AI_Chip.md` (신규)
+  - `index.md` (업데이트)
+- **근거**: https://www.ddaily.co.kr/page/view/2026041509184224150, https://www.ddaily.co.kr/page/view/2026042009191186298 등
