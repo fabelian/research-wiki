@@ -85,3 +85,6 @@
 - 설계/계획 문서: `docs/superpowers/specs/2026-06-06-macro-indicators-design.md`, `docs/superpowers/plans/2026-06-06-macro-indicators.md`
 
 2026-06-04 | 삼성전자·반도체 | FAST 간담회·TV 1위·초기업노조 과반 상실·외인 매도 집중 | appends (삼성전자·반도체·index)
+
+
+2026-06-05 | MACRO | 미국금리 | 스냅샷 추가(6/4~6/5), 최근이벤트(중동휴전·고용쇼크→30년5%) | 서울파이낸셜·연합인포맥스·뉴스핌·연합뉴스·아주경제·이데일리
