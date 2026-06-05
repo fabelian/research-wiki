@@ -31,3 +31,8 @@
 
 ## 한국 내 투자 동향 (2026-06-05)
 *   **[[미래에셋증권]] 청약 흥행**: 6월 5일 개시된 전문투자자 대상 [[SpaceX]] 1차 공모주 청약 물량이 개시 1분만에 완판되며 높은 투자 관심을 입증. 2차 청약은 8일 진행될 예정. ([출처](https://www.yna.co.kr/view/AKR20260605072000008?input=1195m), [출처](https://www.ytn.co.kr/_ln/0102_202606051201363575))
+
+
+## 한국 내 투자 동향 (2026-06-05)
+*   **[[미래에셋증권]] 청약 흥행**: 6월 5일 개시된 전문투자자 대상 [[SpaceX]] 1차 공모주 청약 물량이 개시 1분도 되지 않아 완판되며 높은 투자 관심을 입증했습니다. 2차 청약은 8일 진행될 예정입니다. ([출처](https://www.ddaily.co.kr/page/view/2026060515520839337), [출처](https://www.yna.co.kr/view/AKR20260605072051008?input=1195m))
+*   **금융당국 점검 착수**: 청약 열기가 과열되자 금융감독원은 투자자 보호 규정 준수 여부를 확인하기 위해 미래에셋증권을 대상으로 현장 점검에 착수했습니다. ([출처](https://news.einfomax.co.kr/news/articleView.html?idxno=4418514), [출처](https://biz.chosun.com/stock/stock_general/2026/06/05/YE2CZRBLYZDKVK4P5NKBRTNPIY/?utm_source=naver&utm_medium=original&utm_campaign=biz))
