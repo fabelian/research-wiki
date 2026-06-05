@@ -48,3 +48,9 @@
 ## 미래에셋증권 SpaceX 투자 및 청약 주관
 *   [[미래에셋증권]]은 2022~2023년 스페이스X에 총 2억7,800만달러(약 4,000억원)를 투자해 지분을 보유하고 있으며, 2026년 6월 [[SpaceX]] 상장 시 지분가치 증가가 기대됨. ([출처](https://www.wolyo.co.kr/news/articleView.html?idxno=313181))
 *   [[미래에셋증권]]은 6월 5일 전문투자자 대상 스페이스X 공모주 1차 청약(3억 달러)을 단독 주관하여 1분 만에 완판. 2차 청약(2억 달러)은 6월 8일 예정. ([출처](https://www.mk.co.kr/article/12067071))
+
+
+## 한국 내 투자 동향 (2026-06-05)
+* **[[미래에셋증권]] 청약 완판**: [[미래에셋증권]]이 6월 5일 개시한 전문투자자 대상 [[SpaceX]] 1차 공모주 청약(3억 달러 규모)이 개시 직후 완판됨. ([출처](https://www.seoul.co.kr/news/economy/2026/06/05/20260605500095?wlog_tag3=naver), [출처](https://www.joongangenews.com/news/articleView.html?idxno=523951), [출처](https://www.etoday.co.kr/news/view/2590856), [출처](http://www.ftoday.co.kr/news/articleView.html?idxno=360007))
+* **최소 청약 단위**: 최소 청약금액이 10만 달러(약 1억 3천만 원)로 전문투자자만 참여 가능. ([출처](http://www.ftoday.co.kr/news/articleView.html?idxno=360001))
+* **2차 청약**: 2억 달러 규모의 2차 청약은 6월 8일 진행 예정. ([출처](https://www.newsis.com/view/NISX20260605_0003657825))
