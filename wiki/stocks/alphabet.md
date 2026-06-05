@@ -37,3 +37,8 @@ updated: 2026-05-27
 | 2022-12-19 | 글로벌 애널리스트 44명 컨센서스 | - | $127.80 | [뉴욕증시 리포트](http://www.dt.co.kr/contents.html?article_no=2022122002101563060001&ref=naver) | 당시 주가(90달러) 대비 평균 목표가. |
 | 2025-10-31 | Evercore ISI | 아웃퍼폼 | $325 | [edaily.co.kr](http://www.edaily.co.kr/news/newspath.asp?newsid=01797446642361456) | AI 기반 분기 매출 1000억 달러 돌파. |
 | 2025-11-25 | 리서치센터 | BUY | - | [etoday.co.kr](https://www.etoday.co.kr/news/view/2529467) | AI S/W, H/W 역량 개선. |
+
+
+## 최근 동향 (2026-06-05)
+- **AI 설비투자 경쟁 심화**: [[Alphabet]], Microsoft, Amazon, Meta 등 미국 4대 빅테크가 AI 패권 확보를 위해 대규모 설비투자를 집행하고 있으며, 4개사의 연간 총 투자액은 7250억 달러에 달할 것으로 전망됩니다. (출처: [junggi.co.kr](https://www.junggi.co.kr/news/articleView.html?idxno=36657), 2026-06-05).
+- **투자 재원 마련**: 상기 투자 재원 마련을 위해 주식과 채권을 발행하고 있는 것으로 보도되었습니다. (출처: [tokenpost.kr](https://www.tokenpost.kr/news/international/366407), 2026-06-05).
