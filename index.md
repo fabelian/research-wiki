@@ -306,3 +306,10 @@
 | [[한국CDS]] | 23 bp (6/3 기준, 보도기반) | 2026-06-05 |
 
 - **VKOSPI(한국형 공포지수)**: 73.41~75선으로 고공행진 지속 (2026-06-04~05·보도기반)
+
+
+## 2026-06-06 업데이트
+
+### 거시 — 한국CDS 스냅샷 갱신
+- **한국CDS**: 22bp(2026-06-01~05) — 경상수지 대규모 흑자 속 안정적 유지 확인. 6월 1일 토큰포스트·6월3일 키움증권·6월5일 이투데이·서울파이낸셜 등 다수 출처 동일 수준. (출처: https://www.tokenpost.kr/news/international/364932 , https://www.newsfreezone.co.kr/news/articleView.html?idxno=692957 , https://www.etoday.co.kr/news/view/2590899 , https://www.seoulfn.com/news/articleView.html?idxno=630455)
+- **대외 평가**: 국제신용평가사, 국가신용등급 전망 '안정적' 유지. 이재명 정부 1년 성과로 대외신인도 관리 긍정 평가. (https://www.seoul.co.kr/news/editOpinion/opinion/contribution/2026/06/05/20260605025003)

@@ -19,6 +19,11 @@ updated: 2026-06-06
 | 2026-06-01 | 22 (약보합) | https://www.tokenpost.kr/news/international/364932 |
 | 2026-06-03 | 22 (안정적) | https://www.newsfreezone.co.kr/news/articleView.html?idxno=692957 |
 | 2026-06-05 | 22 (안정적) | https://www.etoday.co.kr/news/view/2590899 , https://www.seoulfn.com/news/articleView.html?idxno=630455 |
+| 2026-06-01 | 22 | https://www.tokenpost.kr/news/international/364932 |
+| 2026-06-02 | 22 (추정, 경상수지 흑자 언급) | http://www.iminju.net/news/articleView.html?idxno=164673 |
+| 2026-06-03 | 22 | https://www.newsfreezone.co.kr/news/articleView.html?idxno=692957 |
+| 2026-06-05 | 22 (추정, 경상수지 흑자와 함께 안정적 언급) | https://www.etoday.co.kr/news/view/2590899 |
+| 2026-06-05 | 22 (추정, 금융위 수준 근접 환율 속 안정적 언급) | https://www.seoulfn.com/news/articleView.html?idxno=630455 |
 
 ## 셀사이드 전망
 | 증권사 | 날짜 | 전망레벨 | 기간 | 출처 |
@@ -55,3 +60,17 @@ updated: 2026-06-06
 
 
 | 22 bp (2026-06-05) | 22 bp | https://www.etoday.co.kr/news/view/2590899 , https://www.seoulfn.com/news/articleView.html?idxno=630455 |
+
+
+## 최근 이슈
+- 2026-05-30: 국채 안전자산 논의 — 과거 S&P·피치의 미국 신용등급 강등 사례 환기. 국가 부도 위기 시 국채도 안전하지 않을 수 있다는 경과적 사례. (http://www.enewstoday.co.kr/news/articleView.html?idxno=2434418)
+- 2026-06-01: 한국 CDS 22bp — 이란 핵협상 등 국제 정세 속 약보합. (https://www.tokenpost.kr/news/international/364932)
+- 2026-06-02~05: CDS 22bp 안정적 유지 — 경상수지 대규모 흑자(1분기 737.8억달러, 4월 282.9억달러)와 함께 '1500원대 환율 뉴노멀'이지만 대외건전성 우려는 제한적이라는 셀사이드 전망 다수 확인.
+- 2026-06-04: 이재명 정부 1년 성과 관련 기고 — 국제신용평가사가 국가신용등급 전망을 '안정적'으로 유지한 점이 대외신인도 관리 성과로 평가. (https://www.seoul.co.kr/news/editOpinion/opinion/contribution/2026/06/05/20260605025003)
+
+
+## 셀사이드 전망
+| 증권사 | 날짜 | 전망레벨 | 기간 | 출처 |
+|--------|------|----------|------|------|
+| 키움증권 | 2026-06-03 | CDS 22bp 안정적 유지, 경상수지 흑자에 기반한 대외건전성 우호적 — 원화 약세는 외국인 수급이 좌우 | 단기 | https://www.newsfreezone.co.kr/news/articleView.html?idxno=692957 |
+| 박상현 수석이코노미스트(하나증권) | 2026-06-05 | 경상수지 흑자 확대와 안정적 CDS 감안 시 현재 환율 과도 — CDS 낮은 레벨 유지 전망 | 단기 | https://www.etoday.co.kr/news/view/2590899 |
