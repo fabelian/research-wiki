@@ -29,3 +29,10 @@ updated: 2026-06-06
 ## 관련 출처 링크
 - https://www.worldgovernmentbonds.com/cds-historical-data/south-korea/5-years/
 - https://www.investing.com/rates-bonds/south-korea-cds-5-year-usd
+
+
+## 최근 이벤트
+
+### 2026-06-03: 한국 CDS 프리미엄 23bp 강보합
+- 2026-06-03 기준 한국 CDS 프리미엄(5년물)은 **23bp**로 강보합을 나타냄. VIX 16.06 동반 상승, 중동 리스크 영향.
+- 출처: 토큰포스트 (2026-06-04·보도기반)
