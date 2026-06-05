@@ -54,3 +54,12 @@
 * **[[미래에셋증권]] 청약 완판**: [[미래에셋증권]]이 6월 5일 개시한 전문투자자 대상 [[SpaceX]] 1차 공모주 청약(3억 달러 규모)이 개시 직후 완판됨. ([출처](https://www.seoul.co.kr/news/economy/2026/06/05/20260605500095?wlog_tag3=naver), [출처](https://www.joongangenews.com/news/articleView.html?idxno=523951), [출처](https://www.etoday.co.kr/news/view/2590856), [출처](http://www.ftoday.co.kr/news/articleView.html?idxno=360007))
 * **최소 청약 단위**: 최소 청약금액이 10만 달러(약 1억 3천만 원)로 전문투자자만 참여 가능. ([출처](http://www.ftoday.co.kr/news/articleView.html?idxno=360001))
 * **2차 청약**: 2억 달러 규모의 2차 청약은 6월 8일 진행 예정. ([출처](https://www.newsis.com/view/NISX20260605_0003657825))
+
+
+## 국내 청약 및 투자 동향 (2026-06-05)
+*   **[[미래에셋증권]] 청약 흥행**: 6월 5일 개시된 전문투자자 대상 1차 청약(3억 달러)이 개시 1분 만에 완판. 2차 청약(2억 달러)은 6월 8일 예정. 국내 일반 투자자는 참여 불가(한미 동시공모 무산). ([출처](https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606051051438040197), [출처](https://theviewers.co.kr/View.aspx?No=4101290))
+*   **금융감독원 현장 점검**: 청약 과열로 인해 금감원이 미래에셋증권의 전문투자자 제도 운영 실태를 점검 중. ([출처](https://theviewers.co.kr/View.aspx?No=4101290))
+
+
+## IPO 관련 애널리스트 분석 (2026-06-05)
+*   **[[미래에셋증권]] 서상영 연구원**: 브로드컴·시에나 실적 발표 후 급락은 AI 업황 둔화보다 실적과 기대치 간 괴리 때문으로 판단. ([출처](https://biz.heraldcorp.com/article/10764047?ref=naver))
