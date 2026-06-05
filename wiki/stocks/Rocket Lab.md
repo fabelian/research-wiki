@@ -49,3 +49,8 @@ updated: 2026-04-17
 
 ## 최근 동향 (2026-06-05)
 - **핵심 편입 ETF 흥행**: 로켓랩을 핵심 비중으로 편입한 'TIGER 미국우주테크 ETF'가 상장 50일 만에 순자산 2조 원을 돌파하며, 순수 우주 기술 기업에 대한 시장의 높은 관심과 자금 유입을 증명했습니다. (출처: [insightkorea.co.kr](https://www.insightkorea.co.kr/news/articleView.html?idxno=247694))
+
+
+## 최근 동향 (2026-06-05)
+- **'뉴스페이스' 혁신 기업으로 주목**: 다수의 우주항공 ETF가 전통적인 방산·항공기 제조사 대신 [[Rocket Lab]]과 같은 민간 '뉴스페이스' 혁신 기업의 비중을 높이는 전략을 취하고 있음이 확인되었습니다. (출처: [womaneconomy.co.kr](https://www.womaneconomy.co.kr/news/articleView.html?idxno=254757))
+- **글로벌 경쟁 우위 부각**: 일본의 주요 로켓 개발 기업(IHI 에어로스페이스)이 기술 문제로 난항을 겪는 등, 글로벌 소형 위성 발사 시장이 [[Rocket Lab]]과 같은 소수의 혁신 기업 중심의 격전지가 되고 있음이 재확인되었습니다. (출처: [g-enews.com](https://www.g-enews.com/view.php?ud=202606051629075686e7e8286d56_1))
