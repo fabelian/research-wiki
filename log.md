@@ -83,3 +83,5 @@
 - `CLAUDE.md` 스키마 갱신(3계층·macro 페이지 타입·INGEST 6단계 거시 스냅샷), `index.md` 거시 섹션 추가
 - [[삼성전자]]·[[SK하이닉스]]·[[반도체]]에 거시 양방향 링크 추가
 - 설계/계획 문서: `docs/superpowers/specs/2026-06-06-macro-indicators-design.md`, `docs/superpowers/plans/2026-06-06-macro-indicators.md`
+
+2026-06-04 | 삼성전자·반도체 | FAST 간담회·TV 1위·초기업노조 과반 상실·외인 매도 집중 | appends (삼성전자·반도체·index)
