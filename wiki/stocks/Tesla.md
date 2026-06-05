@@ -1,11 +1,13 @@
-```
+---
 type: stock
 ticker: TSLA
 name: Tesla
-sector: [[자동차]], [[2차전지]]
+sector:
+  - "[[자동차]]"
+  - "[[2차전지]]"
 created: 2026-06-03
 updated: 2026-06-03
-```
+---
 
 ## 투자의견 컨센서스 추이
 
