@@ -45,3 +45,7 @@ updated: 2026-04-17
 
 ## 투자 유의사항 (국내 투자자)
 - **지주사 전환에 따른 양도소득세 부과 이슈**: 2025년 지주사 전환 과정에서 발생한 주식 자동 교환에 대해, 국내 개인 투자자(서학개미)에게 현금 유입 없이 양도소득세가 부과되는 사례가 있었습니다. 이는 해외주식 투자에 대한 과세이연 제도가 미비하여 발생한 문제로, 향후 유사한 기업 구조 개편 시 국내 투자자에게 세금 관련 불확실성으로 작용할 수 있습니다. (출처: [edaily.co.kr](https://www.edaily.co.kr/news/newspath.asp?newsid=04513286645452856), [joseilbo.com](http://www.joseilbo.com/news/news_read.php?uid=568947&class=10&grp=))
+
+
+## 최근 동향 (2026-06-05)
+- **핵심 편입 ETF 흥행**: 로켓랩을 핵심 비중으로 편입한 'TIGER 미국우주테크 ETF'가 상장 50일 만에 순자산 2조 원을 돌파하며, 순수 우주 기술 기업에 대한 시장의 높은 관심과 자금 유입을 증명했습니다. (출처: [insightkorea.co.kr](https://www.insightkorea.co.kr/news/articleView.html?idxno=247694))
