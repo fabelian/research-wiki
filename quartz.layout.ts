@@ -43,6 +43,12 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.RecentNotes({
+      title: "최근 갱신",
+      limit: 10,
+      showTags: false,
+      filter: (f) => f.slug !== "index" && !f.slug?.startsWith("tags/"),
+    }),
     Component.Backlinks(),
   ],
 }
@@ -64,5 +70,12 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: [
+    Component.RecentNotes({
+      title: "최근 갱신",
+      limit: 10,
+      showTags: false,
+      filter: (f) => f.slug !== "index" && !f.slug?.startsWith("tags/"),
+    }),
+  ],
 }
