@@ -1,0 +1,53 @@
+name: Compact wiki (주 2회 정제)
+
+on:
+  schedule:
+    # 매주 월·목 18:00 UTC (KST 03:00)
+    - cron: "0 18 * * 1,4"
+  workflow_dispatch:
+    inputs:
+      threshold:
+        description: "압축 임계 줄수"
+        required: false
+        default: "150"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: compact
+  cancel-in-progress: false
+
+jobs:
+  compact:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install -r tools/requirements.txt
+      - name: Compact bloated pages
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          COMPACT_THRESHOLD: ${{ github.event.inputs.threshold || '150' }}
+        run: python tools/compact.py
+      - name: Commit & push if changed
+        run: |
+          if [ -z "$(git status --porcelain wiki/)" ]; then
+            echo "변경 없음 — 커밋 생략"; exit 0
+          fi
+          git config user.name "compact-bot"
+          git config user.email "compact-bot@users.noreply.github.com"
+          git add wiki/
+          git commit -m "compact: 주기 위키 정제 (중복 병합·표준형태, raw 불변)"
+          # 봇 푸시와의 레이스 대비: 최신 main 위로 리베이스 후 푸시
+          for i in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main && git push origin HEAD:main && break || {
+              echo "재시도 $i"; git rebase --abort 2>/dev/null || true; sleep 5;
+            }
+          done
