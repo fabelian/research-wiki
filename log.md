@@ -84,6 +84,13 @@
 - [[삼성전자]]·[[SK하이닉스]]·[[반도체]]에 거시 양방향 링크 추가
 - 설계/계획 문서: `docs/superpowers/specs/2026-06-06-macro-indicators-design.md`, `docs/superpowers/plans/2026-06-06-macro-indicators.md`
 
+## 2026-06-06 | INGEST(SNS 시범) | 헨리의 퀀트대학 (네이버 블로그)
+- **신규 소스 채널 `raw/social/` 첫 사용** — 원본 캡처: `raw/social/2026-06-06_네이버블로그_헨리의퀀트대학.md` (RSS 최근 15건 + 06-06 글 2건 takeaway)
+- 소스: [[헨리의 퀀트대학]] (blog.naver.com/leebisu, RSS) — 🐦SNS·독립 논객(비증권사)
+- 반영: [[반도체]]에 🐦SNS 섹션 추가(EWY↔SOX 동조·VKOSPI 70·AI 쏠림 70% 논지), `updated` 갱신. [[헨리의 퀀트대학]] 경량 소스 페이지 신설(애널리스트 타입을 비증권사 논객으로 확장한 첫 사례)
+- 라벨 규칙: 셀사이드 리포트와 구분(🐦SNS), 미확인 논평은 ⚠️, 원문은 raw 보존
+- 시범 결론: 네이버 블로그는 RSS로 수집 가능. 단 naver 도메인 직접 fetch 불가 → allorigins/jina 프록시 경유 필요(봇 연동 시 고려)
+
 2026-06-04 | 삼성전자·반도체 | FAST 간담회·TV 1위·초기업노조 과반 상실·외인 매도 집중 | appends (삼성전자·반도체·index)
 
 
