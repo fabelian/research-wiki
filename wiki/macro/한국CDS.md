@@ -24,6 +24,7 @@ updated: 2026-06-06
 | 2026-06-03 | 22 | https://www.newsfreezone.co.kr/news/articleView.html?idxno=692957 |
 | 2026-06-05 | 22 (추정, 경상수지 흑자와 함께 안정적 언급) | https://www.etoday.co.kr/news/view/2590899 |
 | 2026-06-05 | 22 (추정, 금융위 수준 근접 환율 속 안정적 언급) | https://www.seoulfn.com/news/articleView.html?idxno=630455 |
+| 2026-06-05~06 | 22bp | VIX 40% 폭등·원달러환율 1,560원 돌파에도 CDS 22bp로 안정 유지 (hankyung, newstomato 종합)
 
 ## 셀사이드 전망
 | 증권사 | 날짜 | 전망레벨 | 기간 | 출처 |
