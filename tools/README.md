@@ -38,5 +38,5 @@ python tools/yt_ingest.py "https://www.youtube.com/watch?v=VIDEOID"
 
 ### 메모
 - 자막은 **자동 생성 자막**이 많아 오타·오인식이 있을 수 있음 → 정제 시 `⚠️미확인` 처리.
-- `raw/social/`은 Quartz `ignorePatterns`로 **사이트 퍼블리시에서 제외**(자막이 길어 bloat 방지). git에는 보존되어 봇이 읽는다.
+- `raw/social/`도 사이트에 퍼블리시되어 탐색기(raw → social)에서 열람 가능. 위키에서 참조 시 위키링크(`[[raw/social/파일|캡처]]`)로 걸면 클릭 이동된다.
 - 네트워크가 막힌 클라우드 IP에서는 YouTube가 자막 요청을 차단할 수 있음 → 가급적 로컬/봇 환경에서 실행.
