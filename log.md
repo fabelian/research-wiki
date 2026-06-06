@@ -101,3 +101,10 @@
 
 
 2026-06-06 | update | 원달러환율 | 1,560원 돌파(금융위기 이후 최고) 반영 — 스냅샷 히스토리 행 추가, 최근 이벤트 상세, 셀사이드 전망 추가. INDEX 갱신. 출처: fnnews·SBS·beyondpost·topstarnews·newsis·hankyung·slist·daejonilbo·getnews·khan·sedaily·the-biz·heraldcorp |
+
+
+2026-06-06: VIX 급등 이벤트 갱신 (VIX.md·한국CDS.md·공포탐욕지수.md·index.md)
+- VIX 21.35~21.51(+38~40%), 심리적 저항선 20 돌파, 6주 최고치
+- 원인: 5월 비농업 고용 서프라이즈(17.2만명) + 반도체 투매(브로드컴 쇼크 연장)
+- 한국CDS 22bp 안정 유지 확인, VKOSPI 70대 7일 연속
+- 출처: fnnews·조세일보·서울신문·전남일보·KBS·라디오코리아·글로벌이코노믹
