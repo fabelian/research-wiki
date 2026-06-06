@@ -136,16 +136,20 @@ def main():
     client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=api_key)
 
     tot_b = tot_a = 0
-    done = 0
+    done = errors = 0
     for p in targets:
         try:
             r = compact_one(client, p)
             if r:
                 tot_b += r[0]; tot_a += r[1]; done += 1
         except Exception as e:
+            errors += 1
             print(f"[ERR]  {p}: {type(e).__name__}: {str(e)[:200]}")
     if done:
         print(f"=== {done}개 압축: {tot_b} → {tot_a}줄 ({100*(tot_b-tot_a)//max(tot_b,1)}% 감축) ===")
+    # 에러가 있으면 CI가 빨간색(실패)으로 보이도록 비정상 종료(키/모델 오설정 가시화)
+    if errors:
+        sys.exit(f"[FAIL] {errors}개 페이지 처리 실패 — 위 오류 확인(API 키/모델 슬러그 등)")
 
 
 if __name__ == "__main__":
