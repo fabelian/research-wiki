@@ -35,14 +35,16 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           COMPACT_THRESHOLD: ${{ github.event.inputs.threshold || '150' }}
         run: python tools/compact.py
+      - name: Rebuild index (최신순 정렬)
+        run: python tools/build_index.py
       - name: Commit & push if changed
         run: |
-          if [ -z "$(git status --porcelain wiki/)" ]; then
+          if [ -z "$(git status --porcelain wiki/ index.md)" ]; then
             echo "변경 없음 — 커밋 생략"; exit 0
           fi
           git config user.name "compact-bot"
           git config user.email "compact-bot@users.noreply.github.com"
-          git add wiki/
+          git add wiki/ index.md
           git commit -m "compact: 주기 위키 정제 (중복 병합·표준형태, raw 불변)"
           # 봇 푸시와의 레이스 대비: 최신 main 위로 리베이스 후 푸시
           for i in 1 2 3; do
