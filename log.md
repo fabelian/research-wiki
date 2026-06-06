@@ -97,6 +97,12 @@
 - 반영: [[반도체]] 🐦SNS 섹션에 1줄(쏠림 경계·밸류 규율·리레이팅 반도체 밖 확산 관점) 추가
 - **한계 확인**: 유튜브 채널 RSS는 제목·설명까지만 자동 수집. 영상 자막/대본은 현재 도구로 추출 불가(youtubetranscript 403, 프록시도 자막 미반환) → 깊은 takeaway엔 별도 트랜스크립트 파이프라인 필요. 시황 채널은 RSS 설명만으론 신호가 얕고 기존 본문과 중복 많음.
 
+## 2026-06-06 | TOOL | 유튜브 자막 파이프라인 구축 + 삼프로TV ingest
+- `tools/yt_ingest.py` 신설: 채널/영상 자막 → `raw/social/` 캡처 (youtube-transcript-api). `tools/README.md`·`requirements.txt` 동반. `raw/social/`는 Quartz 퍼블리시 제외(ignorePatterns), .venv gitignore.
+- 검증: [[증시각도기TV]] 3건 + [[삼프로TV]] 3건 모두 한국어 자막 추출 성공(영상당 1.2만~3만 자).
+- 삼프로TV ingest: 원본 `raw/social/2026-06-06_유튜브_삼프로TV3PROTV.md`. [[삼프로TV]] 소스 페이지 신설. [[메모리슈퍼사이클]]에 🐦SNS 반영("공급 부족 착시·매도 타이밍" 신중론 프레임, 클라우디아 삼 FOMC 인터뷰→[[미국금리]]).
+- 비고: 자막은 자동생성→⚠️미확인 처리. 깊은 정제는 봇이 raw에서 수행.
+
 2026-06-04 | 삼성전자·반도체 | FAST 간담회·TV 1위·초기업노조 과반 상실·외인 매도 집중 | appends (삼성전자·반도체·index)
 
 
