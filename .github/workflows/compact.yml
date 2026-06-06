@@ -32,7 +32,7 @@ jobs:
         run: pip install -r tools/requirements.txt
       - name: Compact bloated pages
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           COMPACT_THRESHOLD: ${{ github.event.inputs.threshold || '150' }}
         run: python tools/compact.py
       - name: Commit & push if changed
