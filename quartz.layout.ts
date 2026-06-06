@@ -45,7 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.RecentNotes({
       title: "최근 갱신",
-      limit: 10,
+      limit: 15,
       showTags: false,
       filter: (f) => f.slug !== "index" && !f.slug?.startsWith("tags/"),
     }),
@@ -73,7 +73,7 @@ export const defaultListPageLayout: PageLayout = {
   right: [
     Component.RecentNotes({
       title: "최근 갱신",
-      limit: 10,
+      limit: 15,
       showTags: false,
       filter: (f) => f.slug !== "index" && !f.slug?.startsWith("tags/"),
     }),
