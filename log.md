@@ -98,3 +98,6 @@
 
 
 2026-06-05: VIX 매크로페이지 갱신 — 6/3 16.06~16.09, 6/4 15.40 스냅샷 추가, 중동 리스크/브로드컴 영향 최근 이벤트 반영. 공포탐욕지수에 암호화폐 극단공포(19) 이벤트 추가. 한국CDS 23bp 보도기반 기입. index.md 거시 테이블 갱신. 출처: 파이낸셜뉴스·뉴스핌·연합인포맥스·뉴스웍스·이코노원·머니투데이·토큰포스트 등 24건.
+
+
+2026-06-06 | update | 원달러환율 | 1,560원 돌파(금융위기 이후 최고) 반영 — 스냅샷 히스토리 행 추가, 최근 이벤트 상세, 셀사이드 전망 추가. INDEX 갱신. 출처: fnnews·SBS·beyondpost·topstarnews·newsis·hankyung·slist·daejonilbo·getnews·khan·sedaily·the-biz·heraldcorp |
