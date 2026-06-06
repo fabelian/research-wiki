@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "ko-KR",
     baseUrl: "fabelian.github.io/research-wiki",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "raw/social"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
