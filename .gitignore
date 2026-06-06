@@ -7,6 +7,10 @@
 # JetBrains IDE 로컬 설정
 .idea/
 
+# Python 가상환경 (tools/ 스크립트용)
+.venv/
+__pycache__/
+
 # Quartz (정적 사이트 생성기)
 node_modules/
 public/
