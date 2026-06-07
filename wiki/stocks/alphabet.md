@@ -71,3 +71,9 @@ updated: 2026-05-27
 - **AI 패권 경쟁 구도**: Alphabet은 자체 TPU 칩, 대용량 데이터, 클라우드 인프라를 모두 수직 계열화한 풀스택 AI 패권자로 평가. Gemini Enterprise 수요 폭증이 CAPEX 확대의 배경. (출처: [dsi_tech](https://blog.naver.com/dsi_tech/224308375640))
 - **의무전환우선주 구조**: Alphabet이 발행한 의무전환우선주(Mandatory Convertible Preferred)는 만기에 반드시 보통주로 전환되는 구조로, 기존 주주 희석 부담을 분산하는 방식. (출처: [quietnurse_](https://blog.naver.com/quietnurse_/224308436105))
 - **AI 반도체 슈퍼사이클 맥락**: Alphabet·Meta 등 빅테크의 CAPEX 축소 신호는 전혀 없으며, AI 투자는 지속 확대 중. 과거 닷컴버블과 달리 AI는 실제 수익(광고·클라우드·기업용 AI)으로 연결된다는 분석. (출처: [velloss](https://blog.naver.com/velloss/224308465450), [dsi_tech](https://blog.naver.com/dsi_tech/224308375640))
+
+
+## 🐦 SNS·블로그 인사이트 (2026-06-06)
+
+- **알파벳 $85B 유상증자 상세**: Alphabet이 AI 인프라 확장을 위해 약 800억 달러(한화 약 120조 원) 규모의 유상증자를 실시. 버크셔 해서웨이의 100억 달러 투자 참여 포함. 이는 2026-06-02 발표된 $80B 자금 조달 계획의 구체적 실행으로 글로벌 AI 인프라 투자 경쟁을 가속화하는 신호로 해석. (출처: [witch42](https://blog.naver.com/witch42/224308732777), 2026-06-06)
+- **밸류에이션 부담 낮음**: 미국 메가테크(M7) 기업들 중 Alphabet의 선행 PER은 20배 안팎으로 형성되어 있어 밸류에이션 측면에서 가장 부담 없는 가격대. 플랫폼과 AI의 결합 강점이 충분히 반영되지 않았다는 평가. (출처: [mappy1000](https://blog.naver.com/mappy1000/224308747440), 2026-06-06)
