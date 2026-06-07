@@ -372,3 +372,56 @@ updated: 2026-06-03
 
 
 | 2026-06-05 | (시장) | — | 주가 $391 급락(-6.56%), 기술주 전반 매도 속 하락 (출처: [[raw/social/2026-06-06_네이버블로그_chobosin|네이버블로그]]) |
+
+
+## 최근 이벤트 (2026-06-07)
+
+- **LG에너지솔루션과 $4.3B 배터리 공급 계약 체결**: Tesla가 LG에너지솔루션과 $43억 규모의 배터리 공급 계약을 체결, 기존 미시간 공장 일부 라인을 Tesla 전용으로 전환. 이는 Tesla Megapack 3(LFP 각형 배터리) 및 차량용 배터리 수요 대응 목적. (출처: [[raw/social/2026-06-07_네이버블로그_clw2222|네이버블로그(clw2222)]], 2026-06-07)
+- **Tesla-CATL 네바다 협력 보도**: CATL이 Tesla 네바다 공장의 장비 설치를 지원할 것이라는 내용이 보도됨. 포드 또한 CATL의 "knowledge and services"를 활용 중. (출처: [[raw/social/2026-06-07_네이버블로그_stocksmakefreedom|네이버블로그(stocksmakefreedom)]], ⚠️미확인 보도)
+- **로보택시 오스틴 운행 구역 245km² 확대**: Tesla 로보택시 서비스 구역이 2025년 6월 론칭 당시 약 20km²에서 2026년 6월 기준 약 245km²로 12배 이상 확대. 다만 실제 운행 차량 대수에 대한 논란은 지속. (출처: [[raw/social/2026-06-07_네이버블로그_money-roadmap|네이버블로그(money-roadmap)]], 2026-06-07)
+- **Tesla FSD 리뷰 호평**: Autoblog의 Tesla Model Y 감독형 FSD 모드 리뷰가 "blew me away"(매우 인상적)이라는 평가를 받음. FSD 기술 완성도에 대한 긍정적 신호로 해석. (출처: [[raw/social/2026-06-07_네이버블로그_dimanch1|네이버블로그(dimanch1)]], 2026-06-07)
+- **현대차-엔비디아 협력과 Tesla 구조적 차이 분석**: 업계에서는 현대차-엔비디아 협력 구조를 Tesla의 End-to-End AI 수직 통합 전략과 비교. Tesla는 단일 AI 모델 중심이지만 현대차-엔비디아는 모듈형 AI+생태계 확장 구조라는 차이점이 분석됨. (출처: [[raw/social/2026-06-07_네이버블로그_jain0527|네이버블로그(jain0527)]], 2026-06-07)
+- **Tesla 국내 판매 동향**: 5월 국내 총 판매량 10,866대로 4개월 연속 수입차 1위. 모델Y가 7,195대 판매. 현대위아의 공장 확보 소식과 함께 국내 자동차 산업 동향의 일부로 보도. (출처: [[raw/social/2026-06-07_네이버블로그_ebdn0083|네이버블로그(ebdn0083)]], 2026-06-07)
+
+
+## 리스크 (2026-06-07)
+
+- **CATL 기술 의존 리스크**: Tesla 네바다 공장에 CATL의 기술·장비 지원이 보도되면서, 중국 배터리 기술 의존도 심화에 따른 미국 내 규제 리스크가 잠재적 변수로 부상. (출처: [[raw/social/2026-06-07_네이버블로그_stocksmakefreedom|네이버블로그(stocksmakefreedom)]], ⚠️미확인)
+
+
+## 에너지 사업 (2026-06-07)
+
+- **Tesla-LG에너지솔루션 Megapack LFP 배터리 공급 계약**: $43억 규모. Tesla Megapack 3에 LFP 각형 배터리 공급. DTE Energy BESS 프로젝트(6GWh, 미시간주 8개 프로젝트)와 Heron Power 협업도 포함. (출처: [[raw/social/2026-06-07_네이버블로그_clw2222|네이버블로그(clw2222)]], [[raw/social/2026-06-07_네이버블로그_gongsi_note|네이버블로그(gongsi_note)]], 2026-06-07)
+- **에너지 저장 경쟁사 부상**: ERock 등 친환경 온사이트 분산 전력 스타트업이 Tesla·Fluence의 배터리 기반 ESS(4~8시간 단기)의 한계를 극복하는 장기 에너지 저장 솔루션을 개발 중. (출처: [[raw/social/2026-06-07_네이버블로그_stockexplorer|네이버블로그(stockexplorer)]], 2026-06-07)
+
+
+## SNS·블로그 종합 분석 (2026-06-07)
+
+### 🐦 네이버블로그 — 로보택시 오스틴 운행 구역 확대 추이
+- **운행 구역: 20km²(2025.06)→40km²(9월)→120km²(2026.03)→245km²(2026.06.03)**: 1년 만에 약 12배 확대. TechTimes·Not a Tesla App 인용. 다만 차량 대수 제한적(~20~50대)이라는 기존 지적과 병존. (출처: [[raw/social/2026-06-07_네이버블로그_money-roadmap|네이버블로그(money-roadmap)]])
+
+### 🐦 네이버블로그 — Tesla FSD 감독형 모드 리뷰 호평
+- Autoblog 리뷰 "blew me away" 인용. Model Y FSD의 실제 도로 주행 완성도에 대한 긍정적 평가. (출처: [[raw/social/2026-06-07_네이버블로그_dimanch1|네이버블로그(dimanch1)]])
+
+### 🐦 네이버블로그 — SpaceX-Tesla 합병 가능성 재점화
+- IPO 서류에 "향후 대규모 합병 가능성" 언급. 일론 머스크가 장기적으로 Tesla와 SpaceX를 하나의 거대 기업으로 통합하는 방안을 내부적으로 검토 중이라는 CNBC 보도 인용. (출처: [[raw/social/2026-06-07_네이버블로그_richagoal|네이버블로그(richagoal)]], ⚠️미확인·루머)
+
+
+## 기타 연관 정보 (2026-06-07)
+
+- **Tesla 차량 화재 안전 관리**: 도장 두께가 상대적으로 얇은 편이라는 관리 팁이 커뮤니티에서 공유됨. 여름철 벌레자국 관리 중요성. (출처: [[raw/social/2026-06-07_네이버블로그_khm916936|네이버블로그(khm916936)]], 2026-06-07)
+- **Tesla Cybertruck 국내 목격담**: 서울 올림픽공원에서 Cybertruck이 실제 목격됨. 현장에서 "존재감이 엄청났다"는 후기. (출처: [[raw/social/2026-06-07_네이버블로그_funnyajumma|네이버블로그(funnyajumma)]], 2026-06-07)
+- **Tesla 옵티머스 Optimus 양산 시점 언급**: 2026년 7~8월 Tesla Optimus 양산 예정 시점이 포트폴리오 리밸런싱 근거로 인용됨. (출처: [[raw/social/2026-06-07_네이버블로그_bammmer|네이버블로그(bammmer)]], ⚠️개인 투자자 추정)
+
+
+## SNS·블로그 출처 (2026-06-07)
+
+- [[raw/social/2026-06-07_네이버블로그_clw2222|네이버블로그(clw2222): Tesla-LG에너지솔루션 $43억 계약]]
+- [[raw/social/2026-06-07_네이버블로그_gongsi_note|네이버블로그(gongsi_note): LG에너지솔루션 1Q26 실적 및 Megapack]]
+- [[raw/social/2026-06-07_네이버블로그_stocksmakefreedom|네이버블로그(stocksmakefreedom): CATL 기술 미국 진출]]
+- [[raw/social/2026-06-07_네이버블로그_money-roadmap|네이버블로그(money-roadmap): 로보택시 오스틴 확대]]
+- [[raw/social/2026-06-07_네이버블로그_dimanch1|네이버블로그(dimanch1): Tesla TSLA 이야기]]
+- [[raw/social/2026-06-07_네이버블로그_ebdn0083|네이버블로그(ebdn0083): 260604 자동차 산업 동향]]
+- [[raw/social/2026-06-07_네이버블로그_jain0527|네이버블로그(jain0527): 젠슨황-정의선 AI 국제외교 특집]]
+- [[raw/social/2026-06-07_네이버블로그_richagoal|네이버블로그(richagoal): 스페이스X 상장·테슬라 합병]]
+- [[raw/social/2026-06-07_네이버블로그_bammmer|네이버블로그(bammmer): 최근 포트폴리오 변화]]
