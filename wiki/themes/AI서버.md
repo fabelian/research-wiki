@@ -94,3 +94,10 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 
 ## 미·중 AI 칩 규제 강화 (2026-06-06)
 - **해외 자회사 추가 규제**: 美정부, 중국 기반 테크 기업의 해외 자회사 경유 엔비디아 GPU 수입 차단 지침. AI 반도체 공급망의 지정학적 리스크 지속. (글로벌이코노믹 2026-06-06 보도 기반)
+
+
+## 2026-06-06 업데이트: AI 인프라 투자 확대
+
+- **빅테크 CAPEX 경쟁 심화**: Alphabet의 847.5억 달러 유상증자는 AI 인프라 확장의 신호. Microsoft, Amazon, Meta와 함께 빅테크 4사의 AI 투자액은 연간 6,500억 달러(Bridgewater 추정)에 달할 전망. (출처: [dsi_tech](https://blog.naver.com/dsi_tech/224308375640), [young_718_911](https://blog.naver.com/young_718_911/224308393421))
+- **GPU 부족 현실**: 구글도 GPU가 부족해 스페이스X와 AI 클라우드 계약을 체결한 것으로 알려짐. Gemini Enterprise 수요 폭증으로 브릿지 용량 확보 중이며 2026년 CAPEX 1,750억 달러 추정. (출처: [dsi_tech](https://blog.naver.com/dsi_tech/224308375640))
+- **하이퍼스케일러 Alphabet**: GCP(Google Cloud Platform)를 통해 AI 인프라를 공급하는 동시에, 자체 AI 모델(제미나이) 학습을 위해 가장 큰 GPU 수요자이기도 함. (출처: [dsi_tech](https://blog.naver.com/dsi_tech/224308375640))

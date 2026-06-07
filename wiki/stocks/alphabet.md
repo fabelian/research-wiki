@@ -39,6 +39,7 @@ updated: 2026-05-27
 | 2025-11-25 | 리서치센터 | BUY | - | [etoday.co.kr](https://www.etoday.co.kr/news/view/2529467) | AI S/W, H/W 역량 개선. |
 | 2026-06-05 | IVV ETF 구성비중 | - | $3.8T~$4.5T 시총 | S&P500 대표 ETF IVV 내 Alphabet Class A 2~3%+Class C 2% 편입 (출처: 네이버블로그 mr_uh, 2026-06-05) | 시가총액 기준 구간 추정 |
 | 2026-06-05 | 버크셔 해서웨이 참여+800억$ 조달 | - | $848억 조달(버크셔 $100억 포함) | AI 인프라 확장 및 주식 보상 재원 마련 목적. "현금 부자" 버핏의 Alphabet 선택으로 해석. (출처: 네이버블로그 aimyon11, mitmix, 2026-06-05) | 자금 조달 규모 |
+| 2026-06-06 | 유상증자 발행 (의무전환우선주) | - | $847.5억 (약 115조 원) 규모 자금 조달 | $300억 공모 + $250억 전환우선주(Berkshire $100억 포함) + $297.5억 의무전환우선주. AI 인프라 투자 재원 마련 목적. (출처: [mindset1119](https://blog.naver.com/mindset1119/224308039012), [jusi-diary](https://blog.naver.com/jusi-diary/224308369550), [quietnurse_](https://blog.naver.com/quietnurse_/224308436105), [young_718_911](https://blog.naver.com/young_718_911/224308393421)) | 자금 조달 이벤트 |
 
 
 ## 최근 동향 (2026-06-05)
@@ -61,3 +62,12 @@ updated: 2026-05-27
 
 - **IVV ETF 구성**: IVV 내 Alphabet Class A 약 2~3%, Class C 약 2% 편입 (출처: [mr_uh](https://blog.naver.com/mr_uh/224307922734))
 - **나스닥 시총 3위**: Alphabet(GOOGL) 약 $3.8T~$4.5T 시총 추정 (출처: [tkaaksl22](https://blog.naver.com/tkaaksl22/224308020609))
+
+
+## 2026-06-06 업데이트: 유상증자 및 시장 영향
+
+- **사상 최대 규모 유상증자 확정**: Alphabet이 847.5억 달러(약 115조 원) 규모의 자금 조달을 발표했습니다. 구성은 ① 공모 $300억(보통주), ② 전환우선주 $250억(버크셔 해서웨이 $100억 포함), ③ 의무전환우선주(Mandatory Convertible) $297.5억입니다. AI 인프라(CAPEX) 확장 재원 마련이 주 목적입니다. (출처: [mindset1119](https://blog.naver.com/mindset1119/224308039012), [quietnurse_](https://blog.naver.com/quietnurse_/224308436105), [young_718_911](https://blog.naver.com/young_718_911/224308393421))
+- **시장 반응**: 주초(6/1~6/2) 신고가 랠리 후 유상증자 소식에 주가 변동. 나스닥 -4.18% 폭락 주간의 일부로 작용. 메타도 유상증자 검토 중이라는 보도가 나오며 빅테크 자금 조달 부담이 시장 이슈로 부각. (출처: [young_718_911](https://blog.naver.com/young_718_911/224308393421), [informationsea](https://blog.naver.com/informationsea/224308500375))
+- **AI 패권 경쟁 구도**: Alphabet은 자체 TPU 칩, 대용량 데이터, 클라우드 인프라를 모두 수직 계열화한 풀스택 AI 패권자로 평가. Gemini Enterprise 수요 폭증이 CAPEX 확대의 배경. (출처: [dsi_tech](https://blog.naver.com/dsi_tech/224308375640))
+- **의무전환우선주 구조**: Alphabet이 발행한 의무전환우선주(Mandatory Convertible Preferred)는 만기에 반드시 보통주로 전환되는 구조로, 기존 주주 희석 부담을 분산하는 방식. (출처: [quietnurse_](https://blog.naver.com/quietnurse_/224308436105))
+- **AI 반도체 슈퍼사이클 맥락**: Alphabet·Meta 등 빅테크의 CAPEX 축소 신호는 전혀 없으며, AI 투자는 지속 확대 중. 과거 닷컴버블과 달리 AI는 실제 수익(광고·클라우드·기업용 AI)으로 연결된다는 분석. (출처: [velloss](https://blog.naver.com/velloss/224308465450), [dsi_tech](https://blog.naver.com/dsi_tech/224308375640))
