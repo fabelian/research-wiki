@@ -86,3 +86,16 @@ updated: 2026-06-06
 
 
 | 2026-06-06 | 🎤권오현 전 삼성전자 회장: '초격차' — HBM 시장에서 삼성의 기술 리더십 강조 (아시안리더십콘퍼런스) |
+
+
+## 🐦 SNS·블로그 추가 분석 (2026-06-06~07)
+
+- 🐦네이버블로그(goodmantrip, 2026-06-06): **마이크론 미세공정·엔비디아 파트너십 분석** — 마이크론(1α/1β 최적화) vs SK하이닉스(1b 선제) vs 삼성전자(1c 최초). 마이크론은 HBM3E 공급선 다변화의 수혜자로 엔비디아 파트너십 입지 강화 중. (출처: [goodmantrip](https://blog.naver.com/goodmantrip/224308361161))
+- 🐦네이버블로그(paper_sync·jinbizdiary, 2026-06-06): **Vera Rubin LPDDR 논란** — SemiAnalysis 보고서 "Vera Rubin LPDDR 탑재량 반토막"이 HBM주 폭락 트리거. 하나증권 해석: LPDDR 공급 부족 심각 → 의도적 탑재량 축소, 수요 부진 아님. (출처: [paper_sync](https://blog.naver.com/paper_sync/224308672587), [jinbizdiary](https://blog.naver.com/jinbizdiary/224308750086)) ⚠️미확인
+
+
+### 2026-06-06~07: '검은 월요일' 공포·Vera Rubin LPDDR 논란
+
+- 🐦 **Vera Rubin LPDDR 탑재량 논란**: SemiAnalysis 보고서 "Vera Rubin LPDDR 탑재량 기대치 절반" — 마이크론 이틀간 20% 하락 촉발. 하나증권 "LPDDR 공급 부족 때문" 해석. ⚠️미확인. (🐦네이버블로그 paper_sync·jinbizdiary, 2026-06-06)
+- 🌐 **6/24 마이크론 실적 발표**: HBM·AI 메모리 실제 수요 확인的分水嶺 예정. (🌐보도기반, skyplus10)
+- 🌐 **반도체주 역대급 폭락 여파**: HBM주 전반 '검은 월요일' 공포. 마이크론 ADR -8.5% vs SK ADR -20%로 상대적 선방 — HBM 비중 차이가 방어력 결정. (🐦네이버블로그 복수, 2026-06-06~07)
