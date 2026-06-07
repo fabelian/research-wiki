@@ -64,3 +64,13 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 
 
 | 2026-06-05 | 🌐마이크론 13% 급락, 엔비디아 -6.2%, AMD -10.86%, 마블 -16.74%. 브로드컴 쇼크+고용서프라이즈 重疊. 6/24 마이크론 실적 발표 변수. AI 버블 논쟁 재점화. (복수 네이버블로그 보도기반) |
+
+
+## 🐦 SNS·블로그 요약 (2026-06-05)
+
+- **구글(Alphabet) 투자 확대**: Alphabet이 800억 달러 규모의 AI 인프라 자금 조달을 발표했으며, 버크셔 해서웨이(워런 버핏)가 100억 달러 참여. (출처: [aimyon11](https://blog.naver.com/aimyon11/224308044399), [mitmix](https://blog.naver.com/mitmix/224308065002), [kalluen](https://blog.naver.com/kalluen/224307934481))
+- **CAPEX 급증 부담**: Alphabet의 2026년 CAPEX 가이던스 1,800억~1,900억 달러. Bridgewater 추정 빅테크 4사(Alphabet·Amazon·Meta·MS) AI 투자액 6,500억 달러(2026년). Alphabet·Meta·MS 모두 CAPEX와 전력비 부담이 시장 이슈. (출처: [zen-trend-wave](https://blog.naver.com/zen-trend-wave/224308065773), [digiloglife](https://blog.naver.com/digiloglife/224308047297))
+- **ACE 구글밸류체인액티브 ETF**: Alphabet Class A 18.14% 최대 비중. (출처: [ecoqueen14](https://blog.naver.com/ecoqueen14/224308071650))
+- **스페이스X-구글 AI 클라우드 계약 체결**: ⚠️미확인. (출처: [chogar](https://blog.naver.com/chogar/224307921748))
+- **GCP 수익성 의문**: ⚠️미확인 — DeepMind/Gemini 학습 비용을 별도 계상하여 GCP 이익 과대평가 가능성. (출처: [recrud](https://blog.naver.com/recrud/224307897480))
+- **브로드컴 쇼크 맥락**: Alphabet의 800억 달러 자금 조달이 AI 인프라 투자 의지의 증거로, 브로드컴 쇼크에도 불구 AI 반도체 수요는 유지될 가능성이 높다고 분석. (출처: [shawn777](https://blog.naver.com/shawn777/224307995361))
