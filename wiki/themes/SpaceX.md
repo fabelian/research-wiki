@@ -86,3 +86,9 @@
 ## CEO 보상 및 경영 관심도 이슈 (2026-06-06)
 
 - **CEO 보상 격차와 경영 분산 리스크**: Elon Musk의 보상 수준이 Tesla 평균 직원 대비 250만 배에 달한다는 NYT 보도는, Musk의 과도한 보상이 [[SpaceX]] 포함 여러 기업(CEO 경영 분산 리스크)과 맞물려 주주 가치 훼손 논란을 재점화할 수 있음. (출처: New York Times, 2026-06-06)
+
+
+## 2026-06-05 업데이트: Rocket Lab 관련주 추가 분석
+- [[Rocket Lab]]: SDA Tranche 3 Prime 수주($8억 500만)로 군수 시장 진출 및 경쟁력 입증. 수주잔고 22억 달러(1년 만에 2배). Book-to-Bill 1 초과. (출처: [네이버블로그](https://blog.naver.com/deisler07/224307228737), [네이버블로그](https://blog.naver.com/kimbomi0819/224307009654))
+- [[Rocket Lab]]: TIGER 미국우주테크 ETF 내 비중 1위(~21%), SOL 미국우주항공TOP10 ETF 핵심 편입. (출처: [네이버블로그](https://blog.naver.com/mejorestrella/224306247887), [네이버블로그](https://blog.naver.com/cocopuppy99/224306159492))
+- [[Rocket Lab]]: Electron(~300kg, $7.5M)과 Neutron(~13,000kg, 개발 중)의 이원화 전략으로 SpaceX와 차별화된 틈새 공략. (출처: [네이버블로그](https://blog.naver.com/jinfiction/224304716554))
