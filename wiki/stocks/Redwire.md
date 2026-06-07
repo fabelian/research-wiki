@@ -95,3 +95,12 @@ updated: 2026-05-28
 - Redwire는 2020년 설립, 2021년 SPAC 합병으로 NYSE 상장.
 - 핵심 사업: 우주 롤아웃 태양광 어레이(ROSA), 3D 바이오프린팅, 우주 부품 및 구조물 제조, 방위 기술.
 - 고객: NASA, 미 국방부, SpaceX, 글로벌 제약사. (출처: [네이버블로그](https://blog.naver.com/fifastar007/224303215206))
+
+
+| 2026-06-02 | 제프리스(Jefferies) | Hold(강등, 기존 Buy) | $24 | 연초 대비 223% 급등을 이유로 강등 |
+
+
+| 2026-05-31 | HC Wainwright | Buy | $22 | (여러 블로그 종합) |
+
+
+| 2026-05-31 | Bank of America | Underperform | $6 | (여러 블로그 종합) |
