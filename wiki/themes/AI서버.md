@@ -61,3 +61,6 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 - [빅테크 capex 7,250억 달러 (junggi.co.kr)](https://www.junggi.co.kr/news/articleView.html?idxno=36657)
 - [문준호 브로드컴 코멘트 (edaily)](https://www.edaily.co.kr/news/newspath.asp?newsid=02020486645479096)
 - [이종욱 엔비디아 밸류체인 전망 (munhwa)](https://www.munhwa.com/article/11593640?ref=naver)
+
+
+| 2026-06-05 | 🌐마이크론 13% 급락, 엔비디아 -6.2%, AMD -10.86%, 마블 -16.74%. 브로드컴 쇼크+고용서프라이즈 重疊. 6/24 마이크론 실적 발표 변수. AI 버블 논쟁 재점화. (복수 네이버블로그 보도기반) |
