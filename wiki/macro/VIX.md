@@ -109,3 +109,9 @@ VIX 21.35~21.51(+38~40%, 6주 최고) 급등으로 글로벌 위험회피 국면
 
 
 | 2026-06-06 | 21.35~21.51 (전일 동일 레벨 유지, 주말 경계) | https://www.digitaltoday.co.kr/news/articleView.html?idxno=672547 |
+
+
+| 2026-06-06 | 21.35~21.51 (F&G 42 동반 급락, 위험회피 국면 지속) | https://blog.naver.com/hjhk18/224307640845 , https://blog.naver.com/chemy1212/224307707230 |
+
+
+| 2026-06-06 | 21.35~21.51 (블랙먼데이 경계, 필라델피아 반도체 -42%) | https://blog.naver.com/rrlaji/224307530041 , https://blog.naver.com/arpons/224307563969 |
