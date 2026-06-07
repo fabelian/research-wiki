@@ -120,3 +120,11 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 ## 2026-06-07 업데이트: 젠슨 황 방한 마무리
 - **Korea Herald 보도(06-07)**: 'How Jensen Huang wins over young Koreans' — 젠슨 황이 한국 청년층을 사로잡은 방식 집중 조명. "한국은 미래 AI·로보틱스의 핵심 허브" 발언 재확인, 가죽 재킷·삼겹살 회동 등 대중문화적 요소와 AI 파트너십을 연결. (Korea Herald 06-07)
 - **'The hottest thing in Seoul? Jensen Huang's leather jacket'**: 젠슨 황의 가죽 재킷 사진이 서울에서 가장 핫한 아이템으로 부각. 삼소 회동(삼겹살+소주)에서 네이버 이해진 의장·SK 최태원·LG 구광모와의 만남이 가장 큰 화제. (Korea Herald 06-07)
+
+
+## 2026-06-07 업데이트
+
+### 젠슨 황 방한 4일차 일정 (계속)
+- **06-07(일)**: 정의선 현대차 회장과 종로 우래옥 깜짝 오찬 회동 → PC방(장병규 크래프톤·김택진 엔씨소프트) → 잠실야구장 시구(두산 베어스). 제네시스 G90 의전차 이동. (아시아투데이 06-07, 한국정경신문 06-07)
+- **BusinessKorea(06-07)**: '젠슨 황의 4대 선물 번들' — HBM4 퀄·베라 루빈 탑재·메모리 주문 증대·한국 AI 기술센터 등 4개 선물을 통해 한국을 AI 생태계 핵심 파트너로 격상. LG·네이버·현대차를 연쇄 회동하며 'NVIDIA 주도 한국 AI 동맹' 구축. (BusinessKorea 06-07)
+- **Korea Herald(06-07)**: 'Jensen Huang courts Korea's AI ecosystem on packed Seoul tour' — AI 팩토리·로보틱스·소버린 AI 전 분야 협력 의지 재확인. (Korea Herald 06-07)
