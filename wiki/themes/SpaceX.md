@@ -92,3 +92,8 @@
 - [[Rocket Lab]]: SDA Tranche 3 Prime 수주($8억 500만)로 군수 시장 진출 및 경쟁력 입증. 수주잔고 22억 달러(1년 만에 2배). Book-to-Bill 1 초과. (출처: [네이버블로그](https://blog.naver.com/deisler07/224307228737), [네이버블로그](https://blog.naver.com/kimbomi0819/224307009654))
 - [[Rocket Lab]]: TIGER 미국우주테크 ETF 내 비중 1위(~21%), SOL 미국우주항공TOP10 ETF 핵심 편입. (출처: [네이버블로그](https://blog.naver.com/mejorestrella/224306247887), [네이버블로그](https://blog.naver.com/cocopuppy99/224306159492))
 - [[Rocket Lab]]: Electron(~300kg, $7.5M)과 Neutron(~13,000kg, 개발 중)의 이원화 전략으로 SpaceX와 차별화된 틈새 공략. (출처: [네이버블로그](https://blog.naver.com/jinfiction/224304716554))
+
+
+## SNS·블로그 인사이트 (2026-06-06)
+- **🐦블로그·ddubuck**: 스페이스X 상장 D-5(6/12). 국내 미래에셋증권·키움증권·한국투자증권 등 해외주식 계좌로 미국주식 거래 가능. 스페이스X 기업가치가 구글·아마존·메타 등 빅테크를 넘어설 가능성 언급 ([캡처](https://blog.naver.com/ddubuck/224308310098)).
+- **🐦블로그·captianwallet**: 미래에셋증권이 약 7조 원어치 스페이스X 물량을 가져왔으나 일반 개인은 청약 불가(전문투자자 한정). 월가 거품 논란 엇갈린 전망 존재 ([캡처](https://blog.naver.com/captianwallet/224308310161)).
