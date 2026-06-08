@@ -24,6 +24,7 @@ ALIAS = {
     "마이크론 테크놀로지(Micron Technology)": "마이크론",
     "Intuitive Machines": "Intuitive_Machines",
     "달 탐사": "달_탐사",
+    "테슬라": "Tesla", "하나금투": "하나증권",
 }
 
 TYPE_BY_DIR = {"stocks": "stock", "sectors": "sector", "themes": "theme",
@@ -40,8 +41,8 @@ def build_valid():
 def resolve(target, stems):
     """None=이미유효(유지), str=치환대상 stem, False=미해결."""
     t = target.strip()
-    if "/" in t:           # raw/social/... 같은 경로 링크는 유지
-        return None
+    if "/" in t:           # raw 경로 링크: 파일 있으면 유지, 없으면 미해결(→해제)
+        return None if os.path.exists(t + ".md") else False
     if t in stems:
         return None
     if t in ALIAS and ALIAS[t] in stems:
@@ -73,14 +74,50 @@ def fix_links(stems):
             if r:                            # 정규화
                 changed["normalized"] += 1; changed["files"].add(p)
                 return f"[[{r}{anchor}{alias}]]"
-            if is_garbage(target):           # 쓰레기 헤드라인 → 링크 해제
+            if target.startswith("raw/") or is_garbage(target):  # 미존재 raw링크/쓰레기 헤드라인 → 해제
                 changed["unlinked"] += 1; changed["files"].add(p)
-                return (alias[1:] if alias else target)
+                if alias:
+                    return alias[1:]
+                if target.startswith("raw/"):
+                    return "🐦" + target.rsplit("_", 1)[-1]   # 블로거 id/키워드만 텍스트로
+                return target
             return m.group(0)                # 짧은 미존재 엔티티 → 보존
         new = WIKILINK.sub(repl, txt)
         if new != txt:
             open(p, "w", encoding="utf-8", newline="\n").write(new)
     return changed
+
+
+KEYLINE = re.compile(r"^[A-Za-z_][\w-]*:")
+
+
+def dedup_frontmatter():
+    """선두의 연속된 다중 프론트매터 블록을 1개로 병합(레이스로 생긴 이중 ---/type 정리)."""
+    fixed = []
+    for p in glob.glob("wiki/**/*.md", recursive=True):
+        lines = open(p, encoding="utf-8").read().split("\n")
+        n = len(lines)
+        if not lines or lines[0].strip() != "---":
+            continue
+        keys, seen, pos, blocks = [], set(), 0, 0
+        while pos < n and lines[pos].strip() == "---":
+            j = pos + 1
+            while j < n and lines[j].strip() != "---":
+                if KEYLINE.match(lines[j]):
+                    k = lines[j].split(":", 1)[0].strip()
+                    if k not in seen:
+                        seen.add(k); keys.append(lines[j].rstrip())
+                j += 1
+            blocks += 1
+            pos = j + 1  # 닫는 --- 다음
+            while pos < n and lines[pos].strip() == "":
+                pos += 1  # 블록 사이 빈 줄 건너뜀
+        if blocks <= 1:
+            continue  # 단일 프론트매터 — 그대로
+        body = "\n".join(lines[pos:]).lstrip("\n")
+        open(p, "w", encoding="utf-8", newline="\n").write("---\n" + "\n".join(keys) + "\n---\n\n" + body + "\n")
+        fixed.append(p)
+    return fixed
 
 
 def fix_frontmatter():
@@ -91,6 +128,8 @@ def fix_frontmatter():
             if base == "index":
                 continue
             lines = open(p, encoding="utf-8").read().splitlines()
+            if any(ln.startswith("type:") for ln in lines[:15]):
+                continue  # 이미 type 있음(레이스로 인한 이중 추가 방지)
             if lines and lines[0].strip() == "---":
                 # frontmatter 존재 — type 있나?
                 end = next((i for i in range(1, len(lines)) if lines[i].strip() == "---"), None)
@@ -118,9 +157,11 @@ def main():
         sys.stdout.reconfigure(encoding="utf-8")
     except Exception:
         pass
+    dd = dedup_frontmatter()
     stems = build_valid()
     c = fix_links(stems)
     fm = fix_frontmatter()
+    print(f"[0] 이중 프론트매터 병합 {len(dd)}개")
     print(f"[1] 링크 정규화 {c['normalized']}건 · 쓰레기 링크 해제 {c['unlinked']}건 ({len(c['files'])}개 파일)")
     print(f"[3] 프론트매터 type 보강 {len(fm)}개:")
     for p in sorted(fm):

@@ -1,13 +1,10 @@
 ---
 type: stock
-name: Rocket Lab
----
-type: stock
 ticker: RKLB
 name: Rocket Lab
 sector: [[우주항공]]
-created: 2026-04-17
-updated: 2026-04-17
+created: 2026-04-09
+updated: 2026-06-07
 ---
 # Rocket Lab (RKLB)
 
