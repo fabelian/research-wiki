@@ -44,6 +44,8 @@ updated: 2026-05-27
 | 2026-06-05 | IVV ETF 구성비중 | - | $3.8T~$4.5T 시총 | S&P500 대표 ETF IVV 내 Alphabet Class A 2~3%+Class C 2% 편입 (출처: 네이버블로그 mr_uh, 2026-06-05) | 시가총액 기준 구간 추정 |
 | 2026-06-05 | 버크셔 해서웨이 참여+800억$ 조달 | - | $848억 조달(버크셔 $100억 포함) | AI 인프라 확장 및 주식 보상 재원 마련 목적. "현금 부자" 버핏의 Alphabet 선택으로 해석. (출처: 네이버블로그 aimyon11, mitmix, 2026-06-05) | 자금 조달 규모 |
 | 2026-06-06 | 유상증자 발행 (의무전환우선주) | - | $847.5억 (약 115조 원) 규모 자금 조달 | $300억 공모 + $250억 전환우선주(Berkshire $100억 포함) + $297.5억 의무전환우선주. AI 인프라 투자 재원 마련 목적. (출처: [mindset1119](https://blog.naver.com/mindset1119/224308039012), [jusi-diary](https://blog.naver.com/jusi-diary/224308369550), [quietnurse_](https://blog.naver.com/quietnurse_/224308436105), [young_718_911](https://blog.naver.com/young_718_911/224308393421)) | 자금 조달 이벤트 |
+| 2026-06-08 | ARK Invest(Cathie Wood) | 매수 | - | Alphabet 267,000주 대규모 매집 (출처: [wnguddhkd](https://blog.naver.com/wnguddhkd/224309372711), 2026-06-08) | 포트폴리오 변동 |
+| 2026-06-08 | 버크셔 해서웨이(워런 버핏) | 매수 | - | 반독점 역풍 속에서도 압도적 현금흐름에 주목, 대량 매입 (출처: [bitcoinatoz](https://blog.naver.com/bitcoinatoz/224309381730), 2026-06-08) | 포트폴리오 변동 |
 
 
 ## 최근 동향 (2026-06-05)
@@ -81,3 +83,42 @@ updated: 2026-05-27
 
 - **알파벳 $85B 유상증자 상세**: Alphabet이 AI 인프라 확장을 위해 약 800억 달러(한화 약 120조 원) 규모의 유상증자를 실시. 버크셔 해서웨이의 100억 달러 투자 참여 포함. 이는 2026-06-02 발표된 $80B 자금 조달 계획의 구체적 실행으로 글로벌 AI 인프라 투자 경쟁을 가속화하는 신호로 해석. (출처: [witch42](https://blog.naver.com/witch42/224308732777), 2026-06-06)
 - **밸류에이션 부담 낮음**: 미국 메가테크(M7) 기업들 중 Alphabet의 선행 PER은 20배 안팎으로 형성되어 있어 밸류에이션 측면에서 가장 부담 없는 가격대. 플랫폼과 AI의 결합 강점이 충분히 반영되지 않았다는 평가. (출처: [mappy1000](https://blog.naver.com/mappy1000/224308747440), 2026-06-06)
+
+
+## 🐦 SNS·블로그 인사이트 (2026-06-08)
+
+- **양자 컴퓨팅 '코어' 계층**: Alphabet(NVIDIA·Microsoft·IBM과 함께)은 양자 컴퓨팅 '코어(1층)'로 분류. 양자가 실패해도 본업(검색·광고·클라우드)이 견고하며, 성공 시 가장 큰 인프라 수혜자. NVIDIA의 CUDA-Q 플랫폼과 Alphabet의 AI 역량 간 양자·AI 융합 시너지 가능성. (출처: [high_hi_k](https://blog.naver.com/high_hi_k/224308896166), 2026-06-06) ⚠️개인 분석.
+
+- **ARK Invest Alphabet 267,000주 매집**: 캐시 우드(Cathie Wood)의 ARK Invest가 최근 Alphabet 주식 267,000주를 대규모 매집. (출처: [wnguddhkd](https://blog.naver.com/wnguddhkd/224309372711), 2026-06-08)
+
+- **워런 버핏의 Alphabet 선택**: 버크셔 해서웨이는 반독점 소송 리스크에도 불구하고 Alphabet의 압도적 현금흐름을 보고 대량 매입. 단기 리스크보다 장기적 현금 창출력을 평가한 결정으로 해석. (출처: [bitcoinatoz](https://blog.naver.com/bitcoinatoz/224309381730), 2026-06-08)
+
+- **핵융합 투자 연계**: Alphabet(구글)은 CFS(Commonwealth Fusion Systems)에 투자한 주요 기업 중 하나(NVIDIA와 함께). AI 데이터센터 전력 수요 급증에 대비한 장기 에너지 인프라 투자로 해석. (출처: [esiguy](https://blog.naver.com/esiguy/224309347735), 2026-06-08)
+
+- **스페이스X 간접 투자 경로**: Alphabet은 스페이스X 초기 투자자로 상당한 지분 보유. Alphabet 주식 또는 ARKX 같은 우주항공 ETF가 스페이스X 간접 투자 수단. (출처: [jk881822](https://blog.naver.com/jk881822/224309429498), 2026-06-08)
+
+- **Mag 7 Q1 2026 실적 성장률 약 +61%**: S&P 500 내 Mag 7(Alphabet·Amazon·Apple·Meta·MS·NVIDIA·Tesla)의 Q1 2026 earnings growth가 약 +61%로, 나머지 493개 기업(+5%)을 크게 상회. Alphabet의 $80B 자금 조달은 AI CapEx가 자본 시장 전체로 확장되는 신호. (출처: [opushk](https://blog.naver.com/opushk/224309450402), 2026-06-08)
+
+
+## 최근 이벤트 (2026-06-08)
+
+- **핵융합 기업 투자**: Alphabet(구글)이 AI 데이터센터 전력 수요 대응을 위해 핵융합 스타트업 CFS(Commonwealth Fusion Systems)에 투자한 것으로 알려짐. NVIDIA도 CFS에 참여하며 AI+핵융합 시너지 구도. (출처: [esiguy](https://blog.naver.com/esiguy/224309347735), 2026-06-08) ⚠️미확인
+
+- **스페이스X 지분 보유**: Alphabet은 스페이스X 초기 투자자로 상당한 지분을 보유 중이며, 이를 통한 간접 투자 경로가 존재. (출처: [jk881822](https://blog.naver.com/jk881822/224309429498), 2026-06-08)
+
+- **ARK Invest Alphabet 267,000주 매집**: 캐시 우드의 ARK Invest가 Alphabet 주식을 대규모 매집. (출처: [wnguddhkd](https://blog.naver.com/wnguddhkd/224309372711), 2026-06-08)
+
+- **Mag 7 실적 격차 심화**: S&P 500 Mag 7(Alphabet 포함)의 Q1 2026 earnings growth 약 +61% vs 나머지 493개사 +5%. Alphabet의 $80B 자금 조달은 AI CapEx가 자본 시장 전체로 확장되는 신호로 해석. (출처: [opushk](https://blog.naver.com/opushk/224309450402), 2026-06-08)
+
+
+## 최근 동향 (2026-06-08)
+
+- **Alphabet $80B 자금 조달 해석**: 시장 일각에서는 Alphabet의 대규모 자금 조달(Meta의 유상증자 검토설과 함께)을 'AI 투자가 영업현금흐름을 초과 → 빚·증자로 재원 마련'으로 해석하며 AI 버블 경계론 제기. (출처: [outsider_insider](https://blog.naver.com/outsider_insider/224309266899), 2026-06-08) ⚠️개인 분석
+
+- **고수익 투자 전략 관점**: 전 세계 자본을 빨아들이는 미국 1등 빅테크(MSFT, Alphabet 등)를 핵심 자산으로 정박하는 전략이 고수익·고변동성 시장에서 강조됨. (출처: [gon_yu](https://blog.naver.com/gon_yu/224308752193), 2026-06-08)
+
+- **구글의 800억 달러 유상증자 분석**: 구글(Alphabet)의 AI 생태계 핵심 기업으로서 검색 시장 지배력을 바탕으로 AI 투자 확대 중. AI 투자 부담과 기회를 동시에 평가해야 한다는 분석. (출처: [bnisee](https://blog.naver.com/bnisee/224309082276), 2026-06-08)
+
+- **원달러 환율 1,560원 돌파와 연계**: Alphabet의 850억 달러 규모 자금 조달이 환율 상승 압력의 일부로 작용. Meta도 AI 인프라 재원을 위해 대규모 지분 조달 검토 중이라는 Reuters 보도 언급. (출처: [duaiwa](https://blog.naver.com/duaiwa/224309104197), 2026-06-08)
+
+- **Mag 7 중심 투자 전략**: AI·클라우드·반도체·로봇·양자컴퓨팅·우주산업 등 미래 산업의 중심에 미국 빅테크(Alphabet·NVIDIA·MS·Apple·Amazon)가 위치. 미국 주식 장기 투자의 근거로 제시. (출처: [ksu1052](https://blog.naver.com/ksu1052/224309124251), 2026-06-08)
