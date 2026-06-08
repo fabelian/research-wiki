@@ -152,3 +152,14 @@
 - **매크로 반영**: 원달러환율·미국금리·VIX·공포탐욕지수·한국CDS·한국금리 스냅샷 히스토리 및 셀사이드 전망 갱신.
 - **반도체 섹터**: NH투자증권 변동성 장세 전망 추가.
 - **출처**: SBS·경향신문·연합뉴스TV·한겨레·대구일보·경남신문·게임샷·이데일리 2026-06-07.
+
+
+## 2026-06-08 INGEST
+- **소스**: 신규 뉴스 7건 (digitaltoday, thebell, ceoscoredaily, investchosun, metroseoul, g-enews, enewstoday)
+- **영향 페이지**: 
+  - `wiki/stocks/미래에셋증권.md` — 증권주 부진·센트비 IPO·미니맥스 IPO·발행어음 경쟁·분기 순이익 1조 돌파·updated 갱신
+  - `wiki/themes/SpaceX.md` — 일반 투자자 접근 경로·미래에셋증권 유일 인수단·미니맥스 IPO
+  - `wiki/sectors/증권.md` — 증권주 주가 부진·발행어음 경쟁 구도·분기실적 비교
+  - `wiki/macro/원달러환율.md`, `wiki/macro/한국금리.md`, `wiki/macro/미국금리.md`, `wiki/macro/VIX.md`, `wiki/macro/공포탐욕지수.md`, `wiki/macro/유가.md`, `wiki/macro/한국CDS.md` — 리포트 기준일(2026-06-05~07) 스냅샷 히스토리 행 1건씩 append (idempotent, 같은 날짜 이미 있으면 skip)
+  - `index.md` — (build_index.py 재생성시 자동 갱신)
+- **주요 변경**: 분기순이익 1조 돌파 실적 추가, 증권주 주가 부진 현황, 센트비·미니맥스 IPO 추가, 발행어음 경쟁 구도 업데이트
