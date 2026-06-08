@@ -1,161 +1,89 @@
 ---
 type: stock
-name: alphabet
----
-
-'''
-type: stock
 ticker: GOOGL
 name: Alphabet
 sector: [[인터넷플랫폼]]
 created: 2026-05-27
-updated: 2026-05-27
-'''
+updated: 2026-06-08
+---
 
 # Alphabet (GOOGL)
 
+Alphabet Inc.는 구글, 딥마인드, 웨이모 등 자회사를 보유한 글로벌 기술 기업으로, AI·자율주행·클라우드 분야에서 선도적 위치를 점하고 있다.
+
+## 📌 최신 요약 (2026-06-08)
+- **847.5억 달러 유상증자 확정**: AI 인프라(CAPEX) 확장을 위해 약 115조 원 규모 자금 조달. 워런 버핏의 버크셔 해서웨이가 100억 달러 참여.
+- **빅테크 CAPEX 경쟁 격화**: 2026년 CAPEX 가이던스 1,800억~1,900억 달러로 상향. 투자 확대에 따른 주식 희석(Dilution) 및 AI 과잉투자 논쟁 심화.
+- **풀스택 AI 경쟁력**: 자체 AI 반도체 TPU와 제미나이(Gemini) 모델을 결합한 수직 계열화. Google Cloud 커버리지 약 30~35%.
+- **Apple과의 협력**: WWDC 2026에서 제미나이 모델이 차세대 Siri의 클라우드 연산 협력사로 선정.
+- **Mag 7 실적 차별화**: 1Q26 EPS 성장률 Mag 7 +61% vs 나머지 +5%. AI 투자가 실질 수익으로 연결 중.
+- **주가**: 6/7 종가 $365.76, 주간 -5.27%. 시가총액 약 4.5조 달러(나스닥 4위).
+
+## 투자의견 컨센서스 추이
+
+| 날짜 | 증권사/출처 | 투자의견 | 목표주가 | 근거/비고 |
+|------|--------------|----------|----------|------------|
+| 2026-06-08 | ARK Invest (Cathie Wood) | 매수 | - | Alphabet 267,000주 대량 매집 (wnguddhkd) |
+| 2026-06-08 | 버크셔 해서웨이 (Warren Buffett) | 매수 | - | 반독점 리스크에도 압도적 현금흐름에 주목 (bitcoinatoz) |
+| 2026-06-06 | 유상증자 발행 (의무전환우선주 포함) | - | 847.5억 달러 (약 115조 원) | $300억 공모 + $250억 전환우선주(버크셔 $100억) + $297.5억 의무전환우선주. AI 인프라 재원. (mindset1119, quietnurse_, young_718_911) |
+| 2026-06-05 | IVV ETF 구성 비중 | - | $3.8T~$4.5T 시총 추정 | S&P 500 대표 ETF 내 Class A 2~3%, Class C 2% (mr_uh) |
+| 2026-06-05 | 버크셔 해서웨이 참여 + 800억$ 조달 | - | 848억 달러 조달 (버크셔 $100억 포함) | AI 인프라 확장 및 주식 보상 재원. “현금 부자” 버핏의 선택 (aimyon11, mitmix) |
+| 2025-11-25 | 리서치센터 | BUY | - | AI S/W, H/W 역량 개선 (etoday) |
+| 2025-10-31 | Evercore ISI | 아웃퍼폼 | $325 | AI 기반 분기 매출 1000억 달러 돌파 (edaily) |
+| 2022-12-19 | 글로벌 애널리스트 44명 컨센서스 | - | $127.80 | 당시 주가(90달러) 대비 평균 목표가 (dt) |
+
 ## 핵심 투자포인트
-- **AI 리더십**: 자회사 구글, 딥마인드를 통해 [[제미나이]] 등 자체 AI 모델을 개발 및 고도화하고 있습니다. 2026년 5월 Google I/O에서 AI 에이전트 기능을 강조하며 기술력을 과시했습니다 (출처: [디지털데일리](https://www.ddaily.co.kr/page/view/2026052005584406298), 2026-05-19).
-- **자율주행 사업**: 자회사 웨이모(Waymo)를 통해 레벨4 로보택시 사업을 선도하고 있으며, 이는 장기적인 성장 동력으로 평가됩니다 (출처: [KOTRA](http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=130&CONTENTS_NO=1&bbsGbn=246&bbsSn=246&pNttSn=241519), 2026-05-26).
-- **클라우드 및 AI 인프라**: [[AI서버]] 수요 증가에 발맞춰 AI 인프라 관련 지출을 늘리며 클라우드 사업 경쟁력을 강화하고 있습니다 (출처: [EconoTimes](https://www.econotimes.com/Nvidia-Beats-Earnings-Expectations-as-AI-Demand-Drives-Record-Growth-1742243), 2026-05-21).
+- **AI 리더십**: 제미나이 모델과 Google I/O 2026의 AI 에이전트 시현. 자체 TPU 칩을 결합한 풀스택 AI 경쟁력 보유.
+- **자율주행 (Waymo)**: 레벨4 로보택시 선도 기업으로 장기 성장 동력 (KOTRA, 2026-05-26).
+- **클라우드 & AI 인프라**: AI 서버 수요·Gemini Enterprise 확대로 GCP 성장. 2026년 CAPEX 1,800억 달러 이상 집행.
+- **검색·광고 지배력**: 압도적 검색 점유율과 AI 결합으로 안정적 현금흐름 창출. 버핏의 투자 근거.
+- **AI 투자 사이클 선도**: 빅테크 중 최대 규모 AI 인프라 투자. TPU·데이터·클라우드 수직 계열화로 차별화.
 
-## 리스크
-- **규제 리스크**: EU에서 검색 결과 조작 혐의로 대규모 반독점 과징금이 부과될 전망이며(출처: [헬로T](https://www.hellot.net/news/article.html?no=112826), 2026-05-27), 미국에서는 소셜 미디어 중독성 문제로 소송에서 패소하는 등(출처: [경향신문](https://www.khan.co.kr/article/202605190600111), 2026-05-18) 규제 압박이 가중되고 있습니다.
-- **ESG 우려**: AI 데이터센터 증설에 따른 막대한 전력 소비가 '2030년 24/7 무탄소 에너지' 목표와 상충될 수 있다는 주주들의 해명 요구에 직면했습니다 (출처: [ESG경제](https://www.esgeconomy.com/news/articleView.html?idxno=15581), 2026-05-22).
-- **자회사 운영 문제**: 자회사 웨이모의 로보택시가 침수 도로에 진입하는 등 운영상 문제로 일부 도시에서 서비스가 일시 중단되었습니다 (출처: [New York Times](https://www.nytimes.com/2026/05/22/us/waymo-taxi-suspended-atlanta.html?partner=naver), 2026-05-22).
-- **내부 이슈**: 전반적인 테크 업계의 구조조정 분위기 속에서 직원 사기가 저하되고 있으며 (출처: [New York Times](https://www.nytimes.com/2026/05/19/business/tech-layoffs-blind.html?partner=naver), 2026-05-19), Alphabet Workers Union 등 노동조합 활동도 관찰됩니다 (출처: [New York Times](https://www.nytimes.com/2026/05/18/opinion/ai-tech-worker-organizing.html?partner=naver), 2026-05-18).
+## ⚠️ 리스크
+- **규제**: EU 대규모 반독점 과징금 전망(2026-05-27), 미국 소셜미디어 중독 소송 패소(2026-05-18) 및 유튜브 합의금(2026-05-30) 등 전방위적 규제 압박.
+- **ESG/에너지**: AI 데이터센터 전력 소비 급증으로 ‘2030년 24/7 무탄소’ 목표 상충, 주주 해명 요구(2026-05-22).
+- **자회사 운영**: 웨이모 로보택시 침수 도로 진입 등으로 애틀랜타 서비스 중단(2026-05-22).
+- **내부 통제·사기**: 엔지니어 내부자 거래 혐의 기소(2026-05-27), 구조조정에 따른 직원 사기 저하(2026-05-19).
+- **AI 투자 사이클 / Dilution Shock**: 847.5억 달러 유상증자로 주식 희석 및 과잉투자 우려. Meta 등도 증자 검토 중으로 기술주 전반 변동성 확대.
 
-## 최근 동향
-- 2026년 5월, 한국 개인 투자자들의 미국 기술주 순매수 상위 종목에 오르는 등 국내 투자자들의 관심이 증가했습니다 (출처: [Businesskorea](https://www.businesskorea.co.kr/news/articleView.html?idxno=269922), 2026-05-21).
+## 상충하는 견해
+- **GCP 수익성 논란** (2026-06-05): DeepMind/Gemini 비용이 Alphabet-Level로 처리되어 GCP 이익이 과대평가되었다는 분석 (recrud). ⚠️미확인
+- **AI 버블 경계** (2026-06-08): 자금 조달을 영업현금흐름 초과로 해석, 빚내서 AI 투자하는 것 아니냐는 우려 (outsider_insider). ⚠️개인 분석
+- **AI ‘배탈’ 리스크** (2026-06-07): 빅테크 CAPEX 폭증이 에너지·전력 인프라 수요를 폭발시켜 결국 조정 가능성 (joymypark). ⚠️개인 분석
+- **밸류에이션 양면성** (2026-06-06): 선행 PER 20배 안팎으로 Mag7 내 저평가되었으나, 광고 경기 변동성과 AI 투자 성과 불확실성이 공존 (mappy1000).
 
+## 주요 이벤트
+- **2026-06-08**: 847.5억 달러 유상증자 확정, 버크셔 100억 달러 참여. ARK 267,000주 매집. WWDC 2026에서 Apple-Siri에 Gemini 연동 발표. 스페이스X IPO와 자금 흡수 동시 진행 (다수 블로그).
+- **2026-06-06**: 의무전환우선주 포함 증자 구조 공시. 나스닥 주간 -4.18%. AI 반도체 슈퍼사이클 지속 확인 (mindset1119, dsi_tech 등).
+- **2026-06-05**: 800억 달러 자금조달 계획 발표. IVV ETF 내 비중 조명 (EconoTimes, mr_uh).
+- **2026-06-02**: AI 인프라 800억 달러 조달 발표. 엔지니어 내부자 거래 기소. 켄터키주 소송 유튜브 800만 달러 합의 (EconoTimes, EBN).
+- **2026-05-27**: EU 반독점 과징금 부과 전망, 구글 엔지니어 기소 (헬로T, EBN).
+- **2026-05-22**: 웨이모 애틀랜타 중단, ESG 주주 해명 요구 (NYT, ESG경제).
+- **2026-05-19**: Google I/O 2026, AI 에이전트 공개. 테크 업계 구조조정 보도 (디지털데일리, NYT).
+- **2026-05-18**: 소셜미디어 중독 소송 패소, 노동조합 활동 보도 (경향신문, NYT).
 
-## 최근 주요 이벤트 (2026-06-02)
-- **$80B 대규모 자금 조달**: AI 인프라 확장을 가속화하기 위해 800억 달러 규모의 자금 조달 계획을 발표했습니다. 워렌 버핏의 버크셔 해서웨이가 100억 달러 투자를 통해 지원에 나섰습니다. (출처: [EconoTimes](https://www.econotimes.com/Alphabet-Unveils-80-Billion-Capital-Raise-to-Accelerate-AI-Expansion-Secures-10-Billion-Backing-from-Berkshire-Hathaway-1743227), 2026-06-02)
-- **내부자 거래 혐의**: 구글 엔지니어가 내부 사용자 데이터 접근 권한을 이용해 불법적인 금융 거래를 한 혐의로 기소되어 내부 통제 관련 우려가 제기되었습니다. (출처: [EBN](https://www.ebn.co.kr/news/articleView.html?idxno=1710375), 2026-05-27)
-- **소셜 미디어 중독 소송 합의**: 켄터키 주 교육구가 제기한 소셜 미디어 중독 소송에서 자회사인 유튜브와 관련하여 800만 달러를 지불하기로 합의했습니다. (출처: [EconoTimes](https://www.econotimes.com/Kentucky-School-District-Secures-27-Million-in-Social-Media-Addiction-Lawsuit-Settlements-1743060), 2026-05-30)
+## 관련 출처/링크
+- 디지털데일리 I/O: https://www.ddaily.co.kr/page/view/2026052005584406298
+- KOTRA 웨이모: http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=130&CONTENTS_NO=1&bbsGbn=246&bbsSn=246&pNttSn=241519
+- EconoTimes 자금조달: https://www.econotimes.com/Alphabet-Unveils-80-Billion-Capital-Raise-to-Accelerate-AI-Expansion-Secures-10-Billion-Backing-from-Berkshire-Hathaway-1743227
+- EBN 내부거래: https://www.ebn.co.kr/news/articleView.html?idxno=1710375
+- 헬로T EU: https://www.hellot.net/news/article.html?no=112826
+- ESG경제: https://www.esgeconomy.com/news/articleView.html?idxno=15581
+- NYT 웨이모: https://www.nytimes.com/2026/05/22/us/waymo-taxi-suspended-atlanta.html?partner=naver
+- 경향신문 소송: https://www.khan.co.kr/article/202605190600111
+- EconoTimes 합의: https://www.econotimes.com/Kentucky-School-District-Secures-27-Million-in-Social-Media-Addiction-Lawsuit-Settlements-1743060
+- Businesskorea: https://www.businesskorea.co.kr/news/articleView.html?idxno=269922
 
-
-## 목표주가 히스토리
-| 날짜 | 출처 | 투자의견 | 목표주가 | 근거 | 비고 |
-|---|---|---|---|---|---|
-| 2022-12-19 | 글로벌 애널리스트 44명 컨센서스 | - | $127.80 | [뉴욕증시 리포트](http://www.dt.co.kr/contents.html?article_no=2022122002101563060001&ref=naver) | 당시 주가(90달러) 대비 평균 목표가. |
-| 2025-10-31 | Evercore ISI | 아웃퍼폼 | $325 | [edaily.co.kr](http://www.edaily.co.kr/news/newspath.asp?newsid=01797446642361456) | AI 기반 분기 매출 1000억 달러 돌파. |
-| 2025-11-25 | 리서치센터 | BUY | - | [etoday.co.kr](https://www.etoday.co.kr/news/view/2529467) | AI S/W, H/W 역량 개선. |
-| 2026-06-05 | IVV ETF 구성비중 | - | $3.8T~$4.5T 시총 | S&P500 대표 ETF IVV 내 Alphabet Class A 2~3%+Class C 2% 편입 (출처: 네이버블로그 mr_uh, 2026-06-05) | 시가총액 기준 구간 추정 |
-| 2026-06-05 | 버크셔 해서웨이 참여+800억$ 조달 | - | $848억 조달(버크셔 $100억 포함) | AI 인프라 확장 및 주식 보상 재원 마련 목적. "현금 부자" 버핏의 Alphabet 선택으로 해석. (출처: 네이버블로그 aimyon11, mitmix, 2026-06-05) | 자금 조달 규모 |
-| 2026-06-06 | 유상증자 발행 (의무전환우선주) | - | $847.5억 (약 115조 원) 규모 자금 조달 | $300억 공모 + $250억 전환우선주(Berkshire $100억 포함) + $297.5억 의무전환우선주. AI 인프라 투자 재원 마련 목적. (출처: [mindset1119](https://blog.naver.com/mindset1119/224308039012), [jusi-diary](https://blog.naver.com/jusi-diary/224308369550), [quietnurse_](https://blog.naver.com/quietnurse_/224308436105), [young_718_911](https://blog.naver.com/young_718_911/224308393421)) | 자금 조달 이벤트 |
-| 2026-06-08 | ARK Invest(Cathie Wood) | 매수 | - | Alphabet 267,000주 대규모 매집 (출처: [wnguddhkd](https://blog.naver.com/wnguddhkd/224309372711), 2026-06-08) | 포트폴리오 변동 |
-| 2026-06-08 | 버크셔 해서웨이(워런 버핏) | 매수 | - | 반독점 역풍 속에서도 압도적 현금흐름에 주목, 대량 매입 (출처: [bitcoinatoz](https://blog.naver.com/bitcoinatoz/224309381730), 2026-06-08) | 포트폴리오 변동 |
-
-
-## 최근 동향 (2026-06-05)
-- **AI 설비투자 경쟁 심화**: [[alphabet]], Microsoft, Amazon, Meta 등 미국 4대 빅테크가 AI 패권 확보를 위해 대규모 설비투자를 집행하고 있으며, 4개사의 연간 총 투자액은 7250억 달러에 달할 것으로 전망됩니다. (출처: [junggi.co.kr](https://www.junggi.co.kr/news/articleView.html?idxno=36657), 2026-06-05).
-- **투자 재원 마련**: 상기 투자 재원 마련을 위해 주식과 채권을 발행하고 있는 것으로 보도되었습니다. (출처: [tokenpost.kr](https://www.tokenpost.kr/news/international/366407), 2026-06-05).
-
-
-## 🐦 SNS·블로그 요약 (2026-06-05)
-
-- **ETF 비중 정보**: IVV(S&P500 대표 ETF) 내 Alphabet Class A 약 2~3%, Class C 약 2% 편입. 나스닥 시총 순위 약 $3.8T~$4.5T 추정 (3위). (출처: [mr_uh](https://blog.naver.com/mr_uh/224307922734), [tkaaksl22](https://blog.naver.com/tkaaksl22/224308020609))
-- **버핏의 Alphabet 선택**: 워런 버핏 버크셔 해서웨이가 Alphabet의 800억 달러 자금 조달에 100억 달러 참여. "현금 부자" 버핏이 AI 인프라 투자에 동참한 점이 주목받음. (출처: [aimyon11](https://blog.naver.com/aimyon11/224308044399), [mitmix](https://blog.naver.com/mitmix/224308065002))
-- **AI 투자 부담론**: Alphabet의 2026년 CAPEX 가이던스가 1,800억~1,900억 달러로 상향 조정되었으며, "전례 없는 AI compute 수요"를 근거로 제시. 다만 Meta·Microsoft와 함께 CAPEX 및 전력비 부담이 이슈로 대두. (출처: [zen-trend-wave](https://blog.naver.com/zen-trend-wave/224308065773))
-- **ACE 구글밸류체인액티브 ETF**: Alphabet Class A가 18.14%로 최대 비중. Broadcom(14.27%), Micron(7.51%), Marvell(5.86%) 등 AI 반도체 밸류체인 포함. (출처: [ecoqueen14](https://blog.naver.com/ecoqueen14/224308071650))
-- **GCP 수익성 논란**: 한 네이버 블로그 분석에 따르면, Google Cloud Platform(GCP)의 이익은 DeepMind/Gemini 학습 비용이 'Alphabet-Level Activities'에 별도 계상되어 과대 평가되었을 가능성 제기. AWS만이 클라우드에서 유의미한 수익을 내는 중. (출처: [recrud](https://blog.naver.com/recrud/224307897480)) ⚠️미확인
-- **스페이스X-구글 AI 클라우드 계약**: 스페이스X가 구글(Alphabet 산하 Google LLC)과 AI 컴퓨팅(클라우드 서비스) 대형 계약을 체결. 스페이스X의 AI 인프라 사업 확장 신호. (출처: [chogar](https://blog.naver.com/chogar/224307921748)) ⚠️미확인
-- **앤트로픽 투자 경로**: 앤트로픽의 최대 주주는 아마존과 구글(Alphabet)이므로, 이들 비중이 높은 ETF가 간접 투자 경로가 될 수 있음. (출처: [moneyroutine9723](https://blog.naver.com/moneyroutine9723/224307631584))
-
-
-## 2026-06-05 업데이트: SNS·블로그 내 언급
-
-- **IVV ETF 구성**: IVV 내 Alphabet Class A 약 2~3%, Class C 약 2% 편입 (출처: [mr_uh](https://blog.naver.com/mr_uh/224307922734))
-- **나스닥 시총 3위**: Alphabet(GOOGL) 약 $3.8T~$4.5T 시총 추정 (출처: [tkaaksl22](https://blog.naver.com/tkaaksl22/224308020609))
-
-
-## 2026-06-06 업데이트: 유상증자 및 시장 영향
-
-- **사상 최대 규모 유상증자 확정**: Alphabet이 847.5억 달러(약 115조 원) 규모의 자금 조달을 발표했습니다. 구성은 ① 공모 $300억(보통주), ② 전환우선주 $250억(버크셔 해서웨이 $100억 포함), ③ 의무전환우선주(Mandatory Convertible) $297.5억입니다. AI 인프라(CAPEX) 확장 재원 마련이 주 목적입니다. (출처: [mindset1119](https://blog.naver.com/mindset1119/224308039012), [quietnurse_](https://blog.naver.com/quietnurse_/224308436105), [young_718_911](https://blog.naver.com/young_718_911/224308393421))
-- **시장 반응**: 주초(6/1~6/2) 신고가 랠리 후 유상증자 소식에 주가 변동. 나스닥 -4.18% 폭락 주간의 일부로 작용. 메타도 유상증자 검토 중이라는 보도가 나오며 빅테크 자금 조달 부담이 시장 이슈로 부각. (출처: [young_718_911](https://blog.naver.com/young_718_911/224308393421), [informationsea](https://blog.naver.com/informationsea/224308500375))
-- **AI 패권 경쟁 구도**: Alphabet은 자체 TPU 칩, 대용량 데이터, 클라우드 인프라를 모두 수직 계열화한 풀스택 AI 패권자로 평가. Gemini Enterprise 수요 폭증이 CAPEX 확대의 배경. (출처: [dsi_tech](https://blog.naver.com/dsi_tech/224308375640))
-- **의무전환우선주 구조**: Alphabet이 발행한 의무전환우선주(Mandatory Convertible Preferred)는 만기에 반드시 보통주로 전환되는 구조로, 기존 주주 희석 부담을 분산하는 방식. (출처: [quietnurse_](https://blog.naver.com/quietnurse_/224308436105))
-- **AI 반도체 슈퍼사이클 맥락**: Alphabet·Meta 등 빅테크의 CAPEX 축소 신호는 전혀 없으며, AI 투자는 지속 확대 중. 과거 닷컴버블과 달리 AI는 실제 수익(광고·클라우드·기업용 AI)으로 연결된다는 분석. (출처: [velloss](https://blog.naver.com/velloss/224308465450), [dsi_tech](https://blog.naver.com/dsi_tech/224308375640))
-
-
-## 🐦 SNS·블로그 인사이트 (2026-06-06)
-
-- **알파벳 $85B 유상증자 상세**: Alphabet이 AI 인프라 확장을 위해 약 800억 달러(한화 약 120조 원) 규모의 유상증자를 실시. 버크셔 해서웨이의 100억 달러 투자 참여 포함. 이는 2026-06-02 발표된 $80B 자금 조달 계획의 구체적 실행으로 글로벌 AI 인프라 투자 경쟁을 가속화하는 신호로 해석. (출처: [witch42](https://blog.naver.com/witch42/224308732777), 2026-06-06)
-- **밸류에이션 부담 낮음**: 미국 메가테크(M7) 기업들 중 Alphabet의 선행 PER은 20배 안팎으로 형성되어 있어 밸류에이션 측면에서 가장 부담 없는 가격대. 플랫폼과 AI의 결합 강점이 충분히 반영되지 않았다는 평가. (출처: [mappy1000](https://blog.naver.com/mappy1000/224308747440), 2026-06-06)
-
-
-## 🐦 SNS·블로그 인사이트 (2026-06-08)
-
-- **양자 컴퓨팅 '코어' 계층**: Alphabet(NVIDIA·Microsoft·IBM과 함께)은 양자 컴퓨팅 '코어(1층)'로 분류. 양자가 실패해도 본업(검색·광고·클라우드)이 견고하며, 성공 시 가장 큰 인프라 수혜자. NVIDIA의 CUDA-Q 플랫폼과 Alphabet의 AI 역량 간 양자·AI 융합 시너지 가능성. (출처: [high_hi_k](https://blog.naver.com/high_hi_k/224308896166), 2026-06-06) ⚠️개인 분석.
-
-- **ARK Invest Alphabet 267,000주 매집**: 캐시 우드(Cathie Wood)의 ARK Invest가 최근 Alphabet 주식 267,000주를 대규모 매집. (출처: [wnguddhkd](https://blog.naver.com/wnguddhkd/224309372711), 2026-06-08)
-
-- **워런 버핏의 Alphabet 선택**: 버크셔 해서웨이는 반독점 소송 리스크에도 불구하고 Alphabet의 압도적 현금흐름을 보고 대량 매입. 단기 리스크보다 장기적 현금 창출력을 평가한 결정으로 해석. (출처: [bitcoinatoz](https://blog.naver.com/bitcoinatoz/224309381730), 2026-06-08)
-
-- **핵융합 투자 연계**: Alphabet(구글)은 CFS(Commonwealth Fusion Systems)에 투자한 주요 기업 중 하나(NVIDIA와 함께). AI 데이터센터 전력 수요 급증에 대비한 장기 에너지 인프라 투자로 해석. (출처: [esiguy](https://blog.naver.com/esiguy/224309347735), 2026-06-08)
-
-- **스페이스X 간접 투자 경로**: Alphabet은 스페이스X 초기 투자자로 상당한 지분 보유. Alphabet 주식 또는 ARKX 같은 우주항공 ETF가 스페이스X 간접 투자 수단. (출처: [jk881822](https://blog.naver.com/jk881822/224309429498), 2026-06-08)
-
-- **Mag 7 Q1 2026 실적 성장률 약 +61%**: S&P 500 내 Mag 7(Alphabet·Amazon·Apple·Meta·MS·NVIDIA·Tesla)의 Q1 2026 earnings growth가 약 +61%로, 나머지 493개 기업(+5%)을 크게 상회. Alphabet의 $80B 자금 조달은 AI CapEx가 자본 시장 전체로 확장되는 신호. (출처: [opushk](https://blog.naver.com/opushk/224309450402), 2026-06-08)
-
-
-## 최근 이벤트 (2026-06-08)
-
-- **핵융합 기업 투자**: Alphabet(구글)이 AI 데이터센터 전력 수요 대응을 위해 핵융합 스타트업 CFS(Commonwealth Fusion Systems)에 투자한 것으로 알려짐. NVIDIA도 CFS에 참여하며 AI+핵융합 시너지 구도. (출처: [esiguy](https://blog.naver.com/esiguy/224309347735), 2026-06-08) ⚠️미확인
-
-- **스페이스X 지분 보유**: Alphabet은 스페이스X 초기 투자자로 상당한 지분을 보유 중이며, 이를 통한 간접 투자 경로가 존재. (출처: [jk881822](https://blog.naver.com/jk881822/224309429498), 2026-06-08)
-
-- **ARK Invest Alphabet 267,000주 매집**: 캐시 우드의 ARK Invest가 Alphabet 주식을 대규모 매집. (출처: [wnguddhkd](https://blog.naver.com/wnguddhkd/224309372711), 2026-06-08)
-
-- **Mag 7 실적 격차 심화**: S&P 500 Mag 7(Alphabet 포함)의 Q1 2026 earnings growth 약 +61% vs 나머지 493개사 +5%. Alphabet의 $80B 자금 조달은 AI CapEx가 자본 시장 전체로 확장되는 신호로 해석. (출처: [opushk](https://blog.naver.com/opushk/224309450402), 2026-06-08)
-
-
-## 최근 동향 (2026-06-08)
-
-- **Alphabet $80B 자금 조달 해석**: 시장 일각에서는 Alphabet의 대규모 자금 조달(Meta의 유상증자 검토설과 함께)을 'AI 투자가 영업현금흐름을 초과 → 빚·증자로 재원 마련'으로 해석하며 AI 버블 경계론 제기. (출처: [outsider_insider](https://blog.naver.com/outsider_insider/224309266899), 2026-06-08) ⚠️개인 분석
-
-- **고수익 투자 전략 관점**: 전 세계 자본을 빨아들이는 미국 1등 빅테크(MSFT, Alphabet 등)를 핵심 자산으로 정박하는 전략이 고수익·고변동성 시장에서 강조됨. (출처: [gon_yu](https://blog.naver.com/gon_yu/224308752193), 2026-06-08)
-
-- **구글의 800억 달러 유상증자 분석**: 구글(Alphabet)의 AI 생태계 핵심 기업으로서 검색 시장 지배력을 바탕으로 AI 투자 확대 중. AI 투자 부담과 기회를 동시에 평가해야 한다는 분석. (출처: [bnisee](https://blog.naver.com/bnisee/224309082276), 2026-06-08)
-
-- **원달러 환율 1,560원 돌파와 연계**: Alphabet의 850억 달러 규모 자금 조달이 환율 상승 압력의 일부로 작용. Meta도 AI 인프라 재원을 위해 대규모 지분 조달 검토 중이라는 Reuters 보도 언급. (출처: [duaiwa](https://blog.naver.com/duaiwa/224309104197), 2026-06-08)
-
-- **Mag 7 중심 투자 전략**: AI·클라우드·반도체·로봇·양자컴퓨팅·우주산업 등 미래 산업의 중심에 미국 빅테크(Alphabet·NVIDIA·MS·Apple·Amazon)가 위치. 미국 주식 장기 투자의 근거로 제시. (출처: [ksu1052](https://blog.naver.com/ksu1052/224309124251), 2026-06-08)
-
-
-## 🐦 SNS·블로그 인사이트 (2026-06-07~08)
-
-- **유상증자와 AI 투자의 패러독스**: Alphabet의 800억~850억 달러 유상증자는 AI 인프라 투자 확대의 명백한 신호이지만, 동시에 2026년 CAPEX 가이던스 1,800억~1,900억 달러로 상향되면서 투자 부담이 주가에 하방 압력으로 작용. Reuters 보도 이후 주가 변동성 확대. (출처: [ksb8435](https://blog.naver.com/ksb8435/224309504955), 2026-06-07)
-- **모든 돈을 쓸어먹은 AI '배탈' 우려**: AI 인프라에 막대한 자본이 집중되는 가운데, Alphabet·MS·Amazon·Meta 등 빅테크 4사의 CAPEX 폭증이 에너지·전력 인프라 수요를 폭발시키며 'AI 배탈(과잉투자→조정)' 리스크가 거론됨. (출처: [joymypark](https://blog.naver.com/joymypark/224309472552), 2026-06-07) ⚠️개인 분석
-- **스페이스X IPO와의 연계**: 스페이스X의 사상 최대 IPO(10억 달러)와 Alphabet의 850억 달러 주식 발행이 같은 시기 추진되며, 시장의 대규모 자금 흡수에 대한 우려가 제기됨. (출처: [newscham](https://newscham.net/articles/116579), 2026-06-08)
-- **삼성 픽테 로보틱스 펀드와의 연관성**: Amazon·Alphabet·Harmonic Drive 등 글로벌 로보틱스·AI 기업 포트폴리오와 알파벳의 AI 인프라 투자가 로보틱스 생태계 확장으로 이어질 가능성. AI 반도체 40%, 산업용 로봇 30%, 의료·물류 자동화 20% 구성의 집중형 펀드 전략 제시. (출처: [msg797979](https://blog.naver.com/msg797979/224309451832), 2026-06-07) ⚠️개인 분석
-
-
-## 🐦 SNS·블로그 인사이트 (2026-06-08)
-
-- **Alphabet 847.5억 달러 유상증자 확정**: Alphabet이 847.5억 달러(약 115조 원) 규모 유상증자를 단행. 버크셔 해서웨이가 100억 달러(약 10B) 참여. AI 인프라(CAPEX) 확장이 주 목적. (출처: [talkingtinveststory](https://blog.naver.com/talkingtinveststory/224309528238), 2026-06-08)
-- **AI 인프라 대규모 투자 시대**: Alphabet의 $80B 증자는 AI 인프라에 쏟아부을 대규모 자금 조달. Anthropic IPO, MS 자체 모델 개발 등 AI 업계 전반의 투자 확대 흐름의 일환. (출처: [rottensweetpotato](https://blog.naver.com/rottensweetpotato/224309561354), 2026-06-08)
-- **AI 3단계 진화와 Google의 위치**: AI 산업혁명 단계별 진화 관점에서 Google(Alphabet)은 자체 AI 반도체(TPU) 라인업과 글로벌 전력망을 무기로 차세대 AI 인프라 주도. Gemini 모델 진척 현황과 함께 클라우드 기준 약 30~35% 커버리지. (출처: [doctorkim-](https://blog.naver.com/doctorkim-/224309511030), 2026-06-08)
-- **CAPEX&Dilution Shock**: Alphabet의 대규모 자금 조달과 Meta 유상증자 검토가 'Big Tech CAPEX & Dilution Shock'으로 불리며 기술주 변동성 확대. Alphabet 분기 공시 기준 CAPEX 규모와 주식 희석 우려 공존. (출처: [moreskyscrapers](https://blog.naver.com/moreskyscrapers/224309609033), 2026-06-08)
-- **월가 거물들의 비밀 장부 투자 타깃**: Alphabet(GOOGL)이 MS와 함께 월가 거물 투자자들의 이번 달 집중 타깃으로 선정. 온디바이스 AI 및 에이전트 경쟁 과열 속에서 Alphabet의 검색 데이터와 AI 모델을 동시에 보유한 독보적 위치가 매력으로 평가됨. (출처: [bnisee](https://blog.naver.com/bnisee/224309743441), 2026-06-08)
-- **6월 첫째 주 나스닥 시총 4위**: 6/7 기준 Alphabet Inc.(GOOG) 시가총액 약 $4.5T, 주가 $365.76(-0.95%). 주간 -5.27% 기록. (출처: [hongsays](https://blog.naver.com/hongsays/224309541768), 2026-06-08)
-- **WWDC 2026과 Alphabet(Gemini) 협력**: Apple WWDC 2026에서 Alphabet(Google)은 제미나이(Gemini) 모델 라이선스 연동 및 차세대 Siri의 클라우드 기반 연산 협력사로 분류. (출처: [hwanz706](https://blog.naver.com/hwanz706/224309829270), 2026-06-08)
-
-
-## 2026-06-08 업데이트: 알파벳 847.5억 달러 유상증자 확정 및 AI 인프라 투자 심화
-
-- **유상증자 규모 확정**: Alphabet이 847.5억 달러(약 115조 원) 규모의 초대형 유상증자를 단행. 당초 계획(800억 달러)을 초과한 규모. AI 인프라 구축이 핵심 목적. (출처: [talkingtinveststory](https://blog.naver.com/talkingtinveststory/224309528238), 2026-06-08)
-- **버크셔 해서웨이 100억 달러 참여**: 워런 버핏의 버크셔 해서웨이가 100억 달러(약 10B)를 투자하며 AI 인프라 투자에 동참. (출처: [rottensweetpotato](https://blog.naver.com/rottensweetpotato/224309561354), 2026-06-08)
-- **AI 인프라 투자 경쟁 본격화**: Alphabet·MS·Amazon·Meta 등 빅테크의 CAPEX 폭증이 'Big Tech CAPEX & Dilution Shock'으로 불리며 시장 변동성 확대. (출처: [moreskyscrapers](https://blog.naver.com/moreskyscrapers/224309609033), 2026-06-08)
-- **Gemini 모델 진척**: Google(Alphabet)은 자체 AI 반도체(TPU) 라인업과 글로벌 전력망을 기반으로 차세대 AI 인프라 주도. Gemini 모델의 클라우드 커버리지 약 30~35%. (출처: [doctorkim-](https://blog.naver.com/doctorkim-/224309511030), 2026-06-08)
-
-
-## 📌 최신 요약 (2026-06-08 갱신)
-
-- **$84.75B 유상증자 확정**: Alphabet이 847.5억 달러(약 115조 원) 규모 유상증자 단행. 버크셔 해서웨이 $10B 참여. AI 인프라(CAPEX) 확장이 핵심 목적.
-- **AI 인프라 투자 경쟁 심화**: Alphabet·MS·Amazon·Meta 등 빅테크 CAPEX 폭증 → 'Big Tech CAPEX & Dilution Shock' 논쟁. AI 투자 사이클 지속 vs 과잉 투자 우려 공존.
-- **Gemini·TPU 수직 계열화 강점**: 자체 AI 반도체(TPU)와 제미나이 모델을 결합한 풀스택 AI 경쟁력 재확인. GCP 클라우드 커버리지 약 30~35%.
-- **WWDC 2026 협력**: Apple WWDC 2026에서 Alphabet(Google)의 제미나이 모델이 차세대 Siri 클라우드 연산 협력 모델로 분류.
-- **Mag 7 실적 차별화**: Q1 2026 earnings growth +61%(Mag 7) vs +5%(나머지). AI CapEx 확대가 실질적 수익으로 연결.
-- **주가 변동성**: 6/7 기준 GOOG $365.76(-0.95%), 주간 -5.27%. 시총 약 $4.5T(나스닥 4위).
+## 🐦 SNS·블로그 인사이트
+- **ETF 구성**: IVV ETF 내 Alphabet Class A 2~3%, Class C 2%. 시총 $3.8T~$4.5T 추정 (mr_uh, tkaaksl22).
+- **버핏의 선택**: 버크셔 해서웨이, 800억 달러 AI 조달 계획에 100억 달러 참여 (witch42, aimyon11).
+- **CAPEX & Dilution Shock**: 2026년 CAPEX 1,800~1,900억 달러로 상향. 탄탄한 수요 근거에도 주가 하방 압력으로 작용 (zen-trend-wave, moreskyscrapers).
+- **GCP 수익성 의문**: Gemini 학습비 별도 계상으로 GCP 이익이 과대계상되었다는 분석 (recrud).
+- **스페이스X 간접 투자**: Alphabet은 SpaceX 초기 투자사로 지분 보유 (chogar, jk881822).
+- **ARK Invest 매수**: Cathie Wood, Alphabet 267,000주 장바구니 편입 (wnguddhkd).
+- **양자 컴퓨팅 계층**: NVIDIA·MS와 함께 양자 인프라 코어 계층. 본업이 견고한 상태에서 양자 도약 기대 (high_hi_k).
+- **Mag 7 실적 집중**: 1Q26 Mag 7 순이익 +61% vs 나머지 +5%. AI 인프라 투자의 수익화 진행 중 (opushk).
+- **WWDC 2026**: Apple, 차세대 Siri에 Gemini 모델 탑재 협력 (hwanz706).
+- **6월 첫째 주**: GOOG $365.76, -5.27% (hongsays).
+- **AI 배탈 우려**: 인프라 과잉 투자로 에너지·전력 급등 가능성 (joymypark).
+- **삼성 픽테 로보틱스 연계**: Amazon·Alphabet 등 로보틱스 밸류체인 투자 전략 제시 (msg797979). ⚠️개인 분석.
