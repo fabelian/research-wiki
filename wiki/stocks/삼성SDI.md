@@ -7,7 +7,7 @@ ticker: 006400
 name: 삼성SDI
 sector: [[2차전지]]
 created: YYYY-MM-DD
-updated: YYYY-MM-DD
+updated: 2026-06-08
 
 ## 투자의견 컨센서스 추이
 
