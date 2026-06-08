@@ -1,3 +1,7 @@
+---
+type: stock
+name: LG화학
+---
 type: stock
 ticker: 051910
 name: LG화학

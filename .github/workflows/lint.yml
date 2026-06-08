@@ -1,0 +1,21 @@
+name: Wiki lint (주간 헬스체크)
+
+on:
+  schedule:
+    # 매주 월 22:00 UTC (KST 화 07:00)
+    - cron: "0 22 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run wiki lint (보고만 — 깨진 링크/고아/공백)
+        run: python tools/lint.py | tee "$GITHUB_STEP_SUMMARY"

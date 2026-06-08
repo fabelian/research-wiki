@@ -1,4 +1,4 @@
-name: Rebuild index (매일 정렬)
+name: Tidy & index (매일 정리·정렬)
 
 on:
   schedule:
@@ -14,7 +14,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  index:
+  tidy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -23,17 +23,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Fix links + frontmatter (명명정규화·쓰레기링크 해제·type 보강)
+        run: python tools/fix_wiki.py
       - name: Rebuild index.md (frontmatter → 최신순 정렬)
         run: python tools/build_index.py
       - name: Commit & push if changed
         run: |
-          if [ -z "$(git status --porcelain index.md)" ]; then
-            echo "index 변경 없음 — 커밋 생략"; exit 0
+          if [ -z "$(git status --porcelain wiki/ index.md)" ]; then
+            echo "변경 없음 — 커밋 생략"; exit 0
           fi
           git config user.name "index-bot"
           git config user.email "index-bot@users.noreply.github.com"
-          git add index.md
-          git commit -m "chore(index): 프론트매터 기반 재생성·최신순 정렬"
+          git add wiki/ index.md
+          git commit -m "chore(tidy): 링크 정규화·인덱스 재생성(최신순)"
           for i in 1 2 3; do
             git fetch origin main
             git rebase origin/main && git push origin HEAD:main && break || {

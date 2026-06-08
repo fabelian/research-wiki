@@ -1,3 +1,7 @@
+---
+type: stock
+name: Rocket Lab
+---
 type: stock
 ticker: RKLB
 name: Rocket Lab

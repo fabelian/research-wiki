@@ -1,3 +1,7 @@
+---
+type: stock
+name: Intuitive_Machines
+---
 type: stock
 ticker: LUNR
 name: Intuitive Machines

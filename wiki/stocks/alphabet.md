@@ -1,3 +1,7 @@
+---
+type: stock
+name: alphabet
+---
 
 '''
 type: stock
@@ -40,5 +44,5 @@ updated: 2026-05-27
 
 
 ## 최근 동향 (2026-06-05)
-- **AI 설비투자 경쟁 심화**: [[Alphabet]], Microsoft, Amazon, Meta 등 미국 4대 빅테크가 AI 패권 확보를 위해 대규모 설비투자를 집행하고 있으며, 4개사의 연간 총 투자액은 7250억 달러에 달할 것으로 전망됩니다. (출처: [junggi.co.kr](https://www.junggi.co.kr/news/articleView.html?idxno=36657), 2026-06-05).
+- **AI 설비투자 경쟁 심화**: [[alphabet]], Microsoft, Amazon, Meta 등 미국 4대 빅테크가 AI 패권 확보를 위해 대규모 설비투자를 집행하고 있으며, 4개사의 연간 총 투자액은 7250억 달러에 달할 것으로 전망됩니다. (출처: [junggi.co.kr](https://www.junggi.co.kr/news/articleView.html?idxno=36657), 2026-06-05).
 - **투자 재원 마련**: 상기 투자 재원 마련을 위해 주식과 채권을 발행하고 있는 것으로 보도되었습니다. (출처: [tokenpost.kr](https://www.tokenpost.kr/news/international/366407), 2026-06-05).

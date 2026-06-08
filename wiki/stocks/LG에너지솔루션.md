@@ -1,3 +1,7 @@
+---
+type: stock
+name: LG에너지솔루션
+---
 type: stock
 name: LG에너지솔루션
 sector: [[2차전지]]

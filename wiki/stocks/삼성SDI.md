@@ -1,3 +1,7 @@
+---
+type: stock
+name: 삼성SDI
+---
 type: stock
 ticker: 006400
 name: 삼성SDI
