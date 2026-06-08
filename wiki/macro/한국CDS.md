@@ -30,6 +30,7 @@ updated: 2026-06-06
 | 2026-06-06 | N/A | (SNS·블로그 내 한국CDS 언급 없음) |
 | 2026-06-06 | 22bp (안정) | VIX +38~40% 폭등·환율 1,560원 돌파에도 CDS 22bp 안정 — 경상수지 흑자 기반 대외건전성 신뢰 (https://blog.naver.com/blogdiary29/224308502758 , https://blog.naver.com/bjh6083/224308695271) |
 | 2026-06-07 | 22bp 내외 안정적 유지 | https://blog.naver.com/ecosketch21/224306659039 (네이버블로그·ecosketch21·보도기반) |
+| 2026-06-08 | N/A | N/A | 외환당국 구두개입·코스닥 서킷브레이커 발동 — 신용 리스크 모니터링 구간 | https://www.yna.co.kr/view/AKR20260608124100002?input=1195m , https://biz.heraldcorp.com/article/10766138?ref=naver |
 
 ## 셀사이드 전망
 | 증권사 | 날짜 | 전망레벨 | 기간 | 출처 |
