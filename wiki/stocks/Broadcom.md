@@ -282,3 +282,54 @@ updated: 2026-04-30
 - **금리·환율 동반 급등**: 30년물 국채금리 5.0% 돌파, 원/달러 NDF 21.05원 급등(1,558.55원 전망). (이투데이·서울경제 2026-06-07·보도기반)
 
 ⚠️블로그·보도기반 종합.
+
+
+## Broadcom 쇼크 타임라인 종합 (2026-06-03~08)
+
+### 📉 Broadcom 쇼크 개요
+- **핵심 원인**: Q3 AI 칩 매출 가이던스 $160억(컨센서스 $163.6~$172억 하회). 매출 자체는 견조했으나 '높아진 기대치'에 미달한 것이 폭락의 직접적 원인. (🐦네이버블로그 pure-vitamin 2026-06-07, 출처: Broadcom SEC 8-K 공시)
+- **'GPU vs ASIC+네트워킹' 구조 분화 심화**: Broadcom은 AI 네트워킹·맞춤형 ASIC의 핵심 플레이어. 엔비디아(두뇌) vs Broadcom(신경망) 포지셔닝. (🐦네이버블로그 nanuri_00 2026-06-07)
+- **밸류에이션 논쟁**: 2026년 예상 P/E 42.8배로 경쟁사 대비 프리미엄. 높은 멀티플이 금리 상승·성장 둔화 우려에 취약한 구조. (jusi-diary 2026-06-06)
+
+### 🔄 시장 파급 효과
+- **6/5(금) 美 반도체 10% 폭락**: 필라델피아 반도체 지수 10% 폭락·나스닥 4% 급락. 시총 약 1.3조 달러(2,000조 원) 증발. (🐦네이버블로그 fassionfollow 2026-06-06)
+- **6/8(월) '검은 월요일' 현실화**: 코스피 8% 폭락 서킷브레이커 발동. 삼성전자(-10.6%)·SK하이닉스(-19%) 급락. (BusinessKorea 2026-06-08)
+- **반도체 섹터 6년 만의 최악 하루**로 기록. MarketWatch 평가. (moojeok-in 2026-06-06)
+
+### 📊 상충하는 견해: '거품 붕괴' vs '속도 조절'
+- **AI 거품 붕괴론**: Broadcom 한 방에 섹터 전체 붕괴 → AI 랠리 취약성 노출. (🐦네이버블로그 hj6149·unity1211 2026-06-07)
+- **과민반응/속도 조절론**: "침체 아닌 속도 조절" — AI 수요 자체는 견조하나 시장 기대치가 과도. (🐦네이버블로그 sileolee 2026-06-07)
+- **시장 분석 통합**: "좋은 실적은 기본, 더 좋은 실적을 증명해야 하는 구간에 진입" — NVIDIA·Broadcom·AMD·TSMC 모두 동일. (🐦네이버블로그 dsi_tech 2026-06-07)
+
+### 🔗 경쟁 구도
+- **Broadcom vs Marvell**: Google이 TPU 파트너를 Broadcom 외 Marvell로 다변화하는 움직임이 장기 리스크. Marvell 매출 규모 Broadcom의 1/7~1/8. (🐦네이버블로그 gentlenavy 2026-06-07)
+- **엔비디아 생태계 방어 전략**: Broadcom·Marvell의 독자 생태계 구축에 대응해 한국 기업(SK하이닉스·삼성전자·LG·네이버·두산)을 방어 파트너로 확보. (eforestfarm 2026-06-07)
+- **AI RAN(무선액세스네트워크) 분야 진출**: Broadcom이 5G·AI RAN 밸류체인 주요 플레이어로 부상. (kth3276 2026-06-06)
+
+### ⚠️ 리스크 현황
+- **VMware 인수 후 고객 이탈 현실화**: 구독 모델 전환으로 Workstation 무료 사용자 재설치 어려움 호소 사례. (🐦네이버블로그 xia876·skdlzl12345 2026-06-07)
+- **CEO 혹크 탄 보상 논란**: NYT 2026-06-05 보도 — ESG 리스크 지속.
+- **유리기판 도입 검토**: 삼성전기 2027년 하반기 양산 목표. CoWoS 가격 급등이 도입 앞당기는 요인. (biztory26 2026-06-06)
+
+### 📈 Broadcom 편입 ETF 구성
+- **ACE 글로벌AI맞춤형반도체 ETF**: Broadcom·Marvell·AMD 등 AI 맞춤형 ASIC·네트워킹 기업 중심. (carsgoods 2026-06-07)
+- **AIPO ETF(AI+전력인프라)**: Broadcom·Quanta Services·Vertiv·GE Vernova·Eaton·Bloom Energy·NVIDIA·AMD·Cameco. (ssaleod 2026-06-06)
+- **S&P500 내 비중**: Broadcom 5.26%(상위 3위). NVIDIA 5.07%, AMD 4.73%, Intel 4.35%. (🐦네이버블로그 seunggabi 2026-06-07)
+
+⚠️출처: 복수 네이버 블로그·Reuters·증권가 보도 기반. 블로그 자료는 개인 분석·참고용.
+
+
+## 🐦 SNS·블로그 분석 종합 (2026-06-07~08 추가)
+
+- 🐦네이블로그(pure-vitamin, 2026-06-07): "실적 다 좋았는데 왜?" — Broadcom Q2 실적(+48% YoY $221.9B)에도 시장 기대치에 미달한 가이던스가 폭락 원인. 출처: Broadcom SEC 8-K 공시. (https://blog.naver.com/pure-vitamin/224309633098) ⚠️개인 분석.
+- 🐦네이버블로그(nanuri_00, 2026-06-07): '엔비디아 VS 브로드컴' — GPU(범용) vs ASIC+네트워킹(맞춤형) 구조 차이. AI 반도체 시장 분화 분석. (https://blog.naver.com/nanuri_00/224309470128) ⚠️개인 분석.
+- 🐦네이버블로그(hj6149, 2026-06-07): 'AI 버블론과 아시아 기술주의 검은 월요일' — Broadcom 실적 미스가 Valuation Derating 촉발. (https://blog.naver.com/hj6149/224309571256) ⚠️개인 분석.
+- 🐦네이버블로그(fire_danbi, 2026-06-07): '모두가 안전하다고 믿을 때가 가장 위험하다' — Broadcom AI 매출 143% 급증에도 VMware 경고 신호. (https://blog.naver.com/fire_danbi/224308462507) ⚠️개인 분석.
+- 🐦네이버블로그(cortana1001, 2026-06-07): '브로드컴 실적 쇼크, 왜 좋은 실적에도 주가는 급락했을까?' — Broadcom IR 발표 기반 상세 분석. (https://blog.naver.com/cortana1001/224309708564) ⚠️개인 분석.
+- 🐦네이버블로그(cozyspring, 2026-06-07): '젠슨 황이 한국에 가져온 4개의 선물' — NVIDIA·Broadcom·AMD·AI 서버 Super Micro·Dell Technologies 밸류체인 연결. (https://blog.naver.com/cozyspring/224309716595) ⚠️개인 분석.
+- 🐦네이버블로그(unity1211, 2026-06-07): '폭락하는 AI 반도체주, 거품론인가 단순 건강한 조정인가?' — Broadcom 보수적 가이던스가 경각심 촉발. (https://blog.naver.com/unity1211/224309740548) ⚠️개인 분석.
+- 🐦네이버블로그(dosinamjah, 2026-06-07): 'AI 시대의 숨은 강자? 브로드컴(AVGO)' — 네트워킹·브로드밴드·스토리지 사업 다각화 분석. (https://blog.naver.com/dosinamjah/224309556652) ⚠️개인 분석.
+- 🐦네이버블로그(timeandmoney1008, 2026-06-07): '한국 증시의 반도체 의존증' — Broadcom 가이던스 하나가 한국 증시 전체 흔든 구조 분석. (https://blog.naver.com/timeandmoney1008/224309559495) ⚠️개인 분석.
+- 🐦네이버블로그(gentlenavy, 2026-06-07): '마벨(MRVL) AI 데이터센터의 숨은 2인자' — Broadcom vs Marvell 경쟁 구도 심층. (https://blog.naver.com/gentlenavy/224309569370) ⚠️개인 분석.
+
+⚠️모든 블로그 자료는 개인 분석·참고용. 셀사이드 리포트와 신뢰도 차이 있을 수 있음.
