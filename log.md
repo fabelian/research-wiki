@@ -217,3 +217,8 @@
   - `wiki/themes/HBM.md` — 6/7 추가 동향(HBM칩스 마케팅·엔씨 협력·Vera Rubin 논란)
   - `wiki/themes/AI서버.md` — 📌 최신 요약 갱신, 6/7 추가 동향(SNS 4건 + 컴퓨트달러·AI 전력)
   - `wiki/themes/로보틱스.md` — 📌 최신 요약 갱신, 6/7 추가 동향(두산 시구·엔씨 협력·우래옥 오찬)
+
+
+## 2026-06-08 — 엔비디아·반도체 위키 갱신 (신규 블로그 뉴스 반영)
+- 신규 뉴스 5건 반영: SKT-엔비디아 AI 팩토리 협력(ittimesnews), 마이크론 13% 폭락 후 반등 분석(quanticinsider), AI 메모리·Vera CPU 패러다임 전환(aibefriend), SK하이닉스-엔비디아 공동 개발(onsumway)
+- 갱신 페이지: 엔비디아, 반도체, HBM, AI서버, 로보틱스 (append_block 5건)
