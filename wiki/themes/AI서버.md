@@ -540,3 +540,16 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 - **AI 3단계 진화와 Google TPU**: Google(Alphabet)의 자체 AI 반도체(TPU) 라인업과 글로벌 전력망이 AI 3단계 진화(데이터센터→에지→로보틱스)의 핵심 인프라로 평가. (출처: [doctorkim-](https://blog.naver.com/doctorkim-/224309511030), 2026-06-08)
 - **CAPEX&Dilution Shock 논쟁**: Alphabet의 대규모 자금 조달이 'Big Tech CAPEX & Dilution Shock'으로 불리며 AI 인프라 투자 과잉 논쟁 촉발. AI서버 투자 사이클 지속 vs 과잉 논쟁 심화. (출처: [moreskyscrapers](https://blog.naver.com/moreskyscrapers/224309609033), 2026-06-08)
 - **Google Cloud(GCP) AI 인프라 확장**: Alphabet의 GCP AI 인프라 투자 확대가 글로벌 AI서버 수요의 핵심 축으로 지속 평가됨. (출처: [rottensweetpotato](https://blog.naver.com/rottensweetpotato/224309561354), 2026-06-08)
+
+
+## 2026-06-08 업데이트
+
+### 🤝 네이버-엔비디아 DSX AI 팩토리 파트너십
+- 6/8 네이버클라우드-엔비디아, 기가와트급 AI 팩토리 구축 공식 발표. 초기 55MW→GW급 확장. 소버린 AI·피지컬 AI·LLM 전분야 협력. 검은월요일 폭락장 속 네이버 +10.96% 급등, AI서버 테마 차별화. (🐦네이버블로그 ttemoney·oper23300 2026-06-07·보도기반)
+
+### 🤝 젠슨 황-전영현 삼성 HBM·파운드리 회동
+- 6/8 삼성 서초사옥에서 전영현 부회장과 HBM·파운드리·AI 반도체 협력 논의. AI서버 테마의 삼성-SK 양사 협력 구도 주목. (경향신문·KBS 2026-06-08·보도기반)
+
+
+### 🌀 검은월요일 — AI서버 테마 변동성 극대화
+- 6/8(월) 삼성전자 -10.18%, SK하이닉스 -7.68% 동반 급락. 서킷브레이커 발동. 반면 네이버 +10.96% 급등 — AI 팩토리 협력이 단기 차별화 모멘텀으로 작용. 폭락장에서 AI 인프라 투자 사이클 자체는 유효하나 종목 간 차별화 확대. (🐦네이버블로그 oper23300·seo12 2026-06-07·보도기반)
