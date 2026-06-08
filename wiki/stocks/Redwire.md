@@ -57,3 +57,60 @@ updated: 2026-05-28
 *   [[지구 밖 공장 시대②] 무중력 공장·진공 반도체…우주에서 만드는 '초...](http://www.newsian.co.kr/news/articleView.html?idxno=87174)
 *   ['스페이스X IPO'에 낙관론 확대…우주산업 관심 '증폭'](https://www.theguru.co.kr/news/article.html?no=102276)
 *   [[김현철의 美증시] 유가 변동성 속 솟구치는 우주 테마주](http://www.00news.co.kr/news/articleView.html?idxno=104068)
+
+
+## 📌 최신 요약 (2026-06-01)
+- **주가 급등**: 2026년 5월 말, 스페이스X IPO 기대감에 힘입어 Redwire 주가가 26% 급등하며 22.04달러에 마감. 1개월 수익률은 163%에 달함. (출처: [네이버블로그](https://blog.naver.com/jeunkim/224301612019), [네이버블로그](https://blog.naver.com/hermebook/224303163402))
+- **수주잔고 급증**: 수주잔고가 전년 대비 71% 증가하며 사상 최대 기록. (출처: [네이버블로그](https://blog.naver.com/lawdata_galaxy/224302401327))
+- **핵심 사업**: 우주 태양광 패널(ROSA), 3D 프린팅, 우주 정거장 및 위성 핵심 구조물 제조, NASA·국방부 납품. (출처: [네이버블로그](https://blog.naver.com/narckgw/224302614966), [네이버블로그](https://blog.naver.com/fifastar007/224303215206))
+- **ETF 편입 비중**: SOL 미국우주항공 TOP10 ETF 내 비중 3.5%. (출처: [네이버블로그](https://blog.naver.com/ycnpark/224301614221))
+- **리스크**: 2026년 5월 말 블루오리진 로켓 폭발 사고로 우주 섹터 전반이 약세를 보이며 Redwire도 15.8% 하락한 날이 있었음. (출처: [네이버블로그](https://blog.naver.com/ballostark/224302281308), [네이버블로그](https://blog.naver.com/mok7593/224303424218))
+- **애널리스트 의견 분포**: HC Wainwright 목표가 22달러, Bank of America 목표가 6달러(Underperform)로 격차 큼. (출처: [네이버블로그](https://blog.naver.com/kidsdad/224303237023))
+
+
+## 2026-05-31 업데이트
+### 스페이스X IPO 기대감으로 주가 급등
+- 2026년 5월 말, 스페이스X의 IPO 추진 소식에 Redwire 주가가 26% 상승한 22.04달러에 마감. (출처: [네이버블로그](https://blog.naver.com/jeunkim/224301612019))
+- 한 달 만에 주가가 163% 급등하며 TIGER 미국우주테크 ETF 내 최고 비중 종목으로 부상. (출처: [네이버블로그](https://blog.naver.com/hermebook/224303163402))
+- 52주 최저가($4.87) 대비 약 5배 상승. (출처: [네이버블로그](https://blog.naver.com/fifastar007/224303215206))
+
+### 수주잔고 및 사업 호조
+- 수주잔고가 전년 대비 71% 증가하며 사상 최대 기록 경신. (출처: [네이버블로그](https://blog.naver.com/lawdata_galaxy/224302401327))
+- NASA 및 국방부 프로젝트 등 정부 수주가 주요 성장 동력. (출처: [네이버블로그](https://blog.naver.com/narckgw/224302614966))
+
+### ETF 편입
+- SOL 미국우주항공 TOP10 ETF: Redwire 비중 3.5%. (출처: [네이버블로그](https://blog.naver.com/ycnpark/224301614221))
+- TIGER 미국우주테크 ETF 내 최고 비중 종목으로 편입. (출처: [네이버블로그](https://blog.naver.com/quanticinsider/224302994638))
+
+### 리스크: 블루오리진 사고 영향
+- 2026년 5월 29일, 블루오리진 로켓 폭발 사고로 우주 섹터 전반이 급락. Redwire도 15.8% 하락. (출처: [네이버블로그](https://blog.naver.com/dhp039/224303398330), [네이버블로그](https://blog.naver.com/mok7593/224303424218))
+- Yahoo Finance 보도: "Space stocks tumble after Blue Origin rocket explodes and SpaceX's valuation gets a reality check". (출처: [네이버블로그](https://blog.naver.com/ballostark/224302281308))
+
+### 애널리스트 의견 분포
+- **HC Wainwright**: 매수, 목표가 22달러
+- **Bank of America**: Underperform, 목표가 6달러
+- 컨센서스: Moderate Buy, 평균 목표가 14.22달러 (현재가 21.39달러 대비 -33%). (출처: [네이버블로그](https://blog.naver.com/kidsdad/224303237023))
+
+### 사업 개요 (요약)
+- Redwire는 2020년 설립, 2021년 SPAC 합병으로 NYSE 상장.
+- 핵심 사업: 우주 롤아웃 태양광 어레이(ROSA), 3D 바이오프린팅, 우주 부품 및 구조물 제조, 방위 기술.
+- 고객: NASA, 미 국방부, SpaceX, 글로벌 제약사. (출처: [네이버블로그](https://blog.naver.com/fifastar007/224303215206))
+
+
+| 2026-06-02 | 제프리스(Jefferies) | Hold(강등, 기존 Buy) | $24 | 연초 대비 223% 급등을 이유로 강등 |
+
+
+| 2026-05-31 | HC Wainwright | Buy | $22 | (여러 블로그 종합) |
+
+
+| 2026-05-31 | Bank of America | Underperform | $6 | (여러 블로그 종합) |
+
+
+| 2026-06-04 | 8-K 매출 흐름 | 2022년 $150.9M → 2023년 $245.2M(+62.5%) → 2024년 $424.0M(+72.9%) | YoY 성장률 확대 중, 안정적 적자 축소(2024년 영업적자 -$42M, 2023년 -$63M 대비 개선) | [블로그](https://blog.naver.com/alwaysbe_h/224306489006) |
+
+
+## 📌 최신 요약 (2026-06-06)
+- **실적 성장 가속화**: 2024년 매출 $424.0M(+72.9% YoY), 영업적자 -$42M(2023년 -$63M 대비 개선). (출처: [네이버블로그](https://blog.naver.com/alwaysbe_h/224306489006))
+- **우주 온실 상업화 개시**: ISS에서 세계 최초 상업용 우주 온실(Greenhouse) 임무 시작. 딸기 재배로 우주 농업 시장 진출. (출처: [네이버블로그](https://blog.naver.com/envymask-/224306608683), [네이버블로그](https://blog.naver.com/jasonjedi/224307448276))
+- **ETF 편입 지속**: KODEX 미국항공우주 ETF 내 Redwire 비중 3.63%. (출처: [네이버블로그](https://blog.naver.com/cotton--/224307596518))
+- **3년 연속 고성장**: 2022→2024년 매출 CAGR 약 67%. 안정적 적자 축소 중. (출처: [네이버블로그](https://blog.naver.com/alwaysbe_h/224306489006))

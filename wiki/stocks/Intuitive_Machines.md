@@ -62,3 +62,8 @@ updated: 2026-04-15
 
 ## 상충하는 견해
 - **NASA 계약 관련 보도 (2026-05-27)**: 다수 매체는 Intuitive Machines가 NASA의 달 기지 건설 계약을 수주했다고 보도했으나, 이데일리(edaily.co.kr)는 '수주전에서 탈락해 주가가 급락했다'고 보도하여 내용이 상충됩니다. 이는 서로 다른 계약 건을 다루었거나 한쪽 보도에 오류가 있을 가능성을 시사합니다.
+
+
+## 2026-06-07 업데이트
+### 🐦SNS·블로그: 스페이스X 상장 수혜 ETF 분석
+- 네이버 블로그에서 '스페이스X 상장 수혜 ETF'로 ROKT(SPDR S&P Kensho Final Frontiers ETF)를 분석한 결과, Intuitive Machines은 4.75% 비중으로 세 번째 주요 보유 종목으로 확인되었습니다. ROKT는 Lockheed Martin(3.67%)보다 Intuitive Machines에 더 많이 투자하는 등 우주 순도가 높은 ETF로 평가됩니다. (출처: [네이버블로그](https://blog.naver.com/24th_onestep/224309058391))

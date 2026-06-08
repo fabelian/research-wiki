@@ -131,3 +131,89 @@
 
 # 2026-06-05~06 업데이트 기록
 - **현대차 위키 갱신**: 젠슨 황 방한 '4가지 선물' 발표 및 현대차 로보틱스 파트너십 공식 확인. 삼소 회동(6/5), 정의선-젠슨 황 6/8 단독 회동 예정, 아틀라스 '라보나 킥' 훈련법 공개, 현대모비스 로보틱스 부품사 대전환, 6/9 KODEX 로보틱스 ETF 상장 예정. (출처: hankyung, wikitree, mk, joseilbo, newstomato, upkoreanews 등 16건)
+
+
+## 2026-06-06 INGEST
+- **한국CDS(wiki/macro/한국CDS.md)**: VIX 40% 폭등·환율 1,560원 돌파에도 CDS 22bp 안정 유지 블로그 출처 2건 반영, 박상현 하나증권 전망 추가, 북한 리스크 변수 추가.
+- **VIX(wiki/macro/VIX.md)**: 한국CDS 디커플링 소식, 젠슨 황 로보틱스 투자 검토, 북한 리스크 추가.
+- **원달러환율(wiki/macro/원달러환율.md)**: 박상현 환율 상단 분석, 외국인 엑소더스 심층, 검은 월요일 우려 추가.
+- **반도체(wiki/sectors/반도체.md)**: 젠슨 황 로보틱스 투자 검토 추가.
+- 출처: 4건 블로그 기반(보도기반+🐦SNS·⚠️미확인)
+
+
+## 2026-06-07
+- **INGEST**: 엔비디아(NVDA) 관련 뉴스 20여건 반영 (잠실 시구·엔씨-엔비디아 피지컬 AI 협력)
+- **갱신 페이지**: `wiki/stocks/엔비디아.md` (최신요약·새 섹션), `wiki/sectors/반도체.md`, `wiki/themes/HBM.md`, `wiki/themes/AI서버.md`, `wiki/themes/로보틱스.md`
+- **핵심**: 두산-엔비디아 시구 이벤트가 피지컬 AI 협력의 상징으로 주목. 엔씨, NVIDIA Cosmos+월드 모델+RFM 삼중 개발로 게임-로봇 연결. index.md 미갱신(자동 생성).
+
+
+## 2026-06-07: 원달러환율 1,561원 업데이트 — '검은 월요일' 우려
+- **원달러환율**: 장중 1,561원(17년 최고), 인천공항 현찰 1,620원↑. 외국인 연간 118조 순매도. 구두개입 한계.
+- **매크로 반영**: 원달러환율·미국금리·VIX·공포탐욕지수·한국CDS·한국금리 스냅샷 히스토리 및 셀사이드 전망 갱신.
+- **반도체 섹터**: NH투자증권 변동성 장세 전망 추가.
+- **출처**: SBS·경향신문·연합뉴스TV·한겨레·대구일보·경남신문·게임샷·이데일리 2026-06-07.
+
+
+## 2026-06-08 INGEST
+- **소스**: 신규 뉴스 7건 (digitaltoday, thebell, ceoscoredaily, investchosun, metroseoul, g-enews, enewstoday)
+- **영향 페이지**: 
+  - `wiki/stocks/미래에셋증권.md` — 증권주 부진·센트비 IPO·미니맥스 IPO·발행어음 경쟁·분기 순이익 1조 돌파·updated 갱신
+  - `wiki/themes/SpaceX.md` — 일반 투자자 접근 경로·미래에셋증권 유일 인수단·미니맥스 IPO
+  - `wiki/sectors/증권.md` — 증권주 주가 부진·발행어음 경쟁 구도·분기실적 비교
+  - `wiki/macro/원달러환율.md`, `wiki/macro/한국금리.md`, `wiki/macro/미국금리.md`, `wiki/macro/VIX.md`, `wiki/macro/공포탐욕지수.md`, `wiki/macro/유가.md`, `wiki/macro/한국CDS.md` — 리포트 기준일(2026-06-05~07) 스냅샷 히스토리 행 1건씩 append (idempotent, 같은 날짜 이미 있으면 skip)
+  - `index.md` — (build_index.py 재생성시 자동 갱신)
+- **주요 변경**: 분기순이익 1조 돌파 실적 추가, 증권주 주가 부진 현황, 센트비·미니맥스 IPO 추가, 발행어음 경쟁 구도 업데이트
+
+
+## 2026-06-08: 삼성증권 위키 갱신
+- 박종문號 WM 경쟁력 'WM+IB+디지털자산' 삼각축 전략 추가
+- 디지털자산 협력 확대(KB증권 합류 가능성·한투 코인원 지분 인수) 반영
+- KB증권 8,000억 공모채 주관사 참여
+- 삼성증권 리서치 SKC HOLD(14만원) TP 히스토리 추가
+- 구창근 구다이글로벌 대표 선임(삼성증권 출신 인사 이동)
+- 삼성 계열사 주가 차별화 동향(금융주 강세 vs 전기·SDI 약세)
+- SpaceX 일반 투자자 진입 경로 정리
+
+
+## 2026-06-07 SNS·블로그 소스 캡처 등록
+
+아래 네이버블로그 게시물을 `raw/social/`에 신규 캡처합니다 (향후 위키 참조용).
+
+| 날짜 | 제목 | URL | 비고 |
+|------|------|-----|------|
+| 2026-06-07 | 엔비디아 젠슨황 방한 수혜주 총정리 | https://blog.naver.com/jdhho007/224309038648 | 투자자 관점 |
+| 2026-06-07 | 젠슨 황이 나눠준 HBM칩 과자 | https://blog.naver.com/aqaqaq222/224309040510 | 마케팅 분석 |
+| 2026-06-07 | HBM·GPU·NPU 반도체 특집 2탄 | https://blog.naver.com/yuko_taiga/224308957672 | 전 NVIDIA 엔지니어 |
+| 2026-06-07 | 반도체 병목현상의 치트키 | https://blog.naver.com/jackpotlady888/224308626083 | 소재 분석 |
+| 2026-06-07 | 젠슨 황 유퀴즈 촬영지 | https://blog.naver.com/qazqaz7678/224309043074 | 성북동 한국가구박물관 |
+| 2026-06-07 | 엔비디아 CEO 방한 후 달라질 기업들 | https://blog.naver.com/esiguy/224309045575 | 수혜주 분석 |
+| 2026-06-07 | LG전자 주가 급등 배경 | https://blog.naver.com/realfinance_/224309046135 | 로봇·AI 분석 |
+| 2026-06-07 | 6/7 경제뉴스 정리 | https://blog.naver.com/investock_/224309047614 | Reuters 인용 |
+| 2026-06-07 | 6/8 청파의 글로벌 뉴스 브리핑 | https://blog.naver.com/hermitsh/224309048032 | AI 메모리·로봇 |
+| 2026-06-07 | 젠슨 황은 어떤 사람인가 | https://blog.naver.com/zorbamoon/224309049832 | 방한 종합 |
+| 2026-06-07 | 잠실야구장 BBQ 치킨 현장 | https://blog.naver.com/dudcks6050/224309050369 | 시구 현장 |
+| 2026-06-07 | 페트로달러→컴퓨트달러 시대 | https://blog.naver.com/meyamo/224308510446 | AI 인프라 패러다임 |
+| 2026-06-07 | 엔비디아 ARM CPU SCF 기술 | https://blog.naver.com/simula/224306636102 | CPU 설계 분석 |
+| 2026-06-07 | AI 전력 소비 | https://blog.naver.com/insure_82/224308650139 | IEA 전망 |
+| 2026-06-07 | AI 에이전트+블록체인 | https://blog.naver.com/free_09_/224301858587 | Blackwell·헤데라 |
+| 2026-06-07 | 2026 엔비디아 관련주 대장주 TOP 3 | https://blog.naver.com/issuehunter331/224308887371 | 관련주 정리 |
+| 2026-06-07 | 잠실 시구 확정 | https://blog.naver.com/sunbook61/224307219897 | 일정 보도 |
+| 2026-06-07 | 젠슨황 선물 4가지 | https://blog.naver.com/goldenknight10/224308976598 | 피지컬 AI 협력 |
+| 2026-06-07 | AI 인체 복제 메타 버추얼 바이올로지 | https://blog.naver.com/erke2000/224308847017 | 글로벌 연구 |
+| 2026-06-07 | 피지컬 AI 관련주 | https://blog.naver.com/nftstandard/224308818603 | 생태계 분석 |
+| 2026-06-07 | LFP 배터리 AI 데이터센터 | https://blog.naver.com/zzugle1/224306113808 | 전력 냉각 |
+| 2026-06-07 | 다우지수 NVIDIA 편입 사 | https://blog.naver.com/jennifermam/224309052698 | 세계경제사 |
+| 2026-06-07 | 엔비디아 방한 AI 시대 승자 | https://blog.naver.com/jasanplus/224309053065 | 로드맵·협업 |
+| 2026-06-07 | 금+주식 동반 폭등 2026 전략 | https://blog.naver.com/zzic01/224309053266 | AI 반도체 실적 |
+
+⚠️ 모든 게시물은 개인 블로그 분석으로, 공식 발표와 다를 수 있습니다.
+
+
+### 2026-06-07 엔비디아 위키 갱신
+- **원천**: 네이버블로그 24건 (2026-06-07), 주요 뉴스 보도 기반
+- **갱신 페이지**:
+  - `wiki/stocks/엔비디아.md` — 📌 최신 요약 갱신, SNS·블로그 6/7 관점 24건 추가
+  - `wiki/sectors/반도체.md` — 📌 최신 요약 갱신, 6/7 추가 동향(SNS 4건 + 검은 월요일·젠슨황 4일차)
+  - `wiki/themes/HBM.md` — 6/7 추가 동향(HBM칩스 마케팅·엔씨 협력·Vera Rubin 논란)
+  - `wiki/themes/AI서버.md` — 📌 최신 요약 갱신, 6/7 추가 동향(SNS 4건 + 컴퓨트달러·AI 전력)
+  - `wiki/themes/로보틱스.md` — 📌 최신 요약 갱신, 6/7 추가 동향(두산 시구·엔씨 협력·우래옥 오찬)
