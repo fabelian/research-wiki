@@ -26,6 +26,20 @@ updated: 2026-06-07
 | 2026-06-07 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | 스페이스X의 유력한 경쟁자이자 파트너. 소형 로켓 시장 독보적 기술력, 위성 제작 서비스까지 확장. NASA ETF 내 ~10.3% 비중. 출처: kangho1119, ahahsla9 블로그
 | 2026-06-07 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | 분기 매출 성장과 수주잔고 확대 지속. Electron 소형 발사체 + 우주 시스템·위성 부품·제조. 소형 발사체 시장 독점적 위치. 출처: mysemotip 블로그
 | 2026-06-07 | 🐦SNS·블로그 | N/A | N/A | 화성 탐사 물류·우주 발사체 부문에서 Rocket Lab이 초기 상용화 단계로 분류됨. NASA 화성 탐사 미션과 연계. 출처: portfolio2100 블로그
+| 2026-06-02 | 🐦SNS·블로그 | 매수(강세) | N/A | '소형 로켓 달인'으로 평가. SpaceX·Blue Origin과 함께 민간 우주 3대 기업으로 분류. 출처: [과학기술 제8강](https://blog.naver.com/seoulseniorscollege/224304897309) |
+| 2026-06-07 | 🐦SNS·블로그 bnisee | 매수(강세) | N/A | '우주 인프라와 피지컬 AI의 궁극적 결합'으로 평가. 연초 대비 236%+ 상승, 하반기 혁신 주도주 전망. 출처: [bnisee 블로그](https://blog.naver.com/bnisee/224309089524) |
+| 2026-06-07 | 🐦SNS·블로그 bnisee | 매수(강세) | N/A | 소형 위성 시장 성장, 우주 산업 확대, 국방 수주 증가를 핵심 투자포인트로 제시. 출처: [bnisee 블로그](https://blog.naver.com/bnisee/224309090691) |
+| 2026-06-07 | 🐦SNS·블로그 saloon21 | N/A | N/A | TIGER 미국우주테크 ETF 내 비중 20.83%(2위). 1위 Redwire(RDW), 3위 Intuitive Machines(LUNR). 출처: [saloon21 블로그](https://blog.naver.com/saloon21/224309384221) |
+| 2026-06-07 | 🐦SNS·블로그 latte3e | 매수(강세) | N/A | '중소형 로켓 발사 분야의 강자'로 평가. TIGER 미국우주테크 ETF 내 Redwire·Rocket Lab·Intuitive Machines·AST SpaceMobile이 핵심 구성. 출처: [latte3e 블로그](https://blog.naver.com/latte3e/224309454533) |
+| 2026-06-07 | 🐦SNS·블로그 coke17088 | 매수(강세) | N/A | 루나 이코노미(달 경제) 테마의 대표 수혜주로 Intuitive Machines, L3Harris, Lockheed Martin과 함께 언급. 출처: [coke17088 블로그](https://blog.naver.com/coke17088/224309495641) |
+| 2026-06-08 | 🐦SNS·뉴스 sisacast | 매수(강세) | N/A | 스페이스X 상장이 우주항공 산업 전반의 '가격 기준점'이 될 것이라는 기대감으로 Rocket Lab 같은 대안 종목으로 자금 유입 뚜렷. 발사체 기술 내재화와 위성 사업 강조. 출처: [sisacast](http://www.sisacast.kr/news/articleView.html?idxno=96478) |
+| 2026-06-02 | 🐦SNS·블로그 | 매수(강세) | N/A | '소형 로켓 달인'으로 평가. SpaceX·Blue Origin과 함께 민간 우주 3대 기업으로 분류. 출처: [과학기술 제8강](https://blog.naver.com/seoulseniorscollege/224304897309) |
+| 2026-06-07 | 🐦SNS·블로그 bnisee | 매수(강세) | N/A | '우주 인프라와 피지컬 AI의 궁극적 결합'으로 평가. 연초 대비 236%+ 상승, 하반기 혁신 주도주 전망. 출처: [bnisee 블로그](https://blog.naver.com/bnisee/224309089524) |
+| 2026-06-07 | 🐦SNS·블로그 bnisee | 매수(강세) | N/A | 소형 위성 시장 성장, 우주 산업 확대, 국방 수주 증가를 핵심 투자포인트로 제시. 출처: [bnisee 블로그](https://blog.naver.com/bnisee/224309090691) |
+| 2026-06-07 | 🐦SNS·블로그 saloon21 | N/A | N/A | TIGER 미국우주테크 ETF 내 비중 20.83%(2위). 1위 Redwire(RDW), 3위 Intuitive Machines(LUNR). 출처: [saloon21 블로그](https://blog.naver.com/saloon21/224309384221) |
+| 2026-06-07 | 🐦SNS·블로그 latte3e | 매수(강세) | N/A | '중소형 로켓 발사 분야의 강자'로 평가. TIGER 미국우주테크 ETF 내 Redwire·Rocket Lab·Intuitive Machines·AST SpaceMobile이 핵심 구성. 출처: [latte3e 블로그](https://blog.naver.com/latte3e/224309454533) |
+| 2026-06-07 | 🐦SNS·블로그 coke17088 | 매수(강세) | N/A | 루나 이코노미(달 경제) 테마의 대표 수혜주로 Intuitive Machines, L3Harris, Lockheed Martin과 함께 언급. 출처: [coke17088 블로그](https://blog.naver.com/coke17088/224309495641) |
+| 2026-06-08 | 🐦SNS·뉴스 sisacast | 매수(강세) | N/A | 스페이스X 상장이 우주항공 산업 전반의 '가격 기준점'이 될 것이라는 기대감으로 Rocket Lab 같은 대안 종목으로 자금 유입 뚜렷. 발사체 기술 내재화와 위성 사업 강조. 출처: [sisacast](http://www.sisacast.kr/news/articleView.html?idxno=96478) |
 
 ## 핵심 투자포인트
 - **민간 우주 발사체 기업**: [[SpaceX]]의 경쟁사 중 하나로 언급되며, 소형 위성 발사 시장에서 입지를 다지고 있습니다. (출처: [segyebiz.com](http://www.segyebiz.com/newsView/20260414515083?OutUrl=naver))
@@ -124,3 +138,18 @@ updated: 2026-06-07
 - **TIGER 미국우주테크 ETF 내 비중 1위(~21.3%)**: ETF 내 실질적 대장주
 - **SpaceX와 차별화 전략**: Electron(소형, $7.5M) + Neutron(중형, ~13,000kg) 이원화
 - **2026년 하반기 주도주 테마**: AI 다음 테마로 우주·방산 주목, Rocket Lab이 대표 수혜주
+
+
+## 📌 최신 요약 (2026-06-08)
+- **스페이스X 상장 D-4, Rocket Lab에 '가격 기준점' 기대감**: 스페이스X 상장이 우주항공 산업 전반의 밸류에이션 기준이 될 것이라는 전망 속 Rocket Lab으로 자금 유입 뚜렷 (출처: sisacast)
+- **TIGER 미국우주테크 ETF 내 Rocket Lab 비중 20.83%** (2위, Redwire 1위), Intuitive Machines 17.26%, AST SpaceMobile 12.33%
+- **연초 대비 +236% 상승**, 하반기 '우주 인프라와 피지컬 AI의 결합' 테마 주도주 전망 (출처: bnisee)
+- **'루나 이코노미'(달 경제) 수혜주**: Intuitive Machines, L3Harris, Lockheed Martin과 함께 달 경제 테마의 핵심 기업으로 분류
+- **소형 로켓 발사 분야 강자 + 중소형 위성 시장 성장 + 국방 수주 증가** 3중 성장 모멘텀
+
+
+## 2026-06-08 업데이트 (스페이스X 상장 D-4, Rocket Lab 관련 분석)
+- **스페이스X 상장이 Rocket Lab에 미치는 영향**: sisacast 보도에 따르면, 스페이스X 상장이 우주항공 산업 전반의 '가격 기준점'(price benchmark) 역할을 할 것이라는 기대감으로 Rocket Lab 같은 대안 종목으로 자금이 몰리는 흐름이 뚜렷함. 발사체 기술 내재화와 위성 사업 확장이 강조됨. (출처: [sisacast](http://www.sisacast.kr/news/articleView.html?idxno=96478))
+- **TIGER 미국우주테크 ETF 구성 비중 업데이트**: saloon21 블로그 분석에 따르면, TIGER 미국우주테크 ETF의 구성 비중은 Redwire(RDW) 1위, Rocket Lab(RKLB) 20.83% 2위, Intuitive Machines(LUNR) 17.26% 3위, AST SpaceMobile(ASTS) 12.33% 4위, Planet Labs(PL) 순. (출처: [saloon21 블로그](https://blog.naver.com/saloon21/224309384221))
+- **루나 이코노미(Lunar Economy) 테마**: Rocket Lab이 Intuitive Machines, L3Harris, Lockheed Martin 등과 함께 달 경제(루나 이코노미) 테마의 핵심 수혜주로 분류됨. 다만 우주산업은 아직 수익화까지 시간이 오래 걸리는 분야라는 점이 리스크로 지적됨. (출처: [coke17088 블로그](https://blog.naver.com/coke17088/224309495641))
+- **하반기 주도주 테마**: bnisee 블로그는 하반기 미국 주식 시장을 주도할 혁신 테마로 '우주 인프라와 피지컬 AI의 결합'을 제시하며, Rocket Lab을 우주항공 산업의 대장주로 평가. 연초 대비 236% 이상 상승했으며, 소형 위성 시장 성장, 우주 산업 확대, 국방 수주 증가를 3대 투자포인트로 꼽음. (출처: [bnisee 블로그](https://blog.naver.com/bnisee/224309089524), [bnisee 블로그](https://blog.naver.com/bnisee/224309090691))
