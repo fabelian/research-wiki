@@ -315,3 +315,25 @@ updated: 2026-06-06
 
 ### 🐦 CXL 메모리·기업용 SSD — HBM 외 메모리 수요 경로
 - 🐦네이버블로그(lorelex, 2026-06-07): 값비싼 GPU 대신 CXL(Compute Express Link) 메모리 확장 기술이 비용 병목 해결 대안. 삼성전자·SK하이닉스·솔리다임 기업용 SSD 매출 증가. HBF(Hybrid Bonding Flash) — HBM 속도와 SSD 용량 결합 신기술. ⚠️개인 분석.
+
+
+## 2026-06-08 업데이트
+
+### 🏭 한미반도체 HBM4 TC본더 442억 수주 — 양산 본격화
+- SK하이닉스가 한미반도체에 442억원 규모 HBM4 제조용 TC본더 4.5 그리핀 장비 발주. 계약기간~2027-02-19. HBM4 양산 단계 본격 진입 신호. (https://www.etoday.co.kr/news/view/2591475 , https://www.etnews.com/20260608000314)
+
+### 🤝 SK-엔비디아 AI 팩토리·2년 LTA 공식 체결
+- 6/8 SK서린빌딩 공동 발표: 엔비디아-SK, 2년 LTA 공식 체결. SK하이닉스는 엔비디아와 글로벌 AI 팩토리용 차세대 메모리 공동 개발. (http://www.the-biz.co.kr/news/articleView.html?idxno=722128 , https://blog.naver.com/chkkim22/224309517988)
+- 젠슨 황 "SK하이닉스는 엔비디아의 핵심 파트너" — 단순 공급→설계·제조 전방위 AI 동맹 격상. (http://www.the-biz.co.kr/news/articleView.html?idxno=722128)
+
+### 🐦 SK네트웍스 AI 동맹 테마 확산
+- SK네트웍스, HBM 테마 수혜 기대감에 상한가. AI 동맹이 SK그룹주 전반으로 확산. (https://www.ajunews.com/view/20260608140715386)
+
+### 🍪 HBM칩스 '젠슨 황 효과' — BBQ·HBM칩스 매출 급증
+- 젠슨 황 방한 일정 중 등장한 BBQ 치킨·HBM칩스·하이트진로 등 동반 수혜. HBM 대중 인지도 → 실제 소비 데이터로 입증. (https://www.asiatime.co.kr/article/20260608500247)
+
+
+| 2026-06-08 | 🏭 한미반도체, SK하이닉스 HBM4 TC본더 442억 수주 — 양산 본격화 (이투데이·전자신문) |
+| 2026-06-08 | 🤝 SK-엔비디아 2년 LTA 공식 체결 + AI 팩토리 공동 개발 선언 (더비즈) |
+| 2026-06-08 | 🐦 SK네트웍스 AI 동맹 테마 상한가 (아주경제) |
+| 2026-06-07~08 | 🍪 HBM칩스-젠슨황 효과 BBQ·K치킨·주류로 확산 (아시아타임) |

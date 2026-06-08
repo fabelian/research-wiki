@@ -338,3 +338,22 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 ### 📉 '검은 월요일' — AI서버 테마 동반 급락
 - 6/8(월) 장 초반 코스피 8%대 폭락·사이드카 발동. AI서버 관련주(삼성전자·SK하이닉스·LG전자·네이버) 동반 급락. (🐦네이버블로그 warren_buffett30·pigeonmh, 2026-06-07·보도기반)
 - 외국인 기계적 리밸런싱(한국 비중 규정 초과)이 매도 구조적 요인. 단기 과민반응 vs 구조적 성장론 논쟁 최고조. (🐦네이버블로그 9590jeong, 2026-06-07·개인 분석)
+
+
+## 2026-06-08 업데이트
+
+### 🤝 SK-엔비디아 'AI 팩토리' 공동 개발·2년 LTA 공식 발표
+- 6/8 SK서린빌딩 공동 발표: SK하이닉스-엔비디아 차세대 AI 팩토리 메모리 공동 개발 + 2년 LTA 체결. 황 CEO "SK하이닉스는 엔비디아의 핵심 파트너". (http://www.the-biz.co.kr/news/articleView.html?idxno=722128 , https://blog.naver.com/chkkim22/224309517988)
+- **SKT-엔비디아 AI 클라우드 동맹**: 양사 AI 팩토리를 GW급 규모로 확장, 2027년 한국에서 첫 운영 개시. HBM→AI 클라우드·디지털트윈으로 협력 확대. (http://www.newstomato.com/ReadNews.aspx?no=1303265&inflow=N , https://www.industrynews.co.kr/news/articleView.html?idxno=81888)
+- SKT는 엔비디아 코스모스·아이작 그루트 활용 로봇 시뮬레이션 고도화도 병행. SK하이닉스 반도체 제조 공정에 디지털 트윈 적용 중. (https://www.industrynews.co.kr/news/articleView.html?idxno=81888)
+- **엔비디아 생태계 대응**: SK진영 수직계열화(HBM+AI클라우드+통신) → 브로드컴·마블 독자 생태계에 맞서는 엔비디아 진영의 플랫폼화 전략. (https://blog.naver.com/worldeconemy/224308949278)
+
+### 🐦 외국인 매도 100조 — '기계적 비중 조정' 해석
+- 🐦네이버블로그(jkyun0621, 2026-06-07): MSCI Korea 내 삼성전자·SK하이닉스 비중 62% 급등→외국인 리밸런싱이 매도의 핵심 원인. '한국 이탈' 아닌 포트폴리오 재조정. (https://blog.naver.com/jkyun0621/224309507209)
+
+### 🐦 SK네트웍스 AI 동맹 테마 상한가
+- SK네트웍스, 최태원-젠슨황 AI 협력 기대감에 상한가. AI서버 테마가 SK그룹주 전반 확산. (https://www.ajunews.com/view/20260608140715386)
+
+
+| 2026-06-08 | 🤝 SK-엔비디아 AI팩토리·2년 LTA 공식발표 — SKT AI클라우드 동맹, 2027년 한국 첫 운영 |
+| 2026-06-08 | 🐦 SK네트웍스 AI 협력 기대 상한가 — 테마 전반 확산 |
