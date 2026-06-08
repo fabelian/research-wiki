@@ -222,3 +222,9 @@
 ## 2026-06-08 — 엔비디아·반도체 위키 갱신 (신규 블로그 뉴스 반영)
 - 신규 뉴스 5건 반영: SKT-엔비디아 AI 팩토리 협력(ittimesnews), 마이크론 13% 폭락 후 반등 분석(quanticinsider), AI 메모리·Vera CPU 패러다임 전환(aibefriend), SK하이닉스-엔비디아 공동 개발(onsumway)
 - 갱신 페이지: 엔비디아, 반도체, HBM, AI서버, 로보틱스 (append_block 5건)
+
+
+## 2026-06-08: Alphabet 위키 갱신
+- **대상**: alphabet, 인터넷플랫폼, 제미나이, AI서버 페이지
+- **내용**: 847.5억 달러 유상증자 확정·버크셔 100억 달러 참여·AI 인프라 투자 심화·WWDC 2026 Gemini 협력·AI 3단계 진화 내 Google TPU 위치
+- **출처**: 네이버블로그 7건 (talkingtinveststory, rottensweetpotato, doctorkim-, moreskyscrapers, bnisee, hongsays, hwanz706)

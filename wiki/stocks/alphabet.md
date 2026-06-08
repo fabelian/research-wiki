@@ -130,3 +130,32 @@ updated: 2026-05-27
 - **모든 돈을 쓸어먹은 AI '배탈' 우려**: AI 인프라에 막대한 자본이 집중되는 가운데, Alphabet·MS·Amazon·Meta 등 빅테크 4사의 CAPEX 폭증이 에너지·전력 인프라 수요를 폭발시키며 'AI 배탈(과잉투자→조정)' 리스크가 거론됨. (출처: [joymypark](https://blog.naver.com/joymypark/224309472552), 2026-06-07) ⚠️개인 분석
 - **스페이스X IPO와의 연계**: 스페이스X의 사상 최대 IPO(10억 달러)와 Alphabet의 850억 달러 주식 발행이 같은 시기 추진되며, 시장의 대규모 자금 흡수에 대한 우려가 제기됨. (출처: [newscham](https://newscham.net/articles/116579), 2026-06-08)
 - **삼성 픽테 로보틱스 펀드와의 연관성**: Amazon·Alphabet·Harmonic Drive 등 글로벌 로보틱스·AI 기업 포트폴리오와 알파벳의 AI 인프라 투자가 로보틱스 생태계 확장으로 이어질 가능성. AI 반도체 40%, 산업용 로봇 30%, 의료·물류 자동화 20% 구성의 집중형 펀드 전략 제시. (출처: [msg797979](https://blog.naver.com/msg797979/224309451832), 2026-06-07) ⚠️개인 분석
+
+
+## 🐦 SNS·블로그 인사이트 (2026-06-08)
+
+- **Alphabet 847.5억 달러 유상증자 확정**: Alphabet이 847.5억 달러(약 115조 원) 규모 유상증자를 단행. 버크셔 해서웨이가 100억 달러(약 10B) 참여. AI 인프라(CAPEX) 확장이 주 목적. (출처: [talkingtinveststory](https://blog.naver.com/talkingtinveststory/224309528238), 2026-06-08)
+- **AI 인프라 대규모 투자 시대**: Alphabet의 $80B 증자는 AI 인프라에 쏟아부을 대규모 자금 조달. Anthropic IPO, MS 자체 모델 개발 등 AI 업계 전반의 투자 확대 흐름의 일환. (출처: [rottensweetpotato](https://blog.naver.com/rottensweetpotato/224309561354), 2026-06-08)
+- **AI 3단계 진화와 Google의 위치**: AI 산업혁명 단계별 진화 관점에서 Google(Alphabet)은 자체 AI 반도체(TPU) 라인업과 글로벌 전력망을 무기로 차세대 AI 인프라 주도. Gemini 모델 진척 현황과 함께 클라우드 기준 약 30~35% 커버리지. (출처: [doctorkim-](https://blog.naver.com/doctorkim-/224309511030), 2026-06-08)
+- **CAPEX&Dilution Shock**: Alphabet의 대규모 자금 조달과 Meta 유상증자 검토가 'Big Tech CAPEX & Dilution Shock'으로 불리며 기술주 변동성 확대. Alphabet 분기 공시 기준 CAPEX 규모와 주식 희석 우려 공존. (출처: [moreskyscrapers](https://blog.naver.com/moreskyscrapers/224309609033), 2026-06-08)
+- **월가 거물들의 비밀 장부 투자 타깃**: Alphabet(GOOGL)이 MS와 함께 월가 거물 투자자들의 이번 달 집중 타깃으로 선정. 온디바이스 AI 및 에이전트 경쟁 과열 속에서 Alphabet의 검색 데이터와 AI 모델을 동시에 보유한 독보적 위치가 매력으로 평가됨. (출처: [bnisee](https://blog.naver.com/bnisee/224309743441), 2026-06-08)
+- **6월 첫째 주 나스닥 시총 4위**: 6/7 기준 Alphabet Inc.(GOOG) 시가총액 약 $4.5T, 주가 $365.76(-0.95%). 주간 -5.27% 기록. (출처: [hongsays](https://blog.naver.com/hongsays/224309541768), 2026-06-08)
+- **WWDC 2026과 Alphabet(Gemini) 협력**: Apple WWDC 2026에서 Alphabet(Google)은 제미나이(Gemini) 모델 라이선스 연동 및 차세대 Siri의 클라우드 기반 연산 협력사로 분류. (출처: [hwanz706](https://blog.naver.com/hwanz706/224309829270), 2026-06-08)
+
+
+## 2026-06-08 업데이트: 알파벳 847.5억 달러 유상증자 확정 및 AI 인프라 투자 심화
+
+- **유상증자 규모 확정**: Alphabet이 847.5억 달러(약 115조 원) 규모의 초대형 유상증자를 단행. 당초 계획(800억 달러)을 초과한 규모. AI 인프라 구축이 핵심 목적. (출처: [talkingtinveststory](https://blog.naver.com/talkingtinveststory/224309528238), 2026-06-08)
+- **버크셔 해서웨이 100억 달러 참여**: 워런 버핏의 버크셔 해서웨이가 100억 달러(약 10B)를 투자하며 AI 인프라 투자에 동참. (출처: [rottensweetpotato](https://blog.naver.com/rottensweetpotato/224309561354), 2026-06-08)
+- **AI 인프라 투자 경쟁 본격화**: Alphabet·MS·Amazon·Meta 등 빅테크의 CAPEX 폭증이 'Big Tech CAPEX & Dilution Shock'으로 불리며 시장 변동성 확대. (출처: [moreskyscrapers](https://blog.naver.com/moreskyscrapers/224309609033), 2026-06-08)
+- **Gemini 모델 진척**: Google(Alphabet)은 자체 AI 반도체(TPU) 라인업과 글로벌 전력망을 기반으로 차세대 AI 인프라 주도. Gemini 모델의 클라우드 커버리지 약 30~35%. (출처: [doctorkim-](https://blog.naver.com/doctorkim-/224309511030), 2026-06-08)
+
+
+## 📌 최신 요약 (2026-06-08 갱신)
+
+- **$84.75B 유상증자 확정**: Alphabet이 847.5억 달러(약 115조 원) 규모 유상증자 단행. 버크셔 해서웨이 $10B 참여. AI 인프라(CAPEX) 확장이 핵심 목적.
+- **AI 인프라 투자 경쟁 심화**: Alphabet·MS·Amazon·Meta 등 빅테크 CAPEX 폭증 → 'Big Tech CAPEX & Dilution Shock' 논쟁. AI 투자 사이클 지속 vs 과잉 투자 우려 공존.
+- **Gemini·TPU 수직 계열화 강점**: 자체 AI 반도체(TPU)와 제미나이 모델을 결합한 풀스택 AI 경쟁력 재확인. GCP 클라우드 커버리지 약 30~35%.
+- **WWDC 2026 협력**: Apple WWDC 2026에서 Alphabet(Google)의 제미나이 모델이 차세대 Siri 클라우드 연산 협력 모델로 분류.
+- **Mag 7 실적 차별화**: Q1 2026 earnings growth +61%(Mag 7) vs +5%(나머지). AI CapEx 확대가 실질적 수익으로 연결.
+- **주가 변동성**: 6/7 기준 GOOG $365.76(-0.95%), 주간 -5.27%. 시총 약 $4.5T(나스닥 4위).

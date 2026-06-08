@@ -532,3 +532,11 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 
 ### 🛸 구글-스페이스X 300억 달러 AI 클라우드 계약
 - 구글, 스페이스X와 약 40조원 규모 AI 클라우드 계약 체결. 스페이스X 엔비디아 GPU 11만 대를 구글에 제공. 미이행 시 구글 해지권. (뉴스핌 2026-06-08)
+
+
+## 🐦 SNS·블로그 인사이트 (2026-06-08)
+
+- **Alphabet 847.5억 달러 유상증자와 AI서버 수요**: Alphabet이 847.5억 달러 유상증자(버크셔 100억 달러 포함)로 AI 인프라 구축 자금 조달. 이는 글로벌 AI 인프라 투자 경쟁을 가속화하는 신호로, AI서버·HBM 수요 확대의 핵심 동력. (출처: [talkingtinveststory](https://blog.naver.com/talkingtinveststory/224309528238), 2026-06-08)
+- **AI 3단계 진화와 Google TPU**: Google(Alphabet)의 자체 AI 반도체(TPU) 라인업과 글로벌 전력망이 AI 3단계 진화(데이터센터→에지→로보틱스)의 핵심 인프라로 평가. (출처: [doctorkim-](https://blog.naver.com/doctorkim-/224309511030), 2026-06-08)
+- **CAPEX&Dilution Shock 논쟁**: Alphabet의 대규모 자금 조달이 'Big Tech CAPEX & Dilution Shock'으로 불리며 AI 인프라 투자 과잉 논쟁 촉발. AI서버 투자 사이클 지속 vs 과잉 논쟁 심화. (출처: [moreskyscrapers](https://blog.naver.com/moreskyscrapers/224309609033), 2026-06-08)
+- **Google Cloud(GCP) AI 인프라 확장**: Alphabet의 GCP AI 인프라 투자 확대가 글로벌 AI서버 수요의 핵심 축으로 지속 평가됨. (출처: [rottensweetpotato](https://blog.naver.com/rottensweetpotato/224309561354), 2026-06-08)
