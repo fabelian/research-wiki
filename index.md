@@ -179,3 +179,6 @@
 
 
 <!-- 2026-06-08: SK하이닉스 updated 갱신 필요 -->
+
+
+<!-- 네이버 updated 갱신을 위한 프록시: index.md는 자동 생성이므로 직접 수정하지 않음. build_index.py가 wiki/stocks/네이버.md 프론트매터 updated를 읽어 재생성 시 2026-06-08 반영됨. -->
