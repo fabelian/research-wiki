@@ -184,3 +184,34 @@ updated: 2026-04-30
 ## Broadcom과 AI 반도체 생태계 분화 추가 분석 (2026-06-07)
 - **AI 반도체 생태계 'GPU→ASIC+네트워킹' 본격 분화**: GPU(엔비디아) 독점 시대에서 ASIC 맞춤형 칩(Broadcom·Marvell) + 네트워킹 칩(Broadcom)으로 시장 확장. 빅테그(Google·Meta·Amazon) 자체 칩 개발 트렌드의 핵심 수혜주가 Broadcom. (carsgoods 네이버블로그 2026-06-07)
 - **엔비디아의 대응**: Broadcom·Marvell의 독자 생태계 구축 움직임에 대응해 한국 기업들(SK하이닉스·삼성전자·LG·네이버·두산·게임사)을 방어 파트너로 확보하는 전략 본격화. (eforestfarm 네이버블로그 2026-06-07)
+
+
+## 🐦 SNS·블로그 추가 관점 (2026-06-07~08)
+
+- 🐦네이버블로그(cocoboss_deodorant, 2026-06-07): '반도체 급락과 이란 전쟁, 흔들린 미국 증시' — Broadcom 실적 실망과 고평가 부담이 반도체주 급락 촉발. 기대가 너무 높아진 상태에서 Broadcom의 실적·가이던스가 시장 눈높이를 만족시키지 못한 것이 핵심 원인. ⚠️개인 분석. (출처: https://blog.naver.com/cocoboss_deodorant/224309089499)
+- 🐦네이버블로그(normalguyer, 2026-06-07): 'SK하이닉스 GDR 유럽장 폭락' — Broadcom 실적 전망 실망으로 글로벌 반도체 주가 붕괴, 유럽 독일 거래소 SK하이닉스 GDR 장중 폭락. ⚠️개인 분석. (출처: https://blog.naver.com/normalguyer/224309096230)
+- 🐦네이버블로그(money-coin-rich, 2026-06-07): 'SK하이닉스 -10% 폭락의 진실' — Broadcom발 'AI 숙취(Hangover)' 개념 제시. AI 인프라 천문학적 자금 대비 회수 사이클 지연 우려. ⚠️개인 분석. (출처: https://blog.naver.com/money-coin-rich/224309103207)
+- 🐦네이버블로그(copymid, 2026-06-07): '브로드컴 쇼크란? AI 반도체 기대감이 흔들린 이유' — Broadcom 실적 자체는 나쁘지 않았으나, 시장 기대치가 너무 높아 쇼크로 작용했다는 해석. ⚠️개인 분석. (출처: https://blog.naver.com/copymid/224309124938)
+- 🐦네이버블로그(ccipop, 2026-06-07): '삼성전자 -10% 폭락' — '검은 월요일'의 주범을 AI 반도체 피크아웃(고점 통과) 우려로 지목. ⚠️개인 분석. (출처: https://blog.naver.com/ccipop/224309114532)
+- 🐦네이버블로그(noworwait, 2026-06-07): '에이직랜드 주가 전망 AI ASIC 수혜주' — Broadcom 2026회계연도 2분기 실적 관련 Reuters 보도 인용. AI ASIC 시장 성장은 확인됐으나, 수주→양산 매출 연결이 확인된 기업만 장기 수혜 분석. ⚠️개인 분석. (출처: https://blog.naver.com/noworwait/224309109589)
+- 🐦네이버블로그(dsi_tech, 2026-06-07): '시장은 절대금액보다 성장 속도를 본다' — NVIDIA·Broadcom·AMD·TSMC 모두 '얼마나 더 좋으냐'를 증명해야 하는 구간. 호크 탄 CEO의 $160억 가이던스는 사실상 'AI 사업은 여전히 성장 중이나 시장 기대만큼 빠르진 않다'는 신호로 해석. (출처: https://blog.naver.com/dsi_tech/224309185448)
+- 🐦네이버블로그(doctorkim-, 2026-06-07): '글로벌 AI혁명의 권력이동' — 빅테크(Google·Meta·Amazon)의 자체 맞춤형 AI칩(ASIC) 확대가 Broadcom의 핵심 성장 동력. 엔비디아 의존도↓·Broadcom 수혜↑ 구조. ⚠️개인 분석. (출처: https://blog.naver.com/doctorkim-/224309184873)
+- 🐦네이버블로그(terute222, 2026-06-07): 'SK하이닉스 유럽장 변동성' — Broadcom 실적 발표가 글로벌 반도체 조정의 첫 단초. 매출과 성장 속도 조절이 전 세계 경제 판도와 충돌. ⚠️개인 분석. (출처: https://blog.naver.com/terute222/224309124500)
+- 🐦네이버블로그(ffwm, 2026-06-07): '2026-06-08 오늘의 경제 한 줄' — Broadcom 급락 → 반도체 지수 약 9% 폭락. ⚠️개인 분석. (출처: https://blog.naver.com/ffwm/224309109177)
+- 🐦네이버블로그(butler_siru, 2026-06-07): '2026년 06월 1주차 적립식 투자 일기' — Broadcom 2분기 매출·EPS 시장 예상 소폭 상회했으나, 3분기 AI 칩 가이던스가 문제. 수요일 밤 Broadcom 실적 쇼크가 모든 하락의 도화선. ⚠️개인 투자 일기. (출처: https://blog.naver.com/butler_siru/224309146536)
+- 🐦네이버블로그(rich-or-rip, 2026-06-07): 'SOX -10.26% 단일 세션 폭락' — Broadcom 어닝 가이던스 동결이 직격탄. 마이크론 2일 -17%. 'AVGO 어닝 = AI 정점 베팅 트리거'로 해석. ⚠️개인 분석. (출처: https://blog.naver.com/rich-or-rip/224309181541)
+
+
+## 🐦 SNS·블로그 추가 관점 (2026-06-07~08 계속)
+
+- 🐦네이버블로그(hankng, 2026-06-07): '[속보] 코스피 개장 직후 8% 폭락…서킷 브레이커 발동' — Broadcom 가이던스 쇼크(AI 거품론 대두)가 직접적 트리거. 2분기 실적은 예상 상회했으나 3분기 AI 칩 매출이 문제. ⚠️개인 분석. (출처: https://blog.naver.com/hankng/224309143381)
+- 🐦네이버블로그(diehard20811, 2026-06-07): '삼성전자·SK하이닉스 10% 폭락! 검은 월요일' — Broadcom 실적 자체는 나쁘지 않았으나, 시장이 'AI 매출 전망을 또 상향할 것'이라는 기대에 미달해 쇼크 발생. ⚠️개인 분석. (출처: https://blog.naver.com/diehard20811/224309139117)
+- 🐦네이버블로그(seunggabi, 2026-06-07): 'MTUM ETF 주가 전망' — Broadcom이 S&P500 내 비중 5.26%(상위 3위)로 확인. AI 거품론 속에서도 S&P500 내 Broadcom의 시장 대표성 재확인. (출처: https://blog.naver.com/seunggabi/224309095080)
+- 🐦네이버블로그(neosense98, 2026-06-07): '동일가중 ETF' — S&P500 상위 5종목 중 Broadcom 3.60% 비중(2026.06.05 기준). 엔비디아·애플·MS·아마존에 이어 5위. (출처: https://blog.naver.com/neosense98/224308795702)
+- 🐦네이버블로그(wok8017, 2026-06-07): '6월 8일 코스피 검은 월요일 폭락 4대 악재' — Broadcom 컨퍼런스콜에서 'Google이 칩 공급처를 다변화할 수 있다'는 우려 제기. AI CAPEX 우려의 균열로 해석. ⚠️개인 분석. (출처: https://blog.naver.com/wok8017/224309121994)
+- 🐦네이버블로그(jackpotlady888, 2026-06-07): '폭락하면 무조건 담아라, 다음 반등장에서 세게 오를 종목 TOP 5' — Broadcom Official Investor Relations 링크와 함께 Broadcom을 반등 시 유력 종목으로 제시. ⚠️개인 분석·투자 판단 참고용. (출처: https://blog.naver.com/jackpotlady888/224309041445)
+- 🐦네이버블로그(investing_news, 2026-06-07): '코스피 8,800 찍고 315p 폭락한 이유' — Broadcom AI칩 매출 가이던스 시장 기대 미달 + 마이크론 CEO 지분 매각 소식이 글로벌 반도체 투심 위축 촉발. ⚠️개인 분석. (출처: https://blog.naver.com/investing_news/224309152269)
+- 🐦네이버블로그(blackdog710, 2026-06-07): '뭐든지 사봐야 안다' — Broadcom 가이던스 실망 + 5월 고용 서프라이즈(금리 인상/고금리 장기화 우려)로 NVIDIA·AMD·Intel·Broadcom 등 칩주 대규모 매도. ⚠️개인 분석. (출처: https://blog.naver.com/blackdog710/224309161394)
+- 🐦네이버블로그(0bhu7uuuuuuuuuuuiikh, 2026-06-07): '[손경제] 블랙먼데이 공포' — Broadcom 2분기 매출 전년 대비 48% 증가한 222억 달러. 통신 칩 및 맞춤형 반도체 설계 대기업으로서의 펀더멘털은 견조하나, 전력 인프라 부족에 따른 매출 이연·가이던스 실망이 문제. (출처: https://blog.naver.com/0bhu7uuuuuuuuuuuiikh/224309152793)
+- 🐦네이버블로그(365insight_news, 2026-06-07): '엔비디아 SOCAMM' — CES 2026 엔비디아 키노트+증권가 리포트 종합. Broadcom 실적 가이드라인이 국내외 AI 반도체 밸류체인에 미친 영향 분석. ⚠️개인 분석. (출처: https://blog.naver.com/365insight_news/224309146465)
+- 🐦네이버블로그(qerachon_adonai, 2026-06-07): '6월 8일 증시 브리핑 — 나스닥 -4.2% 반도체 쇼크' — Broadcom AI 칩 매출 가이던스 실망 + 강한 고용 데이터(금리 인상 가능성)가 시장 전반 흔들며 나스닥 4.2% 급락·반도체 ETF 폭락. (출처: https://blog.naver.com/qerachon_adonai/224309109664)
