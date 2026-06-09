@@ -247,3 +247,23 @@ updated: 2026-06-08
 ### 🐦 SNS·블로그 인사이트 (2026-06-08~09) — 추가
 - 🐦네이블로그(meong-gae, 2026-06-08): QQQ·QQQM 차이 비교 — QQQM(저비용 장기형) vs QQQ(단기 트레이딩). Broadcom은 QQQ·QQQM 주요 편입 종목. 운용보수 QQQ 0.20% vs QQQM 0.15%. (https://blog.naver.com/meong-gae/224310446098) ⚠️참고용.
 - 🐦네이블로그(84jojo, 2026-06-08): "MOONSHOTS — AI가 AI를 만드는 세상" — Broadcom AI 칩 가이던스 하향(Q3 $160B vs 예상 $172B)이 AI 캐펙스 정점 우려 촉발. 장기 시장 구조 유효하나 단기 변동성 국면. (https://blog.naver.com/84jojo/224310518974) ⚠️개인 분석.
+
+
+## 2026-06-09 업데이트 — 美·韓 반도체 급반등·코스피 4%+ 매수 사이드카 발동
+
+### 📈 6/9(화) 급반등 — 코스피 +8.18%·매수 사이드카 발동
+- **코스피 +8.18%(8,097)**: '검은 월요일' 폭락(-8.29%) 다음 날 美 반도체 반등 연동 + 韓 기관 대규모 순매수(약 2조 5천억원)로 8,000선 회복. (Korea JoongAng Daily 2026-06-09)
+- **매수 사이드카 발동**: 코스피 4%+ 급등으로 KRX가 매수 사이드카(call auction) 발동. 전날 서킷브레이커(매도) → 다음 날 매수 사이드카로 극한 변동성 장세 시현. (Korea JoongAng Daily 2026-06-09)
+- **삼성전자 +8.97%·SK하이닉스 +8.56%**: 30만전자·200만닉스 회복. SK하이닉스 시총 1조달러 클럽 재진입. 기관 순매수 주도.
+- **환율 급락(-22.9원, 1,512.1원)**: 당국 구두개입·외국인 매도 진정으로 환율 안정, 외국인 환차손 완화. (ytn 2026-06-09)
+
+### 🇺🇸 6/8 美 증시 반도체 동반 반등
+- SOX +5.61% 반등 — Broadcom 쇼크 과민반응 해소. Oracle 클라우드 매출 가이던스 호조(+44~+48% 상수환율)가 AI 수요 견조 재확인. (Korea JoongAng Daily 2026-06-09 인용)
+- Broadcom +2.82%, Micron +9.87%, Nvidia +1.73%, AMD +5.14%, Intel +11%.
+
+### 🐦 SNS·블로그 인사이트
+- 🐦네이버블로그(dogokdongja, 2026-06-09): "하루 만에 대반전 — SOX +5.6%, Micron 급등은 HBM4·DRAM ASP 상승세 재확인". ⚠️개인 분석.
+- 🐦네이버블로그(adp_jht, 2026-06-09): "Oracle 호조가 AI 수요 견조 확인 — Broadcom 충격 완화". (https://blog.naver.com/adp_jht/224310991572) ⚠️개인 분석.
+
+### 출처
+- Korea JoongAng Daily (2026-06-09): [Kospi jumps more than 4%, triggers buy-side sidecar after tech shares rebound](https://www.koreajoongangdaily.com/business/kospi-jumps-more-than-4-triggers-buy-side-sidecar-after-tech-shares-rebound/12696821)
