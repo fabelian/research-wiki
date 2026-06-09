@@ -10,11 +10,14 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 
 ## 📌 최신 요약 (2026-06-08)
 - **공모가 $135 확정, 기업가치 Tesla 상회 전망**: 6월 12일 나스닥 상장 예정. 공모가 기준 시가총액이 Meta·Tesla를 넘볼 수준이라는 평가. ([디지털데일리](https://www.digitaltoday.co.kr/news/articleView.html?idxno=664391), [NYT](https://www.nytimes.com/))
-- **미래에셋증권 단독 청약 주관·완판**: 6월 5일 1차(3억 달러) 1분 완판, 6월 8일 2차(2억 달러) 2분 완판. 총 5억 달러(약 7,700억 원) 모집. (출처: [연합뉴스](https://www.yna.co.kr/view/AKR20260608073600008), [etoday](https://www.etoday.co.kr/news/view/2590856))
+- **미래에셋증권 단독 청약 주관·전량 완판**: 6월 5일 1차(3억 달러) 1분 완판, 6월 8일 2차(2억 달러) 2분 완판. 총 5억 달러(약 7,700억 원) 모집. (출처: [연합뉴스](https://www.yna.co.kr/view/AKR20260608073600008), [etoday](https://www.etoday.co.kr/news/view/2590856), [fnnews](http://www.fnnews.com/news/202606081814115635))
 - **금감원 현장 점검 진행**: 청약 과열로 투자자 보호·불완전판매 여부 점검 중. (출처: [조세일보](http://www.joseilbo.com/news/news_read.php?uid=569582))
-- **일반 투자자 진입 경로**: 전문투자자(최소 $10만) 제한으로 직접 청약 불가. 상장 후 해외주식 계좌(키움·미래에셋·삼성·KB·NH) 매수, ETF(KODEX 우주항공·TIGER 우주방산·FPX) 간접 투자, 미래에셋그룹 펀드 등 3가지 경로 활용 가능. (출처: [rajsyj 블로그](https://blog.naver.com/rajsyj/224309048922))
+- **일반 투자자 진입 경로**: 전문투자자(최소 $10만) 제한으로 직접 청약 불가. 상장 후 해외주식 계좌 매수, ETF(KODEX 우주항공·TIGER 우주방산·FPX) 간접 투자, 미래에셋그룹 펀드 등 3가지 경로. (출처: [rajsyj 블로그](https://blog.naver.com/rajsyj/224309048922))
 - **주요 경쟁사**: [[Rocket Lab]]이 SDA Tranche 3 수주($8.05억), 수주잔고 22억 달러 확대로 직접 비교 대상으로 부각. (출처: [네이버블로그](https://blog.naver.com/deisler07/224307228737))
 - **리스크 요인**: 대형 IPO로 인한 글로벌 유동성 흡수·국내 증시 수급 악화 우려, 스타쉽/xAI R&D 비용 급증에 따른 영업손실 확대, 밸류에이션 고평가 논란. (출처: [삼성증권](https://www.sidae.com/article/2026060508410545639))
+- **삼성운용 푸른씨앗 OCIO 재선정**: 미래에셋증권과 함께 1기 전담 운용기관이었으나 2기는 삼성운용 단독 수주(신한운용과 접전). ([einfomax](https://news.einfomax.co.kr/news/articleView.html?idxno=4418926))
+- **韓 반도체 새 수요처 전망**: 스페이스X 상장이 중장기적으로 한국 반도체 산업에 신규 수요 창출 계기로 작용 가능. ([kookje](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260609.22012001892))
+- **국내 증시 기회론**: "메가IPO 스페이스X 상장, 국내 증시에 기회될까" — ETF 간접 투자 수요 급증, 반도체·우주산업 연계 효과 기대. ([betanews](https://www.betanews.net/article/view/beta202606080132), [econovill](https://www.econovill.com/news/articleView.html?idxno=741849), [mediawatch](https://www.mediawatch.kr/news/article.html?no=259932))
 
 ## 애널리스트 분석
 
@@ -27,6 +30,7 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 | 2026-06-05 | [[KB증권]] 김일혁 | 스페이스X 상장 후 기존 성장주 비중 축소 자금 이동 가능 | [매일경제](https://www.mk.co.kr/article/12067070) |
 | 2026-06-05 | [[미래에셋증권]] 서상영 | 브로드컴·시에나 급락은 AI 업황 둔화보다 실적-기대치 괴리 때문, 스페이스X IPO가 변동성 요인 | [헤럴드경제](https://biz.heraldcorp.com/article/10764047?ref=naver) |
 | 2026-06-08 | [[미래에셋증권]] 서상영 | 스페이스X 청약 자금이 유동성 위축 요인으로 작용 | [네이버블로그](https://blog.naver.com/latorre4157/224309354677) |
+| 2026-06-08 | 삼성자산운용 | 푸른씨앗 OCIO 전담 운용기관 재선정 — 미래에셋증권은 1기 공동 운용기관이었으나 2기는 삼성운용 단독 | [einfomax](https://news.einfomax.co.kr/news/articleView.html?idxno=4418926) |
 
 ## 핵심 동향 (테마)
 
@@ -121,3 +125,15 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 - **IPO 일정 확정 (6월 12일)**: SpaceX IPO를 앞두고 국내 증권사 브로커리지 수요 급증 전망. 기존 Tesla·우주 ETF 간접 투자자들이 직접 보유로 전환 예상. (출처: Korea Herald 2026-06-08)
 - **IPO 밸류에이션, Tesla 추월 관측**: SpaceX 시가총액이 Tesla를 넘어 S&P 500 내 Top 5 진입 가능성 제기. (출처: coinreaders.com 2026-06-08)
 - **Terafab 공동 투자 부담**: Tesla·SpaceX·xAI 공동 AI 칩 복합단지 'Terafab' 투자 부담이 IPO 리스크로 부각. (출처: 🐦 네이버블로그 iamteslam)
+
+
+| 2026-06-08 | **2차 청약 2분 완판** (2억 달러). 1·2차 합계 5억 달러 모집 완료. "스페이스X 상장, 한국 반도체에 새 수요처" 전망 제기. 삼성운용 푸른씨앗 OCIO 재선정(미래에셋증권 공동 1기→삼성운용 단독 2기). | ([fnnews](http://www.fnnews.com/news/202606081814115635), [kookje](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260609.22012001892), [einfomax](https://news.einfomax.co.kr/news/articleView.html?idxno=4418926)) |
+
+
+## 🐦 SNS·블로그 인사이트 — 추가 (2026-06-08)
+- **스페이스X IPO 흥행과 ETF 수요**: "스페이스X 공모주 완판에 우주 ETF로 뭉칫돈. KODEX 우주항공·TIGER 우주방산 매수세 집중." ([newsian](http://www.newsian.co.kr/news/articleView.html?idxno=90662), [econovill](https://www.econovill.com/news/articleView.html?idxno=741849))
+- **"스페이스X 상장, 한국 반도체 새 수요처"**: "스페이스X가 필요한 AI 칩·통신 반도체 수요가 한국 반도체 산업에 기회." ([kookje](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260609.22012001892))
+- **"메가IPO, 국내 증시 기회될까"**: "청약 자금 유출 우려보다 중장기 반도체·우주산업 연계 효과에 주목." ([betanews](https://www.betanews.net/article/view/beta202606080132))
+
+
+| 2026-06-08 | **"메가IPO 스페이스X, 국내 증시 기회될까"** — ETF 간접 투자 수요 급증, 한국 반도체 산업 신규 수요 창출 전망, 상장 후 해외주식 계좌 매수 채널 대기 | ([betanews](https://www.betanews.net/article/view/beta202606080132), [kookje](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260609.22012001892), [mediawatch](https://www.mediawatch.kr/news/article.html?no=259932)) |
