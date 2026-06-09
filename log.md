@@ -237,3 +237,6 @@
 
 
 * 2026-06-08 06:30+ — ingest: 엔비디아 관련 뉴스 26건(리얼월드·LG·현대차·네이버·기가바이트·SWM.AI·트릴리온랩스·SKT·엔씨·루닛·한세실업·전삼성엔지니어·송자호·유퀴즈·게임사연대 등) → 엔비디아·반도체·HBM·AI서버·로보틱스 페이지 upsert_block+append_block 갱신. 인용: industrynews·itdaily·koreaherald·newsis·yonhap·nocutnews·chosun·etnews·wowtv·newspim·thelec·news1·joongangenews·koreabiomed·starnewskorea·koreatimes·cbci·breaknews·smedaily·thefirstmedia·siminilbo·khgames 등
+
+
+- 2026-06-09: 6/8 5시 뉴스 26건 ingest — 유가(WTI 88) 트럼프 합의 발언 하락 · 원달러 1,512원 급락 · 정유/화학 공급차질 분석 · 금리·환율 동반 안정
