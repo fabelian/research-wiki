@@ -429,3 +429,9 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 
 ### 🐦 YTN 박석현 분석 (2026-06-09)
 - 엔비디아 투자처+외부 자금 조달 통한 네이버 데이터센터 투자 — AI 관련주 차익실현 경고. (ytn.co.kr 2026-06-09)
+
+
+## 2026-06-09 업데이트 — 에이수스 RTX Spark ProArt 미니PC·美 반도체 반등 지속
+
+### 🖥️ 에이수스, 컴퓨텍스 2026서 NVIDIA RTX Spark 기반 ProArt 미니PC 공개 (2026-06-09)
+- 에이수스(ASUS), 컴퓨텍스 2026서 ROG 20주년 기념 하이엔드 라인업과 함께 NVIDIA RTX Spark 기반 ProArt 미니PC 공개. 최대 128GB 통합 메모리, 개인 AI 에이전트·창작·게임용 강력한 AI 성능. (출처: [thisisgame.com 2026-06-09](https://www.thisisgame.com/articles/425740))
