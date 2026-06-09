@@ -352,3 +352,14 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 ### 🐦 AI서버·반도체 추가 분석
 - 🐦네이버블로그(ecoqueen14): WAR ETF(방산+AI 반도체) 내 마이크론 6.89% 비중. (출처: [ecoqueen14](https://blog.naver.com/ecoqueen14/224309948561)) ⚠️개인 분석.
 - 🐦네이버블로그(tysinvs): 글로벌 증시 관전 포인트 — Marvell +7.7%, 마이크론 +3.7% 상승. 유가 상승이 국채 금리 끌어올리는 가운데 AI 반도체 반등. (출처: [tysinvs](https://blog.naver.com/tysinvs/224310172091)) ⚠️개인 분석.
+
+
+## 2026-06-09 업데이트 — 6/8 美 AI·반도체주 반등
+
+### 📈 6/8 美 증시 반등
+- SOX +5.61%, 마이크론 +9.9%, Marvell +9.6%(S&P 500 편입), 인텔 +11.1%(구글 AI 칩 수주 기대), 엔비디아 +1.73%, AMD +5.14%. (출처: [wallstbridge](https://blog.naver.com/wallstbridge/224310255451))
+- VIX 21.51→18.92(정상), 공포탐욕지수 40(Fear). 이란-이스라엘 휴전 협상·과매도 인식. (출처: [gogofree2030](https://blog.naver.com/gogofree2030/224310176515))
+
+### 🤖 AI 인프라 투자 지속성 확인
+- 애널리스트 마이크론 매출 추정치 $337~409억(6/24 발표) — AI 데이터센터 투자 속도 확인 관건. (출처: [archi-so](https://blog.naver.com/archi-so/224310220422))
+- 엔비디아 메모리 공급부족 재해석: "엔비디아가 더 절실한 이유" — HBM 공급 부족 구조 지속. (출처: [dsi_tech](https://blog.naver.com/dsi_tech/224310317194)) ⚠️개인 분석.

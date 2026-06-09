@@ -275,3 +275,13 @@ updated: 2026-06-08
 ### 📊 HBM 시장 분석
 - AI 시대 핵심 부품 패러다임: 마이크론 HBM3E 공정 기술 성장으로 엔비디아 주요 공급사 한 축 확보. (출처: [shrouded_isles](https://blog.naver.com/shrouded_isles/224310131098))
 - HBM 시장 SK하이닉스 점유율 최고, 삼성전자·마이크론 경쟁 구도 지속. (출처: [benign_shine](https://blog.naver.com/benign_shine/224310075529))
+
+
+## 2026-06-09 업데이트 — HBF 소문·마이크론 비밀 병기
+
+### 🔬 HBF(Hybrid Bonding Flash) — 마이크론도 참여 중
+- 🐦블로그(jbl250125): "미국 마이크론의 비밀 병기 개발설" — 현재 언론에는 삼성·SK·샌디스크 위주로 HBF가 언급되지만, 마이크론도 HBF 개발 중일 가능성. (출처: [jbl250125](https://blog.naver.com/jbl250125/224310174362)) ⚠️미확인 루머.
+- Sandisk·Kioxia·Micron·Samsung Electronics 모두 유사 방향 연구 중 (출처: [dsi_tech](https://blog.naver.com/dsi_tech/224310317194))
+
+### 🏦 웰스파고 HBM·메모리 전망
+- 웰스파고 마이크론 목표주가 $550→$1,220 상향 — HBM·메모리 슈퍼사이클 반영. (출처: [sgpjb1](https://blog.naver.com/sgpjb1/224310186797))
