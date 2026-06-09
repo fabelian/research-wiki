@@ -114,3 +114,10 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 
 
 | 2026-06-08 | 삼성증권 김종민 | "스페이스X 상장은 단기 수급 교란 요인이지만, 중장기적으로 한국 반도체 산업에 새로운 수요 창출. 최근 코스피 급락은 주도주 랠리 과정의 숨 고르기" | [wowtv](http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606080045&t=NN), [tokenpost](https://www.tokenpost.kr/news/market/366882), [chosun](https://www.chosun.com/economy/money/2026/06/08/3ZUKUSDPO5FOXNBULL4HYBQZYU/), [mk](https://www.mk.co.kr/article/12068039) |
+
+
+## 2026-06-08 업데이트
+
+- **IPO 일정 확정 (6월 12일)**: SpaceX IPO를 앞두고 국내 증권사 브로커리지 수요 급증 전망. 기존 Tesla·우주 ETF 간접 투자자들이 직접 보유로 전환 예상. (출처: Korea Herald 2026-06-08)
+- **IPO 밸류에이션, Tesla 추월 관측**: SpaceX 시가총액이 Tesla를 넘어 S&P 500 내 Top 5 진입 가능성 제기. (출처: coinreaders.com 2026-06-08)
+- **Terafab 공동 투자 부담**: Tesla·SpaceX·xAI 공동 AI 칩 복합단지 'Terafab' 투자 부담이 IPO 리스크로 부각. (출처: 🐦 네이버블로그 iamteslam)
