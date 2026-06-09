@@ -93,3 +93,7 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 - [`블로그·thesmom`](https://blog.naver.com/thesmom/224308813689): 미래에셋증권 글로벌 IB 인수단 참여, 일반 투자자 간접 경로  
 - [`블로그·kingmoney800`](https://blog.naver.com/kingmoney800/224309375066): 2차 청약 2분 완판  
 - [`블로그·hasstory4all`](https://blog.naver.com/hasstory4all/224307064858): 스페이스X 관련주 완벽 정리
+
+
+## 2026-06-08 업데이트: 삼성증권 중장기적 반도체 기회 분석
+- [[삼성증권]] [[김종민]] 연구원: "스페이스X 상장은 역사상 최대 규모 IPO로 단기 수급 교란 요인이지만, 중장기적으로 한국 반도체 산업에 새로운 수요를 창출하는 계기가 될 수 있다"고 분석. 또한 "최근 코스피 급락은 구조적 추세 이탈이 아닌 주도주 랠리 과정의 숨 고르기"라며 "핵심 주도주 포지션 유지 필요" ([wowtv](http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606080045&t=NN), [tokenpost](https://www.tokenpost.kr/news/market/366882), [chosun](https://www.chosun.com/economy/money/2026/06/08/3ZUKUSDPO5FOXNBULL4HYBQZYU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news), [mk](https://www.mk.co.kr/article/12068039), 2026-06-07~08)
