@@ -111,3 +111,6 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 - **스페이스X 청약 완판·원화 규모**: 1차 3억 달러(약 4,620억 원) 1분 완판, 2차 2억 달러(약 3,080억 원) — 총 5억 달러(약 7,700억 원). 미래에셋증권 단독 주관. (출처: [primeoffice365](https://blog.naver.com/primeoffice365/224309768877))
 - **스페이스X 관련주 수혜주 분류**: ①직접 투자 부문: 미래에셋증권·미래에셋벤처투자 ②간접 투자: 한국투자증권 분석 인용 — 스페이스X 소재 R&D 단계부터 참여. (출처: [iceblue_73](https://blog.naver.com/iceblue_73/224309818909))
 - **미래에셋증권 종합 IB 분석**: 자체 STO 플랫폼 구축 전략, 글로벌 인프라 확장(해외 점포 17→19개, 홍콩 법인 인수 추진). 퇴직연금 1위·자기자본 10조 원 이상 — 글로벌 사모펀드 연계 상품·구주 거래 활성화. (출처: [osanjung2024](https://blog.naver.com/osanjung2024/224309819234))
+
+
+| 2026-06-08 | 삼성증권 김종민 | "스페이스X 상장은 단기 수급 교란 요인이지만, 중장기적으로 한국 반도체 산업에 새로운 수요 창출. 최근 코스피 급락은 주도주 랠리 과정의 숨 고르기" | [wowtv](http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606080045&t=NN), [tokenpost](https://www.tokenpost.kr/news/market/366882), [chosun](https://www.chosun.com/economy/money/2026/06/08/3ZUKUSDPO5FOXNBULL4HYBQZYU/), [mk](https://www.mk.co.kr/article/12068039) |
