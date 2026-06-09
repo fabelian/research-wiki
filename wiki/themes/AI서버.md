@@ -337,3 +337,18 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 - **엔비디아-NAVER AI 팩토리 1GW 규모 공식화**: SKT 5GW + NAVER 1GW = 총 6GW. 젠슨 황 "6GW 기준 잠재적 3,600억 달러 규모 사업" 발언. (Korea Herald 06-09)
 - **엔비디아 "한국, 단순한 파트너 아니라 AI 동맹"**: 공식 SNS에 구광모·이해진·최태원 태그. 'Incredible week' 회고. (헤럴드경제 06-09)
 - **NAVER 장중 8% 급락(256,500원)**: AI 팩토리 발표 차익실현 매물 + 외국인 매도. AI서버 테마 내 단기 변동성 지속. (잡포스트 06-09)
+
+
+## 2026-06-09 업데이트 — 美·韓 AI서버주 급반등·마이크론 +9.87%·Marvell S&P 500 편입
+
+### 📈 美 AI서버·반도체주 급반등 (6/8)
+- SOXX +6% 강력 반등. 엔비디아 +1.73%, AMD +5.14%, 마이크론 +9.87%, 마벨(MRVL) +7.7% 급등(Marvell S&P 500 편입·AI 수혜). (출처: [Korea Times](https://www.koreatimes.co.kr/path/A2026060915280005305), [tysinvs](https://blog.naver.com/tysinvs/224310172091))
+- 반등 배경: 브로드컴 쇼크 과민반응 해소, 엔비디아-SK AI 팩토리 LTA/AI 팩토리 모멘텀 재확인, 이란휴전 협상 재개. (출처: [Arirang](https://www.arirang.com/news/view?id=297013))
+- SK하이닉스/Micron 계열 — 엔비디아 파트너십 체결로 AI 메모리 연쇄 급등. (출처: [sgb610](https://blog.naver.com/sgb610/224310166920))
+
+### 🇰🇷 6/9 코스피 AI·반도체주 급등
+- 코스피 +7.8%, 삼성전자 +8.97%, SK하이닉스 +8.56%. 엔비디아-SK LTA/AI 팩토리 호재 재확인이 투자심리 회복 견인. (출처: [Korea Times](https://www.koreatimes.co.kr/path/A2026060915280005305))
+
+### 🐦 AI서버·반도체 추가 분석
+- 🐦네이버블로그(ecoqueen14): WAR ETF(방산+AI 반도체) 내 마이크론 6.89% 비중. (출처: [ecoqueen14](https://blog.naver.com/ecoqueen14/224309948561)) ⚠️개인 분석.
+- 🐦네이버블로그(tysinvs): 글로벌 증시 관전 포인트 — Marvell +7.7%, 마이크론 +3.7% 상승. 유가 상승이 국채 금리 끌어올리는 가운데 AI 반도체 반등. (출처: [tysinvs](https://blog.naver.com/tysinvs/224310172091)) ⚠️개인 분석.

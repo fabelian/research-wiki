@@ -260,3 +260,18 @@ updated: 2026-06-08
 ### 🏭 HBM→반도체 장비·소재로 수혜 확대
 - 6/9 반도체 장비·소재주([[테크윙]], [[이미지스]], [[타이거일렉]] 등) 상한가 — HBM·AI 메모리 슈퍼사이클의 밸류체인이 장비·소재로 확산. KB증권 SK하이닉스 2Q 영업이익 전년비 649% 전망이 추가 모멘텀. (https://blog.naver.com/try3month/224310634195, https://blog.naver.com/think_web/224310639370)
 - SOCAMM(LPDDR5X 기반 서버 모듈)용 PCB 공급사 [[티엘비]] 주목 — HBM 외 데이터센터 메모리 수요 경로 다양화. (https://blog.naver.com/sgpjb1/224310636162)
+
+
+## 2026-06-09 업데이트 — 마이크론 +9.87% 급반등·HBM 수요 구조론 재확인
+
+### 📈 6/8 美 HBM·메모리주 급반등
+- **마이크론 +9.87%($949) 급등**: SOXX +6% 동반 반등. 엔비디아-SK 다년계약·LTA 공식 체결(6/8)로 HBM 수요 구조적 성장론 부각. 마이크론 HBM4 공급사 지위 유지 재확인. (출처: [Korea Times](https://www.koreatimes.co.kr/path/A2026060915280005305), [Arirang](https://www.arirang.com/news/view?id=297013))
+- 마이크론 급등은 AI 메모리 수요 확대 기대감 반영. HBM 시장 SK하이닉스·삼성전자·마이크론 3사 경쟁 구도 지속. (출처: [ezcomi1](https://blog.naver.com/ezcomi1/224310158002))
+- 엔비디아-SK하이닉스 파트너십 체결을 일각에서 마이크론에 위협으로 봤으나, 애널리스트들은 영향 제한적이라고 평가. (출처: [Arirang](https://www.arirang.com/news/view?id=297013))
+
+### 💡 SOCAMM2 용량 축소 역설
+- 🐦네이버블로그(renew_2024): Nvidia NVL72 SOCAMM2 용량을 줄였더니 오히려 수요 증가 역설. Rambus·마이크론·메모리 폼팩터 연구. SOCAMM2(LPDDR5X 교체 가능 모듈) 관련 심층 채널 체크. (출처: [renew_2024](https://blog.naver.com/renew_2024/224309977577)) ⚠️개인 분석.
+
+### 📊 HBM 시장 분석
+- AI 시대 핵심 부품 패러다임: 마이크론 HBM3E 공정 기술 성장으로 엔비디아 주요 공급사 한 축 확보. (출처: [shrouded_isles](https://blog.naver.com/shrouded_isles/224310131098))
+- HBM 시장 SK하이닉스 점유율 최고, 삼성전자·마이크론 경쟁 구도 지속. (출처: [benign_shine](https://blog.naver.com/benign_shine/224310075529))
