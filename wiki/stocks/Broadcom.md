@@ -193,3 +193,57 @@ updated: 2026-06-08
 - Broadcom Q2 FY2026은 호실적(매출 +48% YoY, AI 반도체 +143% YoY)이었으나, Q3 AI 칩 매출 가이던스 동결($160억)이 시장 기대치($163.6~172억)에 미세하게 미달하며 폭락 촉발. (https://blog.naver.com/kiyoo1/224310213640, https://blog.naver.com/kitcahn/224310220871)
 - '결과는 좋았는데 기대가 더 컸다' — 시장이 요구하는 '더 좋은 실적'을 증명해야 하는 AI 반도체 섹터의 구조적 취약성 노출. (https://blog.naver.com/awh8806/224310303908, https://blog.naver.com/denovo7/224310225845)
 - LS증권
+
+
+## 2026-06-09 업데이트 — 美 증시 반등·반도체 8대장·Marvell S&P 500·VMware 사례
+
+### 📈 美 증시 반등 — SOX +5~6%, Broadcom +2.82%, 마이크론 +9.87% (2026-06-08 마감)
+- 이란-이스라엘 휴전 협상 재개(지정학 리스크 완화) + 젠슨 황 방한 LTA 모멘텀 + 엔비디아-SK AI 팩토리 다년계약 공식 체결(6/8)이 반등 배경. (Econotimes 2026-06-08, DDaily 2026-06-09)
+- Nvidia +1.73%, AMD +5.14%, TSMC +2.8%. (Econotimes 2026-06-08)
+- SOXX(필라델피아 반도체 지수) +6%, 전일 폭락분 상당 부분 회복. (DDaily 2026-06-09)
+- Oracle 클라우드 매출 가이던스 호조(+44~+48% 상수환율)도 AI 수요 견조 확인 요인. (출처: 🐦네이버블로그 adp_jht 2026-06-09)
+
+### 📊 미국 반도체 8대장·글로벌 시총 순위
+- 🐦네이버블로그(someone-story, 2026-06-08): 미국 반도체 8대장 정리 — NVIDIA·Broadcom·AMD·Intel·Qualcomm·Micron·Texas Instruments·Analog Devices. "Broadcom — 데이터센터와 AI 통신망의 절대 지배자, 시총 약 2조 달러 이상". (https://blog.naver.com/someone-story/224310576834) ⚠️개인 분석.
+- 🐦네이버블로그(jelpy0706, 2026-06-08): 전 세계 시총 순위 — Broadcom 7위($1.877T), Nvidia 4위($3.5T+), Saudi Aramco 8위, Tesla 9위, Meta 10위. (https://blog.naver.com/jelpy0706/224310460947) ⚠️참고용.
+
+### 🆕 Marvell Technology (MRVL) S&P 500 편입 — Broadcom 경쟁 심화
+- 6/8 Marvell S&P 500 편입 공식 발표. 젠슨 황이 Marvell 성장 가능성 긍정적으로 언급하며 시장 관심 집중. (참고: 기존 6/9 업데이트 중복)
+- 🐦네이버블로그(chickenstocktv, 2026-06-08): J.P. Morgan 콘퍼런스 — Qualcomm이 언급한 "커스텀 실리콘 최대 업체는 Broadcom, 2위는 Marvell". Qualcomm+Alphawave도 본격 진출 선언, ASIC 시장 경쟁구도 3강(BCM·MRVL·QCOM) 전망. (https://blog.naver.com/chickenstocktv/224310554797) ⚠️개인 분석.
+
+### 💻 Broadcom(AVGO) 개요 — AI 시대 숨은 최강자 (2026-06-08)
+- 🐦네이버블로그(murmurain, 2026-06-08): Broadcom 기본 정보 정리 — AI 가속기(XPU) 설계·네트워킹 반도체·인프라 소프트웨어. 주가(6/8 기준) $385.73, 52주 범위 $241.11~$495.00. (https://blog.naver.com/murmurain/224310475898) ⚠️참고용.
+  - AI 가속기(XPU): Google TPU·Meta MTIA·Amazon Trainium 공동 설계
+  - 네트워킹: 데이터센터 스위치 칩(BCM 시리즈) 시장 독점적 지위
+  - 소프트웨어: VMware(인수), Carbon Black(사이버보안)
+
+### 🖥️ Wiwynn AI 컴퓨팅 트레이 — Broadcom CPO 광학 엔진 탑재
+- 🐦네이버블로그(nlueoxy, 2026-06-08): Computex 2026 Wiwynn 트레이 리뷰 번역 — Broadcom의 광학 엔진을 AI 가속기/GPU와 같은 기판에 함께 패키징(CPO)하는 혁명적 구조. 트레이 1개당 AI 프로세서 2개 탑재. (https://blog.naver.com/nlueoxy/224310454204) ⚠️참고용.
+
+### 🏭 삼성전기 FC-BGA — Broadcom 고객사 명시
+- 🐦네이버블로그(pokara61, 2026-06-08): 삼성전기 서버·네트워크향 FC-BGA 주요 고객사에 Broadcom 포함(Nvidia Rubin·AWS Trainium 3·Google TPU v8·Meta MTIA·AMD·Tesla AI5 명시). 서버·네트워크향 FC-BGA 비중 2022년 17%→2027년 70% 전망. (https://blog.naver.com/pokara61/224310469902) ⚠️개인 분석.
+
+### 🔄 VMware by Broadcom — 선도적 선택 사례 (2026-06-08)
+- 🐦네이버블로그(eginnovations_kr, 2026-06-08): 굿모닝아이텍 이주찬 대표 인터뷰 — "가상화 흐름을 포착해 'VMware by Broadcom'을 선도적으로 선택". 1988년 창업, "글로벌 1위 또는 1위 잠재력 가진 솔루션 선택이 출발점". (https://blog.naver.com/eginnovations_kr/224310430110) ⚠️기업 홍보성.
+
+### 📊 AI 칩 밸류체인 기회 분석
+- 🐦네이버블로그(jinfiction, 2026-06-08): Broadcom 12% 폭락 속 반도체 밸류체인 5곳의 구조적 기회 분석. "시험에서 90점 받았는데 100점 기대한 시장이 실망한 사례". 출처: Broadcom 실적 콜, CNBC, Investing.com. (https://blog.naver.com/jinfiction/224308440103) ⚠️개인 분석.
+
+### 📊 Broadcom 밸류에이션 (2026년 전망치 기준)
+- 🐦네이버블로그(dsk_84, 2026-06-08): Broadcom EV/EBITDA 62.4x / P/E 90.9x. NVIDIA EV/EBITDA 38.6x / P/E 43.5x. TSMC EV/EBITDA 20.8x / P/E 31.6x. Micron EV/EBITDA 32.9x / P/E 50.5x. (https://blog.naver.com/dsk_84/224310504541) ⚠️참고용.
+
+### 🐦 SNS·블로그 인사이트 (2026-06-08~09)
+- 🐦네이버블로그(nostalgicnomad, 2026-06-08): "프리마켓 삼성전자 -11%?!" — 美 금요일 폭락 한국 전이 분석. Broadcom이 스팟라이트 종목. (https://blog.naver.com/nostalgicnomad/224310454514) ⚠️개인 분석.
+- 🐦네이버블로그(hanminam388, 2026-06-08): "젠슨 황 귀국과 AI 관련주 급락" — Broadcom(커스텀 AI 칩·네트워킹 스위치 절대 강자)·AMD·Tesla·TSM 정리. (https://blog.naver.com/hanminam388/224310444609) ⚠️개인 분석.
+- 🐦네이버블로그(taste_of_travel, 2026-06-08): "AI 인프라 관련주 2026년 — Broadcom AI 네트워킹·CPO 생태계 절대 강자, 업계 최초 102.4Tbps 스위치 CPO 기술 탑재". (https://blog.naver.com/taste_of_travel/224310566899) ⚠️참고용.
+- 🐦네이버블로그(rttsh, 2026-06-08): 광통신 소자 시장 — 하이엔드(Coherent·Lumentum·Broadcom 등 미·일 독점) vs 로우엔드(중국) 구분. (https://blog.naver.com/rttsh/224310573241) ⚠️참고용.
+- 🐦네이버블로그(fluffybees, 2026-06-08): 사이버보안 ETF(WCBR) — Broadcom 등 시총 상위 기업 대거 편입, 가중치 상한선 배치. (https://blog.naver.com/fluffybees/224310641209) ⚠️참고용.
+- 🐦네이버블로그(jumpingman777, 2026-06-08): 서버 ODM 공급망 — Broadcom·Marvell이 NVIDIA와 함께 스위치·인터페이스 통합 서버 메인보드 부품 연결 핵심. (https://blog.naver.com/jumpingman777/224310648478) ⚠️참고용.
+
+### 🌐 KOSPI 급락·증권가 분석
+- NSPNA(2026-06-09): "코스피 6월 급락 지속 — Broadcom 쇼크·美 고용 서프라이즈에 따른 금리인하 기대 후퇴·美 국채 수익률 상승·유가 수요 증가가 복합 작용". (https://www.nspna.com/en/news/?mode=view&newsid=815855)
+
+
+### 🐦 SNS·블로그 인사이트 (2026-06-08~09) — 추가
+- 🐦네이블로그(meong-gae, 2026-06-08): QQQ·QQQM 차이 비교 — QQQM(저비용 장기형) vs QQQ(단기 트레이딩). Broadcom은 QQQ·QQQM 주요 편입 종목. 운용보수 QQQ 0.20% vs QQQM 0.15%. (https://blog.naver.com/meong-gae/224310446098) ⚠️참고용.
+- 🐦네이블로그(84jojo, 2026-06-08): "MOONSHOTS — AI가 AI를 만드는 세상" — Broadcom AI 칩 가이던스 하향(Q3 $160B vs 예상 $172B)이 AI 캐펙스 정점 우려 촉발. 장기 시장 구조 유효하나 단기 변동성 국면. (https://blog.naver.com/84jojo/224310518974) ⚠️개인 분석.
