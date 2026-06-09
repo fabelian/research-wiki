@@ -295,3 +295,16 @@ updated: 2026-06-08
 
 ### 🌐 네이버, 엔비디아와 1GW AI 팩토리 투자 (2026-06-09)
 - 네이버가 엔비디아와 협력해 1GW급 AI 팩토리 구축. HBM·메모리 수요 추가 견인. (https://blog.naver.com/jhk200305/224310534985) ⚠️개인 분석.
+
+
+## 2026-06-09 업데이트 — 젠슨 황 "New Vera Chip will use SK Hynix memory" 재확인
+
+### 🆕 젠슨 황 "New Vera Chip will use SK Hynix memory chips"
+- 데일리 뉴스 취합: 젠슨 황, Vera Rubin CPU에도 SK하이닉스 메모리 칩 사용 재확인. (https://blog.naver.com/become_buja84/224309545802)
+- SK하이닉스 HBM·메모리 공급사 지위 구조적 지속.
+
+### 🔬 엔비디아 Vera Rubin+HBM4 양산 가속
+- 오리건주립대 '젠슨 황 이노베이션 콤플렉스' — 차세대 AI 로드맵·HBM 연계. (https://blog.naver.com/busangamja1/224310565943)
+
+### 🐦 SNS 블로그
+- 🐦네이버블로그(ecolog-, 2026-06-08): "한국 기술 없이 슈퍼컴퓨터 불가능" — 젠슨 황 SK하이닉스·HBM 극찬. (https://blog.naver.com/ecolog-/224310571737) ⚠️개인 분석.
