@@ -137,3 +137,23 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 
 
 | 2026-06-08 | **"메가IPO 스페이스X, 국내 증시 기회될까"** — ETF 간접 투자 수요 급증, 한국 반도체 산업 신규 수요 창출 전망, 상장 후 해외주식 계좌 매수 채널 대기 | ([betanews](https://www.betanews.net/article/view/beta202606080132), [kookje](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260609.22012001892), [mediawatch](https://www.mediawatch.kr/news/article.html?no=259932)) |
+
+
+## 2026-06-08 업데이트: ETF·Rocket Lab 관계 추가
+
+### TIGER 미국우주테크 ETF와 스페이스X
+- TIGER 미국우주테크 ETF는 금융당국 IPO 일정 문제로 스페이스X를 편입하지 못했으나, Rocket Lab·Intuitive Machines·AST SpaceMobile 등 우주 밸류체인 핵심 인프라 기업으로 포트폴리오 구성. 상장 후 편입 가능성 열려 있음. (출처: [nicodemus4620 블로그](https://blog.naver.com/nicodemus4620/224310986409))
+
+### 우주 발사 섹터 경쟁 구도와 Rocket Lab
+- SpaceX Falcon 9이 압도적 점유율이나, 소형 발사체 분야에서 Rocket Lab Electron이 독보적 위치. FLYT(파이어플라이 에어로스페이스 2배 레버리지 ETF) 등장으로 소형 발사체 기업 관심 고조. (출처: [seunggabi2 블로그](https://blog.naver.com/seunggabi2/224310131888))
+
+### ARKX·UFO·ROKT ETF 분석
+- **ARKX**(ARK 우주탐사ETF): Rocket Lab, L3Harris, Teradyne 편입. 스페이스X 상장 후 액티브 ETF 특성상 편입 가능.
+- **UFO**(Procure Space ETF): 위성통신·우주 인프라 중심.
+- **ROKT**(SPDR S&P Kensho Final Frontiers): 방산·우주 연결 ETF. Rocket Lab 소형 발사체 대표주로 편입. (출처: [wonee255 블로그](https://blog.naver.com/wonee255/224309907065))
+
+### Rocket Lab vs SpaceX vs Redwire
+- Rocket Lab: 가장 공격적인 성장 스토리. 발사체+위성 제조 수직 통합으로 SpaceX 대안으로 부각. 수익성 개선 진행 중으로 장기 성장 잠재력 가장 큼. (출처: [jnpp87 블로그](https://blog.naver.com/jnpp87/224310380103))
+
+### 우주산업 초기 투자비용 관점
+- 스페이스X·Rocket Lab 등은 아직 대규모 이익 부재. 우주산업은 철도망·고속도로 건설과 유사한 초기 투자비용이 큰 구조로, 인프라 구축 후 수익성 개선 가능. (출처: [33bsh 블로그](https://blog.naver.com/33bsh/224309578173))
