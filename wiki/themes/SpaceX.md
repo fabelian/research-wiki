@@ -272,3 +272,15 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 - **SpaceX-Tesla 합병설 재부각**: 머스크가 궁극적으로 SpaceX와 Tesla를 합병하려 한다는 월가 관측. 양사 시총 합산 시 약 $1.74조 규모. 합병 시 AI·자율주행·우주·로보틱스 단일 지배구조로 통합될 경우 시장 지배력 강화 vs 반독점 리스크 공존. (출처: 🐦 네이버블로그 hdmin77, alzza_tong)
 - **SpaceX 우주데이터센터 AI 위성 공개**: 우주 공간에서 고밀도 AI 연산 장치 가동 시 치명적 열을 제어하는 기술 공개. 110제곱미터 전개형 액체 라디에이터·케슬러 증후군·천문 관측 방해 등 리스크 병기. (출처: 🐦 네이버블로그 quant-hub)
 - **국내 SpaceX 직접 투자 수요 급증 전망**: 기존 Tesla·우주 ETF 간접 투자자들이 SpaceX IPO 직접 보유로 전환할 가능성. 6/12 상장일 전 증권사 공모주 응모 활발. (출처: 🐦 네이버블로그 yonfun)
+
+
+## 2026-06-09 업데이트
+
+### 미래에셋증권 스페이스X 청약 경쟁률
+- 1차 청약(3억 달러) 1분 완판, 2차 청약(2억 달러) 2분 완판. 총 5억 달러(약 7,700억 원) 모집 완료. ([[straightnews]](https://www.straightnews.co.kr/news/articleView.html?idxno=304378), [[kpenews]](https://kpenews.com/View.aspx?No=4104993))
+
+### 스페이스X IPO가 코스피에 미친 영향
+- 6/8 코스피 8% 폭락(서킷브레이커 발동)의 배경 중 하나로 스페이스X 청약 대기자금에 따른 유동성 위축 지적. ([[kpenews]](https://kpenews.com/View.aspx?No=4104993))
+
+### 스페이스X IPO와 국내 ETF 시장
+- 스페이스X·오픈AI·앤트로픽 IPO 시동이 국내 ETF 시장에 미칠 영향 분석 중. ([[straightnews]](https://www.straightnews.co.kr/news/articleView.html?idxno=304378))
