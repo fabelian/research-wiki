@@ -59,14 +59,13 @@ updated: 2026-05-28
 *   [[김현철의 美증시] 유가 변동성 속 솟구치는 우주 테마주](http://www.00news.co.kr/news/articleView.html?idxno=104068)
 
 
-## 📌 최신 요약 (2026-06-01)
-- **주가 급등**: 2026년 5월 말, 스페이스X IPO 기대감에 힘입어 Redwire 주가가 26% 급등하며 22.04달러에 마감. 1개월 수익률은 163%에 달함. (출처: [네이버블로그](https://blog.naver.com/jeunkim/224301612019), [네이버블로그](https://blog.naver.com/hermebook/224303163402))
-- **수주잔고 급증**: 수주잔고가 전년 대비 71% 증가하며 사상 최대 기록. (출처: [네이버블로그](https://blog.naver.com/lawdata_galaxy/224302401327))
-- **핵심 사업**: 우주 태양광 패널(ROSA), 3D 프린팅, 우주 정거장 및 위성 핵심 구조물 제조, NASA·국방부 납품. (출처: [네이버블로그](https://blog.naver.com/narckgw/224302614966), [네이버블로그](https://blog.naver.com/fifastar007/224303215206))
-- **ETF 편입 비중**: SOL 미국우주항공 TOP10 ETF 내 비중 3.5%. (출처: [네이버블로그](https://blog.naver.com/ycnpark/224301614221))
-- **리스크**: 2026년 5월 말 블루오리진 로켓 폭발 사고로 우주 섹터 전반이 약세를 보이며 Redwire도 15.8% 하락한 날이 있었음. (출처: [네이버블로그](https://blog.naver.com/ballostark/224302281308), [네이버블로그](https://blog.naver.com/mok7593/224303424218))
+## 📌 최신 요약 (2026-06-09)
+- **5억 달러 유상증자 발표 (⚠️리스크)**: Redwire가 최대 5억 달러(약 6,500억 원) 규모의 주식 판매 계약 체결 발표. 주가 급락 리스크 증대. (출처: [네이버블로그](https://blog.naver.com/fracon/224311009861))
+- **유상증자 배경**: 급등한 주가를 활용한 자금 조달로 분석되나, 희석 우려로 투자자 우려 확대. 실적 악화나 수주 취소는 아님. (출처: [네이버블로그](https://blog.naver.com/tang9ree_/224311023701))
+- **ETF 편입 비중**: SOL 미국우주항공TOP10 ETF 내 3.55%. (출처: [네이버블로그](https://blog.naver.com/soletf/224310558474))
+- **실적 성장 가속화**: 2024년 매출 $424.0M(+72.9% YoY), 영업적자 -$42M(2023년 -$63M 대비 개선). (출처: [네이버블로그](https://blog.naver.com/alwaysbe_h/224306489006))
+- **우주 온실 상업화 개시**: ISS에서 세계 최초 상업용 우주 온실(Greenhouse) 임무 시작. (출처: [네이버블로그](https://blog.naver.com/envymask-/224306608683))
 - **애널리스트 의견 분포**: HC Wainwright 목표가 22달러, Bank of America 목표가 6달러(Underperform)로 격차 큼. (출처: [네이버블로그](https://blog.naver.com/kidsdad/224303237023))
-
 
 ## 2026-05-31 업데이트
 ### 스페이스X IPO 기대감으로 주가 급등
@@ -122,3 +121,12 @@ updated: 2026-05-28
 
 ### 미래 신기술 그룹 분석
 - IonQ, Centrus, Redwire, Enovix, Intuitive가 '미래 신기술 그룹'으로 분류되어 고위험·고성장 포트폴리오 전략에서 소액 분할 투자 대상으로 언급됨. 극심한 변동성 경고와 함께 장기적 성장성은 높다고 평가. (출처: [네이버블로그](https://blog.naver.com/hyungmjee/224309789685))
+
+
+| 2026-06-09 | 🐦SNS·네이버블로그 | 유상증자 5억 달러 발표 → 최대 5억 달러 규모 주식 판매 계약 체결, 주가 급락 리스크 증대 | (출처: [네이버블로그](https://blog.naver.com/fracon/224311009861), [네이버블로그](https://blog.naver.com/tang9ree_/224311023701))
+
+
+| 2026-06-09 | 🐦SNS·네이버블로그 | 6/8 마감 기준 우주 기술 테마주 중 Redwire 거래대금 1위(33.13M), 주가 +0.65% | (출처: [네이버블로그](https://blog.naver.com/smarthumanlife/224310211419))
+
+
+| 2026-06-09 | 🐦SNS·솔 ETF 블로그 | SOL 미국우주항공TOP10 ETF 내 Redwire 비중 3.55% (2026.05.29 기준) | (출처: [네이버블로그](https://blog.naver.com/soletf/224310558474))
