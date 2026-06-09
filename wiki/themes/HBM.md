@@ -105,3 +105,22 @@ updated: 2026-06-08
 - 🐦네이버블로그(big-cloud_world, 2026-06-07): 네이버-엔비디아 AI 인프라 협력으로 소버린 AI·데이터센터 확장, HBM 수요 구조적 확대 전망. (https://blog.naver.com/big-cloud_world/224309829296) ⚠️개인 분석.
 - 🐦네이버블로그(lua_eco, 2026-06-07): 피지컬 AI 밸류체인에서 엔비디아 젯슨 토르·HBM·메모리 수요 동반 성장 분석. (https://blog.naver.com/lua_eco/224309843206) ⚠️개인 분석.
 - 🐦네이버블로그(koreapost3134, 2026-06-07): NVIDIA, 한국을 AI 전진 기지로 선언 — HBM 수요의 구조적 지속성 시사. (https://blog.naver.com/koreapost3134/224309850507) ⚠️개인 분석.
+
+
+## 2026-06-08 추가 업데이트
+
+### 🏭 기가바이트 Vera Rubin NVL72
+- 컴퓨텍스 2026서 NVIDIA Vera Rubin NVL72 플랫폼 전시. 와트당 처리량 10배 개선. GB300 Grace Blackwell Ultra 탑재. HBM4·HBM4E 탑재량 및 채용 구조 관련 간접 신호. (etnews.com 2026-06-08)
+
+### 🤝 LG-엔비디아 협력
+- LG트윈타워 회동에서 피지컬 AI·AI 데이터센터 협력 논의. LG전자 반도체 패키징·HBM 후공정 장비 협력 가능성 시사. (itdaily.kr·koreaherald.com 2026-06-08)
+
+### 🌐 SKT 엔비디아 클라우드 파트너 합류
+- SKT, NVIDIA Cloud Partner(NCP) 프로그램 합류. AI 팩토리 구축 본격화로 HBM·메모리 수요 구조적 확대 신호. (thefirstmedia.net 2026-06-08)
+
+### 🚗 현대차-엔비디아 새만금 AI밸리
+- 젠슨 황, 새만금 AI밸리 발언. 현대차그룹 9조 원 로봇거점 투자. HBM·AI 메모리 수요와 연계. (smedaily.co.kr 2026-06-08)
+
+### 💡 HBM5 특허·휴머노이드 관련 동향
+- 전 삼성전자 엔지니어 창업사, $6,800만 힘제어 휴머노이드 기술 펀딩 성공. 엔비디아·AWS 피지컬 AI 펠로우십 선정. 휴머노이드용 메모리 수요 확대 전망. (koreabiomed.com 2026-06-08)
+- 한세실업, 휴머노이드 전용 패션 사업 진출. 엔비디아·테슬라 등 글로벌 휴머노이드 시장 주목. (newspim.com 2026-06-08)

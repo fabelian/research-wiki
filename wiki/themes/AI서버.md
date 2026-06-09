@@ -187,3 +187,45 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 - 🐦네이버블로그(lua_eco, 2026-06-07): 피지컬 AI 핵심 기술 밸류체인 분석 — 엔비디아 젯슨 토르가 휴머노이드 로봇 표준 인프라로 부상. AI서버 생태계가 로보틱스로 확장. (https://blog.naver.com/lua_eco/224309843206) ⚠️개인 분석.
 - 🐦네이버블로그(koreapost3134, 2026-06-07): "Korea Becomes NVIDIA's AI Forward Base" — 한국을 AI 전진 기지로 선언하며 AI 인프라 투자 지속성 재확인. (https://blog.naver.com/koreapost3134/224309850507) ⚠️개인 분석.
 - 🐦네이버블로그(fmjun_, 2026-06-07): 젠슨 황 슬라이드에 네이버가 구글·요타·인도세트·GMI와 함께 공식 파트너로 등재 — 글로벌 AI 인프라 구도 변화 시사. (https://blog.naver.com/fmjun_/224309828590) ⚠️개인 분석.
+
+
+## 2026-06-08 추가 업데이트
+
+### 🏢 LG-엔비디아 AIDC 협력
+- 구광모 LG회장-젠슨 황, LG트윈타워 회동. AI 데이터센터(AIDC), 피지컬 AI, 모빌리티 전략적 협력 확대. LG유플러스 파주 하이퍼스케일 AIDC(200MW)와 연계 가능성. (itdaily.kr·koreaherald.com 2026-06-08)
+
+### 🚗 현대차-엔비디아 AI·미래모빌리티
+- 정의선-젠슨 황 양재 사옥 공식 회동. 로봇 '스팟'·'모베드' 시연. 젠슨 황 "NVIDIA Love Hyundai". 새만금 AI밸리 구상 발언. 현대차그룹 9조 원 로봇거점 투자. (newsis.com·yonhap·nocutnews.co.kr·smedaily.co.kr 2026-06-08)
+
+### 🏭 기가바이트 Vera Rubin NVL72
+- 컴퓨텍스 2026서 NVIDIA Vera Rubin NVL72(와트당 처리량 10배) 및 GB300 Grace Blackwell Ultra 탑재 데스크톱 AI 'W775-V10' 공개. (etnews.com 2026-06-08)
+
+### 🚕 SWM.AI 로보택시·레노버 플랫폼
+- SWM.AI, Drive Thor-X 듀얼 탑재 완전 무인 로보택시 서울 강남 운행 개시. SWM.AI-레노버, AP-700 자율주행 플랫폼 공동개발(Drive Thor-X 듀얼·Infineon TC397 MCU). (wowtv.co.kr·newspim.com 2026-06-08)
+
+### 🏥 루닛, 엔비디아 AI 리셉션 초청
+- 루닛, 엔비디아 코리아 AI 생태계 리셉션 초청. 의료AI 분야 엔비디아 협력 강화. (joongangenews.com 2026-06-08)
+
+### 🔬 트릴리온랩스 산업 월드모델
+- 엔비디아 옴니버스·네모트론 기반 AI 팩토리용 산업 월드모델 개발. (thelec.kr 2026-06-08)
+
+### 🌐 SKT-엔비디아 NCP 합류
+- SKT, NVIDIA Cloud Partner(NCP) 프로그램 합류. 글로벌 AI 팩토리 구축 본격화. (thefirstmedia.net 2026-06-08)
+
+### 🎮 엔씨소프트 '신더시티' RTX Spark
+- 엔씨 신작 '신더시티', 엔비디아 RTX Spark 핵심 파트너. Ray Reconstruction·NVIDIA Reflex·GeForce NOW 연동. (news1.kr 2026-06-08)
+
+### 🏢 네이버 방문
+- 젠슨 황, 네이버 1784 방문. "더 많은 GPU는 더 큰 행복" 발언. 네이버웹툰 이벤트 참여. DSX 소버린 AI 파트너십 구체화. (chosun.com 2026-06-08)
+
+### 🔋 K-food·문화 파급효과
+- K-food·주류 업계, 113박스 치킨 등 방한 경제효과 톡톡. (koreatimes.co.kr 2026-06-08)
+- 젠슨 황 유퀴즈 출연, 화사 'So Cute' 언급 재조명. (starnewskorea.com 2026-06-08)
+
+### 🐦 SNS 블로그 추가 분석
+- 송자호 대표, 젠슨 황과 만남 SNS 공개. (cbci.co.kr 2026-06-08)
+- 엔비디아 R&D 센터 판교 유치 기고. KAIST 판교 AI 대학원 연계 구상. (siminilbo.co.kr 2026-06-08)
+- 게임사연대, 젠슨 황에 인앱결제 문제 도움 요청. (khgames.co.kr 2026-06-08)
+- 전 삼성 엔지니어 창업사 $6,800만 힘제어 휴머노이드 펀딩. 엔비디아·AWS 펠로우십. (koreabiomed.com 2026-06-08)
+- 한세실업, 휴머노이드 전용 패션 사업 진출. (newspim.com 2026-06-08)
+- BreakNews: "AI 반도체는 엔비디아 GPU+한국 메모리 기술 함께 필요" (breaknews.com 2026-06-08)
