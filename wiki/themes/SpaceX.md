@@ -97,3 +97,17 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 
 ## 2026-06-08 업데이트: 삼성증권 중장기적 반도체 기회 분석
 - [[삼성증권]] [[김종민]] 연구원: "스페이스X 상장은 역사상 최대 규모 IPO로 단기 수급 교란 요인이지만, 중장기적으로 한국 반도체 산업에 새로운 수요를 창출하는 계기가 될 수 있다"고 분석. 또한 "최근 코스피 급락은 구조적 추세 이탈이 아닌 주도주 랠리 과정의 숨 고르기"라며 "핵심 주도주 포지션 유지 필요" ([wowtv](http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606080045&t=NN), [tokenpost](https://www.tokenpost.kr/news/market/366882), [chosun](https://www.chosun.com/economy/money/2026/06/08/3ZUKUSDPO5FOXNBULL4HYBQZYU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news), [mk](https://www.mk.co.kr/article/12068039), 2026-06-07~08)
+
+
+### 🐦 SNS·블로그 인사이트 라벨 (추가)
+- [`블로그·univ_jurini`](https://blog.naver.com/univ_jurini/224305011389): 상장 임박 K-스페이스X 투자사 미래에셋증권 주가 분석 — 해외주식·연금자산 1위, 주선료 사업, 직접 투자 사업 약 11조원
+- [`블로그·primeoffice365`](https://blog.naver.com/primeoffice365/224309768877): 미래에셋증권 스페이스X 청약 1분 만에 완판, 6월 12일 상장 확정
+- [`블로그·iceblue_73`](https://blog.naver.com/iceblue_73/224309818909): 스페이스X 상장 임박 국내 관련주 수혜주 총정리 — 미래에셋증권·미래에셋벤처투자 1순위
+- [`블로그·osanjung2024`](https://blog.naver.com/osanjung2024/224309819234): 미래에셋증권 스페이스X 분석 — STO·디지털자산·글로벌 인프라 확장
+
+
+## 핵심 동향 (테마) — 추가 (2026-06-08)
+- **미래에셋증권의 스페이스X 투자 지분 분석**: 해외주식·연금자산 규모 압도적 1위, 주선료 사업(기업 상장·금융 주선 수수료), 직접 투자 사업(약 11조원 이상). 스페이스X IPO 단독 주관으로 수혜 전망. (출처: [univ_jurini](https://blog.naver.com/univ_jurini/224305011389))
+- **스페이스X 청약 완판·원화 규모**: 1차 3억 달러(약 4,620억 원) 1분 완판, 2차 2억 달러(약 3,080억 원) — 총 5억 달러(약 7,700억 원). 미래에셋증권 단독 주관. (출처: [primeoffice365](https://blog.naver.com/primeoffice365/224309768877))
+- **스페이스X 관련주 수혜주 분류**: ①직접 투자 부문: 미래에셋증권·미래에셋벤처투자 ②간접 투자: 한국투자증권 분석 인용 — 스페이스X 소재 R&D 단계부터 참여. (출처: [iceblue_73](https://blog.naver.com/iceblue_73/224309818909))
+- **미래에셋증권 종합 IB 분석**: 자체 STO 플랫폼 구축 전략, 글로벌 인프라 확장(해외 점포 17→19개, 홍콩 법인 인수 추진). 퇴직연금 1위·자기자본 10조 원 이상 — 글로벌 사모펀드 연계 상품·구주 거래 활성화. (출처: [osanjung2024](https://blog.naver.com/osanjung2024/224309819234))
