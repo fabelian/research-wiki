@@ -268,3 +268,15 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 - **Alphabet, 자체 TPU 300만 개 이상 인텔 파운드리 위탁생산(2028년 목표)**: AI서버용 커스텀 칩 내재화 전략의 일환. 인텔 파운드리 사업에 대형 수주. (sumislandblog, dhp039, gjrksp 06-08)
 - **Alphabet 850억 달러(약 117조 원) 증자 완료**: AI 서버·데이터센터 CAPEX 재원 확보. (digitalbizon 06-09)
 - **MS·Alphabet·Amazon 3社 연간 AI CAPEX 집계**: MS ~$1,900억 등 빅테크 3社 총 CAPEX 규모 사상 최대. (ai_reader 06-09)
+
+
+## 2026-06-09 업데이트 — 6/9 AI서버주 반등·금감원 레버리지 주시
+
+### 📈 6/9 AI서버·반도체주 급반등
+- 코스피 +7.56%. 삼성전자 +8.97%, SK하이닉스 +8.56%, NAVER 강세. 외국인 순매수 1~3위가 삼성전자·SK하이닉스·NAVER로 AI·반도체 집중. (출처: [JTBC 2026-06-09](https://news.jtbc.co.kr/article/NB12302316?influxDiv=NAVER), [네이버블로그 3minstock 2026-06-08](https://blog.naver.com/3minstock/224310648977))
+
+### 🔍 금감원, 레버리지 ETF 쏠림 '예의주시'
+- 금감원이 반도체·AI 중심 레버리지 ETF 쏠림 현상을 예의주시. 변동성 장세서 개인 투자자 피해 확대 우려. (출처: [JTBC 2026-06-09](https://news.jtbc.co.kr/article/NB12302316?influxDiv=NAVER))
+
+### 🔍 젠슨 황 방한 후폭풍 — 엔비디아 의존도 논란
+- 젠슨 황 방한(6/5~8)으로 AI서버·HBM·피지컬 AI 협력이 공고화됐으나, 국내 기업의 엔비디아 의존도 심화 우려도 제기. (출처: [TV조선 2026-06-09](https://news.tvchosun.com/site/data/html_dir/2026/06/09/2026060990348.html))
