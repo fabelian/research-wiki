@@ -261,3 +261,10 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 
 ### 🇰🇷 6/9 코스피 AI·반도체주 급등
 - 코스피 +7.8%, 삼성전자 +8.97%, SK하이닉스 +8.56%, 네이버 +14.09%(전일), AI 팩토리 협력 기대감 지속. (출처: [konanbal](https://blog.naver.com/konanbal/224310836879), [연합뉴스영문](https://en.yna.co.kr/view/AEN20260609007500320?input=2106m))
+
+
+### 2026-06-09 업데이트 — Alphabet 850억 달러 증자·Intel TPU 위탁생산
+
+- **Alphabet, 자체 TPU 300만 개 이상 인텔 파운드리 위탁생산(2028년 목표)**: AI서버용 커스텀 칩 내재화 전략의 일환. 인텔 파운드리 사업에 대형 수주. (sumislandblog, dhp039, gjrksp 06-08)
+- **Alphabet 850억 달러(약 117조 원) 증자 완료**: AI 서버·데이터센터 CAPEX 재원 확보. (digitalbizon 06-09)
+- **MS·Alphabet·Amazon 3社 연간 AI CAPEX 집계**: MS ~$1,900억 등 빅테크 3社 총 CAPEX 규모 사상 최대. (ai_reader 06-09)
