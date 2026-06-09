@@ -114,3 +114,11 @@ updated: 2026-05-28
 - **우주 온실 상업화 개시**: ISS에서 세계 최초 상업용 우주 온실(Greenhouse) 임무 시작. 딸기 재배로 우주 농업 시장 진출. (출처: [네이버블로그](https://blog.naver.com/envymask-/224306608683), [네이버블로그](https://blog.naver.com/jasonjedi/224307448276))
 - **ETF 편입 지속**: KODEX 미국항공우주 ETF 내 Redwire 비중 3.63%. (출처: [네이버블로그](https://blog.naver.com/cotton--/224307596518))
 - **3년 연속 고성장**: 2022→2024년 매출 CAGR 약 67%. 안정적 적자 축소 중. (출처: [네이버블로그](https://blog.naver.com/alwaysbe_h/224306489006))
+
+
+## 2026-06-07 업데이트
+### 우주 농업·온실 상업화 동향
+- Redwire가 개발 중인 상업용 우주 온실(Greenhouse)이 활성화되면 우주 내 식량 생산·제조의 상업적 전망이 구체화될 것으로 분석됨. SpaceX의 Starfall(스타폴) 프로젝트 및 민간 우주 정거장과 함께 우주 제조 생태계의 핵축으로 부상할 가능성. (출처: [네이버블로그](https://blog.naver.com/2kyung0/224309899873))
+
+### 미래 신기술 그룹 분석
+- IonQ, Centrus, Redwire, Enovix, Intuitive가 '미래 신기술 그룹'으로 분류되어 고위험·고성장 포트폴리오 전략에서 소액 분할 투자 대상으로 언급됨. 극심한 변동성 경고와 함께 장기적 성장성은 높다고 평가. (출처: [네이버블로그](https://blog.naver.com/hyungmjee/224309789685))
