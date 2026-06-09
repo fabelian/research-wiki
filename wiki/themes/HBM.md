@@ -253,3 +253,10 @@ updated: 2026-06-08
 
 ### 🏭 삼성·SK하이닉스, 엔비디아 AI 제조 플랫폼 동시 채택
 - 양사가 엔비디아 Omniverse·Isaac Sim 기반 디지털 트윈 공장을 구축하며 HBM·메모리 생산 효율화 경쟁. 공급망-제조 동맹 강화. (출처: [greened 2026-06-09](https://www.greened.kr/news/articleView.html?idxno=342176))
+
+
+## 2026-06-09 업데이트 — 반도체 장비주 확산·티엘비 부각
+
+### 🏭 HBM→반도체 장비·소재로 수혜 확대
+- 6/9 반도체 장비·소재주([[테크윙]], [[이미지스]], [[타이거일렉]] 등) 상한가 — HBM·AI 메모리 슈퍼사이클의 밸류체인이 장비·소재로 확산. KB증권 SK하이닉스 2Q 영업이익 전년비 649% 전망이 추가 모멘텀. (https://blog.naver.com/try3month/224310634195, https://blog.naver.com/think_web/224310639370)
+- SOCAMM(LPDDR5X 기반 서버 모듈)용 PCB 공급사 [[티엘비]] 주목 — HBM 외 데이터센터 메모리 수요 경로 다양화. (https://blog.naver.com/sgpjb1/224310636162)
