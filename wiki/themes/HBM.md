@@ -244,3 +244,12 @@ updated: 2026-06-08
 
 ### 📈 HBM주 반등
 - 6/9 SK하이닉스 +6%, 삼성전자 +6.85% 급등. 美 반도체 강세·젠슨 황 방한 모멘텀 지속. (출처: [디지털투데이 2026-06-09](https://www.digitaltoday.co.kr/news/articleView.html?idxno=673305))
+
+
+## 2026-06-09 업데이트 — LPDDR·SoCAMM 차세대 수요 부각
+
+### 🆕 전영현 부회장 "HBM4·SoCAMM 충분히 공급" — LPDDR 수요 강조
+- 전영현 삼성전자 DS부문장 부회장, 젠슨 황 회동 후 "단기적으로는 올해부터 HBM4나 SoCAMM(소캠)을 충분히 공급해야 한다"고 발언. HBM 외에도 엔비디아 '베라' CPU용 LPDDR5X 기반 SOCAMM2가 차세대 메모리 수요 경로로 부상. (출처: [newstomato 2026-06-09](http://www.newstomato.com/ReadNews.aspx?no=1303427&inflow=N))
+
+### 🏭 삼성·SK하이닉스, 엔비디아 AI 제조 플랫폼 동시 채택
+- 양사가 엔비디아 Omniverse·Isaac Sim 기반 디지털 트윈 공장을 구축하며 HBM·메모리 생산 효율화 경쟁. 공급망-제조 동맹 강화. (출처: [greened 2026-06-09](https://www.greened.kr/news/articleView.html?idxno=342176))
