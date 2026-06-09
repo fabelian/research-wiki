@@ -405,3 +405,27 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 
 ### 🇰🇷 젠슨 황 방한 5일차 마무리·'팀 엔비디아' 해석 (2026-06-09)
 - **연합뉴스 영문**:
+
+
+## 2026-06-09 업데이트 — LG AI 팩토리·에이수스 RTX Spark·AI-RAN 경쟁
+
+### 🤝 엔비디아-LG AI 팩토리 구축 협력 (2026-06-09)
+- 엔비디아 풀스택 엔드투엔드 AI 팩토리 플랫폼 + LG그룹(가전·로보틱스·모빌리티·스마트공간·데이터센터) 기술 결합. (gamefocus.co.kr 2026-06-09)
+
+### 🖥️ 에이수스, RTX Spark 기반 ProArt 미니PC 공개 (2026-06-09)
+- NVIDIA RTX Spark 기반, 최대 128GB 통합 메모리. 개인 AI 에이전트·창작·게임 겨냥. (thisisgame.com·cnet.co.kr 2026-06-09)
+
+### 🌐 AI-RAN 글로벌 경쟁 본격화 (2026-06-09)
+- 엔비디아·삼성전자·에릭슨·노키아·소프트뱅크 AI-RAN 경쟁 가속. ETRI 전문연구소 지정. (fnnews.com 2026-06-09)
+
+### 🔧 MDS테크-폴라리스AI 산업 AI 인프라 (2026-06-09)
+- MDS테크(엔비디아 국내 파트너) DGX·Jetson·RTX·데이터센터 GPU 기반 생성형 AI·엣지 AI·디지털 트윈 확대. (thebell.co.kr 2026-06-09)
+
+### 🇰🇷 고레로보틱스, GTC 타이페이 2026 참석 (2026-06-09)
+- 건설 자율주행 로봇·피지컬 AI 물류 자동화 발표. (newsprime.co.kr 2026-06-09)
+
+### 📊 Asian Stocks Rebound (2026-06-09)
+- AI and Chip Shares Recover; SK Hynix, Nvidia partnership benefits. Easing Iran Tensions boost sentiment. (econotimes.com 2026-06-09)
+
+### 🐦 YTN 박석현 분석 (2026-06-09)
+- 엔비디아 투자처+외부 자금 조달 통한 네이버 데이터센터 투자 — AI 관련주 차익실현 경고. (ytn.co.kr 2026-06-09)

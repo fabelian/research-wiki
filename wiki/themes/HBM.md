@@ -325,3 +325,12 @@ updated: 2026-06-08
 - 🐦네이버블로그(mediapen, 2026-06-09): "젠슨 황, 한국을 구매하다" — 서울서 산업 공급망 구축. (https://www.mediapen.com/news/view/1103341)
 - 🐦네이버블로그(sisaon, 2026-06-09): 엔비디아·현대차 AI 동맹 시동…새만금 데이터센터. (https://www.sisaon.co.kr/news/articleView.html?idxno=201712)
 - 🐦네이버블로그(newstnt, 2026-06-09): 네이버 엔비디아 협력에 증권가 밸류에이션 리레이팅. (https://www.newstnt.com/news/articleView.html?idxno=705624)
+
+
+## 2026-06-09 업데이트 — 삼성-엔비디아 HBM4E·HBM5·파운드리 협력 심화 공식 확인
+
+### 🔬 삼성-엔비디아 HBM4E·HBM5·파운드리 전방위 협력 (koreaittimes.com 2026-06-09)
+- Samsung, Nvidia Deepen AI Semiconductor Partnership Through HBM4 and Foundry. 엔비디아-삼성전자 HBM·파운드리 협력 폭 공식 확인 보도.
+
+### 🏭 Vera Rubin MLCC 수혜 간접 신호 (2026-06-09)
+- Vera Rubin NVL72 랙 MLCC 50~60만개(블랙웰 44만개 대비 +36%). HBM4 탑재량 증가의 MLCC 수급 간접 증거. (financialpost.co.kr)
