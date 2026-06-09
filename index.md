@@ -172,3 +172,6 @@
 | [[김지만]] | — | — |
 | [[구창근]] | — | — |
 | [[강동진]] | — | — |
+
+
+<!-- 2026-06-10 ingest by 뉴스 26건 갱신 (BusinessKorea 06-09, AsiaToday 06-09, JoongAng 06-09, venturesquare 06-09) -->
