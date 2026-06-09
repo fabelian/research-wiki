@@ -228,3 +228,6 @@
 - **대상**: alphabet, 인터넷플랫폼, 제미나이, AI서버 페이지
 - **내용**: 847.5억 달러 유상증자 확정·버크셔 100억 달러 참여·AI 인프라 투자 심화·WWDC 2026 Gemini 협력·AI 3단계 진화 내 Google TPU 위치
 - **출처**: 네이버블로그 7건 (talkingtinveststory, rottensweetpotato, doctorkim-, moreskyscrapers, bnisee, hongsays, hwanz706)
+
+
+2026-06-08: 삼성증권 위키 갱신 — 구창근 구다이글로벌 공동대표 선임, 청호나이스 칼라일 인수금융 주선(삼성증권·한투·우리·하나), DB손보 포테그라 인수 분석(정민기), 조아인 연구원 6월 조정 진단. 애널리스트 페이지 3종(조아인·정민기·구창근) 신규 생성.
