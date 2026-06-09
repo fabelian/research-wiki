@@ -37,3 +37,53 @@ updated: 2026-04-30
 - **시장 기대치 인플레이션**: ASIC 기업들도 더 이상 '좋은 실적'만으로 주가 방어 불가. '더 좋은 실적' 증명 구간 진입. (dsi_tech 2026-06-07)
 
 ⚠️출처: 복수 네이버 블로그·증권가 보도 기반. 블로그 자료는 개인 분석.
+
+
+---
+type: theme
+name: Custom_AI_Chip
+created: 2026-04-30
+updated: 2026-06-08
+---
+
+# Custom AI Chip (맞춤형 AI 칩)
+
+빅테크 기업들이 엔비디아 GPU 외에 자체 맞춤형 AI 칩(ASIC)을 개발하는 트렌드. [[Broadcom]], [[Marvell]]이 핵심 설계 파트너.
+
+## 정의
+
+- 빅테크(Google, Meta, Amazon, Microsoft)가 자체 AI 가속기 칩을 설계하는 흐름
+- GPU(범용) 대비 전력 효율·비용 최적화, 특정 워크로드에 특화
+- Broadcom: Google TPU, Meta MTIA, Amazon Trainium/Inferentia 설계 파트너
+- Marvell: Google·Amazon과 맞춤형 AI 칩 및 데이터센터 네트워킹 반도체 경쟁
+
+## 수혜·피해 종목
+
+- **수혜**: [[Broadcom]] · [[Marvell]] · [[Alchip]] · [[Socionext]]
+- **피해 가능**: [[엔비디아]](GPU 독점 약화) 단, 현재는 GPU+ASIC 동반 성장 구조
+
+## 주요 이벤트
+
+- 2026-06-08: [[Marvell]] S&P 500 편입 소식에 급등. 젠슨 황 CEO가 Marvell 성장 가능성 긍정적 언급으로 시장 관심 집중 (네이버블로그 lhjas)
+- 2026-06-05~08: Broadcom Q3 AI 매출 가이던스($160억) 실망으로 주가 -20% 폭락 → Custom AI Chip 시장 성장 속도에 대한 시장 눈높이 조정
+- 2026-06-08: Marvell vs Broadcom 비교 분석 확산 — Broadcom이 빅테크 맞춤 칩 파트너 중심이라면 Marvell은 광통신 연결·네트워크 차별화 (네이버블로그 murmurain)
+
+## 관련 출처/링크
+
+- https://blog.naver.com/lhjas/224310704022 (Marvell S&P 500 편입)
+- https://blog.naver.com/murmurain/224310486371 (Marvell vs Broadcom 비교)
+
+
+## 2026-06-09 업데이트 - Marvell S&P 500 편입 및 AI 반도체 업계 영향
+
+### 🆕 Marvell S&P 500 편입
+- 6/8 Marvell Technology (MRVL)가 S&P 500 지수에 편입 발표, 주가 급등.
+- 젠슨 황 CEO가 Marvell 성장 가능성을 긍정적으로 언급, 시장 관심 집중. (네이버블로그 lhjas 2026-06-09)
+- 맞춤형 AI 칩 설계 수요 증가와 맞물려 Broadcom과 Marvell의 경쟁 구도 주목. (네이버블로그 murmurain 2026-06-09)
+
+### 📈 美 반도체 반등 (6/8 마감)
+- SOX +5.61%, Micron +9.87% 급등, Broadcom +2.82% 반등. 메모리 섹터 수요 강세 신호. (네이버블로그 dogokdongja 2026-06-09)
+
+### 🐦 SNS·블로그 인사이트
+- 🐦네이버블로그(pjjyy1010379, 2026-06-09): Broadcom(AVGO) 2026년 6월 분석 — 지금이 매수 기회인지 신규 투자자 대상 분석. ⚠️개인 분석.
+- 🐦네이버블로그(hdmin77, 2026-06-09): SpaceX IPO 전후 Nvidia·Broadcom 등 AI·우주 테마 연동 종목 수급 변동 주목. ⚠️개인 분석.
