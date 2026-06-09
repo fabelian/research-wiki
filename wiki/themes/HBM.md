@@ -308,3 +308,20 @@ updated: 2026-06-08
 
 ### 🐦 SNS 블로그
 - 🐦네이버블로그(ecolog-, 2026-06-08): "한국 기술 없이 슈퍼컴퓨터 불가능" — 젠슨 황 SK하이닉스·HBM 극찬. (https://blog.naver.com/ecolog-/224310571737) ⚠️개인 분석.
+
+
+## 2026-06-09 업데이트 — HBM칩스 8배 매출 증가 공식 보도
+
+### 🍪 HBM칩스 과자 매출 8배 폭증 — MK 보도 (2026-06-09)
+- SK하이닉스-세븐일레븐 '허니바나나맛 HBM칩스', 젠슨 황 나눔 이벤트 후 매출 8배 이상(8-fold) 급증. (https://www.mk.co.kr/article/12069161)
+- *Sales of chip-themed snack jumps more than eightfold after Nvidia CEO event at convenience store* — 글로벌 미디어 보도.
+
+### 💡 HBM 재확인: 엔비디아·현대차 AI 동맹 속 HBM 수요 구조적 지속
+- 젠슨 황 "한국은 AI 분야 최고 수준, 로보틱스 시너지 고려 시 한국에 센터 구축 합리적". (https://www.sisaon.co.kr/news/articleView.html?idxno=201712)
+- SK하이닉스·네이버 AI팩토리 동맹 → HBM 수요 구조적 확대 신호. (http://www.joseilbo.com/news/news_read.php?uid=569673&class=18&grp=)
+
+
+### 🐦 SNS·블로그 인사이트
+- 🐦네이버블로그(mediapen, 2026-06-09): "젠슨 황, 한국을 구매하다" — 서울서 산업 공급망 구축. (https://www.mediapen.com/news/view/1103341)
+- 🐦네이버블로그(sisaon, 2026-06-09): 엔비디아·현대차 AI 동맹 시동…새만금 데이터센터. (https://www.sisaon.co.kr/news/articleView.html?idxno=201712)
+- 🐦네이버블로그(newstnt, 2026-06-09): 네이버 엔비디아 협력에 증권가 밸류에이션 리레이팅. (https://www.newstnt.com/news/articleView.html?idxno=705624)
