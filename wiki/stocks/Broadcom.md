@@ -180,3 +180,16 @@ updated: 2026-06-08
 
 
 | 2026-06-09 | 美·韓 반도체 급반등 — SOX +5.61%, Marvell S&P500 편입, Broadcom +2.82% | 검은 월요일 폭락 후 기술적 반발·AI 인프라 장기 수요 확인 | 뉴스 25건 |
+
+
+## 2026-06-09 업데이트 — Broadcom 쇼크 후 반등·과열된 기대의 대가
+
+### 📈 美 증시 반등 — SOX +6%, Broadcom +2.83%
+- 6/8(월) 필라델피아 반도체 지수(SOX) +5~6% 강한 반등. Broadcom +2.82~2.83%, 엔비디아 +1.73%, 마이크론 +9.87%, Intel +11.13%, Marvell +9.61% 급등. (https://blog.naver.com/cashin4_/224310237368, https://blog.naver.com/investor272/224310221786, https://blog.naver.com/sda6589/224310260894, https://blog.naver.com/qusdygks119/224310223670)
+- 반등 배경: 이란-이스라엘 휴전 협상 재개, 젠슨 황 방한 LTA 모멘텀, 엔비디아-SK AI 팩토리 다년계약 공식 체결로 구조적 성장론 재확인. (https://blog.naver.com/dogokdongja/224310302685)
+- Intel, Google의 TPU 주문 수주설로 +11.13% 급등. (https://blog.naver.com/cashin4_/224310237368)
+
+### 🆕 '과열된 기대의 대가' — Broadcom 쇼크 근본 원인 분석
+- Broadcom Q2 FY2026은 호실적(매출 +48% YoY, AI 반도체 +143% YoY)이었으나, Q3 AI 칩 매출 가이던스 동결($160억)이 시장 기대치($163.6~172억)에 미세하게 미달하며 폭락 촉발. (https://blog.naver.com/kiyoo1/224310213640, https://blog.naver.com/kitcahn/224310220871)
+- '결과는 좋았는데 기대가 더 컸다' — 시장이 요구하는 '더 좋은 실적'을 증명해야 하는 AI 반도체 섹터의 구조적 취약성 노출. (https://blog.naver.com/awh8806/224310303908, https://blog.naver.com/denovo7/224310225845)
+- LS증권
