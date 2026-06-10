@@ -334,3 +334,9 @@ updated: 2026-06-08
 
 ### 🏭 Vera Rubin MLCC 수혜 간접 신호 (2026-06-09)
 - Vera Rubin NVL72 랙 MLCC 50~60만개(블랙웰 44만개 대비 +36%). HBM4 탑재량 증가의 MLCC 수급 간접 증거. (financialpost.co.kr)
+
+
+## 🐦 SNS·블로그 인사이트 (2026-06-09)
+
+### HBM 관련주 대장주·밸류체인 분석
+- 🐦네이버블로그(lankissme, 2026-06-09): "HBM 관련주 대장주 총정리" — 삼성전자 HBM 시장 점유율 확대 집중, 한미반도체 TC본더, 이수페타시스 AI 기판 등 HBM 밸류체인 구조 정리. SK하이닉스 다음 수혜주 분석. ⚠️개인 분석. (https://blog.naver.com/lankissme/224311801549)
