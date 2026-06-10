@@ -8,16 +8,11 @@ updated: 2026-06-08
 
 SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월 12일 나스닥 상장을 앞두고 전 세계 투자자들의 이목을 집중시키고 있다. 우주 발사체·위성 인터넷([[스타링크]])·우주 탐사 분야에서 압도적 기술력을 보유 중이며, IPO를 계기로 [[Tesla]]·[[Rocket Lab]] 등 관련주 및 우주 테마 전반에 강력한 영향을 미치고 있다.
 
-## 📌 최신 요약 (2026-06-08)
-- **공모가 $135 확정, 기업가치 Tesla 상회 전망**: 6월 12일 나스닥 상장 예정. 공모가 기준 시가총액이 Meta·Tesla를 넘볼 수준이라는 평가. ([디지털데일리](https://www.digitaltoday.co.kr/news/articleView.html?idxno=664391), [NYT](https://www.nytimes.com/))
-- **미래에셋증권 단독 청약 주관·전량 완판**: 6월 5일 1차(3억 달러) 1분 완판, 6월 8일 2차(2억 달러) 2분 완판. 총 5억 달러(약 7,700억 원) 모집. (출처: [연합뉴스](https://www.yna.co.kr/view/AKR20260608073600008), [etoday](https://www.etoday.co.kr/news/view/2590856), [fnnews](http://www.fnnews.com/news/202606081814115635))
-- **금감원 현장 점검 진행**: 청약 과열로 투자자 보호·불완전판매 여부 점검 중. (출처: [조세일보](http://www.joseilbo.com/news/news_read.php?uid=569582))
-- **일반 투자자 진입 경로**: 전문투자자(최소 $10만) 제한으로 직접 청약 불가. 상장 후 해외주식 계좌 매수, ETF(KODEX 우주항공·TIGER 우주방산·FPX) 간접 투자, 미래에셋그룹 펀드 등 3가지 경로. (출처: [rajsyj 블로그](https://blog.naver.com/rajsyj/224309048922))
-- **주요 경쟁사**: [[Rocket Lab]]이 SDA Tranche 3 수주($8.05억), 수주잔고 22억 달러 확대로 직접 비교 대상으로 부각. (출처: [네이버블로그](https://blog.naver.com/deisler07/224307228737))
-- **리스크 요인**: 대형 IPO로 인한 글로벌 유동성 흡수·국내 증시 수급 악화 우려, 스타쉽/xAI R&D 비용 급증에 따른 영업손실 확대, 밸류에이션 고평가 논란. (출처: [삼성증권](https://www.sidae.com/article/2026060508410545639))
-- **삼성운용 푸른씨앗 OCIO 재선정**: 미래에셋증권과 함께 1기 전담 운용기관이었으나 2기는 삼성운용 단독 수주(신한운용과 접전). ([einfomax](https://news.einfomax.co.kr/news/articleView.html?idxno=4418926))
-- **韓 반도체 새 수요처 전망**: 스페이스X 상장이 중장기적으로 한국 반도체 산업에 신규 수요 창출 계기로 작용 가능. ([kookje](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260609.22012001892))
-- **국내 증시 기회론**: "메가IPO 스페이스X 상장, 국내 증시에 기회될까" — ETF 간접 투자 수요 급증, 반도체·우주산업 연계 효과 기대. ([betanews](https://www.betanews.net/article/view/beta202606080132), [econovill](https://www.econovill.com/news/articleView.html?idxno=741849), [mediawatch](https://www.mediawatch.kr/news/article.html?no=259932))
+## 📌 최신 요약 (2026-06-10)
+- **스페이스X 상장 D-2**: '2700조' 상장 초읽기. 미래에셋증권 인수단 참여·1·2차 청약 완판. 관련 ETF 7종 약 4.4조 원 유입. ([dong_019](https://blog.naver.com/dong_019/224311043699))
+- **TIGER 미국우주테크 ETF**: 개인 순매수 1조 8,151억 원 유입, 패시브 ETF로 공모가 편입 유리. ([whitenaruto](https://blog.naver.com/whitenaruto/224311558773))
+- **SK하이닉스 목표가 380만원 유지**: 미래에셋증권·한국투자증권, 급락장에도 목표가 유지. ([yoonjuicy](https://blog.naver.com/yoonjuicy/224311582447))
+- **카카오 목표가 하향**: 미래에셋증권 78,000→58,000원, 파업·AI 효과 제한적. ([ain264](https://blog.naver.com/ain264/224311544672))
 
 ## 애널리스트 분석
 
@@ -319,3 +314,14 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 
 - **Tesla-SpaceX 합병 루머 재점화**: CNBC 보도 인용, Tesla-SpaceX 간 지분 스왑 또는 지주회사 설계를 통한 합병 가능성 제기. 2020년 Tesla S&P 500 편입 당시를 연상시키는 인덱싱 업계 긴장감. (출처: 🐦 네이블로그 dazzling_jun, tysinvs 2026-06-08)
 - **SpaceX IPO 앞두고 합병 루머 변수**: 6/12 예정된 SpaceX IPO 직전 합병 루머가 투자자 관심을 분산시킬 가능성. 인덱스 편입 요건(Tesla 당시 선례) 회피 가능성도 거론. (출처: 🐦 네이블로그 tysinvs)
+
+
+## 2026-06-10 업데이트
+
+### 스페이스X 상장 D-2 — 국내 관련 ETF 유입 4.4조 원
+- '2700조' 스페이스X 상장 초읽기. 미래에셋증권·미래에셋벤처투자 IPO 인수단 합류, 국내 전문투자자 대상 청약 흥행 성공. 관련 우주항공 ETF 7종에 약 4.4조 원 유입(TIGER 포함). ([dong_019](https://blog.naver.com/dong_019/224311043699))
+- 미래에셋 TIGER 미국우주테크 ETF, 상장 이후 개인 순매수 1조 8,151억 원 유입. 패시브 ETF로 미래에셋증권 지분 보유 활용해 공모가 편입 유리. ([whitenaruto](https://blog.naver.com/whitenaruto/224311558773))
+- 상장 후 키움·미래에셋·NH·삼성 등 국내 증권사 해외주식 계좌로 직접 매수 가능. ([line24time](https://blog.naver.com/line24time/224311579402))
+
+### 모비어스 IPO — 미래에셋증권 단독 주관
+- 모비어스(프리IPO 2022~2023 한국투자파트너스·하나증권PE 투자), 미래에셋증권이 단독 상장 주관사 선정. 최대주주는 코스피 상장사로 중복상장 이슈 존재. ([spm0528](https://blog.naver.com/spm0528/224311548946))
