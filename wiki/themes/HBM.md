@@ -432,3 +432,17 @@ updated: 2026-06-08
 
 ### 😱 개인 레버리지 ETF 손실 확대
 - 삼성전자·SK하이닉스 변동폭 극심, 2배 추종 ETF 투자자 멘붕. (출처: [아이뉴스24 2026-06-10](http://www.inews24.com/view/1975546))
+
+
+## 2026-06-10 업데이트 — HBM ETF 구성·한미반도체 마이크론 협력·SOCAMM2 등장
+
+### 📊 글로벌 AI ETF 내 HBM·AI서버 비중
+- 🐦네이버블로그(retplan, 2026-06-09): 글로벌 AI ETF 구성 분석 — SK하이닉스(11%), Micron(8%), AMD(5%), Marvell(4%) 비중. 나머지 절반은 하드웨어·통신 장비·전력·냉각 관련 기업. (출처: [retplan](https://blog.naver.com/retplan/224311925964)) ⚠️ETF 분석.
+
+### 🏭 한미반도체-마이크론 HBM 테스트 장비 공급
+- 🐦네이버블로그(tioms_s, 2026-06-09): [[한미반도체]] 2026년 1분기 실적 분석 — 마이크론 최우수 협력사 선정. 기존 SK하이닉스 편중 매출 구조에서 마이크론(Micron)으로 HBM 테스트 장비 공급 확대, 고객 다변화 성공. (출처: [tioms_s](https://blog.naver.com/tioms_s/224311974250)) ⚠️개인 분석.
+  - HBM4 TC BONDER 442억원 수주 이후 후속 장비 공급 가능성 시사.
+
+### 🆕 SOCAMM2 — LPDDR5 기반 AI 서버 메모리 표준 부상
+- 🐦네이버블로그(outsider_insider, 2026-06-09): "디램 소캠2(SOCAMM2) LPDDR5 메모리 — NVIDIA가 주도하고 Micron·Samsung·SK Hynix와 공동 개발. 크기 14×90mm(기존 RDIMM의 약 1/3)." 데이터센터·AI 서버용 저전력·고밀도 메모리 표준으로 HBM과 차별화된 메모리 수요 경로 부상. (출처: [outsider_insider](https://blog.naver.com/outsider_insider/224312162131)) ⚠️개인 분석.
+  - 기존 LPCAMM2 보도와 연결 — 인포마켓·SOCAMM2 모두 'HBM 외 메모리 수요 경로' 관점에서 중요.

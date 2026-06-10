@@ -573,3 +573,15 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 
 ### 젠슨 황 효과 — 포털주 정체론 탈피한 네이버
 - 머니투데이(06-10) 분석: 네이버가 젠슨 황 방한 이후 AI 협력 부각으로 약 2달 만에 목표주가 하락세를 뒤집음. '포털주 정체론'이 AI서버·AI 팩토리 테마로 전환되는 신호. (머니투데이 06-10)
+
+
+## 2026-06-10 업데이트 — 글로벌AI ETF 구성·SOCAMM2 부상·마이크론 HBM4 완판
+
+### 📊 글로벌AI ETF 구성 분석
+- 🐦네이버블로그(retplan, 2026-06-09): AI ETF 구성 — SK하이닉스(11%), Micron(8%), AMD(5%), Marvell(4%). 데이터센터 냉각·전력 인프라 기업 포함. AI 서버 밸류체인 전반에 걸친 분산 투자 현황. (출처: [retplan](https://blog.naver.com/retplan/224311925964)) ⚠️ETF 분석.
+
+### 🆕 SOCAMM2 — AI 서버 메모리 표준 다변화
+- 🐦네이버블로그(outsider_insider, 2026-06-09): SOCAMM2(Small Outline CAMM2) — NVIDIA 주도, Micron·Samsung·SK Hynix 공동 개발 LPDDR5 모듈. AI 서버 메모리 폼팩터 다양화 신호. HBM과 보완적 사용처 부상. (출처: [outsider_insider](https://blog.naver.com/outsider_insider/224312162131)) ⚠️개인 분석.
+
+### 📋 마이크론 HBM4 완판·변동성 재확인
+- 🐦네이버블로그(investqualitic, 2026-06-09): "Micron MU HBM4 완판·$1조 클럽·UBS TP $1,625. CPI Hot→금리인상→고PER 압박·반도체 변동성." (출처: [investqualitic](https://blog.naver.com/investqualitic/224311941424)) ⚠️개인 브리핑.
