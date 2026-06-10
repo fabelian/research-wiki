@@ -478,3 +478,16 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 
 ### 🌐 MANGOS(Meta·Anthropic·Nvidia·Google·OpenAI·SpaceX) 부상 (2026-06-10)
 - 기존 MAGA → MANGOS로 실리콘밸리 패러다임 전환. 엔비디아와 앤트로픽 동시 포함, AI 인프라·AI 모델 융합 시대 시사. (https://www.digitaltoday.co.kr/news/articleView.html?idxno=673679)
+
+
+## 2026-06-10 업데이트 — AI서버주 변동성 장세 지속
+
+### 📉 6/10 AI서버·반도체주 추가 급락
+- SK하이닉스 -7.54%, 삼성전자 -6.06%, 전일 대반등분 상당 반납. 외국인 22거래일 연속 순매도 지속. (출처: [seo12 2026-06-10](https://blog.naver.com/seo12/224312144312), [chartrabbit 2026-06-10](https://blog.naver.com/chartrabbit/224312149551))
+- SOL SK하이닉스선물단일종목인버스2X ETF 출시 — 변동성 장세에서 숏 전략 수요 증가. (출처: [ecoqueen14 2026-06-09](https://blog.naver.com/ecoqueen14/224312151255), 🐦SNS·ETF분석)
+- 6월 6대 악재(FOMC·CPI·브로드컴 쇼크·외국인 리밸런싱·고환율·중동 리스크)가 AI서버 테마 변동성 지속. (출처: [speciallyforyou 2026-06-09](https://blog.naver.com/speciallyforyou/224312139776), 🐦SNS·분석)
+
+### 🐦 SNS·블로그 인사이트
+- 🐦네이버블로그(oo3636959, 2026-06-09): "AI서버 진짜 수혜주는 'AI 냉각' — 대형 반도체 기업 외 공급망(냉각·전력·패키징) 기회 확대." (https://blog.naver.com/oo3636959/224312147155) ⚠️개인 분석.
+- 🐦네이버블로그(18alsrb, 2026-06-09): "TIGER 반도체탑10 커버드콜 ETF — AI서버 밸류체인 분산(삼성전자·SK하이닉스·SK스퀘어·삼성전기 MLCC) 전략." (https://blog.naver.com/18alsrb/224312146164) ⚠️ETF 분석.
+- 🐦네이버블로그(kkoya_ne, 2026-06-09): "삼성전자 SK하이닉스만 보면 놓치는 AI 반도체 수혜 부품·패키징 단계 확산." (https://blog.naver.com/kkoya_ne/224312141718) ⚠️개인 분석.
