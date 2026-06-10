@@ -33,6 +33,7 @@ updated: 2026-06-06
 | 2026-06-08 | N/A | N/A | 외환당국 구두개입·코스닥 서킷브레이커 발동 — 신용 리스크 모니터링 구간 | https://www.yna.co.kr/view/AKR20260608124100002?input=1195m , https://biz.heraldcorp.com/article/10766138?ref=naver |
 | 2026-06-08 | 중동전쟁 이전 수준으로 완화 (구체적 수치 미기재, 서울파이낸셜 보도기반) | https://www.seoulfn.com/news/articleView.html?idxno=630610 |
 | 2026-06-09~10 | 23bp (1bp 하락, 전일 22bp→23bp) — 트럼프 "이란 1~2일 내 합의" 발언으로 CDS 추가 하락, 유가 3% 급락 동반. 한국 CDS 하락이 6/10 포커스 (pbs6609) | https://www.tokenpost.kr/news/international/367500 , https://blog.naver.com/pbs6609/224311424658 (보도기반) |
+| 2026-06-09 | 22bp 내외 (추정) — 반대매매 1조 돌파·VKOSPI 91.23 역대 최고 속에서도 안정 유지 | https://blog.naver.com/enewstock/224311772970 (네이버블로그·보도기반), https://www.yna.co.kr/view/AKR20260610022000008?input=1195m |
 
 ## 셀사이드 전망
 | 증권사 | 날짜 | 전망레벨 | 기간 | 출처 |
@@ -42,6 +43,7 @@ updated: 2026-06-06
 | 문다운(한국투자증권) | 2026-06-08 | CDS 프리미엄 중동전쟁 이전 수준 완화 — 환율 1,600원까지 열어두는 것이 적합하나 신용 리스크는 안정적 | 단기 | https://www.seoulfn.com/news/articleView.html?idxno=630610 |
 | pbs6609 블로그 (보도기반) | 2026-06-10 | 한국 CDS 하락 = 금일의 포커스 — 트럼프 이란 합의 발언·유가 급락이 CDS 안정에 기여 | 단기 | https://blog.naver.com/pbs6609/224311424658 (🐦보도기반) |
 | 강경태·황현정 (한국투자증권) | 2026-06-10 | 개별대미투자사업 상업적 합리성 최우선 검토 — 기금 조성 재원은 국가신용등급 채권, 상업적 합리성 검증 필연. 국가 신용 리스크 관리 관점 | 단기~중기 | https://blog.naver.com/dhp039/224311379277 (🌐한국투자증권 리포트 요약) |
+| 서상영(미래에셋증권) | 2026-06-09 | CDS 22bp 내외 안정 — VKOSPI 91.23 역대 최고·반대매매 1조 돌파에도 신용 리스크는 안정 구간 유지 | 단기 | https://www.yna.co.kr/view/AKR20260610022000008?input=1195m , https://blog.naver.com/enewstock/224311772970 |
 
 ## 영향 관계
 - CDS↑ → 국가 신용위험 인식 확대, 외국인 자금 이탈·원화 약세([[원달러환율]]↑)
