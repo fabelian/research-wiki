@@ -512,3 +512,12 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 
 #### 📉 6/10 AI서버주 추가 급락
 - 6/10 SK하이닉스 -7.54%, 삼성전자 -6.06% 재급락. 외국인 23일째 순매도. CPI·FOMC 경계. (출처: [의학신문 2026-06-10](https://www.mdtoday.co.kr/news/articleView.html?idxno=600380))
+
+
+## 2026-06-10 업데이트 — SKT '해인' GPU 운영 역량·AMD vs 엔비디아 CPU 경쟁·MANGOS 패러다임
+
+### 🌐 SKT-일본 NTT·대만 중화텔레콤, 5억달러 AI 펀드 조성
+- SK텔레콤, NTT·중화텔레콤과 5억달러(약 7,600억원) 규모 AI 인프라 펀드 결성. SK하이닉스 펀드 참여 준비 중. AI 데이터센터·AI 서비스 분야 한일 경제 기술 협력. (출처: [경향신문 2026-06-10](https://www.khan.co.kr/article/202606102058015), [서울경제TV 2026-06-10](https://www.sentv.co.kr/article/view/sentv202606100076), [매일경제 2026-06-10](https://www.mk.co.kr/article/12070554))
+
+### 🏭 SKT '해인' GPU 클러스터 운영 역량 입증
+- SKT, 국내 최초 NVIDIA 블랙웰 기반 대규모 GPU 클러스터 '해인' 운영. GPU 사용률 90% 이상·가용성 99.968%(글로벌 평균 99.5% 상회). DSX 기반 GW급 AI 팩토리 운영 역량 검증 완료. (출처: [뉴스1 2026-06-10](https://www.news1.kr/it-science/cc-newmedia/6193245), 기존 인용 유지)
