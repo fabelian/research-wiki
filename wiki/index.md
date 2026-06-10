@@ -92,3 +92,6 @@
 | [[조아인]] | [[삼성증권]] | 2026-06-08 |
 | [[정민기]] | [[삼성증권]] | 2026-06-08 |
 | [[구창근]] | [[삼성증권]] (출신) | 2026-06-08 |
+
+
+<!-- 2026-06-10 ingest by 뉴스 13건 갱신 (ksj04281·goldviperz·pure_h94·dlwlstlr38·godislove_ming·bbbbseul·bitsun47·hongja4848·goldmer2·hayeo-blog·hegemonist·picknavi00·mansanmoon 등 2026-06-09~10) -->
