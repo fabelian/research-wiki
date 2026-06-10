@@ -416,3 +416,23 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 
 ### 스페이스X 상장 D-2: ETF 유입 4.4조 원
 - 관련 우주항공 ETF 7종 약 4.4조 원 유입(TIGER 포함). 미래에셋 TIGER 미국우주테크 ETF 개인 순매수 1.8조 원. 패시브 ETF로 공모가 편입 유리한 구조. (기존 재확인)
+
+
+---
+## 2026-06-10 업데이트
+
+### 스페이스X 상장 D-2 — 청약 완판 해부
+- 미래에셋증권 공모주 1차(3억 달러) 1분 완판·2차(2억 달러) 2분 완판. 글로벌 IB 20여 곳 인수단 참여. "역대 최대 규모 IPO", "돈이 몰린 진짜 이유" — 밸류에이션과 미래 가치 논쟁 지속. ([sagesma](https://blog.naver.com/sagesma/224311167175), [hanspoon888](https://blog.naver.com/hanspoon888/224311601808))
+- 일반 투자자 직접 매수 경로: 6/12 나스닥 상장 후 키움·미래에셋·삼성·KB·NH·토스증권 등 해외주식 계좌로 'SPCX' 티커 매수. 공모주 청약은 전문투자자(최소 1.5억 원)만 가능. ([nanuri_00](https://blog.naver.com/nanuri_00/224311575625), [nnppoppo](https://blog.naver.com/nnppoppo/224311636695))
+- 박현주 회장 연혁 조명: "일론 머스크가 상상하는 미래에 투자하라" — 동양증권 출신→미래에셋 창업→스페이스X 초기 지분 투자→IPO 단독 주관. ([upland_](https://blog.naver.com/upland_/224311585536))
+
+### 미래에셋증권 수혜 vs "호재 이미 반영" 논쟁
+- 미래에셋증권 스페이스X 평가이익 1조 원 규모, 2분기 순이익 상향 전망. ([yoonpooh-](https://blog.naver.com/yoonpooh-/224311669407))
+- 염블리: "스페이스X 호재는 이미 반영됨. 증권주로는 삼성증권 선호. 미래에셋 본업 가치 기준 적정 주가 7만 원." ([metalblue1](https://blog.naver.com/metalblue1/224311644530))
+- 수익률 상위 1% 초고수, HD현대일렉트릭·삼성전자·삼성전기 순매수 1위. 미래에셋증권2우B 순매수 상위 — 거래대금 증가·배당 매력. ([try3month](https://blog.naver.com/try3month/224311639440), [diehard20811](https://blog.naver.com/diehard20811/224311644569), [kikiju768](https://blog.naver.com/kikiju768/224311633495))
+
+### 앤트로픽 IPO·AI ETF 간접 투자
+- 미래에셋증권 TIGER미국AI소프트웨어TOP4Plus ETF 등 앤트로픽 간접 투자 채널 제공. ([booknzi](https://blog.naver.com/booknzi/224311607940))
+
+### 한투닉스 2배 LP 사태
+- '한투 닉스 2배 레버리지 ETF', 상장 8거래일 만에 투자유의 종목 지정. LP 5개사(한국투자·미래에셋·NH·키움·하나) 동시호가 연장 구간 유동성 공급 실패. ([newsspace](https://blog.naver.com/newsspace/224311656747))
