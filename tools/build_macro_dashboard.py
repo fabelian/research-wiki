@@ -8,7 +8,15 @@
 """
 import os
 import re
+import sys
 from datetime import datetime, timedelta, timezone
+
+# Windows 콘솔(cp949)에서도 한글/em대시 출력이 깨지지 않게 — 성공 print가
+# UnicodeEncodeError로 비정상 종료하는 것을 방지(CI 우분투는 UTF-8이라 무영향).
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except (AttributeError, ValueError):
+    pass
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 NUM_RE = re.compile(r"-?\d[\d,]*(?:\.\d+)?")
