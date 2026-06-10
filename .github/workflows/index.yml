@@ -25,6 +25,8 @@ jobs:
           python-version: "3.12"
       - name: Fix links + frontmatter (명명정규화·쓰레기링크 해제·type 보강)
         run: python tools/fix_wiki.py
+      - name: Rebuild 매크로 대시보드 (스냅샷 → 날짜×지표 14일)
+        run: python tools/build_macro_dashboard.py
       - name: Rebuild index.md (frontmatter → 최신순 정렬)
         run: python tools/build_index.py
       - name: Commit & push if changed
