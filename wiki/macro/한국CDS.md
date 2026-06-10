@@ -34,6 +34,7 @@ updated: 2026-06-06
 | 2026-06-08 | 중동전쟁 이전 수준으로 완화 (구체적 수치 미기재, 서울파이낸셜 보도기반) | https://www.seoulfn.com/news/articleView.html?idxno=630610 |
 | 2026-06-09~10 | 23bp (1bp 하락, 전일 22bp→23bp) — 트럼프 "이란 1~2일 내 합의" 발언으로 CDS 추가 하락, 유가 3% 급락 동반. 한국 CDS 하락이 6/10 포커스 (pbs6609) | https://www.tokenpost.kr/news/international/367500 , https://blog.naver.com/pbs6609/224311424658 (보도기반) |
 | 2026-06-09 | 22bp 내외 (추정) — 반대매매 1조 돌파·VKOSPI 91.23 역대 최고 속에서도 안정 유지 | https://blog.naver.com/enewstock/224311772970 (네이버블로그·보도기반), https://www.yna.co.kr/view/AKR20260610022000008?input=1195m |
+| 2026-06-09~10 | 23bp (전일비 1bp 하락 — 트럼프 이란 합의 발언·유가 3% 급락 영향) | https://www.tokenpost.kr/news/international/367500 (토큰포스트 국제금융브리핑 2026-06-10·보도기반)
 
 ## 셀사이드 전망
 | 증권사 | 날짜 | 전망레벨 | 기간 | 출처 |

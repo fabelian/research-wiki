@@ -21,6 +21,7 @@ updated: 2026-06-10
 | 2026-06-06 | 70 (70선 돌파, '검은 월요일' 경계) | https://www.digitaltoday.co.kr/news/articleView.html?idxno=672547 |
 | 2026-06-05 | 73.44 (7거래일 연속 70대) | https://www.hankyung.com/article/2026060716951 (2026-06-07 한국경제 보도 "지난 5일 73.44" 인용) |
 | 2026-06-04 | 73.41 ~ 75 (70~80대 고공행진, 정상범위 20~30 크게 상회) | wiki/macro/VIX.md L71 인용 — 머니투데이·이코노미스트·이데일리·한국투데이·전매일보 2026-06-04~05 보도기반 |
+| 2026-06-10 | 88.35 (종가, -3.16%), 장중 89.17 — 4거래일 연속 사이드카·거래량 올해 최저 | https://news.sbs.co.kr/news/endPage.do?news_id=N1008603943&plink=ORI&cooper=NAVER , http://www.seouleconews.com/news/articleView.html?idxno=91740 , https://www.yna.co.kr/view/AKR20260610131951008?input=1195m , https://www.hidomin.com/news/articleView.html?idxno=708775 , https://www.ajunews.com/view/20260610160221093 , https://news.tvchosun.com/site/data/html_dir/2026/06/10/2026061090248.html
 
 ## 영향 관계
 - VKOSPI↑ → 국내 위험회피, 외국인 코스피 순매도·[[한국CDS]] 동반 상승 경향
@@ -51,3 +52,11 @@ updated: 2026-06-10
 - 증권가 진단: 서상영 미래에셋증권 "변동성 장세 대응 어려운 국면", 박 부장 "코스피 7,300선 1차 지지선, 반도체 중심 대응". (딜사이트TV 2026-06-10·보도기반)
 - 김종민 삼성증권 "단기 급등 피로감 누적", 이재원 신한투자증권 "반도체 중심 차익 실현". (서울경제 2026-06-10·보도기반)
 - 출처: https://www.etnews.com/20260610000390 , https://www.tokenpost.kr/news/market/367699 , https://www.yna.co.kr/view/AKR20260610079351008?input=1195m , https://www.sedaily.com/article/20054152?ref=naver , https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606101636562490892 , http://www.yonhapnewstv.co.kr/news/AKR20260610165008AxA , http://www.smedaily.co.kr/news/articleView.html?idxno=358516 , https://news.dealsitetv.com/articles/171628
+
+
+### 2026-06-10: VKOSPI 88.35 — 4거래일 연속 사이드카·거래량 급감·극단적 공포 지속
+- VKOSPI 종가 **88.35**(-3.16%), 장중 89.17까지 상승. 전날(91.23) 사상 최고 대비 소폭 완화됐으나 여전히 3월 중동전쟁 당시(83.58)·2008년 금융위기(89.30)에 근접한 극단적 공포 구간. (연합뉴스·서울이코노미뉴스·TV조선 2026-06-10·보도기반)
+- **4거래일 연속 사이드카 발동**(6/5→6/10) — 올해 24번째. 매수·매도 사이드카가 하루 만에 교차하는 이례적 현상. (국제신문·동아일보·MBN 2026-06-10·보도기반)
+- **코스피 거래량 올해 최저** — '현기증 장세' 속 개인 이탈. (hidomin 2026-06-10·보도기반)
+- 한지영 키움증권 연구원: "VKOSPI 90pt에서 이론상 예상 등락률 5.7%이나 실제 8%대 등락률은 매우 이례적" — 레버리지 ETF 수급 쏠림이 변동성을 증폭. (미디어펜·안전타임스 2026-06-10·보도기반)
+- 국민연금 국내주식 비중 상향(파이낸셜뉴스 2026-06-10)이 시장 안정 효과와 운용 안정성 훼손 가능성을 동시에 낳는다는 분석. (파이낸셜뉴스 2026-06-10·보도기반)
