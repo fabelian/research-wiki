@@ -335,3 +335,19 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 
 ### 이종욱 삼성증권 — AI 버블론 사이클
 - [[이종욱]] 삼성증권: "24년 6월 세콰이어캐피털 AI버블론 제기 이후 월가 주기적 고점론. 이번 사이클의 고객은 AI 경쟁에서 뒤처질 경우 향후 10년 성장 기회를 잃을 수 있다는 불안감에 투자" — 스페이스X IPO와 AI 투자 사이클 연계. ([네이버블로그](https://blog.naver.com/rodonshin/224311686866), 2026-06-09)
+
+
+## 2026-06-09 업데이트: SOL 우주밸류체인 ETF·관련주 TOP10
+
+### SOL 우주항공밸류체인 ETF 포트폴리오
+- 삼성자산운용 SOL 우주항공밸류체인 ETF 구성 비중 (2026-06-09 기준): **Rocket Lab 22.22%**, 에이치브이엠 16.04%, AST SpaceMobile 17.65%, 스피어 12.28%, EchoStar 11.77%, 쎄트렉아이 10.38%, Planet Labs 10.56%, 대주전자재료 9.85%, Viasat 8.56%, 컨텍 9.27%, Globalstar 8.23%, 한화시스템 8.68%, Intuitive Machines 7.34%. (출처: [soletf 블로그](https://blog.naver.com/soletf/224311921371))
+
+### 스페이스X 관련주 TOP10
+- Rocket Lab(RKLB): 현재 상장된 기업 중 가장 대표적인 스페이스X 관련주. Electron 발사 + 위성 제작 + Neutron 개발. (출처: [msx_research 블로그](https://blog.naver.com/msx_research/224312005700))
+- Axiom Space: 상업용 우주정거장 개발
+- Virgin Galactic: 우주 관광
+- OneWeb: 저궤도 위성 통신
+- Bitget 선물 거래 연계 스페이스X 테마 투자 방법도 제시. (출처: [study465 블로그](https://blog.naver.com/study465/224312153016))
+
+### 우주 데이터센터 테마
+- '스페이스X IPO와 우주 데이터센터 시대' 분석: SpaceX·Nvidia·Rocket Lab·Redwire·AST SpaceMobile·Iridium·GE Vernova·Vertiv·Eaton 등 관찰 대상. 한국 수혜주: 스피어, 켄코아에어로스페이스, HVM, 한화에어로스페이스, 한화시스템, 삼성전자. (출처: [smartinvester 블로그](https://blog.naver.com/smartinvester/224311860208))
