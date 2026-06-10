@@ -22,6 +22,7 @@ updated: 2026-06-10
 | 2026-06-05 | 73.44 (7거래일 연속 70대) | https://www.hankyung.com/article/2026060716951 (2026-06-07 한국경제 보도 "지난 5일 73.44" 인용) |
 | 2026-06-04 | 73.41 ~ 75 (70~80대 고공행진, 정상범위 20~30 크게 상회) | wiki/macro/VIX.md L71 인용 — 머니투데이·이코노미스트·이데일리·한국투데이·전매일보 2026-06-04~05 보도기반 |
 | 2026-06-10 | 88.35 (종가, -3.16%), 장중 89.17 — 4거래일 연속 사이드카·거래량 올해 최저 | https://news.sbs.co.kr/news/endPage.do?news_id=N1008603943&plink=ORI&cooper=NAVER , http://www.seouleconews.com/news/articleView.html?idxno=91740 , https://www.yna.co.kr/view/AKR20260610131951008?input=1195m , https://www.hidomin.com/news/articleView.html?idxno=708775 , https://www.ajunews.com/view/20260610160221093 , https://news.tvchosun.com/site/data/html_dir/2026/06/10/2026061090248.html
+| 2026-06-10 | 91 | 삼성증권 리서치센터, 네이버블로그 air92 | VKOSPI 91 돌파. 코스피200 옵션 외국인 비중·전문적 옵션 거래 특성. 전균 연구원 '상승 위험' 분석 병행. |
 
 ## 영향 관계
 - VKOSPI↑ → 국내 위험회피, 외국인 코스피 순매도·[[한국CDS]] 동반 상승 경향
