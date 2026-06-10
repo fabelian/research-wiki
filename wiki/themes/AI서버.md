@@ -466,3 +466,15 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 - **코스피 7800선 후퇴, AI서버주 전반 약세**: 6/10 코스피 -2%, 삼성전자(-3.4%)·SK하이닉스(-2.9%)·NAVER(-7.59%) 동반 하락. 외국인 순매도 지속. (아시아경제, 세계일보 06-10)
 - **에임인텔리전스, AI 보안 스타트업 — LG·현대차·네이버 공동 투자**: AI 인프라·AI서버 보안 분야 전략적 투자. (edaily 06-10)
 - **연초 대비 대형주 쏠림 심화**: NAVER +26.60%, SK네트웍스 +70.12% 등 시총 상위 대형주 위주 수익률 차별화. (매일신문 06-10)
+
+
+## 2026-06-10 업데이트 — SKT GPU 클러스터 '해인' 운영·AMD vs 엔비디아 CPU 경쟁·MANGOS 신조어
+
+### 🏭 SKT '해인' GPU 운영 역량 검증 완료 (2026-06-10)
+- SK텔레콤, 국내 최초 NVIDIA 블랙웰 기반 대규모 GPU 클러스터 '해인' 운영. GPU 사용률 90% 이상·가용성 99.968% 유지(글로벌 평균 99.5% 상회). DSX 기반 GW급 AI 팩토리 운영 역량 입증. (https://www.news1.kr/it-science/cc-newmedia/6193245)
+
+### 🔬 AMD EPYC vs 엔비디아 Vera CPU — AI 인프라 경쟁 심화 (2026-06-10)
+- AMD, 랙 단위 성능 비교에서 EPYC이 엔비디아 Vera·인텔 Xeon 플랫폼을 크게 앞선다고 주장. 에이전틱 AI 시대 'CPU가 승부처' 논쟁. (https://www.aitimes.kr/news/articleView.html?idxno=40429)
+
+### 🌐 MANGOS(Meta·Anthropic·Nvidia·Google·OpenAI·SpaceX) 부상 (2026-06-10)
+- 기존 MAGA → MANGOS로 실리콘밸리 패러다임 전환. 엔비디아와 앤트로픽 동시 포함, AI 인프라·AI 모델 융합 시대 시사. (https://www.digitaltoday.co.kr/news/articleView.html?idxno=673679)
