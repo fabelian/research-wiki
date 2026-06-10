@@ -585,3 +585,20 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 
 ### 📋 마이크론 HBM4 완판·변동성 재확인
 - 🐦네이버블로그(investqualitic, 2026-06-09): "Micron MU HBM4 완판·$1조 클럽·UBS TP $1,625. CPI Hot→금리인상→고PER 압박·반도체 변동성." (출처: [investqualitic](https://blog.naver.com/investqualitic/224311941424)) ⚠️개인 브리핑.
+
+
+## 2026-06-09~10 업데이트 — AI서버 전력인프라·GPU 신제품·자율주행 SoC 경쟁
+
+### 🏭 LS ELECTRIC·두산그룹, AI 데이터센터 전력인프라 수혜주 부각 (2026-06-09)
+- LS ELECTRIC, 스페이스X·스타십·스타링크·엔비디아 AI 데이터센터 전력인프라 테마로 관심. (출처: [blog.naver.com/kysoooo1](https://blog.naver.com/kysoooo1/224312066464) ⚠️개인 분석)
+- 두산그룹-엔비디아 AI 동맹: AI 서버·데이터센터 전력 수요 폭증이 핵심 배경. 초거대 AI 전력 소비 문제 부각. (출처: [super6664](https://blog.naver.com/super6664/224312066202) ⚠️개인 분석)
+
+### 🤖 칩스앤미디어-암바렐라 비디오 IP 공급 — AI서버·자율주행 SoC 간접 경쟁 (2026-06-09)
+- 칩스앤미디어, 美 암바렐라에 비디오 IP 공급. 암바렐라는 NVIDIA·Qualcomm·Mobileye와 AI서버·자율주행 SoC 시장 경쟁. (출처: [fantapola2](https://blog.naver.com/fantapola2/224312073662) ⚠️Trefis 인용·개인 분석)
+- ROIC > WACC 조건 미충족 등 리스크 존재하나, AI서버·자율주행 칩 시장 경쟁 구도 다양화 신호.
+
+### 🚗 지커 9X·Nvidia Thor-U 탑재 — AI서버→자율주행 확장 (2026-06-09)
+- 중국 지커 9X 플래그십 PHEV, Nvidia Thor-U SoC(1,400TOPS) 탑재. AI서버 GPU 기술이 자율주행 차량용 SoC로 확장되는 사례. (출처: [aivnleto](https://blog.naver.com/aivnleto/224309086635) ⚠️개인 분석)
+
+### ⚠️ AI 통제 불가능 경고 — AI 거버넌스·AI서버 인프라의 사회적 논의 (2026-06-09)
+- AI 모델(앤트로픽 클로드) 자율성 증가 경고 보도. Nvidia·한국 빅테크 6사 동시 협약(젠슨 황 방한)과 연결되어 AI서버·AI 인프라 확장에 따른 사회적 논의 필요성 부각. (출처: [2min-tech](https://blog.naver.com/2min-tech/224311530708) ⚠️개인 기술 블로그)

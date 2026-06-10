@@ -446,3 +446,12 @@ updated: 2026-06-08
 ### 🆕 SOCAMM2 — LPDDR5 기반 AI 서버 메모리 표준 부상
 - 🐦네이버블로그(outsider_insider, 2026-06-09): "디램 소캠2(SOCAMM2) LPDDR5 메모리 — NVIDIA가 주도하고 Micron·Samsung·SK Hynix와 공동 개발. 크기 14×90mm(기존 RDIMM의 약 1/3)." 데이터센터·AI 서버용 저전력·고밀도 메모리 표준으로 HBM과 차별화된 메모리 수요 경로 부상. (출처: [outsider_insider](https://blog.naver.com/outsider_insider/224312162131)) ⚠️개인 분석.
   - 기존 LPCAMM2 보도와 연결 — 인포마켓·SOCAMM2 모두 'HBM 외 메모리 수요 경로' 관점에서 중요.
+
+
+## 2026-06-09~10 업데이트 — 칩스앤미디어 IP·GPU 제품 리뷰 급증
+
+### 🖥️ 엔비디아 GPU 탑재 제품 리뷰 급증 — HBM 수요의 소비자 신호 (2026-06-09)
+- RTX 4050·4060·5060·5070 등 40·50 시리즈 GPU 탑재 노트북 리뷰 블로그 다수 게재. HBM은 데이터센터 GPU에 주로 탑재되나, 소비자 GPU 수요 증가가 메모리 밸류체인 전반에 긍정 신호. (출처: leavealone24811·ingenuity96622·homecoming81825·spsrln86407_fm·exordium24792·ramen76·output12745·integrted79790 등 ⚠️개인 리뷰)
+
+### 🤖 칩스앤미디어-암바렐라 비디오 IP — AI 반도체 경쟁 구도 다양화 (2026-06-09)
+- 칩스앤미디어, 美 암바렐라에 비디오 IP 공급. 암바렐라는 NVIDIA·Qualcomm·Mobileye와 AI·자율주행 SoC 경쟁. HBM 수요처 다양화 가능성 시사. (출처: [fantapola2](https://blog.naver.com/fantapola2/224312073662) ⚠️Trefis 인용)
