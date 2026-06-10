@@ -95,3 +95,6 @@
 
 
 <!-- 2026-06-10 ingest by 뉴스 13건 갱신 (ksj04281·goldviperz·pure_h94·dlwlstlr38·godislove_ming·bbbbseul·bitsun47·hongja4848·goldmer2·hayeo-blog·hegemonist·picknavi00·mansanmoon 등 2026-06-09~10) -->
+
+
+<!-- 2026-06-10 ingest by 뉴스 8건 갱신 (kpenews, edaily, 아시아경제, hidomin, 탑스타뉴스, 매일신문, 세계일보, 한국스포츠경제 06-10) -->
