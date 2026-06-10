@@ -267,3 +267,21 @@ updated: 2026-06-08
 
 ### 출처
 - Korea JoongAng Daily (2026-06-09): [Kospi jumps more than 4%, triggers buy-side sidecar after tech shares rebound](https://www.koreajoongangdaily.com/business/kospi-jumps-more-than-4-triggers-buy-side-sidecar-after-tech-shares-rebound/12696821)
+
+
+## 2026-06-10 업데이트 — 반등 후 재약세·투자심리 경계 지속
+
+### 📉 6/9 美 증시 재약세 — Broadcom -1.12%, SOX -1.93%
+- 6/8 강한 반등(+2.82%) 하루 만에 다시 약세. Broadcom 392.16(-1.12%), Nvidia -0.2%, Micron -1.4%, Apple -3.64%. AMD -3.02% 상대적 약세는 로직 칩 경쟁 심화 반영. (연합뉴스영문 2026-06-10, 네이버블로그 dogokdongja 2026-06-10)
+- SOX -1.93%로 반등분 일부 반납. 투자심리가 'AI 수요가 좋다'는 말만으로 만족하지 못하고, 성장 속도·가이던스·고객사 확대 등 구체적 증명을 요구하는 국면. (네이버블로그 gjfrj3 2026-06-10)
+- **핵심 변수**: 6/10 CPI·6/16~17 FOMC가 단기 방향 결정. 고금리 환경에서 높은 PER(42.8배) 주식의 멀티플 부담은 여전. (네이버블로그 nanbom1 2026-06-10)
+- KOSPI도 외국인 매도·환율 변동성 속 4%대 추가 하락. 반도체 대형주 의존도가 글로벌 AI 대표주 변동성을 한국 시장으로 직접 전이시키는 구조 재확인. (네이버블로그 avandego 2026-06-10)
+
+### 💰 Anthropic AI 인프라 — Broadcom 350억 달러 펀드 참여
+- Apollo Global Management·Blackstone·Broadcom이 Anthropic의 AI 컴퓨팅 인프라 확장에 약 350억 달러 규모 지원 계획 발표. 핵심 AI 모델보다 데이터센터 자체가 더 중요한 인프라 경쟁 시대 진입 시그널. (네이버블로그 ohfhwl 2026-06-10)
+
+### 🐦 SNS·블로그 관점 (2026-06-10)
+- 🐦네이버블로그(dogokdongja, 2026-06-10): SOX -1.93% 약세에도 메모리 공급망 건전성(Micron EPS +33% 서프라이즈)은 유지. AMD -3.02% 약세는 로직 칩 경쟁 심화, Broadcom보다 더 취약한 구도. ⚠️개인 분석.
+- 🐦네이버블로그(gjfrj3, 2026-06-10): "시장은 단순히 AI 수요가 좋다는 말만으로는 만족하지 않는다. 매출 성장·고객사 확대·마진 등 구체적 증명 필요". Broadcom 사례가 이 구조의 대표적 사례. ⚠️개인 분석.
+
+⚠️모든 블로그 자료는 개인 분석·참고용.

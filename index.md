@@ -178,3 +178,6 @@
 
 
 <!-- 2026-06-10 ingest by 신규 뉴스 26건 갱신 (it.chosun·smarttimes·kmib·theguru·webeconomy·megaeconomy·weeklytoday·news1·mk·ajunews·sidae·SBS Biz 등) -->
+
+
+<!-- 2026-06-10 ingest by Broadcom 재약세·반도체 투자심리 경계 지속 (연합뉴스영문 06-10, 네이버블로그 06-10) -->
