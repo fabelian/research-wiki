@@ -175,3 +175,6 @@
 
 
 <!-- 2026-06-10 ingest by 뉴스 26건 갱신 (BusinessKorea 06-09, AsiaToday 06-09, JoongAng 06-09, venturesquare 06-09) -->
+
+
+<!-- 2026-06-10 ingest by 신규 뉴스 26건 갱신 (it.chosun·smarttimes·kmib·theguru·webeconomy·megaeconomy·weeklytoday·news1·mk·ajunews·sidae·SBS Biz 등) -->
