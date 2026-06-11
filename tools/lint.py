@@ -84,6 +84,53 @@ def main():
             if gap_pat.search(ln):
                 gaps.append((p.replace("\\", "/"), i, ln.strip()[:90]))
 
+    # --- 관계 그래프 레이어 점검 (GRAPH_LAYER Phase 2) ---
+    ENTITY_RE = re.compile(r"\[\[([^\]|#]+)")
+    DATE_RE = re.compile(r"(20\d{2}-\d{2}-\d{2})")
+    EVENT_KW = ["쇼크", "서킷브레이커", "블랙먼데이", "검은 월요일", "폭락", "급락", "감산", "리콜", "디폴트", "제재"]
+
+    # issue 페이지: stem -> 엔티티 stem 집합(frontmatter entities)
+    issues = {}
+    for p in glob.glob("wiki/issues/*.md"):
+        ents = set()
+        for ln in open(p, encoding="utf-8"):
+            s = ln.strip()
+            if s.startswith("entities:"):
+                ents |= {m.strip() for m in ENTITY_RE.findall(s)}
+                break
+        issues[stem(p)] = ents
+
+    # [5] 중복 issue 후보: 엔티티 2개 이상 공유
+    dup_pairs = []
+    ik = list(issues)
+    for a in range(len(ik)):
+        for b in range(a + 1, len(ik)):
+            shared = issues[ik[a]] & issues[ik[b]]
+            if len(shared) >= 2:
+                dup_pairs.append((ik[a], ik[b], shared))
+
+    # [6] 다종목 이벤트인데 issue 없음: (날짜,사건키워드) 시그니처가 ≥2 종목에 등장하는데
+    #     그 종목들을 ≥2개 함께 덮는 issue가 없으면 issue 승격 후보로 플래그
+    sig = {}  # (date, kw) -> set(stock stem)
+    for p in glob.glob("wiki/stocks/*.md"):
+        s = stem(p)
+        for ln in open(p, encoding="utf-8"):
+            d = DATE_RE.search(ln)
+            if not d:
+                continue
+            for kw in EVENT_KW:
+                if kw in ln:
+                    sig.setdefault((d.group(1), kw), set()).add(s)
+    covers = list(issues.values())
+    missing_issue = []
+    for (d, kw), sset in sig.items():
+        if len(sset) < 2:
+            continue
+        if any(len(sset & c) >= 2 for c in covers):
+            continue
+        missing_issue.append((d, kw, sorted(sset)))
+    missing_issue.sort(reverse=True)
+
     # 보고
     print("=" * 60)
     print("WIKI LINT 리포트")
@@ -103,6 +150,16 @@ def main():
         print(f"  - {f}:{i}  {ln}")
     if len(gaps) > 40:
         print(f"  ... 외 {len(gaps)-40}건")
+
+    print(f"\n[5] 중복 issue 후보 (엔티티 2개+ 공유): {len(dup_pairs)}건")
+    for a, b, shared in dup_pairs:
+        print(f"  - [[{a}]] ↔ [[{b}]]  공유: {', '.join(sorted(shared))}")
+
+    print(f"\n[6] 다종목 이벤트인데 issue 없음 (승격 후보): {len(missing_issue)}건")
+    for d, kw, sset in missing_issue[:25]:
+        print(f"  - {d} '{kw}' ← {', '.join(sset)}")
+    if len(missing_issue) > 25:
+        print(f"  ... 외 {len(missing_issue)-25}건")
 
 
 if __name__ == "__main__":

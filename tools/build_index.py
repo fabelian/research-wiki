@@ -50,7 +50,7 @@ def main():
     except Exception:
         pass
 
-    stocks, sectors, themes, macro, analysts = [], [], [], [], []
+    stocks, sectors, themes, macro, analysts, issues = [], [], [], [], [], []
     for path in glob.glob("wiki/**/*.md", recursive=True):
         fm = parse_frontmatter(path)
         t = fm.get("type", "")
@@ -69,6 +69,8 @@ def main():
             rec["category"] = clean(fm.get("category", "")); macro.append(rec)
         elif t == "analyst":
             rec["aff"] = clean(fm.get("affiliation", "")); analysts.append(rec)
+        elif t == "issue":
+            rec["status"] = clean(fm.get("status", "")); issues.append(rec)
 
     by_date = lambda rows: sorted(rows, key=lambda r: (r["updated"] or "", r["name"]), reverse=True)
     # 섹터별 소속 종목(파생, stem 기준)
@@ -107,8 +109,13 @@ def main():
     for r in by_date(analysts):
         out.append(f"| {link(r['stem'], r['name'])} | {r['aff'] or '—'} | {r['updated'] or '—'} |")
 
+    out += ["", "## 이슈/이벤트 (wiki/issues/)", "",
+            "| 이슈 | 상태 | 최근 업데이트 |", "|------|------|---------------|"]
+    for r in by_date(issues):
+        out.append(f"| {link(r['stem'], r['name'])} | {r['status'] or '—'} | {r['updated'] or '—'} |")
+
     open("index.md", "w", encoding="utf-8", newline="\n").write("\n".join(out) + "\n")
-    print(f"[OK] index.md 생성 — 종목 {len(stocks)} · 섹터 {len(sectors)} · 거시 {len(macro)} · 테마 {len(themes)} · 애널 {len(analysts)} (최신순, stem 링크)")
+    print(f"[OK] index.md 생성 — 종목 {len(stocks)} · 섹터 {len(sectors)} · 거시 {len(macro)} · 테마 {len(themes)} · 애널 {len(analysts)} · 이슈 {len(issues)} (최신순, stem 링크)")
 
 
 if __name__ == "__main__":
