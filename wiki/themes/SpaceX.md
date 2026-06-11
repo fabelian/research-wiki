@@ -475,3 +475,18 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 
 ### 한국투자증권 '미래에셋증권 중립'
 - 한국투자증권, 스페이스X 평가이익 반영 분석하며 미래에셋증권 '중립' 의견 제시. ([cavin419](https://blog.naver.com/cavin419/224312040953))
+
+
+## 2026-06-10 업데이트: 상장 D-2, 우주항공 ETF 및 로켓랩 포지셔닝
+
+### ETF 포트폴리오 업데이트
+- **KODEX 미국우주항공 ETF(0167Z0)**: Rocket Lab 26.11% 최대 비중, AST SpaceMobile 13.87%, Intuitive Machines 12.32%. (출처: [kjh44231 블로그](https://blog.naver.com/kjh44231/224312468154))
+- **TIGER 미국우주테크 ETF**: Rocket Lab 24.78%(1위), Intuitive Machines 18.68%(2위), Redwire 17.48%(3위). (출처: [soft_waves 블로그](https://blog.naver.com/soft_waves/224312255973))
+- **KODEX 미국우주항공 ETF**: Rocket Lab 약 17.5%(1위). (출처: [handasw 블로그](https://blog.naver.com/handasw/224312319588))
+- 일반 투자자 3대 진입 경로 ETF 모두 Rocket Lab을 핵심 편입: TIGER·SOL·KODEX. (출처: [skyjkyyy 블로그](https://blog.naver.com/skyjkyyy/224311668086))
+
+### 핵심 동향 추가
+- 스페이스X(거대 버스) vs Rocket Lab(작고 빠른 스포츠카) 포지셔닝 비교 지속. 소형 위성 발사 시장에서 Rocket Lab의 독보적 위치 재확인. (출처: [soozin_a 블로그](https://blog.naver.com/soozin_a/224312195217))
+- Rocket Lab(RKLB) 현재가 $106.69(-1.42%). 시장에서 'Strong Buy에 가까운 기대주'로 평가. (출처: [infinitygrowth10x 블로그](https://blog.naver.com/infinitygrowth10x/224312306257), [smarthumanlife 블로그](https://blog.naver.com/smarthumanlife/224312449632))
+- 민간 로켓 산업 4강: 스페이스X, 블루오리진, 버진 갤럭틱, Rocket Lab. (출처: [428valeria 블로그](https://blog.naver.com/428valeria/224311971456))
+- 한화투자증권 우주항공 밸류체인 분석: 업스트림(발사체·위성 제조) 핵심 기업으로 Rocket Lab, Northrop Grumman, L3Harris, Teledyne, AST SpaceMobile. (출처: [1month 블로그](https://blog.naver.com/1month/224312452061))
