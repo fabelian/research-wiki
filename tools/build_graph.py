@@ -170,7 +170,8 @@ def build_graph(pages):
     seen = set()
     for p in pages:
         src = p["stem"]
-        # (1) 구조화 엣지(frontmatter edges:) — Phase 3 backfill 대비
+        # (1) 구조화 엣지(frontmatter edges:) 우선
+        structured_dsts = {e["target"] for e in p["edges"]}
         for e in p["edges"]:
             dst = e["target"]
             key = (src, e["rel"], dst)
@@ -182,8 +183,11 @@ def build_graph(pages):
                 "confidence": e["confidence"], "claim_type": e["claim_type"],
                 "source": e["source"], "date": e["date"],
             })
-        # (2) prose 링크 — rel 추론, confidence=null
+        # (2) prose 링크 — rel 추론, confidence=null.
+        #     같은 타깃에 구조화 엣지가 있으면 prose는 생략(구조화 우선·fallback).
         for dst in p["links"]:
+            if dst in structured_dsts:
+                continue
             rel = infer_rel(p["type"], type_of(dst))
             key = (src, rel, dst)
             if dst == src or key in seen:

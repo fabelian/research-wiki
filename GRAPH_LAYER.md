@@ -137,4 +137,5 @@ CREATE INDEX idx_edges_dst ON edges(dst);
 - **Phase 0 — 스키마 확정:** ✅ 완료 (2026-06-11) — 본 문서 레포 루트 저장 + `CLAUDE.md`에 `edges:`·`type: issue`·INGEST 변경 반영.
 - **Phase 1 — 빌더:** ✅ 완료 (2026-06-11) — `tools/build_graph.py`(타입드 `graph.html` + `graph.sqlite`, prose 링크 rel 추론·구조화 `edges:` guarded), `tools/graph_query.py`(재귀 CTE 1~N hop, 없으면 즉석 빌드), `index.yml`에 graph 재빌드 스텝, `graph_view.py` 대체. 콘텐츠 변경 0. `graph.sqlite`는 gitignore.
 - **Phase 2 — Issue/Event 노드:** ✅ 완료 (2026-06-12) — `wiki/issues/` 신설·다종목 사건 3건 마이그레이션([[검은월요일-반도체쇼크-2026Q2]]·[[젠슨황-방한-AI팩토리-2026Q2]]·[[현대차-피지컬AI-로보틱스-2026H1]], 출처 보존), 핵심 종목 `[[issue]]` 백링크, `build_index.py` 이슈 섹션, `build_graph.py` 시간 슬라이더(updated 기준 흐름), `lint.py` [5]중복 issue·[6]다종목인데 issue 없음. 발견: `wiki/themes/현대차.md`↔`wiki/stocks/현대차.md` stem 충돌(후속 정리 대상).
-- Phase 3~4: 대기.
+- **Phase 3 — 구조화된 엣지 backfill:** ✅ 완료 (2026-06-12) — 반도체·HBM·엔비디아 체인 5종(SK하이닉스·삼성전자·마이크론·Broadcom·엔비디아)에 frontmatter `edges:` backfill(SUPPLIES_TO/COMPETES_WITH/BELONGS_TO_THEME/HAS_RISK/AFFECTS, confidence·claim_type·source·date, 총 20엣지·추정 1건). `build_graph` 구조화 엣지 우선(같은 타깃 prose 억제), `index.yml`에 PyYAML 설치 스텝. `graph_query --min-conf`로 신뢰도 필터 동작.
+- Phase 4: 보류(SQLite multi-hop이 실제로 느릴 때만).

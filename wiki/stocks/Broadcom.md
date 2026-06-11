@@ -5,6 +5,19 @@ name: Broadcom
 sector: [[반도체]]
 created: 2026-04-30
 updated: 2026-06-08
+edges:
+  - rel: COMPETES_WITH
+    target: "[[엔비디아]]"
+    confidence: 0.6
+    claim_type: 보도
+    source: "AI 가속기·커스텀 ASIC 경쟁"
+    date: 2026-06-08
+  - rel: HAS_RISK
+    target: "[[검은월요일-반도체쇼크-2026Q2]]"
+    confidence: 0.8
+    claim_type: 보도
+    source: "브로드컴 실적 쇼크가 사건의 방아쇠 (wiki/issues/검은월요일-반도체쇼크-2026Q2.md)"
+    date: 2026-06-05
 ---
 
 # Broadcom (AVGO)
