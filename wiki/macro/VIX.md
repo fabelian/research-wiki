@@ -409,3 +409,7 @@ VIX 21.35~21.51(+38~40%, 6주 최고) 급등으로 글로벌 위험회피 국면
 - 호르무즈 봉쇄 장기화 시 유가 130$ 시나리오 부상 — 인플레·금리·환율 3중 압력 지속. (https://blog.naver.com/bic_tiger/224312478767)
 - 트럼프 "인플레이션 사랑해" 발언 논란에도 백악관 "이란전 종료 시 유가 안정" 진화. (https://biz.chosun.com/international/international_economy/2026/06/11/XACC7XXNXZEMZFPS4F3MUSVZV4/?utm_source=naver&utm_medium=original&utm_campaign=biz)
 - 5월 취업자 4만명 감소 — 고유가가 실물 고용 차질. (https://www.khan.co.kr/article/202606110800001)
+
+
+### 2026-06-11: 장마감 시황 — CPI 4.2% 금리인하 기대 후퇴에도 변동성 관리
+- 🐦네이버블로그(godaeng_9409, 2026-06-11): CPI 4.2% 발표로 금리인하기대 후퇴. VIX 직접 언급 없으나 CPI 충격이 단기 변동성 확대 요인으로 작용할 가능성. (출처: https://blog.naver.com/godaeng_9409/224313218862)
