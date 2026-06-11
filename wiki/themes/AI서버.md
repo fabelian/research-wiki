@@ -635,3 +635,9 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 
 ### 🌏 외신 "한국=AI 공급망 핵심국" 집중 조명
 - 포춘·로이터·블룸버그·FT 등 주요 외신 한국 반도체·AI 인프라 집중 조명. 한국=AI 가치사슬 핵심 제조 기반. (출처: [연합뉴스 2026-06-10](https://www.yna.co.kr/view/AKR20260611026000005?input=1195m))
+
+
+## 2026-06-10 업데이트 — AI서버 테마 추가 내용
+
+### NVIDIA Thor-U, 중국 지커 9X PHEV 탑재
+- 중국 지커 9X 플래그십 PHEV, Nvidia Thor-U SoC(1,400TOPS) 탑재. AI서버 GPU 기술이 자율주행 차량용 SoC로 확장되는 사례. (출처: [aivnleto](https://blog.naver.com/aivnleto/224309086635) ⚠️개인 분석)
