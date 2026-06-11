@@ -135,4 +135,5 @@ CREATE INDEX idx_edges_dst ON edges(dst);
 ## 진행 상태 (Progress)
 
 - **Phase 0 — 스키마 확정:** ✅ 완료 (2026-06-11) — 본 문서 레포 루트 저장 + `CLAUDE.md`에 `edges:`·`type: issue`·INGEST 변경 반영.
-- Phase 1~4: 대기.
+- **Phase 1 — 빌더:** ✅ 완료 (2026-06-11) — `tools/build_graph.py`(타입드 `graph.html` + `graph.sqlite`, prose 링크 rel 추론·구조화 `edges:` guarded), `tools/graph_query.py`(재귀 CTE 1~N hop, 없으면 즉석 빌드), `index.yml`에 graph 재빌드 스텝, `graph_view.py` 대체. 콘텐츠 변경 0. `graph.sqlite`는 gitignore.
+- Phase 2~4: 대기.
