@@ -556,3 +556,25 @@ updated: 2026-06-08
 
 ### 🏭 유진테크 — HBM 양산 라인 장비 공급
 - 유진테크, 마이크론 포함 해외 고객사 대상 차세대 고성능 메모리(DDR5·HBM) 양산 라인 증설 장비 프로젝트 활발. (출처: [chiwooni](https://blog.naver.com/chiwooni/224313147843))
+
+
+## 2026-06-11 업데이트 — HBM 패키징 CoPoS·Vera Rubin 메모리 증가
+
+### 🔬 TSMC CoPoS — 엔비디아 파인만 HBM 패키징 첫 도입 (2026-06-10)
+- 궈밍치 분석: TSMC CoPoS(9.5배 레티클 초과) — 엔비디아 파인만(Feynman) AI 칩이 첫 도입 사례. (출처: [nlueoxy](https://blog.naver.com/nlueoxy/224313123115))
+- 초대형 패키징 기술이 HBM·GPU 통합에 미치는 영향: HBM 적층 수·대역폭 확장 가능성.
+- 🔎 개인 분석.
+
+### 📉 Vera Rubin 메모리 탑재량 증가 전망 — SOCAMM 논란 해소 (2026-06-10)
+- 엔비디아 Vera Rubin, 이전 세대 대비 메모리 탑재량 크게 증가 전망. (출처: [louie0930](https://blog.naver.com/louie0930/224313128236))
+- 기존 'Vera Rubin LPDDR 반토막설'(SemiAnalysis)과 상반되는 전망 — 메모리 탑재량 회복 시 HBM 수요 강세 지속.
+- 🔎 개인 분석.
+
+### 📊 6/10 HBM주 동반 하락
+- **6/10 美 반도체 추가 하락**: 마이크론 -4.70%, 엔비디아 -3.73%, TSMC -4.48%. CPI 4.2% + 중동 전운 영향 지속.
+- HBM 밸류체인 전구간 위험 회피 매도 확대.
+- 6/24 마이크론 실적 발표 앞두고 변동성 확대 — Barron's "Micron Stock Drops Again But Catalyst Can Reignite Rally".
+
+### 🤝 AI 데이터센터 생태계와 HBM (2026-06-10)
+- KKR 100억 달러 데이터센터 프로젝트(Helix), NVIDIA+KIA 투자 참여 — HBM 수요의 장기적 안정성 확보. (출처: [jinlogue](https://blog.naver.com/jinlogue/224313124055))
+- 엔비디아의 데이터센터 직접 투자 → GPU 수요 지속성 → HBM 수요 직결 구조.
