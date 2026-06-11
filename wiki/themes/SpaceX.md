@@ -533,3 +533,21 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 
 ### 스페이스X 상장 분석 — 리스크 재확인
 - 과도한 밸류에이션·시장 기대치 대비 실적 괴리 리스크. 한국 투자자의 시차·매매 제한 리스크 재확인. ([ryuhongreoul](https://blog.naver.com/ryuhongreoul/224312409509))
+
+
+## 2026-06-10 업데이트
+
+### 청약 철회권 부여
+- 미래에셋증권, 5억 달러 규모 스페이스X 공모주 청약 참여 전문투자자에 청약 철회권 부여(6/11 낮 12시까지). 상장 당일 거래 불가능한 점 고려. ([donga](https://www.donga.com/news/Economy/article/all/20260610/134087704/2), [biz.sbs](https://biz.sbs.co.kr/article_hub/20000315788?division=NAVER), [startuptoday](https://www.startuptoday.co.kr/news/articleView.html?idxno=803239))
+
+### 상장일 매매 불가 — 국내 투자자 주의
+- 스페이스X 상장일(6/12) 한국 투자자는 당일 거래 불가. 청약 철회권은 이에 대한 투자자 보호 조치. ([startuptoday](https://www.startuptoday.co.kr/news/articleView.html?idxno=803239))
+
+### 간접 투자 전략 다양화
+- 증권사들, 스페이스X 관련 ETF·펀드 등 간접 투자 상품 제시. 최근 미래에셋 상품 출시 2분 만에 완판. ([pointdaily](https://www.pointdaily.co.kr/news/articleView.html?idxno=307753))
+
+### 미래에셋, 반기 순이익 2조 돌파 유력
+- 스페이스X 지분평가이익 등으로 미래에셋증권 상반기 순이익 사상 첫 2조 원 돌파 예상. ([consumernews](http://www.consumernews.co.kr/news/articleView.html?idxno=757231))
+
+### 구다이글로벌 IPO — 미래에셋·NH·씨티·모건스탠리 주관
+- 주관사단 전담 인력 파견 상주. 북미 훈풍 속 상장 준비. ([news1](https://www.news1.kr/industry/general-industry/6193569))
