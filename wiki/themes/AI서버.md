@@ -772,3 +772,11 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 - 🐦네이버블로그(richdo_invest, 2026-06-10): '석유의 시대 끝났다' — AI 반도체 패권을 위한 미국의 '반도체 빨대' 전략 분석. 엔비디아 AI 칩 구매 시 달러 결제 + 2차 클라우드·SW 서비스 종속 구조. (https://blog.naver.com/richdo_invest/224313156140) ⚠️개인 분석.
 - 🐦네이버블로그(mmoo0314, 2026-06-10): 엔비디아 방한 모멘텀 소멸에 따른 네이버 주가 급락 분석. DSX 파트너십의 실질적 매출 기여 검증 단계. (https://blog.naver.com/mmoo0314/224313092689) ⚠️개인 분석.
 - 🐦네이버블로그(bewinner3, 2026-06-10): AI 내러티브 vs 실적 증명 — 엔비디아·네이버 사례. 재료소멸 패턴 경계 경고. (https://blog.naver.com/bewinner3/224313155794) ⚠️개인 분석.
+
+
+### 🆕 오픈AI 762조 투자·GPU 독점 논쟁 (6/10)
+- 오픈AI, 762조 원 AI 인프라 투자 계획. 엔비디아 GPU 독점 vs 구글 TPU 등 경쟁 — AI서버 GPU 시장의 지속적 성장과 공급망 다변화 압력 병존. (출처: [hahehu17](https://blog.naver.com/hahehu17/224313187798)) ⚠️블로그 분석.
+- 🐦네이버블로그(richdo_invest, 2026-06-10): '돌려막기 구조' — MS $130B→오픈AI, 엔비디아 $100B 약속→오픈AI GPU 구매. AI서버 수익성 논란 지속. (출처: [richdo_invest](https://blog.naver.com/richdo_invest/224313216712)) ⚠️개인 분석.
+
+### 🆕 AI 광케이블 — 데이터센터 인프라 확장 (6/10)
+- NVIDIA·구글·MS 데이터센터의 광케이블 직접 납품 수주 — AI서버 인프라가 반도체 칩을 넘어 전방위 부품·소재 수요로 확산. (출처: [trustreviewlab](https://blog.naver.com/trustreviewlab/224312262139)) ⚠️개인 분석.
