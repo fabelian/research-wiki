@@ -1,72 +1,86 @@
 ---
 type: theme
 name: SpaceX
-updated: 2026-06-08
+updated: 2026-06-11
 ---
 
 # SpaceX
 
 SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월 12일 나스닥 상장을 앞두고 전 세계 투자자들의 이목을 집중시키고 있다. 우주 발사체·위성 인터넷([[스타링크]])·우주 탐사 분야에서 압도적 기술력을 보유 중이며, IPO를 계기로 [[Tesla]]·[[Rocket Lab]] 등 관련주 및 우주 테마 전반에 강력한 영향을 미치고 있다.
 
-## 📌 최신 요약 (2026-06-10)
-- **스페이스X 상장 D-2**: 6/12 나스닥 상장 예정. 미래에셋증권 인수단 참여·1·2차 청약 완판. **청약 철회권 부여** — 상장 당일 매도 불가(6/16 이후 거래 재개). 관련 ETF 7종 약 4.4조 유입.
-- **기관청약 비율 제한·원화 방어 개입설**: 정부, 과도한 달러 환전 차원에서 기관청약 규모 제한(⚠️미확인).
-- **밸류에이션 논란**: 적자기업에 2,700조 평가 — "시장이 이미 반영했다" vs 미래 우주 산업 가치.
-- **NH투자증권도 글로벌 혁신 투자 협력 논의 중**.
-- **미래에셋증권·미래에셋벤처투자·아주IB투자·OCI홀딩스** 등 스페이스X 연결고리 종목 부각.
+## 📌 최신 요약 (2026-06-11)
 
-## 애널리스트 분석
+- **스페이스X 상장 D-1 (6/12 나스닥)**: 1·2차 청약 완판(1분·2분). 기관 배정 30% 수준 제한(외환당국 개입설). 청약 철회권 부여(6/11 정오 마감) — 상장 당일 국내 투자자 매매 불가, 거래 재개 6/16.
+- **ETF 대규모 유입**: 우주항공 ETF 7종 약 4.4조 원 유입. 미래에셋 TIGER 미국우주테크 ETF는 패시브 구조로 공모가 편입 유리(최대 25% 예상), 개인 순매수 1.8조 원.
+- **밸류에이션 논쟁 지속**: 적자 기업에 2,700조 원(1.75조 달러) 평가 — ‘거품’ vs ‘미래 가치’ 격돌.
+- **주요 수혜주**: [[미래에셋증권]](직접 투자 + 단독 인수단), [[미래에셋벤처투자]], 아주IB투자, OCI홀딩스. 미래에셋생명 급등.
+- **리스크 요인**: 글로벌 유동성 블랙홀, 국내 증시 하방 압력, 상장 후 차익실현, R&D 비용 급증, CEO 경영 분산.
+- **중장기 기회**: 스페이스X 상장이 한국 반도체(삼성전자·SK하이닉스) 신규 수요 창출 전망.
+
+## 전문가 분석
 
 | 날짜 | 애널리스트/기관 | 주요 의견 | 출처 |
 |------|----------------|-----------|------|
-| 2026-06-06 | [[삼성증권]] [[박준규]] | B2G·B2B 시장은 교체 비용이 커 가격 탄력성이 낮아 안정적·장기적 수익원 | [네이버블로그](https://blog.naver.com/01goodday/224308254061) |
+| 2026-06-11 | [[삼성증권]] [[박혜란]] | 과거 미국 IPO 사례와 같이, 상장 이후 시장 영향은 매크로·펀더멘털에 좌우. 외국인 연속 순매도와 별개 | [news1](https://www.news1.kr/finance/market-exr/6194769) |
+| 2026-06-11 | [[삼성증권]] [[김종민]] | 역사상 최대 IPO, 단기 국내 증시 수급 교란. 글로벌 투자자 포트폴리오 조정 가능성 | [mt](https://www.mt.co.kr/stock/2026/06/11/2026061114211781289) |
+| 2026-06-10 | [[삼성증권]] [[이종욱]] | AI 투자 사이클과 연계, 고객 FOMO가 투자 지속 | [네이버블로그](https://blog.naver.com/rodonshin/224311686866) |
+| 2026-06-09 | [[삼성증권]] 신승진 | 스페이스X 시총 규모 커져 패시브 수요 발생, 삼성전자·SK하이닉스가 대안 가능 | [tvchosun](https://news.tvchosun.com/site/data/html_dir/2026/06/09/2026060990350.html) |
+| 2026-06-08 | [[삼성증권]] [[김종민]] | 단기 수급 교란, 중장기 한국 반도체 새 수요 창출 | [wowtv](http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606080045&t=NN) |
+| 2026-06-08 | [[미래에셋증권]] [[서상영]] | 청약 자금이 유동성 위축 요인 | [네이버블로그](https://blog.naver.com/latorre4157/224309354677) |
+| 2026-06-08 | 삼성자산운용 | 푸른씨앗 OCIO 재선정, 미래에셋증권 1기 공동→삼성운용 단독 | [einfomax](https://news.einfomax.co.kr/news/articleView.html?idxno=4418926) |
+| 2026-06-06 | [[삼성증권]] [[박준규]] | B2G·B2B 시장 교체 비용 커 가격 탄력성 낮아 안정적 수익원 | [네이버블로그](https://blog.naver.com/01goodday/224308254061) |
 | 2026-06-05 | [[삼성증권]] [[박혜란]] | 2025년 영업이익 적자 전환 등 밸류에이션 고평가 논란 | [etoday](https://www.etoday.co.kr/news/view/2590544) |
-| 2026-06-05 | [[삼성증권]] [[박준규]] | 스타링크가 캐시카우이나, 스타십 프로그램과 xAI R&D 비용 급증으로 우주 사업 영업손실 확대 | [시대일보](https://www.sidae.com/article/2026060508410545639), [etoday](https://www.etoday.co.kr/news/view/2590476) |
-| 2026-06-05 | [[삼성증권]] [[박혜란]] | 스페이스X 청약 대기자금이 국내 증시 수급에 부담, Tesla 등 기존 주도주 매도 압력 가능성 | [시대일보](https://www.sidae.com/article/2026060513323381579), [데일리안](https://www.dailian.co.kr/news/view/1652865/) |
+| 2026-06-05 | [[삼성증권]] [[박혜란]] | 스페이스X 청약 대기자금이 국내 증시 수급 부담, Tesla 등 기존 주도주 매도 압력 | [시대일보](https://www.sidae.com/article/2026060513323381579) |
+| 2026-06-05 | [[삼성증권]] [[박준규]] | 스타링크 캐시카우, 스타십·xAI R&D 비용 증가로 우주사업 영업손실 확대 | [시대일보](https://www.sidae.com/article/2026060508410545639) |
 | 2026-06-05 | [[KB증권]] 김일혁 | 스페이스X 상장 후 기존 성장주 비중 축소 자금 이동 가능 | [매일경제](https://www.mk.co.kr/article/12067070) |
-| 2026-06-05 | [[미래에셋증권]] 서상영 | 브로드컴·시에나 급락은 AI 업황 둔화보다 실적-기대치 괴리 때문, 스페이스X IPO가 변동성 요인 | [헤럴드경제](https://biz.heraldcorp.com/article/10764047?ref=naver) |
-| 2026-06-08 | [[미래에셋증권]] 서상영 | 스페이스X 청약 자금이 유동성 위축 요인으로 작용 | [네이버블로그](https://blog.naver.com/latorre4157/224309354677) |
-| 2026-06-08 | 삼성자산운용 | 푸른씨앗 OCIO 전담 운용기관 재선정 — 미래에셋증권은 1기 공동 운용기관이었으나 2기는 삼성운용 단독 | [einfomax](https://news.einfomax.co.kr/news/articleView.html?idxno=4418926) |
-| 2026-06-10 | 한국투자증권 | 미래에셋증권 '중립' — 스페이스X 평가이익 반영 분석 | [cavin419](https://blog.naver.com/cavin419/224312040953) |
+| 2026-06-05 | [[미래에셋증권]] 서상영 | 브로드컴·시에나 급락은 실적 괴리, 스페이스X IPO가 변동성 요인 | [헤럴드경제](https://biz.heraldcorp.com/article/10764047?ref=naver) |
+| 2026-06-10 | 한국투자증권 | 미래에셋증권 ‘중립’ — 스페이스X 평가이익 반영 분석 | [cavin419](https://blog.naver.com/cavin419/224312040953) |
 
-## 핵심 동향 (테마)
+## 핵심 동향
 
-- **IPO 기대감과 동반주 강세**: 스페이스X IPO 추진이 [[Redwire]], Momentus, Sidus Space 등 우주 인프라·소형 우주주의 동반 급등을 촉발. 우주 산업 테마 전반의 투자 심리를 주도. (출처: [theguru.co.kr](https://www.theguru.co.kr/news/article.html?no=102276), [segyebiz.com](http://www.segyebiz.com/newsView/20260528501574?OutUrl=naver))
-- **미래에셋증권의 핵심 역할**: 2022~2023년 총 2억7,800만 달러(약 4,000억 원) 투자로 지분 보유. IPO 인수단에 국내 유일 참여, 5억 달러 규모 공모주 청약 단독 주관. 그룹 차원에서 미래에셋벤처투자·미래에셋증권이 핵심 수혜주로 부각. (출처: [월요신문](https://www.wolyo.co.kr/news/articleView.html?idxno=313181), [매일경제](https://www.mk.co.kr/article/12067071))
-- **일반 투자자의 ETF 간접투자 급증**: 직접 청약이 전문투자자로 제한되면서 KODEX 우주항공·TIGER 우주방산 등 국내 우주테크 ETF로 뭉칫돈 유입. (출처: [MBN](http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005852097))
-- **[[Rocket Lab]]의 부상**: Electron(소형, ~300kg, $7.5M)과 Neutron(중형, ~13,000kg, 개발 중) 이원화 전략으로 틈새 공략. SDA Tranche 3 수주($8.05억), 수주잔고 22억 달러(1년 만에 2배), Book-to-Bill 1 초과. TIGER 미국우주테크 ETF 내 비중 1위(~21%). (출처: [네이버블로그](https://blog.naver.com/deisler07/224307228737))
-- **Tesla·삼성전자 연계 가능성**: Tesla-SpaceX 합병 시나리오(⚠️미확인·루머)는 지분 구조 차이로 현실성 낮다는 분석이 지배적이나, 우주 통신·고성능 반도체 수요 연계로 삼성전자가 양사의 핵심 반도체 공급자로 부상할 가능성 제기. (출처: [네이버블로그(mindset1119)](https://blog.naver.com/mindset1119))
-- **일본과의 접근성 차이**: 일본 투자자는 공모주 청약이 가능하나, 한국은 전문투자자 한정으로 불가. (출처: [네이버블로그](https://blog.naver.com/yourmoney_/224307507834))
+- **IPO 기대감과 우주산업 테마 강세**: 스페이스X 상장 추진이 [[Rocket Lab]], [[Redwire]] 등 우주 인프라·소형 우주주 동반 급등 촉발. 국내 우주항공 ETF로 뭉칫돈 유입.
+- **미래에셋증권의 독보적 역할**: 2022~2023년 총 약 4,000억 원(2억7,800만 달러) 투자로 지분 보유. 국내 유일 IPO 인수단 참여, 5억 달러 공모주 청약 단독 주관. 그룹 차원에서 [[미래에셋증권]]·[[미래에셋벤처투자]]가 핵심 수혜주.
+- **Rocket Lab과의 경쟁 구도**: 대형 발사체 분야는 SpaceX, 소형 발사체 분야는 Rocket Lab(수주잔고 22억 달러)으로 이원화. ‘거대 버스’ vs ‘스포츠카’ 비유. 국내 우주 ETF에서 Rocket Lab이 최대 비중.
+- **ETF 간접투자 급증**: KODEX 우주항공, TIGER 미국우주테크, SOL 우주밸류체인 등 7종에 약 4.4조 원 유입. 미래에셋 TIGER 패시브 ETF는 공모가 편입 유리, 개인 순매수 1.8조 원.
+- **Tesla·삼성전자 연계 가능성**: 합병 루머(지분 구조 차이로 현실성 낮음), 우주 통신·고성능 반도체 수요로 삼성전자가 양사의 핵심 반도체 공급자로 부상 기대.
+- **일본과의 접근성 격차**: 일본은 공모주 청약 가능, 한국은 전문투자자 한정. 국내 투자자는 해외주식 직매수·ETF·펀드 등의 경로 이용.
+- **미래에셋증권의 디지털 금융 확장**: STO 플랫폼 구축, 온체인 금융(RWA) 진출로 혁신 자산 시장 대비.
+- **우주 데이터센터 테마 연계**: SpaceX·Nvidia·Rocket Lab 등과 함께 우주 데이터센터 테마 부각, 국내 수혜주로 스피어·켄코아에어로스페이스 등 거론.
 
 ## ⚠️ 리스크
 
-- **글로벌 유동성 블랙홀**: 역대 최대 규모 IPO로 청약 대기자금이 시장 유동성을 흡수, 국내 증시(KOSPI 8% 폭락 등) 하방 압력으로 작용. 외국인 자금 미국 이동 가속화. (출처: [대신증권 이경민](https://blog.naver.com/nbg1863/224309057926), [삼성증권](https://www.sidae.com/article/2026060513323381579))
-- **밸류에이션 고평가 논란**: 기업가치 1.75조 달러 전망에 대한 회의적 시각 존재. 2025년 영업이익 적자 전환 등 실적 대비 과도한 밸류에이션 우려. (출처: [etoday](https://www.etoday.co.kr/news/view/2590544))
-- **CEO 경영 분산 및 보상 리스크**: 머스크의 Tesla 보상(직원 평균의 250만 배)이 SpaceX를 포함한 복수 기업 경영 분산 리스크와 결합해 주주 가치 훼손 논란 재점화 가능성. (출처: [NYT](https://www.nytimes.com/), 2026-06-06)
-- **상장 후 차익실현 가능성**: RKLB, ASTS 등 우주주가 상장 기대감으로 급등한 상태라, 실제 상장 후 차익 매물 출회 가능성 경고. (출처: [네이버블로그(pito302)](https://blog.naver.com/pito302))
-- **R&D 비용 급증**: 스타십 프로그램·xAI 사업부 연구개발비 급증으로 우주 사업 부문 영업손실 확대. (출처: [삼성증권 박준규](https://www.sidae.com/article/2026060508410545639))
-- **Tesla·xAI·테크 포트폴리오 상관관계 집중 리스크**: IPO로 인한 상관관계 집중, 환율·양도세·거래세 주의 필요. (출처: [네이버블로그(goto_freedom)](https://blog.naver.com/goto_freedom))
+- **글로벌 유동성 블랙홀**: 역대 최대 IPO 대기자금이 국내 증시 유동성을 흡수, KOSPI 8% 폭락 등 하방 압력. 외국인 자금 미국 이동 가속.
+- **밸류에이션 고평가 논란**: 기업가치 1.75조 달러(약 2,700조 원) 대비 2025년 영업적자 전환 등 실적 괴리 우려.
+- **CEO 경영 분산 및 보상 리스크**: 머스크가 Tesla·SpaceX·xAI 등 복수 기업 경영. Tesla 보상(직원 평균의 250만 배)이 주주 가치 훼손 재점화.
+- **상장 후 차익실현 가능성**: RKLB, ASTS 등 우주주가 기대감에 급등한 상태라 실제 상장 후 매물 출회 가능.
+- **R&D 비용 급증**: 스타십 프로그램·xAI 등 연구개발비 증가로 우주사업 부문 영업손실 확대.
+- **상장일 거래 불가 리스크**: 국내 투자자 6/12 당일 매매 불가, 6/16 이후에야 거래 재개. 미래에셋증권 청약자 대상 철회권 부여.
+- **정부 개입·환전 제한 불확실성**: 외환당국이 과도한 달러 환전 차단 목적으로 기관청약 제한 의혹(⚠️미확인).
+- **Tesla·xAI 포트폴리오 집중 리스크**: IPO로 인한 상관관계 집중, 환율·양도세·거래세 주의 필요.
 
 ## 상충하는 견해
 
 - **국내 증시 수급 영향**
-  - **부정적**: 삼성증권·대신증권 "청약 대기자금 형성, 미국으로의 자금 이동으로 국내 증시 하방 압력" (2026-06-05~08, [네이버블로그(pokara61)](https://blog.naver.com/pokara61/224308485806), [삼성증권](https://www.sidae.com/article/2026060513323381579))
-  - **제한적**: "스페이스X IPO가 한국 증시를 흔든다는 건 과장. 영향 제한적일 가능성" (2026-06-06, [네이버블로그(pokara61)](https://blog.naver.com/pokara61/224308485806))
+  - **부정적**: 삼성증권·대신증권 등 “청약 대기자금이 미국으로의 자금 이동을 유발, 국내 증시 하방 압력” (2026-06-05~11)
+  - **제한적**: 일부 블로그 “스페이스X IPO가 국내 증시를 흔든다는 건 과장. 영향 제한적” (2026-06-06) 및 삼성증권 박혜란 “과거 사례와 같이 상장 후 시장 영향은 제한적” (2026-06-11)
 - **Tesla-SpaceX 합병 시나리오** (⚠️미확인·루머)
-  - **찬성 근거**: CNBC 보도 인용 "머스크 내부 검토 중", IPO 서류 '향후 대규모 합병 가능성' 조항. (2026-06-07, [네이버블로그(richagoal, jinlogue)](https://blog.naver.com/richagoal))
-  - **반대 근거**: Tesla는 상장사(머스크 지분 10% 초반), SpaceX·xAI는 머스크 과반 보유. 지분 구조·주주 이해관계 차이로 현실적으로 어렵다. (2026-06-08, [네이버블로그(estislow)](https://blog.naver.com/estislow))
+  - **찬성 근거**: CNBC 인용 “머스크 내부 검토 중”, IPO 서류에 대규모 합병 가능성 조항 (2026-06-07~08)
+  - **반대 근거**: Tesla는 상장사(머스크 지분 10%대), SpaceX·xAI는 머스크 과반 보유. 지분 구조·주주 이해 상이로 현실성 낮음 (2026-06-08)
 
 ## 주요 이벤트
 
-- **2026-06-08**: 미래에셋증권 2차 청약(2억 달러) 2분 만에 완판, 1·2차 합산 5억 달러 모집 완료. 코스피 8% 폭락(서킷브레이커) 속 스페이스X 수혜주 상대적 부각. 금감원 점검 지속. 젠슨 황 "지금이 AI 주식 싸게 살 때" 발언. (출처: [연합뉴스](https://www.yna.co.kr/view/AKR20260608073600008), [goodleedo 블로그](https://blog.naver.com/goodleedo/224309215854))
-- **2026-06-07**: 일반 투자자 3가지 진입 경로(해외주식 직매수·ETF·펀드) 체계화. Tesla-SpaceX 합병 루머 확산. 미래에셋증권 외국인 통합계좌 서비스 출시. (출처: [rajsyj 블로그](https://blog.naver.com/rajsyj/224309048922), [sinyboy 블로그](https://blog.naver.com/sinyboy/224309220253))
-- **2026-06-06**: 우주테크 ETF로 간접투자 수요 급증. CEO 보상 논란 부각. Rocket Lab 분석 심화(SDA 수주·수주잔고 22억 달러). 삼성전자 위성 반도체 공급자 부각 가능성. (출처: [MBN](http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005852097), [NYT](https://www.nytimes.com/), [네이버블로그(victer799)](https://blog.naver.com/victer799))
-- **2026-06-05**: 미래에셋증권 1차 청약(3억 달러) 1분 완판, 금융감독원 현장점검 착수. 최소 청약 10만 달러 확인. 삼성증권·KB증권·미래에셋증권 애널리스트 분석 다수 발표. (출처: [헤럴드경제](https://biz.heraldcorp.com/article/10763941), [연합뉴스](https://www.yna.co.kr/view/AKR20260605072000008))
-- **2026-06-04**: 공모가 $135 확정, IPO 기업가치 Tesla 상회 전망. 미래에셋증권 단독 청약 주관 확정. (출처: [디지털데일리](https://www.digitaltoday.co.kr/news/articleView.html?idxno=664391), [한국일보](https://www.dt.co.kr/article/12065972))
-- **2026-05**: 스페이스X IPO 추진 가능성이 부각되며 우주 인프라·소형 우주주 동반 급등. (출처: [theguru.co.kr](https://www.theguru.co.kr/news/article.html?no=102276))
+- **2026-06-11**: 상장 D-1. 미래에셋증권 청약 철회권 마감. 기관 배정 30% 수준 통보. 미래에셋생명 상한가. 삼성증권 박혜란·김종민 분석. 정부 개입·환전 제한설 심화.
+- **2026-06-10**: 상장 D-2. 미래에셋증권 CP·전단채 순발행 2.1조 원. 청약 철회권 부여 공식 발표. 기관 배정 제한 보도. 한국투자증권 미래에셋증권 ‘중립’. ETF 구성 세부 공개. 우주 데이터센터 테마 부상.
+- **2026-06-09**: 증시 V자 반등, 미래에셋증권 +5.2%, 미래에셋생명 +15.0%. 신승진 삼성증권 패시브 수요 분석. SOL 우주밸류체인 ETF 포트폴리오 공개. 2차 청약 2분 완판 재확인. 아크투자운용 스페이스X 가치 2,500~3,000억 달러 추정.
+- **2026-06-08**: 2차 청약 2분 완판, 1·2차 합산 5억 달러 모집. 코스피 8% 폭락(서킷브레이커). 젠슨 황 “지금이 AI 주식 싸게 살 때” 발언. 삼성증권 김종민 “한국 반도체 기회” 분석. TIGER ETF 공모가 편입 전망 확산.
+- **2026-06-07**: 일반 투자자 3가지 진입 경로(해외주식 직매수·ETF·펀드) 체계화. Tesla-SpaceX 합병 루머 확산. 미래에셋증권 외국인 통합계좌 서비스 출시.
+- **2026-06-06**: 우주테크 ETF 간접투자 급증. CEO 보상 논란 재조명. Rocket Lab 수주잔고 22억 달러 분석. 삼성전자 위성 반도체 공급자 부각 가능성.
+- **2026-06-05**: 1차 청약 1분 완판(3억 달러). 금융감독원 현장점검 착수. 삼성·KB·미래에셋 애널리스트 다수 분석 발표.
+- **2026-06-04**: 공모가 $135 확정, IPO 기업가치 Tesla 상회 전망. 미래에셋증권 단독 청약 주관 확정.
+- **2026-05**: 스페이스X IPO 추진 가능성 부각, 우주 인프라·소형 우주주 동반 급등.
 
 ## 관련 출처/링크
-- [뉴욕타임스(NYT)](https://www.nytimes.com/)
+- [뉴욕타임스](https://www.nytimes.com/)
 - [연합뉴스](https://www.yna.co.kr/view/AKR20260608073600008)
 - [디지털데일리](https://www.digitaltoday.co.kr/news/articleView.html?idxno=664391)
 - [헤럴드경제](https://biz.heraldcorp.com/article/10763941)
@@ -77,603 +91,68 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 - [조세일보](http://www.joseilbo.com/news/news_read.php?uid=569582)
 - [MBN 머니](http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005852097)
 - [서울경제](https://www.sedaily.com/article/20051786)
-- 주요 블로그: [cloudmoneytalk](https://blog.naver.com/cloudmoneytalk/224308130240), [rajsyj](https://blog.naver.com/rajsyj/224309048922), [ddubuck](https://blog.naver.com/ddubuck/224308310098), [captianwallet](https://blog.naver.com/captianwallet/224308310161), [deisler07](https://blog.naver.com/deisler07/224307228737), [mindset1119](https://blog.naver.com/mindset1119), [victer799](https://blog.naver.com/victer799), [pokara61](https://blog.naver.com/pokara61/224308485806), [pito302](https://blog.naver.com/pito302), [estislow](https://blog.naver.com/estislow), [richagoal](https://blog.naver.com/richagoal), [jinlogue](https://blog.naver.com/jinlogue), [goto_freedom](https://blog.naver.com/goto_freedom) 외 다수
+- [fnnews](http://www.fnnews.com/news/202606081814115635)
+- [straightnews](https://www.straightnews.co.kr/news/articleView.html?idxno=304378)
+- [kpenews](https://kpenews.com/View.aspx?No=4104993)
+- [newspim](https://www.newspim.com/news/view/20260608000901)
+- [sisaon](https://www.sisaon.co.kr/news/articleView.html?idxno=201726)
+- [mt](https://www.mt.co.kr/stock/2026/06/11/2026061114211781289)
+- [news1](https://www.news1.kr/industry/general-industry/6193569) (※ 본문 내 여러 news1 링크는 각 기사 페이지로 대체)
+- [startuptoday](https://www.startuptoday.co.kr/news/articleView.html?idxno=803239)
+- [consumernews](http://www.consumernews.co.kr/news/articleView.html?idxno=757231)
+- [newsquest](https://www.newsquest.co.kr/news/articleView.html?idxno=267618)
+- [enewstoday](http://www.enewstoday.co.kr/news/articleView.html?idxno=2437813)
+- [econovill](https://www.econovill.com/news/articleView.html?idxno=741849)
+- [betanews](https://www.betanews.net/article/view/beta202606080132)
+- [kookje](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260609.22012001892)
+- [mediawatch](https://www.mediawatch.kr/news/article.html?no=259932)
+- [newsian](http://www.newsian.co.kr/news/articleView.html?idxno=90662)
+- [pointdaily](https://www.pointdaily.co.kr/news/articleView.html?idxno=307753)
+- [ajunews](https://www.ajunews.com/view/20260611161112904)
+- [sbs](https://biz.sbs.co.kr/article_hub/20000316030?division=NAVER)
+- [sentv](https://www.sentv.co.kr/article/view/sentv202606110073)
+- [yonhapnewstv](http://www.yonhapnewstv.co.kr/news/MYH20260611173442i9W)
 
-🐦 **SNS·블로그 인사이트 라벨**  
-- [`블로그·cloudmoneytalk`](https://blog.naver.com/cloudmoneytalk/224308130240): 상장 후 해외주식 계좌 매수 가능, FPX 등 ETF 편입 시점 안내  
-- [`블로그·hihi1984`](https://blog.naver.com/hihi1984/224308916622): TIGER 미국우주테크 ETF 구조, 미래에셋증권 지분 89.57%  
-- [`블로그·jsim76`](https://blog.naver.com/jsim76/224308903967): 미래에셋벤처투자·미래에셋증권 스페이스X 수혜주  
-- [`블로그·hykdy82`](https://blog.naver.com/hykdy82/224309027758): 1차 청약 1분 완판, 시장 예측 초과  
-- [`블로그·9590jeong`](https://blog.naver.com/9590jeong/224309031038): 스페이스X 청약=글로벌 유동성 블랙홀  
-- [`블로그·nbg1863`](https://blog.naver.com/nbg1863/224309057926): 대신증권 이경민 "스페이스X 상장, 글로벌 유동성 블랙홀"  
-- [`블로그·sunbook61`](https://blog.naver.com/sunbook61/224307223937): 금감원 불완전판매·허위과장광고 점검  
-- [`블로그·rajsyj`](https://blog.naver.com/rajsyj/224309048922): 3가지 일반 투자자 진입 경로 완전 해부  
-- [`블로그·swpark0130`](https://blog.naver.com/swpark0130/224309390233): 미국 IPO 개인 배정 구조, 국내 관련주  
-- [`블로그·issuepickup`](https://blog.naver.com/issuepickup/224309444459): S&P 500 편입은 상장 후 최소 1년, 단기 기대 과도 경고  
-- [`블로그·leegg209`](https://blog.naver.com/leegg209/224308845160): 6/8 주요 경제뉴스, 미래에셋벤처투자·미래에셋증권 포함  
-- [`블로그·thesmom`](https://blog.naver.com/thesmom/224308813689): 미래에셋증권 글로벌 IB 인수단 참여, 일반 투자자 간접 경로  
-- [`블로그·kingmoney800`](https://blog.naver.com/kingmoney800/224309375066): 2차 청약 2분 완판  
+주요 블로그 출처: [cloudmoneytalk](https://blog.naver.com/cloudmoneytalk/224308130240), [deisler07](https://blog.naver.com/deisler07/224307228737), [victer799](https://blog.naver.com/victer799), [pokara61](https://blog.naver.com/pokara61/224308485806), [goto_freedom](https://blog.naver.com/goto_freedom), [univ_jurini](https://blog.naver.com/univ_jurini/224305011389), [nicodemus4620](https://blog.naver.com/nicodemus4620/224310986409), [seunggabi2](https://blog.naver.com/seunggabi2/224310131888), [wonee255](https://blog.naver.com/wonee255/224309907065), [jnpp87](https://blog.naver.com/jnpp87/224310380103), [33bsh](https://blog.naver.com/33bsh/224309578173), [soletf](https://blog.naver.com/soletf/224311921371), [smartinvester](https://blog.naver.com/smartinvester/224311860208), [kjh44231](https://blog.naver.com/kjh44231/224312468154), [soft_waves](https://blog.naver.com/soft_waves/224312255973), [handasw](https://blog.naver.com/handasw/224312319588), [skyjkyyy](https://blog.naver.com/skyjkyyy/224311668086), [soozin_a](https://blog.naver.com/soozin_a/224312195217), [infinitygrowth10x](https://blog.naver.com/infinitygrowth10x/224312306257), [smarthumanlife](https://blog.naver.com/smarthumanlife/224312449632), [428valeria](https://blog.naver.com/428valeria/224311971456), [1month](https://blog.naver.com/1month/224312452061) 외 다수
+
+## 🐦 SNS·블로그 인사이트
+
+- [`블로그·cloudmoneytalk`](https://blog.naver.com/cloudmoneytalk/224308130240): 상장 후 해외주식 계좌 매수 가능, FPX 등 ETF 편입 시점 안내
+- [`블로그·hihi1984`](https://blog.naver.com/hihi1984/224308916622): TIGER 미국우주테크 ETF 구조, 미래에셋증권 지분 89.57%
+- [`블로그·jsim76`](https://blog.naver.com/jsim76/224308903967): 미래에셋벤처투자·미래에셋증권 스페이스X 수혜주
+- [`블로그·hykdy82`](https://blog.naver.com/hykdy82/224309027758): 1차 청약 1분 완판, 시장 예측 초과
+- [`블로그·9590jeong`](https://blog.naver.com/9590jeong/224309031038): 스페이스X 청약=글로벌 유동성 블랙홀
+- [`블로그·nbg1863`](https://blog.naver.com/nbg1863/224309057926): 대신증권 이경민 “스페이스X 상장, 글로벌 유동성 블랙홀”
+- [`블로그·sunbook61`](https://blog.naver.com/sunbook61/224307223937): 금감원 불완전판매·허위과장광고 점검
+- [`블로그·rajsyj`](https://blog.naver.com/rajsyj/224309048922): 3가지 일반 투자자 진입 경로 완전 해부
+- [`블로그·swpark0130`](https://blog.naver.com/swpark0130/224309390233): 미국 IPO 개인 배정 구조, 국내 관련주
+- [`블로그·issuepickup`](https://blog.naver.com/issuepickup/224309444459): S&P 500 편입은 상장 후 최소 1년, 단기 기대 과도 경고
+- [`블로그·leegg209`](https://blog.naver.com/leegg209/224308845160): 6/8 주요 경제뉴스, 미래에셋벤처투자·미래에셋증권 포함
+- [`블로그·thesmom`](https://blog.naver.com/thesmom/224308813689): 미래에셋증권 글로벌 IB 인수단 참여, 일반 투자자 간접 경로
+- [`블로그·kingmoney800`](https://blog.naver.com/kingmoney800/224309375066): 2차 청약 2분 완판
 - [`블로그·hasstory4all`](https://blog.naver.com/hasstory4all/224307064858): 스페이스X 관련주 완벽 정리
-
-
-## 2026-06-08 업데이트: 삼성증권 중장기적 반도체 기회 분석
-- [[삼성증권]] [[김종민]] 연구원: "스페이스X 상장은 역사상 최대 규모 IPO로 단기 수급 교란 요인이지만, 중장기적으로 한국 반도체 산업에 새로운 수요를 창출하는 계기가 될 수 있다"고 분석. 또한 "최근 코스피 급락은 구조적 추세 이탈이 아닌 주도주 랠리 과정의 숨 고르기"라며 "핵심 주도주 포지션 유지 필요" ([wowtv](http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606080045&t=NN), [tokenpost](https://www.tokenpost.kr/news/market/366882), [chosun](https://www.chosun.com/economy/money/2026/06/08/3ZUKUSDPO5FOXNBULL4HYBQZYU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news), [mk](https://www.mk.co.kr/article/12068039), 2026-06-07~08)
-
-
-### 🐦 SNS·블로그 인사이트 라벨 (추가)
-- [`블로그·univ_jurini`](https://blog.naver.com/univ_jurini/224305011389): 상장 임박 K-스페이스X 투자사 미래에셋증권 주가 분석 — 해외주식·연금자산 1위, 주선료 사업, 직접 투자 사업 약 11조원
-- [`블로그·primeoffice365`](https://blog.naver.com/primeoffice365/224309768877): 미래에셋증권 스페이스X 청약 1분 만에 완판, 6월 12일 상장 확정
-- [`블로그·iceblue_73`](https://blog.naver.com/iceblue_73/224309818909): 스페이스X 상장 임박 국내 관련주 수혜주 총정리 — 미래에셋증권·미래에셋벤처투자 1순위
-- [`블로그·osanjung2024`](https://blog.naver.com/osanjung2024/224309819234): 미래에셋증권 스페이스X 분석 — STO·디지털자산·글로벌 인프라 확장
-
-
-## 핵심 동향 (테마) — 추가 (2026-06-08)
-- **미래에셋증권의 스페이스X 투자 지분 분석**: 해외주식·연금자산 규모 압도적 1위, 주선료 사업(기업 상장·금융 주선 수수료), 직접 투자 사업(약 11조원 이상). 스페이스X IPO 단독 주관으로 수혜 전망. (출처: [univ_jurini](https://blog.naver.com/univ_jurini/224305011389))
-- **스페이스X 청약 완판·원화 규모**: 1차 3억 달러(약 4,620억 원) 1분 완판, 2차 2억 달러(약 3,080억 원) — 총 5억 달러(약 7,700억 원). 미래에셋증권 단독 주관. (출처: [primeoffice365](https://blog.naver.com/primeoffice365/224309768877))
-- **스페이스X 관련주 수혜주 분류**: ①직접 투자 부문: 미래에셋증권·미래에셋벤처투자 ②간접 투자: 한국투자증권 분석 인용 — 스페이스X 소재 R&D 단계부터 참여. (출처: [iceblue_73](https://blog.naver.com/iceblue_73/224309818909))
-- **미래에셋증권 종합 IB 분석**: 자체 STO 플랫폼 구축 전략, 글로벌 인프라 확장(해외 점포 17→19개, 홍콩 법인 인수 추진). 퇴직연금 1위·자기자본 10조 원 이상 — 글로벌 사모펀드 연계 상품·구주 거래 활성화. (출처: [osanjung2024](https://blog.naver.com/osanjung2024/224309819234))
-
-
-| 2026-06-08 | 삼성증권 김종민 | "스페이스X 상장은 단기 수급 교란 요인이지만, 중장기적으로 한국 반도체 산업에 새로운 수요 창출. 최근 코스피 급락은 주도주 랠리 과정의 숨 고르기" | [wowtv](http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606080045&t=NN), [tokenpost](https://www.tokenpost.kr/news/market/366882), [chosun](https://www.chosun.com/economy/money/2026/06/08/3ZUKUSDPO5FOXNBULL4HYBQZYU/), [mk](https://www.mk.co.kr/article/12068039) |
-
-
-## 2026-06-08 업데이트
-
-- **IPO 일정 확정 (6월 12일)**: SpaceX IPO를 앞두고 국내 증권사 브로커리지 수요 급증 전망. 기존 Tesla·우주 ETF 간접 투자자들이 직접 보유로 전환 예상. (출처: Korea Herald 2026-06-08)
-- **IPO 밸류에이션, Tesla 추월 관측**: SpaceX 시가총액이 Tesla를 넘어 S&P 500 내 Top 5 진입 가능성 제기. (출처: coinreaders.com 2026-06-08)
-- **Terafab 공동 투자 부담**: Tesla·SpaceX·xAI 공동 AI 칩 복합단지 'Terafab' 투자 부담이 IPO 리스크로 부각. (출처: 🐦 네이버블로그 iamteslam)
-
-
-| 2026-06-08 | **2차 청약 2분 완판** (2억 달러). 1·2차 합계 5억 달러 모집 완료. "스페이스X 상장, 한국 반도체에 새 수요처" 전망 제기. 삼성운용 푸른씨앗 OCIO 재선정(미래에셋증권 공동 1기→삼성운용 단독 2기). | ([fnnews](http://www.fnnews.com/news/202606081814115635), [kookje](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260609.22012001892), [einfomax](https://news.einfomax.co.kr/news/articleView.html?idxno=4418926)) |
-
-
-## 🐦 SNS·블로그 인사이트 — 추가 (2026-06-08)
-- **스페이스X IPO 흥행과 ETF 수요**: "스페이스X 공모주 완판에 우주 ETF로 뭉칫돈. KODEX 우주항공·TIGER 우주방산 매수세 집중." ([newsian](http://www.newsian.co.kr/news/articleView.html?idxno=90662), [econovill](https://www.econovill.com/news/articleView.html?idxno=741849))
-- **"스페이스X 상장, 한국 반도체 새 수요처"**: "스페이스X가 필요한 AI 칩·통신 반도체 수요가 한국 반도체 산업에 기회." ([kookje](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260609.22012001892))
-- **"메가IPO, 국내 증시 기회될까"**: "청약 자금 유출 우려보다 중장기 반도체·우주산업 연계 효과에 주목." ([betanews](https://www.betanews.net/article/view/beta202606080132))
-
-
-| 2026-06-08 | **"메가IPO 스페이스X, 국내 증시 기회될까"** — ETF 간접 투자 수요 급증, 한국 반도체 산업 신규 수요 창출 전망, 상장 후 해외주식 계좌 매수 채널 대기 | ([betanews](https://www.betanews.net/article/view/beta202606080132), [kookje](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260609.22012001892), [mediawatch](https://www.mediawatch.kr/news/article.html?no=259932)) |
-
-
-## 2026-06-08 업데이트: ETF·Rocket Lab 관계 추가
-
-### TIGER 미국우주테크 ETF와 스페이스X
-- TIGER 미국우주테크 ETF는 금융당국 IPO 일정 문제로 스페이스X를 편입하지 못했으나, Rocket Lab·Intuitive Machines·AST SpaceMobile 등 우주 밸류체인 핵심 인프라 기업으로 포트폴리오 구성. 상장 후 편입 가능성 열려 있음. (출처: [nicodemus4620 블로그](https://blog.naver.com/nicodemus4620/224310986409))
-
-### 우주 발사 섹터 경쟁 구도와 Rocket Lab
-- SpaceX Falcon 9이 압도적 점유율이나, 소형 발사체 분야에서 Rocket Lab Electron이 독보적 위치. FLYT(파이어플라이 에어로스페이스 2배 레버리지 ETF) 등장으로 소형 발사체 기업 관심 고조. (출처: [seunggabi2 블로그](https://blog.naver.com/seunggabi2/224310131888))
-
-### ARKX·UFO·ROKT ETF 분석
-- **ARKX**(ARK 우주탐사ETF): Rocket Lab, L3Harris, Teradyne 편입. 스페이스X 상장 후 액티브 ETF 특성상 편입 가능.
-- **UFO**(Procure Space ETF): 위성통신·우주 인프라 중심.
-- **ROKT**(SPDR S&P Kensho Final Frontiers): 방산·우주 연결 ETF. Rocket Lab 소형 발사체 대표주로 편입. (출처: [wonee255 블로그](https://blog.naver.com/wonee255/224309907065))
-
-### Rocket Lab vs SpaceX vs Redwire
-- Rocket Lab: 가장 공격적인 성장 스토리. 발사체+위성 제조 수직 통합으로 SpaceX 대안으로 부각. 수익성 개선 진행 중으로 장기 성장 잠재력 가장 큼. (출처: [jnpp87 블로그](https://blog.naver.com/jnpp87/224310380103))
-
-### 우주산업 초기 투자비용 관점
-- 스페이스X·Rocket Lab 등은 아직 대규모 이익 부재. 우주산업은 철도망·고속도로 건설과 유사한 초기 투자비용이 큰 구조로, 인프라 구축 후 수익성 개선 가능. (출처: [33bsh 블로그](https://blog.naver.com/33bsh/224309578173))
-
-
-## 2026-06-09 업데이트
-
-### 스페이스X ETF 편입 방식 분석
-- **TIGER 미국우주테크 ETF (미래에셋자산운용)**: 패시브 ETF로 미래에셋증권이 스페이스X 지분을 보유 중이므로 공모가로 편입 가능. 상장 시 최대 비중 25% 예상. ([yesahang](https://blog.naver.com/yesahang/224310776649))
-- **경쟁 ETF 구조**: 타 액티브 ETF는 시장가 매수 필요하나, 미래에셋 TIGER 패시브 ETF는 LP의 글로벌 네트워크와 빠른 대처로 공모가 편입 유리. ([riwon_1112](https://blog.naver.com/riwon_1112/224310859178))
-- **미래에셋그룹 글로벌 인수단 규모**: 국내 미래에셋증권 청약 5억 달러(1·2차 완판) 외에도 미래에셋그룹이 글로벌 인수단에 참여, 약 50억 달러 규모 물량 신청한 것으로 추정. ([niceinvest](https://blog.naver.com/niceinvest/224310784444))
-- **최소 투자금 1억 5천만 원**: 일반 투자자 직접 청약 불가. 전문투자자 자격(최소 1.5억 원) 필요. 단 1분 만에 완판된 배경에는 기관·초고액 자산가 수요 집중. ([kebaake](https://blog.naver.com/kebaake/224310813822))
-
-
-### 스페이스X IPO 관련 수혜주·청약 열기
-- **미래에셋증권·미래에셋벤처 이원 투자법**: 미래에셋증권(대장주·안정적), 미래에셋벤처(테마 민감·변동성 높음) — 투자자들 사이에서 이원 전략 부각. 6/9일 미래에셋벤처에 종가 밑 스윙 진입 사례 다수. ([won1-23](https://blog.naver.com/won1-23/224310791629))
-- **스페이스X 청약 열기 어디까지**: 1차 3억 달러(1분 완판) → 2차 2억 달러(2분 완판). 국내 미래에셋증권 단독 주관. 공모 규모 약 750억 달러(약 105조 원)로 역대 최대. ([aaoc3142](https://blog.naver.com/aaoc3142/224310803013))
-- **스페이스X 기업가치 논쟁**: '거품이다 vs 미래 가치 투자' — 기술력과 미래 비전을 가진 혁신 기업으로 스마트 머니의 집중 매수 지속. ([romantic_project](https://blog.naver.com/romantic_project/224310795384))
-
-
-## 🐦 SNS·블로그 인사이트 — 추가 (2026-06-09)
-- **스페이스X 밸류에이션 논쟁 심화**: 매출 대비 약 100배 수준으로 '현재가 아닌 미래 가치 베팅'. 미래에셋증권 참여로 TIGER 패시브 ETF 편입 가능성 가장 높게 평가. ([kalstyner200](https://blog.naver.com/kalstyner200/224310895365))
-- **스페이스X 2차 청약 구조 해부**: 미래에셋증권이 확보한 IPO 배정 물량을 국내 전문투자자에게 재판매하는 구조. 청약 자격·환불 일정 모두 미래에셋 자체 룰. ([economydev](https://blog.naver.com/economydev/224310904502))
-- **스페이스X 상장, 국내 증시 '로켓 vs 블랙홀' 논쟁**: 미래에셋증권·미래에셋벤처투자 직접 수혜주. 스페이스X가 글로벌 유동성 블랙홀로 코스피 자금 이탈 부추길 우려와 중장기 반도체 수요 기회론 공존. ([llifelog](https://blog.naver.com/llifelog/224310907433))
-- **스페이스X·한국 반도체 기회 분석**:
-
-
-## 2026-06-09 업데이트
-
-### 6/9 스페이스X 관련주 동향
-- 미래에셋증권 +3.0~5.2% 반등, 미래에셋벤처투자·미래에셋생명 동반 강세. 스페이스X 청약 열기(1차 3억 달러·1분 완판, 2차 2억 달러·2분 완판)가 관련주 전반에 긍정적 모멘텀. 단기 낙폭 과대 종목 반등의 일환. ([blog.naver.com/editcliche](https://blog.naver.com/editcliche/224311008147), [blog.naver.com/psyoo2000](https://blog.naver.com/psyoo2000/224311034357))
-- **우주 관련주 특징주**: 태양광에너지·미래에셋벤처투자·유니테스트·켄코아에어로스페이스·비츠로넥스텍 등 우주·항공 테마 동반 강세. ([blog.naver.com/crioppstock](https://blog.naver.com/crioppstock/224311003608))
-
-### 윤재홍 연구원 — 레버리지 ETF와 변동성
-- 윤재홍 미래에셋증권 연구원, 스페이스X 관련 레버리지 ETF 변동성 확대 가능성 언급. 옵션 기반 ETF 상품 확대가 시장 변동성 증폭 요인. ([newspim](https://www.newspim.com/news/view/20260608000901))
-
-### 미래에셋증권 스페이스X 관련 장기투자 분석 (블로그)
-- 🐦미래에셋증권 PBR·PER 기반 장기투자 분석. 스페이스X 관련주·연금자산·자산관리 경쟁력이 핵심 가치. ([blog.naver.com/hehenews](https://blog.naver.com/hehenews/224310988419))
-
-
-## 2026-06-09 업데이트 — 추가
-
-### 상장 D-3 수혜주 분석 심화
-- **미래에셋증권 vs 미래에셋벤처투자 비교 분석**: 미래에셋증권(안정적, 주선료·IB·직접투자 약 11조 원), 미래에셋벤처(테마 민감·변동성 높음). 투자자 이원 전략 확산. ([minmyunghong](https://blog.naver.com/minmyunghong/224310596337))
-- **미래에셋그룹 투자 규모**: 2022~2023년 총 약 4,000억 원(2억 7,800만 달러) 투자. 투자 당시 기업가치 약 1,270억 달러 → 상장 시 약 1.75조 달러(약 14배 평가차익). ([yun4770](https://blog.naver.com/yun4770/224310570006))
-- **미래에셋증권 우선주 괴리율 심화**: 보통주 대비 우선주 가격 30% 미만. 스페이스X 호재가 보통주에 쏠리고 우선주 소외. ([it.chosun](https://it.chosun.com/news/articleView.html?idxno=2023092163482))
-- **ETF 편입 전망**: TIGER·KODEX 우주항공 ETF, ACE ETF 등 간접 투자 경로. 상장 후 해외주식 계좌 직접 매수도 가능. ([myeekfrl](https://blog.naver.com/myeekfrl/224310589293))
-
-### 스페이스X ETF 편입 추가 분석
-- **TIGER 미국우주테크 ETF (미래에셋자산운용)**: 패시브 ETF 특성상 미래에셋증권 지분 보유를 활용, 공모가로 편입 가능. 최대 비중 25% 예상.
-- **ARKX·UFO·ROKT 등 타 ETF**: 액티브 ETF는 시장가 매수 필요, ARKX는 스페이스X 상장 후 편입 가능.
-- **Rocket Lab**: 수주잔고 22억 달러, Electron·Neutron 이원화 전략으로 대안 부각.
-
-
-## 2026-06-09 업데이트
-
-### 국내 증권·운용업계 수혜 경쟁 본격화
-- 미래에셋증권 단독 청약 주관(1·2차 합계 5억 달러 완판). 한국투자신탁운용은 IPO 직접 참여 공식화. 나스닥 지수 편입 기준 완화로 상장 후 이르면 7월 초 나스닥100 편입 가능 전망. ([newdaily](https://biz.newdaily.co.kr/site/data/html/2026/06/09/2026060900074.html))
-- 글로벌 인수단에 미래에셋그룹 참여, 약 50억 달러 규모 물량 신청 추정. 미래에셋 TIGER 패시브 ETF 구조상 공모가 편입 유리. ([niceinvest 블로그, 위키 본문 참조])
-
-
-## 2026-06-09 업데이트
-
-### 2차 청약 2분 완판 확인
-- 미래에셋증권이 6/9 공모한 스페이스X 2차 청약이 개시 2분 만에 마감. 1·2차 합계 5억 달러 모집 완료. 전문투자자 대상 공모주 청약 열기 지속. ([sisaon](https://www.sisaon.co.kr/news/articleView.html?idxno=201726))
-
-
-## 2026-06-09 업데이트: 상장 D-3·ETF 편입 분석·한국 투자자 가이드
-
-### 스페이스X 한국 직접 매수 경로 정리
-- **6월 12일(금) 나스닥 상장 후** 키움·미래에셋·NH투자·삼성증권 등 해외주식 계좌 보유 시 일반 미국 주식처럼 주문 가능. 원화→달러 환전 필요. 전문투자자 제한 없음. ($\bullet$블로그·xoxo_birdhj, 2026-06-08)
-- **미래에셋증권 단독 청약 주관**으로 국내에서 가장 직접적 수혜. 1차(3억 달러) 1분 완판, 2차(2억 달러) 2분 완판. ($\bullet$기존 요약 보충)
-
-### TIGER 미국우주테크 ETF 편입 분석
-- **미래에셋자산운용 TIGER 미국우주테크 ETF**: 패시브 ETF로 미래에셋증권이 스페이스X 지분 보유 중이므로 공모가로 편입 가능. 상장 시 최대 비중 25% 예상. ($\bullet$블로그 already captured in existing)
-- **미래에셋그룹 글로벌 인수단 규모**: 국내 미래에셋증권 청약 5억 달러 외에 글로벌 인수단에서 약 50억 달러 규모 물량 신청 추정. (기존 업데이트 보충)
-- **경쟁 ETF(타사 액티브 ETF)**: 시장가 매수 필요하나 TIGER 패시브 ETF는 LP의 글로벌 네트워크로 공모가 편입 유리.
-
-### 6/9 증시 급반등 속 스페이스X 수혜주 재평가
-- **미래에셋생명 +15.0%** — 스페이스X 수혜주로 재부각. 미래에셋증권·미래에셋벤처투자도 동반 강세. ($\bullet$블로그·stockivy777, 2026-06-08)
-- 삼성증권 김종민 연구원: "스페이스X 상장은 역사상 최대 규모 메가 IPO" — 단기 수급 교란 인정하나 중장기 한국 반도체에 기회. ($\bullet$블로그·stockivy777, 2026-06-08)
-- **7개 대형 증권사 공동 진단**: "한국 증시 기초체력 훼손 아니다" — 스페이스X IPO가 한국 증시 구조적 훼손 요인은 아니라는 견해.(기존)
-
-### 오픈AI IPO와 AI Big3 증시 데뷔
-- 오픈AI, 비공개 상장신청서(S-1) 제출. 목표 기업가치 약 8,500억 달러. 삼성증권·하나증권 리포트 인용. ($\bullet$블로그·hyjang0908, 2026-06-08)
-
-
-### 🐦 SNS·블로그 인사이트 — 2026-06-08 보충
-- **ETF 편입 분석**: TIGER 미국우주테크 ETF, 미래에셋증권 지분 보유로 스페이스X 공모가 편입 가능. 상장 시 최대 25% 예상. ($\bullet$블로그·xoxo_birdhj 경유, 2026-06-08)
-- **미래에셋그룹 글로벌 인수단 규모**: 국내 5억 달러 외 글로벌 50억 달러 추정. ($\bullet$블로그·nicodemus4620 경유, 2026-06-08)
-- **오픈AI IPO**: AI Big3 증시 데뷔 임박, 목표 8,500억 달러. ($\bullet$블로그·hyjang0908, 2026-06-08)
-
-
-## 2026-06-09 업데이트
-
-### 신승진 삼성증권 팀장 — 패시브 수요 분석
-- [[신승진]] 삼성증권 투자정보팀장: "스페이스X 상장 시 메타보다 시총 규모가 더 커져 패시브 수요가 분명히 생길 것. 큰 주식을 팔아야 하는데 삼성전자·SK하이닉스가 대안이 될 수 있다." ([tvchosun](https://news.tvchosun.com/site/data/html_dir/2026/06/09/2026060990350.html), 2026-06-09)
-
-### 미래에셋증권 TIGER ETF 편입 방식
-- 미래에셋자산운용 TIGER 미국우주테크 ETF: 패시브 ETF로 미래에셋증권이 스페이스X 지분 보유 중이므로 공모가로 편입 가능. 상장 시 최대 비중 25% 예상. ([yesahang 블로그](https://blog.naver.com/yesahang/224310776649), 2026-06-09)
-- 타 액티브 ETF는 시장가 매수 필요하나, 미래에셋 TIGER 패시브 ETF는 LP 글로벌 네트워크로 공모가 편입 유리. ([riwon_1112 블로그](https://blog.naver.com/riwon_1112/224310859178), 2026-06-09)
-
-### 일반 투자자 최소 투자금
-- 전문투자자 자격 최소 1.5억 원 필요. 1분 완판 배경은 기관·초고액 자산가 수요 집중. ([kebaake](https://blog.naver.com/kebaake/224310813822), 2026-06-09)
-
-### 미래에셋그룹 글로벌 인수단 규모
-- 미래에셋그룹이 글로벌 인수단에 참여, 약 50억 달러 규모 물량 신청 추정. ([niceinvest](https://blog.naver.com/niceinvest/224310784444), 2026-06-09)
-
-### 아크투자운용 스페이스X 기업가치 2,500억~3,000억 달러 추정
-- 케시 우드 아크투자운용 CEO가 스페이스X 기업가치를 2,500억~3,000억 달러로 추정. 머스크 보유 지분(약 42%) 가치는 약 1,260억 달러. ([etoday](https://www.etoday.co.kr/news/view/2591843) 간접 인용)
-
-
-## 2026-06-08 업데이트
-
-- **SpaceX IPO 직전 냉정 분석**: $268B 밸류에이션에도 불구, 스타링크 수익성·스타쉽 개발비·화성 프로젝트 등 대규모 CapEx 부담, Tesla 합병설 변수(합병 시너지 vs 지배구조 리스크) 등 리스크 요인 종합 분석. (출처: 🐦 네이버블로그 seeorchid7)
-- **SpaceX-Tesla 합병설 재부각**: 머스크가 궁극적으로 SpaceX와 Tesla를 합병하려 한다는 월가 관측. 양사 시총 합산 시 약 $1.74조 규모. 합병 시 AI·자율주행·우주·로보틱스 단일 지배구조로 통합될 경우 시장 지배력 강화 vs 반독점 리스크 공존. (출처: 🐦 네이버블로그 hdmin77, alzza_tong)
-- **SpaceX 우주데이터센터 AI 위성 공개**: 우주 공간에서 고밀도 AI 연산 장치 가동 시 치명적 열을 제어하는 기술 공개. 110제곱미터 전개형 액체 라디에이터·케슬러 증후군·천문 관측 방해 등 리스크 병기. (출처: 🐦 네이버블로그 quant-hub)
-- **국내 SpaceX 직접 투자 수요 급증 전망**: 기존 Tesla·우주 ETF 간접 투자자들이 SpaceX IPO 직접 보유로 전환할 가능성. 6/12 상장일 전 증권사 공모주 응모 활발. (출처: 🐦 네이버블로그 yonfun)
-
-
-## 2026-06-09 업데이트
-
-### 미래에셋증권 스페이스X 청약 경쟁률
-- 1차 청약(3억 달러) 1분 완판, 2차 청약(2억 달러) 2분 완판. 총 5억 달러(약 7,700억 원) 모집 완료. ([[straightnews]](https://www.straightnews.co.kr/news/articleView.html?idxno=304378), [[kpenews]](https://kpenews.com/View.aspx?No=4104993))
-
-### 스페이스X IPO가 코스피에 미친 영향
-- 6/8 코스피 8% 폭락(서킷브레이커 발동)의 배경 중 하나로 스페이스X 청약 대기자금에 따른 유동성 위축 지적. ([[kpenews]](https://kpenews.com/View.aspx?No=4104993))
-
-### 스페이스X IPO와 국내 ETF 시장
-- 스페이스X·오픈AI·앤트로픽 IPO 시동이 국내 ETF 시장에 미칠 영향 분석 중. ([[straightnews]](https://www.straightnews.co.kr/news/articleView.html?idxno=304378))
-
-
-## 2026-06-09 업데이트: 삼성증권 MSCI 분석·ETF 편입 전망
-
-### 8월 MSCI 한국지수 리밸런싱과 스페이스X 연관성
-- 삼성증권 퀀트 분석팀이 8월 MSCI 한국지수 리밸런싱 관련 리포트에서 '수천억 글로벌 패시브 자금' 유입 경로 분석. 스페이스X 상장(6/12) 이후 글로벌 자금 재배분 영향과 연계될 가능성 시사. ([네이버블로그](https://blog.naver.com/sinyboy/224310522424), 2026-06-08)
-
-### 피지컬AI·로봇과 우주 기술 융합
-- 삼성증권(임은영): 현대차를 피지컬AI 시대 핵심 플레이어로 평가. 우주·지상 인프라 연결 기술 수요 증가와 연계하여 스페이스X 상장이 국내 로봇·AI 산업에도 간접적 수요 창출 가능. ([네이버블로그](https://blog.naver.com/archi-so/224310574779), 2026-06-08)
-
-### 져스텍(Justek) IPO — 스페이스X 밸류체인 연관성
-- 져스텍은 삼성전자·삼성전기 2차 협력사로 초소형 위성 개발 이력 보유(JACK-001). 스페이스X·Rocket Lab 등 민간 우주산업 발사체 수요 증가와 연계된 국내 우주 부품·소재 기업으로 분류. ([네이버블로그](https://blog.naver.com/hyjang0908/224310604616), 2026-06-08)
-
-
-### 6/9 증시 V자 반등과 스페이스X
-- 6/9 코스피 8,000선 회복(매수사이드카 발동): 미래에셋증권 +5.2%, 삼성증권 +6.7%. 기관 숏커버링(2.6조 원) 폭발 속 스페이스X 상장 기대감이 증권주 반등에 기여. ([네이버블로그](https://blog.naver.com/mpkaturi/224310435355), 2026-06-08)
-
-
-### 일반 투자자 진입 경로 업데이트
-- 삼성증권 계좌로 스페이스X 관련 ETF(KODEX 우주항공·TIGER 우주방산) 간접 투자 가능. 삼성증권 앱·토스증권 등에서 애플 배당금 정보 비교 가능한 점도 해외주식 투자 접근성 개선 신호. ([네이버블로그](https://blog.naver.com/ott_watcher/224310511734), 2026-06-08)
-
-
-### 져스텍 IPO 밸류체인 연계
-- 져스텍([[져스텍]])의 초소형 위성(JACK-001) 개발 이력과 스페이스X 발사체 수요·위성 인터넷(스타링크) 인프라 확장 간 간접적 연관성. 국내 우주 부품·소재 기업으로서 스페이스X 테마 편입 가능. ([네이버블로그](https://blog.naver.com/hyjang0908/224310604616), 2026-06-08)
-
-
-## 2026-06-09 업데이트
-- **[[삼성증권]] [[김종민]] 연구원**: "역사상 최대 규모의 메가 IPO인 만큼 단기적으로는 국내 증시에 수급 교란 요인으로 작용할 가능성이 상존" ([joseilbo](http://www.joseilbo.com/news/news_read.php?uid=569699&class=53&grp=))
-- **[[삼성증권]] [[박준규]] 애널리스트**: "스페이스X 청약을 위한 대기 자금 증가가 주식시장 하방 압력으로 작용할 수 있다. 글로벌 투자자들이 한국을 비롯한 신흥시장에서 자금을 회수해 현금 확보에..." ([mk](https://www.mk.co.kr/article/12069453))
-
-
-## 2026-06-09 업데이트
-
-- **Tesla-SpaceX 합병 루머 재점화**: CNBC 보도 인용, Tesla-SpaceX 간 지분 스왑 또는 지주회사 설계를 통한 합병 가능성 제기. 2020년 Tesla S&P 500 편입 당시를 연상시키는 인덱싱 업계 긴장감. (출처: 🐦 네이블로그 dazzling_jun, tysinvs 2026-06-08)
-- **SpaceX IPO 앞두고 합병 루머 변수**: 6/12 예정된 SpaceX IPO 직전 합병 루머가 투자자 관심을 분산시킬 가능성. 인덱스 편입 요건(Tesla 당시 선례) 회피 가능성도 거론. (출처: 🐦 네이블로그 tysinvs)
-
-
-## 2026-06-10 업데이트
-
-### 스페이스X 상장 D-2 — 국내 관련 ETF 유입 4.4조 원
-- '2700조' 스페이스X 상장 초읽기. 미래에셋증권·미래에셋벤처투자 IPO 인수단 합류, 국내 전문투자자 대상 청약 흥행 성공. 관련 우주항공 ETF 7종에 약 4.4조 원 유입(TIGER 포함). ([dong_019](https://blog.naver.com/dong_019/224311043699))
-- 미래에셋 TIGER 미국우주테크 ETF, 상장 이후 개인 순매수 1조 8,151억 원 유입. 패시브 ETF로 미래에셋증권 지분 보유 활용해 공모가 편입 유리. ([whitenaruto](https://blog.naver.com/whitenaruto/224311558773))
-- 상장 후 키움·미래에셋·NH·삼성 등 국내 증권사 해외주식 계좌로 직접 매수 가능. ([line24time](https://blog.naver.com/line24time/224311579402))
-
-### 모비어스 IPO — 미래에셋증권 단독 주관
-- 모비어스(프리IPO 2022~2023 한국투자파트너스·하나증권PE 투자), 미래에셋증권이 단독 상장 주관사 선정. 최대주주는 코스피 상장사로 중복상장 이슈 존재. ([spm0528](https://blog.naver.com/spm0528/224311548946))
-
-
-## 2026-06-10 업데이트: 상장 D-2
-
-### 국내 ETF 유입 4.4조 원
-- 스페이스X 6/12 나스닥 상장 D-2. 미래에셋증권·미래에셋벤처투자 IPO 인수단 합류. 국내 관련 우주항공 ETF 7종에 약 4.4조 원 유입. 상장 후 키움·미래에셋·NH·삼성증권 등 해외주식 계좌로 직접 매수 가능. ([네이버블로그](https://blog.naver.com/hyunjolove/224311692258), 2026-06-09)
-- TIGER 미국우주테크 ETF 개인 순매수 1조 8,151억 원 유입. 패시브 ETF로 미래에셋증권 지분 보유 활용해 공모가 편입 유리.
-
-### 이종욱 삼성증권 — AI 버블론 사이클
-- [[이종욱]] 삼성증권: "24년 6월 세콰이어캐피털 AI버블론 제기 이후 월가 주기적 고점론. 이번 사이클의 고객은 AI 경쟁에서 뒤처질 경우 향후 10년 성장 기회를 잃을 수 있다는 불안감에 투자" — 스페이스X IPO와 AI 투자 사이클 연계. ([네이버블로그](https://blog.naver.com/rodonshin/224311686866), 2026-06-09)
-
-
-## 2026-06-09 업데이트: SOL 우주밸류체인 ETF·관련주 TOP10
-
-### SOL 우주항공밸류체인 ETF 포트폴리오
-- 삼성자산운용 SOL 우주항공밸류체인 ETF 구성 비중 (2026-06-09 기준): **Rocket Lab 22.22%**, 에이치브이엠 16.04%, AST SpaceMobile 17.65%, 스피어 12.28%, EchoStar 11.77%, 쎄트렉아이 10.38%, Planet Labs 10.56%, 대주전자재료 9.85%, Viasat 8.56%, 컨텍 9.27%, Globalstar 8.23%, 한화시스템 8.68%, Intuitive Machines 7.34%. (출처: [soletf 블로그](https://blog.naver.com/soletf/224311921371))
-
-### 스페이스X 관련주 TOP10
-- Rocket Lab(RKLB): 현재 상장된 기업 중 가장 대표적인 스페이스X 관련주. Electron 발사 + 위성 제작 + Neutron 개발. (출처: [msx_research 블로그](https://blog.naver.com/msx_research/224312005700))
-- Axiom Space: 상업용 우주정거장 개발
-- Virgin Galactic: 우주 관광
-- OneWeb: 저궤도 위성 통신
-- Bitget 선물 거래 연계 스페이스X 테마 투자 방법도 제시. (출처: [study465 블로그](https://blog.naver.com/study465/224312153016))
-
-### 우주 데이터센터 테마
-- '스페이스X IPO와 우주 데이터센터 시대' 분석: SpaceX·Nvidia·Rocket Lab·Redwire·AST SpaceMobile·Iridium·GE Vernova·Vertiv·Eaton 등 관찰 대상. 한국 수혜주: 스피어, 켄코아에어로스페이스, HVM, 한화에어로스페이스, 한화시스템, 삼성전자. (출처: [smartinvester 블로그](https://blog.naver.com/smartinvester/224311860208))
-
-
-## 2026-06-10 업데이트
-
-### 스페이스X 상장 D-2 — 상장일 매매 불가 이슈
-- 미래에셋증권 등 일부 증권사, 스페이스X 상장 당일(6/12) 거래 불가 공지. 미국 현지 예탁 및 국내 계좌 입고 절차로 인해 상장일 매매 불가. ([sooesder](https://blog.naver.com/sooesder/224312004466))
-- 미래에셋증권이 청약 고객들에게 청약 철회 기회 제공. 글로벌 IB 20여 곳과 인수단 참여 중. ([sooesder](https://blog.naver.com/sooesder/224312004466))
-
-### '개인 청약 가능' 가짜 뉴스 경고
-- '미래에셋증권을 통하면 개인이 공모주 청약 가능'이라는 가짜 뉴스 확산. 실제로는 기관 전용 사모펀드 형태. 개인 전문투자자도 직접 청약이 아닌 간접 경로 이용. ([shareinfo_](https://blog.naver.com/shareinfo_/224311780179))
-
-### 미래에셋증권 스페이스X 지분 투자 구조
-- 미래에셋증권의 스페이스X 투자는 '미래에셋글로벌스페이스투자조합1호'를 통해 진행. 직접 지분 보유와 IPO 인수단 참여 이중 구조. ([songdo100](https://blog.naver.com/songdo100/224312014573))
-
-### ETF 편입 전망
-- 미래에셋 TIGER 미국우주테크 ETF 패시브 구조로 공모가 편입 유리. ARKX·UFO·ROKT 등 타 ETF는 액티브로 시장가 매수 필요.
-
-### 스페이스X 관련주 특징주
-- 미래에셋증권 6/10 -1.36%(50,700원). 미래에셋벤처투자·미래에셋생명 동반 약세. 스페이스X 상장 D-2에도 불구하고 전반적 약세장 속 상대적 소외.
-
-
-## 📌 최신 요약 (2026-06-10)
-- **스페이스X 상장 D-2 (6/12)**: 미래에셋증권 청약 철회 가능일 6/11(목) 낮 12시까지. 외환당국 원화 방어 조치(기관 청약 제한). ([enonam](https://blog.naver.com/enonam/224312048034))
-- **청약 구조**: 일반 개인 불가, 전문투자자(개인) 미래에셋증권 통해 가능(5~8일), 법인 가능. ([iseom21](https://blog.naver.com/iseom21/224312085936))
-- **미래에셋증권 한국證 '중립'**: 스페이스X 평가이익 반영 분석. ([cavin419](https://blog.naver.com/cavin419/224312040953))
-- **SK하이닉스 ADR**: SOX 편입 시 4조 패시브 매수 전망. ([tlswnscjf1](https://blog.naver.com/tlswnscjf1/224311856182))
-- **ETF 수급 분석**: 6월 정기변경 관련 삼성전자·SK하이닉스 기계적 매도 전망. ([love60t](https://blog.naver.com/love60t/224312039033))
-- **미래에셋증권 단기 낙폭 과대 종목 선정**: 증권주 숨 고르기. ([psyoo2000](https://blog.naver.com/psyoo2000/224312034976))
-
-
-## 2026-06-10 업데이트
-
-### 스페이스X 상장 D-2 — 청약 철회 마감·외환당국 제한
-- **청약 철회 가능일**: 6/11(목) 낮 12시까지 미래에셋증권 청약 철회 가능. ([enonam](https://blog.naver.com/enonam/224312048034))
-- **외환당국 원화 방어 조치**: 기관 청약 제한. ([stock-baby](https://blog.naver.com/stock-baby/224312048486))
-- **청약 구조 재확인**:
-  - 일반 개인 투자자: ❌ 불가 (국내 증권신고서 미제출)
-  - 전문투자자(개인): ✅ 가능 (미래에셋증권 통해 5~8일 진행)
-  - 법인 투자자: ✅ 가능
-  - 최소 청약 금액 약 1.5억 원 이상 필요. ([iseom21](https://blog.naver.com/iseom21/224312085936))
-
-### 미래에셋증권 관련 분석
-- **한국투자증권 '중립'**: 스페이스X 평가이익 반영 분석 리포트 발간. ([cavin419](https://blog.naver.com/cavin419/224312040953))
-- **미래에셋증권 단기 낙폭 과대 종목(10일 기준)**: 스페이스X 청약 마감 이후 반등 기대감. ([psyoo2000](https://blog.naver.com/psyoo2000/224312034976))
-
-### SK하이닉스 ADR과 스페이스X 연계
-- 미래에셋증권 분석: SK하이닉스 ADR 상장 시 SOX(필라델피아 반도체 지수) 편입 시 약 27.9억 달러(약 4조 원) 패시브 매수세 유입 기대. 미래에셋증권 목표가 380만 원 유지. ([tlswnscjf1](https://blog.naver.com/tlswnscjf1/224311856182))
-
-### ETF 수급 분석
-- 미래에셋증권, 6월 ETF 정기변경 관련 리포트: 스페이스X 상장 기대감이 ETF 수급에 미치는 영향 분석. SK하이닉스·삼성전자 기계적 매도 물량 전망, 반대로 특정 종목 매수 수급 발생 전망. ([love60t](https://blog.naver.com/love60t/224312039033))
-
-### 일반 투자자 진입 경로 재확인
-- 6/12 이후 키움·미래에셋·NH·삼성 등 해외주식 계좌로 직접 매수 가능.
-- ETF(TIGER 미국우주테크·KODEX 우주항공 등) 간접 투자 병행.
-- 미래에셋 TIGER 패시브 ETF는 공모가 편입 유리 구조 유지.
-
-
-## 2026-06-10 업데이트
-
-### 스페이스X IPO 앞두고 달러 환전 제한 논란
-- 미래에셋증권이 스페이스X 청약 관련 일부 기관투자자에 "신청 물량의 일정 비율만 배정" 안내. 정부 개입설·달러 환전 제한 루머(⚠️미확인). ([mykosoo9](https://blog.naver.com/mykosoo9/224312116228))
-
-### 스페이스X 상장 D-2: ETF 유입 4.4조 원
-- 관련 우주항공 ETF 7종 약 4.4조 원 유입(TIGER 포함). 미래에셋 TIGER 미국우주테크 ETF 개인 순매수 1.8조 원. 패시브 ETF로 공모가 편입 유리한 구조. (기존 재확인)
-
-
----
-## 2026-06-10 업데이트
-
-### 스페이스X 상장 D-2 — 청약 완판 해부
-- 미래에셋증권 공모주 1차(3억 달러) 1분 완판·2차(2억 달러) 2분 완판. 글로벌 IB 20여 곳 인수단 참여. "역대 최대 규모 IPO", "돈이 몰린 진짜 이유" — 밸류에이션과 미래 가치 논쟁 지속. ([sagesma](https://blog.naver.com/sagesma/224311167175), [hanspoon888](https://blog.naver.com/hanspoon888/224311601808))
-- 일반 투자자 직접 매수 경로: 6/12 나스닥 상장 후 키움·미래에셋·삼성·KB·NH·토스증권 등 해외주식 계좌로 'SPCX' 티커 매수. 공모주 청약은 전문투자자(최소 1.5억 원)만 가능. ([nanuri_00](https://blog.naver.com/nanuri_00/224311575625), [nnppoppo](https://blog.naver.com/nnppoppo/224311636695))
-- 박현주 회장 연혁 조명: "일론 머스크가 상상하는 미래에 투자하라" — 동양증권 출신→미래에셋 창업→스페이스X 초기 지분 투자→IPO 단독 주관. ([upland_](https://blog.naver.com/upland_/224311585536))
-
-### 미래에셋증권 수혜 vs "호재 이미 반영" 논쟁
-- 미래에셋증권 스페이스X 평가이익 1조 원 규모, 2분기 순이익 상향 전망. ([yoonpooh-](https://blog.naver.com/yoonpooh-/224311669407))
-- 염블리: "스페이스X 호재는 이미 반영됨. 증권주로는 삼성증권 선호. 미래에셋 본업 가치 기준 적정 주가 7만 원." ([metalblue1](https://blog.naver.com/metalblue1/224311644530))
-- 수익률 상위 1% 초고수, HD현대일렉트릭·삼성전자·삼성전기 순매수 1위. 미래에셋증권2우B 순매수 상위 — 거래대금 증가·배당 매력. ([try3month](https://blog.naver.com/try3month/224311639440), [diehard20811](https://blog.naver.com/diehard20811/224311644569), [kikiju768](https://blog.naver.com/kikiju768/224311633495))
-
-### 앤트로픽 IPO·AI ETF 간접 투자
-- 미래에셋증권 TIGER미국AI소프트웨어TOP4Plus ETF 등 앤트로픽 간접 투자 채널 제공. ([booknzi](https://blog.naver.com/booknzi/224311607940))
-
-### 한투닉스 2배 LP 사태
-- '한투 닉스 2배 레버리지 ETF', 상장 8거래일 만에 투자유의 종목 지정. LP 5개사(한국투자·미래에셋·NH·키움·하나) 동시호가 연장 구간 유동성 공급 실패. ([newsspace](https://blog.naver.com/newsspace/224311656747))
-
-
-## 2026-06-10 업데이트
-
-### 스페이스X D-2: ETF 유입·청약 완판 재확인
-- 미래에셋증권 주관 1차 청약 1분, 2차 청약 2분 완판. 6/12 나스닥 상장 예정. 국내 우주항공 ETF 7종 약 4.4조 유입(TIGER 포함). 한투운용 ACE ETF 배정 진행. ([yna](https://www.yna.co.kr/view/AKR20260610078000008?input=1195m))
-
-### 개인투자용국채·금융 브리핑
-- 미래에셋증권 6월 개인투자용국채 청약 실시. ([viva100](https://www.viva100.com/article/20260610500522))
-
-
-## 2026-06-10 업데이트
-
-### 스페이스X 기관청약 비율 제한…외환당국 원화 방어 개입설
-- 미래에셋증권, 기관투자자 청약 규모 일부 제한. 상장 직후 매매 제한 리스크 고려 투자자 보호 조치 병행. 원화 방어 차원 외환당국 개입설(⚠️미확인) — 정부 확인 안 됨. ([mk](https://www.mk.co.kr/article/12070577))
-- 다만 과도한 밸류에이션과 높은 시장 기대치 등 불확실성 요인으로 상장 후 변동성 리스크 상존. ([etoday](https://www.etoday.co.kr/news/view/2592288))
-
-### 타우메디칼 IPO 주관사 선정 — 미래에셋증권
-- 미래에셋증권·유진투자증권, 타우메디칼 IPO 주관사 선정. 최대 500억 원 펀딩. 구조적 심장 질환 의료기기 업체. ([thebell](https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606081350303560107647))
-
-
-### 스페이스X SPCX — 국내 증권사 매수 경로 재확인
-- 6/12 상장 후 키움증권·토스증권·삼성증권 등 해외 주식 거래 가능 국내 모든 증권사 MTS/HTS에서 티커 'SPCX' 검색 매수 가능. 상장 당일 밤 증권사 앱 접속 폭주 예상. ([네이버블로그](https://blog.naver.com/4536508_/224312053718), 2026-06-09)
-
-
-## 2026-06-10 추가 업데이트
-
-### 스페이스X 청약 철회권 부여
-- 미래에셋증권, 스페이스X 공모주 청약자 전원에게 청약 철회권(11일까지) 부여. 상장일(6/12) 당일 매도 불가. ([dailian](https://www.dailian.co.kr/news/view/1654691/?sc=Naver))
-
-### '호재 이미 반영' 논쟁 지속
-- 염블리: "스페이스X 호재는 이미 주가에 반영됨. 미래에셋증권 본업 가치 기준 7만 원. 증권주로는 삼성증권 선호." ([metalblue1](https://blog.naver.com/metalblue1/224311644530))
-- 반론: "스페이스X 평가이익 1조 원 규모, 2분기 순이익 상향 요인." ([yoonpooh-](https://blog.naver.com/yoonpooh-/224311669407))
-
-### 환전 제한 루머(⚠️미확인)
-- 미래에셋증권 일부 기관에 '신청 물량 일정 비율만 배정' 안내. 정부 개입설·달러 환전 제한 루머 유포됐으나 확인 불가. ([mykosoo9](https://blog.naver.com/mykosoo9/224312116228))
-
-### 한국투자증권 '미래에셋증권 중립'
-- 한국투자증권, 스페이스X 평가이익 반영 분석하며 미래에셋증권 '중립' 의견 제시. ([cavin419](https://blog.naver.com/cavin419/224312040953))
-
-
-## 2026-06-10 업데이트: 상장 D-2, 우주항공 ETF 및 로켓랩 포지셔닝
-
-### ETF 포트폴리오 업데이트
-- **KODEX 미국우주항공 ETF(0167Z0)**: Rocket Lab 26.11% 최대 비중, AST SpaceMobile 13.87%, Intuitive Machines 12.32%. (출처: [kjh44231 블로그](https://blog.naver.com/kjh44231/224312468154))
-- **TIGER 미국우주테크 ETF**: Rocket Lab 24.78%(1위), Intuitive Machines 18.68%(2위), Redwire 17.48%(3위). (출처: [soft_waves 블로그](https://blog.naver.com/soft_waves/224312255973))
-- **KODEX 미국우주항공 ETF**: Rocket Lab 약 17.5%(1위). (출처: [handasw 블로그](https://blog.naver.com/handasw/224312319588))
-- 일반 투자자 3대 진입 경로 ETF 모두 Rocket Lab을 핵심 편입: TIGER·SOL·KODEX. (출처: [skyjkyyy 블로그](https://blog.naver.com/skyjkyyy/224311668086))
-
-### 핵심 동향 추가
-- 스페이스X(거대 버스) vs Rocket Lab(작고 빠른 스포츠카) 포지셔닝 비교 지속. 소형 위성 발사 시장에서 Rocket Lab의 독보적 위치 재확인. (출처: [soozin_a 블로그](https://blog.naver.com/soozin_a/224312195217))
-- Rocket Lab(RKLB) 현재가 $106.69(-1.42%). 시장에서 'Strong Buy에 가까운 기대주'로 평가. (출처: [infinitygrowth10x 블로그](https://blog.naver.com/infinitygrowth10x/224312306257), [smarthumanlife 블로그](https://blog.naver.com/smarthumanlife/224312449632))
-- 민간 로켓 산업 4강: 스페이스X, 블루오리진, 버진 갤럭틱, Rocket Lab. (출처: [428valeria 블로그](https://blog.naver.com/428valeria/224311971456))
-- 한화투자증권 우주항공 밸류체인 분석: 업스트림(발사체·위성 제조) 핵심 기업으로 Rocket Lab, Northrop Grumman, L3Harris, Teledyne, AST SpaceMobile. (출처: [1month 블로그](https://blog.naver.com/1month/224312452061))
-
-
-## 2026-06-10 업데이트
-
-### 청약 철회권 부여 — 상장 당일 매도 불가
-- 미래에셋증권, 스페이스X 청약 참여 투자자에게 **청약 철회권** 부여. 상장일(6/12) 매도 불가 — 6/16 이후 거래 재개. ([pingududu](https://blog.naver.com/pingududu/224312301005), [aaoc3142](https://blog.naver.com/aaoc3142/224312336632), [oper23300](https://blog.naver.com/oper23300/224312337869), [eattrip9203](https://blog.naver.com/eattrip9203/224312099359))
-- 미래에셋증권 "투자자 보호 차원" 명시. ([eco-atlas](https://blog.naver.com/eco-atlas/224312376939))
-
-### 기관청약 비율 제한 — 외환당국 개입설
-- 미래에셋증권, 기관투자자 청약 규모 일부 제한. 정부 과도한 달러 환전 차원에서 제동. 외환당국 개입설(⚠️미확인). ([worldeconemy](https://blog.naver.com/worldeconemy/224312359016), [thumb67](https://blog.naver.com/thumb67/224312363579), [businessamigo](https://blog.naver.com/businessamigo/224312388681))
-- 미래에셋증권, 1차 1분·2차 2분 완판. 총 5억 달러 모집 완료. ([fr1972](https://blog.naver.com/fr1972/224312367497))
-
-### 밸류에이션 논란 심화
-- 적자기업 스페이스X에 2,700조 원 시총 평가 — "시장이 이미 반영했다" 경고 vs 우주 산업 미래 가치 평가. ([goodinvest4](https://blog.naver.com/goodinvest4/224312390918), [moneylog2030](https://blog.naver.com/moneylog2030/224312011790))
-
-### NH투자증권도 글로벌 혁신 협력 논의
-- NH투자증권, 글로벌 혁신 투자 기회 확대를 위한 전략적 협력 방안 논의 중. ([worldeconemy](https://blog.naver.com/worldeconemy/224312359016))
-
-### 스페이스X 관련주 종합 정리
-- 미래에셋증권·미래에셋벤처투자·아주IB투자·OCI홀딩스 등 스페이스X 연결고리 종목 부각. ([9changmo-](https://blog.naver.com/9changmo-/224312329408), [bllime](https://blog.naver.com/bllime/224312330881))
-- 국내 투자자 경로: 해외주식 직매수(키움·토스·삼성 등 MTS에서 'SPCX' 검색)·ETF·펀드. ([moneylog2030](https://blog.naver.com/moneylog2030/224312011790))
-
-### 미래에셋증권, '분기 순익 1조' 시대
-- 은행 예금에서 투자 자산으로 머니무브 가속 — 스페이스X 연결. ([scchoisl](https://blog.naver.com/scchoisl/224312376803))
-
-
-## 2026-06-11 업데이트
-
-### 스페이스X 상장 D-1
-- 6/12 나스닥 상장 임박. 미래에셋증권, 기관투자자 청약 30% 수준만 배정. 청약 철회 가능 안내(16일부터). 상장 당일 바로 매매 불가 — 16일부터 거래 가능. ([kimbob0821](https://blog.naver.com/kimbob0821/224312390499), [rlagusdk0203](https://blog.naver.com/rlagusdk0203/224312224021), [totcar](https://blog.naver.com/totcar/224312414215))
-
-### 한국 개인 투자자 경로 재확인
-- 개인은 국내 증권사 MTS에서 6/12 17시부터 티커 'SPCX' 검색 매수 가능. 단, 상장 당일 바로 매도 불가. 미래에셋증권 배정분은 16일부터 매매 가능. ([rlagusdk0203](https://blog.naver.com/rlagusdk0203/224312224021))
-
-### 미래에셋증권 수혜 전망 재점화
-- 미래에셋그룹 약 4,000억원 이상 스페이스X 투자 추정. 상장 후 평가차익 실현 기대감. 단기 수혜 가능성. ([chubukyungbu](https://blog.naver.com/chubukyungbu/224311996925), [thankyou_plus](https://blog.naver.com/thankyou_plus/224312420102))
-
-### 청약 규모 200조 돌파
-- 스페이스X 청약 규모 200조 원 돌파(역대급). 글로벌 관심 집중. 미래에셋증권 등 대형 증권사 물량 확보 주도. ([yeonheeqq](https://blog.naver.com/yeonheeqq/224311778016))
-
-### 스페이스X 상장 분석 — 리스크 재확인
-- 과도한 밸류에이션·시장 기대치 대비 실적 괴리 리스크. 한국 투자자의 시차·매매 제한 리스크 재확인. ([ryuhongreoul](https://blog.naver.com/ryuhongreoul/224312409509))
-
-
-## 2026-06-10 업데이트
-
-### 청약 철회권 부여
-- 미래에셋증권, 5억 달러 규모 스페이스X 공모주 청약 참여 전문투자자에 청약 철회권 부여(6/11 낮 12시까지). 상장 당일 거래 불가능한 점 고려. ([donga](https://www.donga.com/news/Economy/article/all/20260610/134087704/2), [biz.sbs](https://biz.sbs.co.kr/article_hub/20000315788?division=NAVER), [startuptoday](https://www.startuptoday.co.kr/news/articleView.html?idxno=803239))
-
-### 상장일 매매 불가 — 국내 투자자 주의
-- 스페이스X 상장일(6/12) 한국 투자자는 당일 거래 불가. 청약 철회권은 이에 대한 투자자 보호 조치. ([startuptoday](https://www.startuptoday.co.kr/news/articleView.html?idxno=803239))
-
-### 간접 투자 전략 다양화
-- 증권사들, 스페이스X 관련 ETF·펀드 등 간접 투자 상품 제시. 최근 미래에셋 상품 출시 2분 만에 완판. ([pointdaily](https://www.pointdaily.co.kr/news/articleView.html?idxno=307753))
-
-### 미래에셋, 반기 순이익 2조 돌파 유력
-- 스페이스X 지분평가이익 등으로 미래에셋증권 상반기 순이익 사상 첫 2조 원 돌파 예상. ([consumernews](http://www.consumernews.co.kr/news/articleView.html?idxno=757231))
-
-### 구다이글로벌 IPO — 미래에셋·NH·씨티·모건스탠리 주관
-- 주관사단 전담 인력 파견 상주. 북미 훈풍 속 상장 준비. ([news1](https://www.news1.kr/industry/general-industry/6193569))
-
-
-## 2026-06-10 업데이트
-
-### 미래에셋증권, 청약 철회권 부여
-- 미래에셋증권, 스페이스X 공모주 청약 참여자 전원(개인·법인 전문투자자)에게 청약 철회권 부여 결정. 상장 당일(6/12) 즉시 매매 불가 리스크를 고려한 선제적 투자자 보호 조치. 청약 철회 접수 6/11 정오 마감. ([newsquest](https://www.newsquest.co.kr/news/articleView.html?idxno=267618), [segyebiz](http://www.segyebiz.com/newsView/20260611503242?OutUrl=naver), [mk](https://www.mk.co.kr/article/12071243))
-
-### 미래에셋증권 CP·전단채 발행 급증
-- 미래에셋증권, 6월 스페이스X 청약 관련 CP·전단채 순발행 2조1,200억 원(증권사 최대). 단기 채권 시장에 유동성 공급 역할. ([einfomax](https://news.einfomax.co.kr/news/articleView.html?idxno=4419398))
-
-### 스페이스X 상장 후 외국인 '삼전닉스' 회귀 전망
-- 스페이스X 상장 이후 외국인 자금이 다시 국내 반도체 대형주([[삼성전자]]·[[SK하이닉스]])로 회귀할 전망. 미래에셋증권은 청약 철회권 부여로 투자자 보호. ([enewstoday](http://www.enewstoday.co.kr/news/articleView.html?idxno=2437813))
-
-### 서상영 연구원 코멘트
-- 서상영 미래에셋증권 연구원: 물가 안정에도 Fed 목표 상회·전쟁 장기화 우려로 금리인상 우려 지속. ([heraldcorp](https://biz.heraldcorp.com/article/10769042?ref=naver))
-- 서상영 연구원: 오라클 400억 달러 추가 조달은 AI 경쟁력 확보 위한 대규모 자본 필요성 시사. 현금흐름 악화·주주가치 희석 우려. ([heraldcorp](https://biz.heraldcorp.com/article/10769067?ref=naver))
-
-
-## 2026-06-10 업데이트: ETF 구성 및 우주 제약 테마
-
-### ETF 구성 변동
-- PLUS 우주항공&UAM ETF(티커 421320) 내 Redwire 비중 23.40(최대), [[Rocket Lab]] 22.18%. (출처: [네이버블로그](https://blog.naver.com/dong_donggri/224313030618))
-- 스페이스X 상장 D-2 시점에서 우주 테마 ETF 구성의 다변화 지속.
-
-
-## 2026-06-11 업데이트
-
-### 스페이스X 상장 D-1 — 한국 투자자 주의사항 재확인
-- 6/12 나스닥 상장 D-1. 한국 투자자는 **상장 당일(6/12) 매매 불가**, 6/16 이후 거래 재개 예정. 미래에셋증권은 이에 대한 보호 조치로 청약 철회권 부여(6/11 정오 마감). ([bestpickinfo](https://blog.naver.com/bestpickinfo/224313023769))
-- 기관·전문투자자 대상 공모주 배정분 7,500억 원 추정. 일본 등 타국 증권사는 자체 책임 하에 선주문·현지 법인 연계 시스템으로 당일 거래 가능. ([kalluen](https://blog.naver.com/kalluen/224313060043))
-
-### 미래에셋증권 주가 변동 — 상장 기대와 실망 매물 공존
-- 미래에셋증권, 스페이스X 상장 기대에도 6/11 장초반 9.57% 급락 후 +2.15% 회복. 상장 이후 외국인 자금 '삼전닉스' 회귀 전망과 청약 자금 유출 우려가 혼재. ([gemfer](https://blog.naver.com/gemfer/224313027522), [bestpickinfo](https://blog.naver.com/bestpickinfo/224313023769))
-- 미래에셋생명 +29.87% 급등으로 미래에셋 그룹 테마 확산: [[미래에셋증권]], [[미래에셋벤처투자]]가 스페이스X 연결고리로 재부각. ([camelpro](https://blog.naver.com/camelpro/224313029655))
-
-### 기타
-- 메드업(AI 마케팅) 공모주 일정, 미래에셋증권이 주관사 중 하나. ([paho5868](https://blog.naver.com/paho5868/224313030612))
-
-
-## 2026-06-11 업데이트 (상장 D-1)
-
-### 미래에셋증권·미래에셋생명 강세
-- 스페이스X 상장 D-1, 미래에셋증권 +2.15%, 미래에셋생명 상한가 기록. 미래에셋증권 거래대금 상위 8위. ([leegg209](https://blog.naver.com/leegg209/224313152841), [smarthumanlife](https://blog.naver.com/smarthumanlife/224313183486))
-- 미래에셋벤처투자·아주IB투자·OCI홀딩스 등 스페이스X 연결고리 종목 부각. 독립리서치 핀릿 분석. ([leegg209](https://blog.naver.com/leegg209/224313152841))
-
-### 청약 철회권 마감 임박 (6/11 정오)
-- 미래에셋증권, 스페이스X 공모주 청약 참여자 전원(개인·법인 전문투자자) 대상 청약 철회권 마감 D-Day(6/11 정오). 상장 당일(6/12) 즉시 매매 불가 리스크 고려한 투자자 보호 조치. 상장 후 6/16부터 거래 재개 예정.
-
-### 일반 투자자 경로 다양화
-- ETF·펀드·해외주식 계좌 직매수 등 간접 투자 경로 확대. 미래에셋증권 상품 출시 완판 사례 지속. 스페이스X 관련 ETF 7종 약 4.4조 유입. ([ongfordaily](https://blog.naver.com/ongfordaily/224313168802))
-
-### 국내 증시 수급 논란 지속
-- 스페이스X IPO 대기자금이 국내 증시 유동성 위축 요인이라는 분석 지속. 반도체·증권주 변동성 확대와 연계. ([black2160](https://blog.naver.com/black2160/224313138988))
-
-### 미래에셋증권, 온체인 금융·STO 사업 병행
-- 토큰증권·RWA 중심의 온체인 금융 사업 준비. 임민호 수석매니저, 디지털 자산 시장 다음 단계 제시. ([hosunews](https://blog.naver.com/hosunews/224313141296))
-
-### 삼성증권·미래에셋증권 2026 하반기 전망
-- 삼성증권·미래에셋증권, 2026 하반기 증시 전망 리포트(6/9) 인용 — 반도체 역발상 기회 분석. HBM4·HBM5·온디바이스 AI 관련. ([black2160](https://blog.naver.com/black2160/224313138988))
-
-
-## 2026-06-11 업데이트
-
-### 스페이스X 청약 물량 30% 배정 통보
-- 미래에셋증권, 기관투자자에 '물량 제한으로 신청액수의 30% 수준만 배정 가능' 통보. ([mk](https://www.mk.co.kr/article/12071443))
-
-### 스페이스X 거품 논란 재점화
-- 2,660조 원(1.75조 달러) 몸값에 대한 거품 논란 지속. 미래에셋증권 일부 물량 배정 소식과 맞물려 시장 우려. ([mk](https://www.mk.co.kr/article/12071443))
-
-### 상장일 거래 불가 안내 확산
-- 6/12(금) 나스닥 상장 예정. 한국 시간으로 6/12 밤 10:30 개장하나 신규 종목 시초가 형성 시간 소요. 미래에셋증권 앱에 공지사항 게재. ([ttokttogi](https://blog.naver.com/ttokttogi/224313211926))
-
-### 간접 투자 전략 부각
-- 해외주식 거래 증권사(키움·미래에셋·삼성·NH·한국투자증권)를 통한 직접 매수, ETF 간접 투자, 펀드 등 3가지 진입 경로 지속 부각. ([haebangjinny](https://blog.naver.com/haebangjinny/224313199129), [mystique100](https://blog.naver.com/mystique100/224313201148))
-
-### 미래에셋 계열사 수혜 지속
-- 미래에셋증권·미래에셋벤처투자 등 계열사, 스페이스X 투자 이력(약 4,000억 원)으로 지속 관심. 상장 시 기업가치 1.75조 달러 기준 지분가치 상당. ([paradised07](https://blog.naver.com/paradised07/224313203298))
-
-### 정부 제동 가능성
-- 환율 1,500원 시대, 정부 기관청약 과도한 달러 환전 차원 제한 개입설. 미래에셋증권 청약 철회권 부여도 이러한 규제 리스크와 연관. ([hussey89](https://blog.naver.com/hussey89/224313205238))
-
-### 미래에셋생명 자진상장폐지 시나리오
-- 스페이스X 투자와 연계해 미래에셋그룹 차원의 지배구조 개편 가능성 제기. 미래에셋생명 최대주주 미래에셋증권(28.8%)·계열사 합산 82%. ([goodinvest4](https://blog.naver.com/goodinvest4/224313230752))
-
-
-## 2026-06-11 업데이트
-
-### 스페이스X 상장 D-1
-- **6/12 나스닥 상장 예정**. 국내 투자자는 당일 거래 불가 — ETF 통한 간접투자만 가능. 스페이스X 편입 앞둔 국내 우주·항공 ETF에 개미 뭉칫돈 유입. ([ajunews](https://www.ajunews.com/view/20260611161112904), [sbs](https://biz.sbs.co.kr/article_hub/20000316030?division=NAVER), [sentv](https://www.sentv.co.kr/article/view/sentv202606110073))
-- **청약 철회권 부여**: 미래에셋증권, 청약 참여 전문투자자 전원 대상 청약 철회권 부여. 상장 당일 매매 불가 리스크 고려한 선제 조치. 접수 6/11 정오 마감. ([econovill](https://www.econovill.com/news/articleView.html?idxno=742163), [yonhapnewstv](http://www.yonhapnewstv.co.kr/news/MYH20260611173442i9W))
-- **기관 물량 일부 축소 배정**: 미래에셋증권, 일부 기관투자자에게 신청 물량의 약 일부만 배정. ([newspim](https://www.newspim.com/news/view/20260611001022))
-- **1·2차 청약 완판**: 1차 1분 만에, 2차 2분 만에 완판. 5억 달러 모집 완료. ([ajunews](https://www.ajunews.com/view/20260611161112904))
-
-### ETF 구성·간접 투자 전략
-- 상장 전후 모멘텀 노리고 스페이스X 편입 앞둔 국내 우주·항공 ETF로 자금 유입. 개인은 ETF 통한 간접투자만 가능. ([sentv](https://www.sentv.co.kr/article/view/sentv202606110073))
-- 미래에셋증권 CP·전단채 순발행 2조1,200억 원(증권사 최대). 스페이스X 청약 자금 조달 영향.
-
-
-## 2026-06-11 업데이트
-
-### 스페이스X 상장 D-1 — 미래에셋증권 초고수 매수 유입
-- 스페이스X 상장 임박(6/12)에도 미래에셋증권 초고수 데이터 기준, 오히려 [[삼성전자]] 집중 매수세 유입. 미래에셋증권 자체가 스페이스X 우회 투자 수단으로 매수세 유입. ([heraldcorp](https://biz.heraldcorp.com/article/10769968?ref=naver))
-
-### 미래에셋증권 디지털 금융 전략
-- 임민호 미래에셋증권 디지털자산사업팀 수석매니저, 온체인 금융(실물자산토큰화)을 스페이스X 등 혁신 자산 시장 차세대 인프라로 제시. ([fnnews](http://www.fnnews.com/news/202606111900502039))
-
-
-## 2026-06-11 업데이트
-
-### 스페이스X 상장 후 투자 방법 정리
-- 스페이스X 나스닥 상장(6/12) 후 국내 투자자는 키움증권·삼성증권·미래에셋증권·한국투자증권 등 미국 주식 거래 증권사에서 'SPCX' 티커 검색 후 일반 미국 주식처럼 매수 가능. 국내 우주항공 ETF(예: KODEX 우주항공·TIGER 우주방산) 통한 간접 투자도 가능. ([스페이스X 주식 사는 법](https://blog.naver.com/bluepenguin02/224313005530), 2026-06-10)
-
-
-## 2026-06-11 업데이트
-
-### 삼성증권 김종민 — 스페이스X 수급 교란 분석
-- 김종민 삼성증권 수석연구위원: "역사상 최대 규모 메가 IPO, 단기적으로 국내 증시 수급 교란 요인. 글로벌 투자자 스페이스X 청약·상장 후 진입 자금 마련 위해 기존 포트폴리오 조정 가능". ([mt](https://www.mt.co.kr/stock/2026/06/11/2026061114211781289), 2026-06-11)
-
-### 삼성증권 박혜란 — IPO 이후 시장 영향 제한적
-- 박혜란 삼성증권 연구원: "과거 미국 주요 IPO 사례에서는 상장 이후 주식시장 흐름이 해당 주식과 별개로 매크로·펀더멘털에 좌우됨". 외국인 24거래일 연속 순매도(76조 탈출)와 별개 분석. ([news1](https://www.news1.kr/finance/market-exr/6194769), 2026-06-11)
-
-
-## 2026-06-11 업데이트: ETF·애널리스트 분석 계속
-
-### 삼성증권 박혜란 — 상장 이후 시장 영향 제한적
-- 애널리스트 표에 추가: ([news1](https://www.news1.kr/finance/market-exr/6194769), 2026-06-11)
+- [`블로그·univ_jurini`](https://blog.naver.com/univ_jurini/224305011389): 미래에셋증권 주가 분석 — 해외주식·연금자산 1위, 직접 투자 사업 약 11조원
+- [`블로그·primeoffice365`](https://blog.naver.com/primeoffice365/224309768877): 미래에셋증권 청약 1분 완판, 6월 12일 상장 확정
+- [`블로그·iceblue_73`](https://blog.naver.com/iceblue_73/224309818909): 국내 관련주 수혜주 총정리 — 미래에셋증권·미래에셋벤처투자 1순위
+- [`블로그·osanjung2024`](https://blog.naver.com/osanjung2024/224309819234): 미래에셋증권 STO·디지털자산·글로벌 인프라 확장
+- [`블로그·xoxo_birdhj`](https://blog.naver.com/xoxo_birdhj): 해외주식 계좌로 SPCX 매수 가능, ETF 편입 분석
+- [`블로그·ricwo_1112`](https://blog.naver.com/riwon_1112/224310859178): TIGER ETF 공모가 편입 유리 구조
+- [`블로그·kebaake`](https://blog.naver.com/kebaake/224310813822): 최소 투자금 1.5억 원, 전문투자자 요건
+- [`블로그·niceinvest`](https://blog.naver.com/niceinvest/224310784444): 미래에셋그룹 글로벌 인수단 50억 달러 추정
+- [`블로그·kalluen`](https://blog.naver.com/kalluen/224313060043): 일본 증권사 자체 책임 선주문, 당일 거래 가능
+- [`블로그·metalblue1`](https://blog.naver.com/metalblue1/224311644530): 염블리 “스페이스X 호재 이미 반영, 미래에셋 적정주가 7만 원”
+- [`블로그·yoonpooh-`](https://blog.naver.com/yoonpooh-/224311669407): 미래에셋 평가이익 1조 원, 순이익 상향
+- [`블로그·mykosoo9`](https://blog.naver.com/mykosoo9/224312116228): 기관 물량 제한·환전 제한 루머
+- [`블로그·pingududu`](https://blog.naver.com/pingududu/224312301005): 상장일 매도 불가, 6/16부터 거래
+- [`블로그·worldeconemy`](https://blog.naver.com/worldeconemy/224312359016): NH투자증권 글로벌 혁신 협력 논의
+- [`블로그·goodinvest4`](https://blog.naver.com/goodinvest4/224312390918): 2,700조 밸류에이션 논란
+- [`블로그·bestpickinfo`](https://blog.naver.com/bestpickinfo/224313023769): 상장 당일 매매 불가, ETF로 대체
+- [`블로그·gemfer`](https://blog.naver.com/gemfer/224313027522): 미래에셋증권 급락 후 회복, 외국인 자금 ‘삼전닉스’ 회귀 전망
+- [`블로그·camelpro`](https://blog.naver.com/camelpro/224313029655): 미래에셋생명 상한가, 그룹 테마 확산
+- [`블로그·seeorchid7`](https://blog.naver.com/seeorchid7): SpaceX IPO 리스크 종합 분석
+- [`블로그·hdmin77`](https://blog.naver.com/hdmin77): Tesla-SpaceX 합병 시나리오 재부각
+- [`블로그·quant-hub`](https://blog.naver.com/quant-hub): 우주 데이터센터 AI 위성·열 제어 기술 공개
+- [`블로그·dazzling_jun`](https://blog.naver.com/dazzling_jun): 합병 루머·인덱싱 긴장감
+- [`블로그·bluepenguin02`](https://blog.naver.com/bluepenguin02/224313005530): 스페이스X 주식 사는 법 종합
+- [`블로그·4526508_`](https://blog.naver.com/4536508_/224312053718): MTS에서 ‘SPCX’ 검색 매수 방법
+- 기타 다수 블로그 인사이트는 상단 본문에 통합
