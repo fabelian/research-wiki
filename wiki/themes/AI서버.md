@@ -682,3 +682,15 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 - **중동 전운 고조**: 이란-이스라엘 긴장 → WTI·美국채금리 급등 → 위험자산 회피 심리 극대. (출처: [choicenews](http://www.choicenews.co.kr/news/articleView.html?idxno=166399))
 - **美 5월 CPI 헤드라인 4.2%**: 3년 만 최고치, 근원 CPI 3.4% 예상 부합. 시장 '최악은 피했다' 해석했으나 헤드라인 충격이 반도체·AI서버에 추가 하방 압력. (출처: [sjsori](https://www.sjsori.com/news/articleView.html?idxno=86538))
 - **AI 버블 논쟁 재점화**: 엔비디아 급락이 'AI 거품론'에 힘 실음. 증권가는 과도한 반응·단기 조정론 유지하나 시장의 '증명 구간' 진입 명확화. (출처: [sjsori](https://www.sjsori.com/news/articleView.html?idxno=86538))
+
+
+## 🆕 2026-06-10 추가 — 악성루머·반도체 ETF 급락·개장 전 체크포인트
+
+### 😱 악성루머 확산
+- 삼성전자·SK하이닉스 반도체 라인 수율 불량·대규모 폐기설 등 악의적 루머 유포. 증권가·업계 반박. AI서버용 HBM·고성능 메모리 생산 차질 우려도 근거 없음으로 일축. (출처: [무등일보 2026-06-10](http://www.mdilbo.com/news/articleView.html?idxno=1105010))
+
+### 📉 반도체 ETF 급락 영향
+- 국내 반도체 ETF 상당수 10% 안팎 급락(6/10). AI서버·HBM 연관 ETF도 동반 하락. (출처: [theka1037 2026-06-10](https://blog.naver.com/theka1037/224313230115))
+
+### 📋 6/12 개장 전 체크포인트
+- 반도체·외국인 수급·미국 반도체 선물 방향·엔비디아 시간외 움직임·기관 차익실현 강도가 AI서버 테마 단기 변수. (출처: [nomad-insight 2026-06-10](https://blog.naver.com/nomad-insight/224313232372))

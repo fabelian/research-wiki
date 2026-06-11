@@ -517,3 +517,15 @@ updated: 2026-06-08
 - **중동 전운**: 이란-이스라엘 긴장 고조, WTI 급등 → 위험자산 회피 심리 확산. (출처: [choicenews](http://www.choicenews.co.kr/news/articleView.html?idxno=166399))
 - **美 5월 CPI 4.2%**(헤드라인, 3년 최고): 연준 금리인하 기대 급락, AI·성장주 밸류에이션 부담 확대. (출처: [sjsori](https://www.sjsori.com/news/articleView.html?idxno=86538))
 - **AI 버블 논쟁 재점화**: 엔비디아 급락이 'AI 거품'론에 힘 실음. 증권가 "과도한 반응" vs 시장 "증명 구간" 충돌 심화. (출처: [sjsori](https://www.sjsori.com/news/articleView.html?idxno=86538))
+
+
+## 🆕 2026-06-10 추가 — 악성루머·HBM4 양산 루머 반박
+
+### 😱 악성루머 확산 — 반도체 라인 수율·폐기설 유포
+- 삼성전자·SK하이닉스 반도체 라인 수율 불량·대규모 폐기설 등 악의적 루머 유포. 증권가·업계 "멀쩡하게 잘 돌아가는 반도체 라인인데 악플·악성댓글을 마치 뉴스인 양 유포" 반박. (출처: [무등일보 2026-06-10](http://www.mdilbo.com/news/articleView.html?idxno=1105010))
+
+### 📉 HBM 관련주 추가 급락
+- 삼성전자 30만원 선 하회·반도체 ETF 10% 급락. 외국인 수급·레버리지 ETF 손실 확대. (출처: [hoho-news 2026-06-10](https://blog.naver.com/hoho-news/224313231232), [theka1037 2026-06-10](https://blog.naver.com/theka1037/224313230115))
+
+### 🎓 이재용 출타 중 HBM4 협력 지속
+- 이재용 회장 출타 중에도 젠슨 황-전영현 회동으로 HBM4 퀄 통과·파운드리 협력 지속 확인. (출처: [ja767676 2026-06-10](https://blog.naver.com/ja767676/224313230538))
