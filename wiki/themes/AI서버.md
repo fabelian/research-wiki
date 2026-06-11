@@ -670,3 +670,15 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 ### 🏭 AI서버 인프라 → 반도체 장비 수요 파급
 - **UBS 반도체 전공정 장비 슈퍼사이클**: Micron·Samsung 등 메모리 업체 신규 팹 가동 본격화 → 장비 시장 슈퍼사이클 진단. (출처: [morning366](https://blog.naver.com/morning366/224312156063))
 - **HBM 장비 공급 병목**: SK·삼성·Micron 증설로 TC 본더·검사·웨이퍼 장비 수요 폭증. 협력사 납품단가 인상 검토. (출처: [sgpjb1](https://blog.naver.com/sgpjb1/224312434564))
+
+
+## 2026-06-10 업데이트 — 중동 전운·CPI 4.2%·SMCI 폭락, AI서버 테마 타격
+
+### 📉 6/10 AI서버 관련주 급락
+- **엔비디아 -3.73%**, **마이크론 -4.70%**($891), **AMD -4.86%**, **Broadcom -5.12%**, **TSMC -4.48%**. AI서버 밸류체인 전구간 동반 하락. (출처: [dogokdongja](https://blog.naver.com/dogokdongja/224312480278))
+- **슈퍼마이크로(SMCI) -23.1% 폭락**: 70억 달러 규모 주식 발행 계획 발표 직후 폭락. AI 서버 제조사 자체의 자금조달 리스크가 AI 수요 둔화 신호로 해석. (출처: [sjsori](https://www.sjsori.com/news/articleView.html?idxno=86538))
+
+### 🌍 거시 충격 요인
+- **중동 전운 고조**: 이란-이스라엘 긴장 → WTI·美국채금리 급등 → 위험자산 회피 심리 극대. (출처: [choicenews](http://www.choicenews.co.kr/news/articleView.html?idxno=166399))
+- **美 5월 CPI 헤드라인 4.2%**: 3년 만 최고치, 근원 CPI 3.4% 예상 부합. 시장 '최악은 피했다' 해석했으나 헤드라인 충격이 반도체·AI서버에 추가 하방 압력. (출처: [sjsori](https://www.sjsori.com/news/articleView.html?idxno=86538))
+- **AI 버블 논쟁 재점화**: 엔비디아 급락이 'AI 거품론'에 힘 실음. 증권가는 과도한 반응·단기 조정론 유지하나 시장의 '증명 구간' 진입 명확화. (출처: [sjsori](https://www.sjsori.com/news/articleView.html?idxno=86538))

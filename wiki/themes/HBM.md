@@ -504,3 +504,16 @@ updated: 2026-06-08
 ### 📊 ETF 비중 업데이트
 | 2026-06-10 | PLUS 글로벌HBM반도체 ETF | — | 마이크론 31.4%, SK 24.3%, 삼성 22.6% | 1년 +636% (출처: [sena824](https://blog.naver.com/sena824/224312295121)) |
 | 2026-06-10 | Roundhill Memory ETF | — | 마이크론 26.6% | (출처: [sena824](https://blog.naver.com/sena824/224312295121)) |
+
+
+## 2026-06-10 업데이트 — 중동 전운·CPI 4.2% 충격, HBM주 동반 하락
+
+### 📉 6/10 HBM 관련주 급락
+- **마이크론(MU) -4.70%** ($891.88): 중동 지정학 리스크 + 美 CPI 4.2% 충격. (출처: [dogokdongja](https://blog.naver.com/dogokdongja/224312480278))
+- **동반 급락**: TSMC -4.48%, AMD -4.86%, Broadcom -5.12%, 엔비디아 -3.73%. HBM 밸류체인 전구간 매도 압력. (출처: [dogokdongja](https://blog.naver.com/dogokdongja/224312480278))
+- **슈퍼마이크로(SMCI) -23.1%**: AI 서버 공급망 리스크 현실화가 HBM 수요 둔화 우려로 확산. (출처: [sjsori](https://www.sjsori.com/news/articleView.html?idxno=86538))
+
+### 🌍 거시적 충격 요인
+- **중동 전운**: 이란-이스라엘 긴장 고조, WTI 급등 → 위험자산 회피 심리 확산. (출처: [choicenews](http://www.choicenews.co.kr/news/articleView.html?idxno=166399))
+- **美 5월 CPI 4.2%**(헤드라인, 3년 최고): 연준 금리인하 기대 급락, AI·성장주 밸류에이션 부담 확대. (출처: [sjsori](https://www.sjsori.com/news/articleView.html?idxno=86538))
+- **AI 버블 논쟁 재점화**: 엔비디아 급락이 'AI 거품'론에 힘 실음. 증권가 "과도한 반응" vs 시장 "증명 구간" 충돌 심화. (출처: [sjsori](https://www.sjsori.com/news/articleView.html?idxno=86538))
