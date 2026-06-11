@@ -11,12 +11,14 @@ updated: 2026-06-08
 
 [[반도체]] 섹터의 맞춤형 AI 칩(ASIC) 및 데이터센터 네트워킹 선두주자. [[메타]], [[alphabet|Google]], [[Amazon]] 등 빅테크와의 AI 가속기 파트너십을 통해 [[엔비디아]] GPU 대안 생태계의 핵심 플레이어로 부상했다. 2023년 [[VMware]] 인수 후 소프트웨어 부문 강화.
 
-## 📌 최신 요약 (2026-06-10)
+## 📌 최신 요약 (2026-06-11)
 
-- **Q3 가이던스 충격 여전**: Broadcom Q2 매출 $221.9B(+46% YoY), AI 반도체 $10.8B(+143% YoY). 그러나 Q3 AI 칩 가이던스 $160억(컨센서스 하회) 여파로 이틀간 -20% 폭락. 6/9(화) 美 증시에서 Broadcom -1.12% 재약세(SOX -1.93%), 6/10(수) CPI 발표 D-DAY 경계.
-- **Anthropic AI 인프라 350억 달러 펀드**: Apollo·Blackstone·Broadcom, Anthropic의 AI 컴퓨팅 확장 지원. Broadcom 맞춤형 칩·네트워킹 솔루션 핵심 역할. (WSJ/Newspim 2026-06-09)
-- **'검은 월요일' 6/9 반등→6/10 재급락**: 6/9 SOX +5.61% 반등(Micron +9.87%), Broadcom +2.82% 반등. 그러나 6/10 코스피 4.52% 급락(7,730), 삼성전자 -6.99%, SK하이닉스 -9.26%. 외국인 22거래일 연속 순매도.
-- **AI 거품론 vs 속도 조절론 지속**: 블로그 다수
+- **나스닥 재급락⋅반도체 3일째 하락**: 6/10 SOX -3.6%, Broadcom -5.12%, Nvidia -3.73%, AMD -4.86%, Micron -4.7%. CPI 4.2% 예상 부합에도 유가·중동 리스크 부담 지속. Oracle -9% 충격. (nanaya9900·gogofree2030 2026-06-10)
+- **'not good enough' 판정 체계화**: Broadcom Q3 가이던스 충격 이후 시장이 '좋은 실적은 기본, 더 좋아야 상승' 구조에 진입했다는 분석 확산. (peaccelover·ddregon 2026-06-09~10)
+- **Oracle 반사 이익 가능성**: Broadcom 쇼크가 AI 수요 둔화 공포라면 Oracle 급락은 '수요 폭발→Capex 부담' 반대 신호. AI 인프라 수요 구조적 강함 재확인. (haomaru99 2026-06-10)
+- **Google-Broadcom TPU 인프라 3.5~5GW 계약**: TPU v5·Ironwood 칩 100만 대 이상 배치 규모. Claude 안전 분류기·금융 서비스 TPU 협력 포함. (psychy0096 2026-06-10)
+- **Apollo·Blackstone Anthropic 350억 달러**: Broadcom 칩·네트워킹 솔루션 핵심 역할. 사모펀드-빅테크-반도체 삼각동맹 가시화. (acabakim 2026-06-10)
+- **6/11 코스피 7,000선 붕괴 위기**: 전일 코스피 7,730(-4.52%). 나스닥 -2% 급락·중동 리스크로 갭하락 가능성. 외국인 22거래일 연속 순매도 지속. (digiloglife·haomaru99 2026-06-10)
 
 ## 핵심 투자포인트
 
@@ -311,3 +313,15 @@ updated: 2026-06-08
 - Newspim (2026-06-09): [아폴로·블랙스톤, 브로드컴과 손잡고 앤스로픽에 350억달러](https://www.newspim.com/news/view/20260610000016)
 - 초이스뉴스 (2026-06-09): [AI칩주·메모리주·반도체ETF 출렁](http://www.choicenews.co.kr/news/articleView.html?idxno=166332)
 - 한국경제TV (2026-06-09): [AI 거품·중동 리스크 겹쳤다…나스닥↓](http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606100089&t=NN)
+
+
+| 2026-06-10 | **나스닥 재급락** — SOX -3.6%, Broadcom -5.12%, Nvidia -3.73%, AMD -4.86%, Micron -4.7%. CPI 4.2% 예상 부합에도 유가 재상승·중동 리스크 부담. Oracle -9% 발행 충격까지 겹치며 기술주 전반 매도. (ksb8435·gogofree2030·digiloglife·sbm011·dskyh69·nanaya9900 2026-06-10)
+
+
+| 2026-06-10 | **Google-Broadcom TPU 인프라 확장 보도**: Google Cloud & Broadcom, TPU v5·Ironwood 기반 약 3.5~5GW 규모 차세대 TPU 인프라 계약. Ironwood 칩 100만 대 이상 배치. Claude 안전 분류기·금융 서비스 TPU 협력 포함. (psychy0096 2026-06-10, ⚠️블로그)
+
+
+| 2026-06-10 | **Oracle -9% 급락, Broadcom과 본질적 차이**: Oracle이 AI 수요 폭발에 따른 Capex 부담으로 급락한 반면, Broadcom은 가이던스 실망으로 하락. '수요 둔화 공포(Broadcom) vs 수요 폭발→투자 부담(Oracle)'로 본질적 차이 존재. (haomaru99 2026-06-10)
+
+
+| TIGER 미국필라델피아AI반도체나스닥 | Broadcom·Nvidia·AMD·TSMC·Micron 등 AI 반도체 핵심 종목 편입. (richsummer 2026-06-09, 블로그)
