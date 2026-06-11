@@ -4,253 +4,85 @@ ticker: RKLB
 name: Rocket Lab
 sector: [[우주항공]]
 created: 2026-04-09
-updated: 2026-06-08
+updated: 2026-06-11
 ---
 # Rocket Lab (RKLB)
 
-[[SpaceX]]의 유력한 민간 경쟁사이자 파트너. 소형 위성 발사 시장에서 독보적 위치를 점하고 있으며, 위성 버스·부품·제조까지 수직계열화한 종합 우주 기업. 2026년 1분기 매출 2.03억 달러(+63.5% YoY), 수주잔고 22억 달러.
+[[SpaceX]]의 유력한 민간 경쟁사이자 파트너. 소형 위성 발사 시장에서 독보적 위치를 점하고 있으며, 위성 버스·부품·제조까지 수직계열화한 종합 우주 기업. 2026년 1분기 매출 $2.03억(+63.5% YoY), 수주잔고 $22억. 연초 대비 +236% 상승.
 
-## 📌 최신 요약 (2026-06-08)
-- **스페이스X 유일한 상장 대체재**: 스페이스X 상장(D-4)이 우주항공 산업 전체의 '가격 기준점'이 될 것이라는 기대감으로 로켓랩으로 자금 유입 뚜렷. '미니 스페이스X' 포지셔닝 (출처: [sisacast](http://www.sisacast.kr/news/articleView.html?idxno=96478))
-- **SDA Tranche 3 Prime 수주($8억 500만)**: Northrop Grumman, L3Harris와 함께 Prime Contractor 선정. 군수·방산 위성 시장에서 경쟁력 입증
-- **수주잔고 22억 달러**: 1년 만에 2배 확대, Book-to-Bill 1 초과. 신규 수주가 매출을 상회하는 구조
-- **ETF 내 핵심 편입**: TIGER 미국우주테크 ETF 내 20.83%(2위), ACE 미국우주테크액티브 ETF 내 ~17%(1위), NASA ETF 내 ~10.3%(1위) 등 다수 ETF에서 최상위 비중
-- **소형→중형 확장**: Electron(~300kg, ~$7.5M)으로 소형 시장 장악 + Neutron(~13,000kg) 개발로 중형 시장 진입 중. SpaceX와 차별화된 틈새 전략
-- **연초 대비 +236% 상승**: 2026년 하반기 '우주 인프라와 피지컬 AI의 결합' 테마 주도주 전망
+## 📌 최신 요약 (2026-06-11)
+- **스페이스X IPO 대체재**: 스페이스X 상장 D-1. '가격 기준점' 기대감으로 Rocket Lab으로 자금 유입 뚜렷. 상장 시 낙수효과(Peer 동반 상승) vs 자금 블랙홀 우려 공존. KODEX 내 26.1% 등 ETF 최상위 비중.
+- **군수·방산 경쟁력 입증**: SDA Tranche 3 Prime $8억 500만 수주. Haas(군수 대형 위성 버스) 2건 이상 수주 → 2027년 매출 본격화. Northrop·L3Harris와 어깨를 나란히 하며 방산 수주 확대.
+- **CFO 긍정적 발언**: Wells Fargo 컨퍼런스에서 Neutron·수직계열화 마진·가격 결정권 강화 언급. 서비스형 발사(LAAS) 모델 정착. 방산 의존도 상승 속 성장 여력 확인.
+- **수직계열화 완성**: Electron(소형) + Neutron(중형 개발 중) → 발사체. Photon(위성 버스), Lightning·Phoenix(센서), Mynaric(레이저 통신)·Motiv(로봇 공학) 인수 완료. 종합 우주 인프라 기업.
+- **ETF 내 최상위 편입**: KODEX 미국우주항공 26.1%(1위), TIGER 미국우주테크 ~25%(1위), SOL 우주항공밸류체인 22.22%(1위), ACE 미국우주테크액티브 17%(1위) 등 대다수 ETF에서 최상위 비중.
+- **소형→중형 발사체 확장**: Electron(~300kg) 소형 시장 + Neutron(~13,000kg) 개발로 TAM 확대. 2026년 내 Neutron 첫 발사 목표. 스페이스X Falcon 9과 본격 경쟁 대비.
+- **위험**: 연 매출 $8억 대비 시총 86.7배(적자 지속). 스페이스X 상장 후 차익실현 압력. 블루오리진 폭발 사고 등 우주 산업 전반 변동성.
 
 ## 투자의견 컨센서스 추이
-
 | 날짜 | 증권사 | 투자의견 | 목표주가 | 비고 |
 |---|---|---|---|---|
-| 2026-06-08 | 🐦SNS·뉴스 sisacast | 매수(강세) | N/A | 스페이스X 상장이 우주항공 산업 전반의 '가격 기준점'이 될 것이라는 기대감. 발사체 기술 내재화와 위성 사업 강조 |
-| 2026-06-07 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | 연초 대비 236%+ 상승, 하반기 혁신 주도주. 소형 위성·우주 산업 확대·국방 수주 3중 모멘텀. TIGER 미국우주테크 ETF 내 10.3~20.83%, NASA ETF 1위. 루나 이코노미·화성 탐사 물류 테마 |
-| 2026-06-05 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | TIGER 미국우주테크 ETF 내 비중 1위(~21.3%). 수주잔고 22억 달러. SDA Prime 수주로 군수 경쟁력 검증. 소형 발사체→중형(Neutron) 확장 |
-| 2026-06-04 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | SpaceX 대비 유리점: 소형 발사체 독점, Neutron 확장, 수직계열화 마진 개선, SDA 군수 계약, 밸류에이션 부담 적음. 하반기 AI 다음 주도주·트럼프 수혜주로 평가 |
-| 2026-06-03 | 🐦SNS·블로그 다수 | 매수(강세) / ETF 핵심 편입 | N/A | ACE 미국우주테크액티브 ETF 내 ~17%(1위), PPA·ITA ETF 동시 편입. SpaceX 유일한 상장 대항마 |
-| 2026-06-02 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | 스페이스X 상장 임박, 유일한 공개 대체재. 1Q26 매출 2.03억 달러(+63.5% YoY), 수주잔고 22억 달러. 소형 로켓 달인, 민간 우주 3대 기업 |
-| 2026-06-01 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | 소형 발사체 시장 압도적 1위, 연평균 40%+ 매출 성장. 스페이스X 유일한 민간 대항마 |
-| 2026-06-08 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | Rocket Lab-Redwire 관계 분석: 위성버스 부분 경쟁+태양전지 보완. 두 기업 모두 스페이스X 대비 차별화된 포지션. 수직 통합 최대 강점. (출처: [alwaysbe_h](https://blog.naver.com/alwaysbe_h/224310712647), [jnpp87](https://blog.naver.com/jnpp87/224310380103)) |
-| 2026-06-08 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | Rocket Lab 제품 포트폴리오 완전 정리: Electron·Neutron·Photon·Lightning·Phoenix·StarLite·InterMission. '종합 우주 인프라 기업'으로 포지셔닝 확인. 소형→중형→센서→S/W까지 수직계열화. (출처: [herbsod](https://blog.naver.com/herbsod/224310434483), [godlove4866](https://blog.naver.com/godlove4866/224310439063)) |
-| 2026-06-08 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | KODEX 미국우주항공 ETF(0167Z0) 상장으로 국내 간접 투자 채널 확대. Rocket Lab·ASTS·LUNR 핵심 편입. TIGER ETF에 이은 두 번째 옵션. (출처: [csrmanager](https://blog.naver.com/csrmanager/224310026536)) |
+| 2026-06-11 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | Wells Fargo CFO 긍정 발언, SDA/GEO 수주 기반 성장 논리 부각 |
+| 2026-06-10 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | 스페이스X 상장 D-2. KODEX 26.1%, TIGER 24.78% 등 ETF 비중 최상위 재확인 |
+| 2026-06-09 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | SOL 우주항공밸류체인 ETF 내 비중 22.22% (1위). 우주 데이터센터 테마 편입 |
+| 2026-06-08 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | 스페이스X 상장 D-4. Rocket Lab-Redwire 관계: 경쟁+보완. 종합 인프라 포지셔닝 |
+| 2026-06-07 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | 연초 대비 +236%. 하반기 우주 인프라·AI 주도주 전망 |
+| 2026-06-05 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | TIGER ETF 순자산 2조 돌파. 글로벌 소형 발사 시장 격전지 재확인 |
+| 2026-06-03 | 🐦SNS·블로그 다수 | 매수(강세) / ETF 핵심 편입 | N/A | ACE ETF 1위. PPA·ITA ETF 동시 편입 |
+| 2026-06-02 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | 1Q26 매출 $2.03억(+63.5% YoY), 수주잔고 $22억. Motiv Space Systems 인수 완료 |
+| 2026-06-01 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | SDA Tranche 3 Prime $8억 500만 수주. 연평균 40%+ 매출 성장 |
 
 ## 핵심 투자포인트
-- **소형 발사체 시장 독점적 지위**: Electron 로켓으로 소형 위성 발사 시장 압도적 1위. 소형 발사체 시장 점유율·기술력에서 경쟁자 대비 우위 (출처: 여러 SNS·블로그)
-- **수직계열화 전략**: 발사체 + 위성 버스·부품·제조까지 통합 제공하는 유일한 상장 기업. 2026년 4월 독일 레이저 통신장비 업체 '미나릭(Mynaric)' 인수 완료 ([theguru.co.kr](https://www.theguru.co.kr/news/article.html?no=100694)), 2026년 5월 화성 탐사 로봇 기업 '모티브 스페이스 로보틱스' 인수 → Rocket Lab Robotics 리브랜딩 ([theguru.co.kr](https://www.theguru.co.kr/news/article.html?no=101750))
-- **군수·방산 시장 진출**: SDA(우주개발청) Tranche 3 Prime Contractor로 $8억 500만 직접 수주. Northrop·L3Harris와 어깨를 나란히 하며 군수 경쟁력 검증 (출처: 여러 SNS·블로그)
-- **강력한 수주잔고**: 22억 달러(1년 만에 2배). Book-to-Bill 1 초과로 미래 매출 가시성 높음 (출처: 여러 SNS·블로그, [sedaily.com](https://www.sedaily.com/article/20044264?ref=naver))
-- **중형 로켓 Neutron 개발**: ~13,000kg 페이로드 목표. 소형→중형 시장 확장으로 TAM 확대. SpaceX Falcon 9과 직접 경쟁보다 차별화된 틈새 전략 (출처: 여러 SNS·블로그)
-- **주요 ETF 핵심 편입**: TIGER 미국우주테크 ETF(비중 20.83% 2위), ACE 미국우주테크액티브 ETF(~17% 1위), NASA ETF(~10.3% 1위), SOL 미국우주항공TOP10 ETF, 키움 '우주 데이터센터 ETF'(2026년 6월 상장 예정), PPA·ITA ETF 동시 편입 ([ddaily.co.kr](https://www.ddaily.co.kr/page/view/2026052406372543265), [smarttoday.co.kr](https://www.smarttoday.co.kr/ko-kr/articles/108024), 여러 블로그)
-- **스페이스X IPO 대체재**: 발사체·위성·부품 모두 제공하는 유일한 공개 기업으로 '미니 스페이스X' 평가. 스페이스X 상장과 함께 우주 섹터 전반 밸류에이션 재평가 기대감 (출처: [fortunekorea.co.kr](https://www.fortunekorea.co.kr/news/articleView.html?idxno=52586), [digitaltoday.co.kr](https://www.digitaltoday.co.kr/news/articleView.html?idxno=664391), 여러 SNS·블로그)
-- **ESCAPADE 화성 미션**: Rocket Lab Photon 기반 쌍둥이 위성으로 NASA MAVEN 대비 제작 기간 1/3·비용 절감. 화성 대기 과학 미션 수행 예정 (출처: 여러 SNS·블로그)
+- **소형 발사체 시장 독점적 지위**: Electron 로켓으로 시장 압도적 1위. 연평균 40%+ 매출 성장
+- **주요 ETF 핵심 편입**: KODEX 26.1%, TIGER 25%, SOL 22.22%, ACE 17% 등 다수 ETF 1위. ARKX·UFO·ROKT에도 편입.
+- **군수·방산 시장 확대**: SDA Tranche 3 Prime 수주($8.05억). Haas 대형 군수 위성 2건 이상 수주 → 2027년 매출화
+- **스페이스X 상장 수혜**: '미니 스페이스X' 포지셔닝. 유일한 공개 Peer 기업으로 낙수효과 기대. 발사체+위성+제조 수직계열화로 종합 우주 인프라 기업
+- **Neutron 중형 로켓 개발**: $13,000kg 페이로드. 2026년 내 첫 발사 목표. 소형→중형 확장으로 TAM 확대
+- **우주 데이터센터·AI 테마**: 우주 데이터센터 인프라 핵심 기업으로 분류. 스페이스X IPO·물리 AI 시대 데이터 인프라 기대
+- **수주잔고 $22억**: Book-to-Bill 1 초과. 신규 수주가 매출을 상회하는 구조
 
 ## ⚠️ 리스크
-- **밸류에이션 부담**: 연 매출 약 8억 달러 대비 시총 86.7배. 순손실 4,502만 달러, 조정 EBITDA -1,175만 달러로 여전히 적자 구조. 실적보다 성장 스토리·기술력으로 평가받는 고위험 섹터 (출처: [네이버블로그 a_piece_of_cloud](https://blog.naver.com/a_piece_of_cloud/224305754435), 여러 블로그)
-- **스페이스X 상장 후 자금 이탈 가능성**: 스페이스X 상장 시 기존 성장주·우주주에서 대체재로 자금 이동 가능. 차익실현 압력 상존 (출처: KB증권 김일혁·삼성증권 박혜란 연구원 인용 블로그, [네이버블로그 thedailyblossom](https://blog.naver.com/thedailyblossom/224305243036))
-- **우주 산업의 긴 수익화 기간**: 루나 이코노미·화성 탐사 등 장기 미션은 수익화까지 상당한 시간 소요 (출처: [coke17088 블로그](https://blog.naver.com/coke17088/224309495641))
-- **과거 기술적 불안정성**: 2021년 SPAC 상장 초기 수익 모델 부재·발사 실패 등으로 기술력에 대한 우려 존재했음 (출처: [segyebiz.com](http://www.segyebiz.com/newsView/20260414515083?OutUrl=naver))
-- **블루오리진 등 경쟁사 이슈에 따른 동반 하락**: 2026년 6월 블루오리진 폭발 사고 후 우주주 전반 동반 하락·순환매 압력 (출처: [네이버블로그 thedailyblossom](https://blog.naver.com/thedailyblossom/224305243036))
-- **세금 관련 불확실성(국내 투자자)**: 2025년 지주사 전환 과정에서 국내 개인 투자자에게 현금 유입 없는 양도소득세 부과 사례 발생. 향후 유사 기업 구조 개편 시 과세이연 제도 미비로 불확실성 가능 (출처: [edaily.co.kr](https://www.edaily.co.kr/news/newspath.asp?newsid=04513286645452856), [joseilbo.com](http://www.joseilbo.com/news/news_read.php?uid=568947&class=10&grp=))
+- **밸류에이션 부담**: 연 매출 $8억 대비 시총 86.7배. 순손실 $4,502만·마이너스 EBITDA 지속
+- **스페이스X 상장 후 양면성**: 낙수효과 기대감 vs 자금 블랙홀 우려 공존. 상장 시 차익실현 압력 상존
+- **우주 산업 긴 수익화 기간**: 루나 이코노미·화성 탐사 등 장기 미션은 수익화까지 상당한 시간 소요
+- **경쟁 심화 가능성**: 스페이스X·블루오리진 본격 경쟁. Rocket Lab의 성장이 Sphere·기존 방산사에 위협 요소
+- **기술적 이벤트 리스크**: 2021년 발사 실패, 2026년 블루오리진 폭발 사고 여파. 우주 산업은 전반적 투심 위축 가능
+- **국내 투자자 세제 이슈**: 지주사 전환 과정 국내 투자자 양도소득세 부과 사례. 향후 유사 구조 개편 시 과세 불확실성 존재
 
 ## 상충하는 견해
-- **(2026-06-02) 🐦네이버블로그 a_piece_of_cloud**: 연 매출 8억 달러 대비 시총 86.7배는 '과잉 뻥튀기'. 순손실·마이너스 EBITDA 지속. 단, '스페이스X 상장 후 비교 재평가 가능성' 긍정론과 상충 공존 (출처: [네이버블로그](https://blog.naver.com/a_piece_of_cloud/224305754435))
-- **(2026-06-02) 🐦네이버블로그 seoultrader77**: 아직 적자 구조이기 때문에 실적보다 성장 스토리와 기술력으로 평가받는 고위험 섹터라는 분석 (출처: [네이버블로그](https://blog.naver.com/seoultrader77/224305986542))
-- **(2026-06-04) 🐦네이버블로그 02pct_to_10b**: SpaceX 대비 오히려 유리한 점 5가지 제시 → 소형 발사체 독점, Neutron 확장, 수직계열화 마진 개선, SDA 군수 계약, 밸류에이션 부담 적음 (출처: [네이버블로그](https://blog.naver.com/02pct_to_10b))
-- **(2026-06-07) 🐦SNS·블로그 다수**: 스페이스X 상장 이후 차익실현 가능성 경고 ↔ 동시에 '가격 기준점' 형성으로 우주 섹터 전반 재평가 기대감 공존 (출처: dividend_rudolfu, pito302, han7o, sisacast 등)
-- **(2026-06-07) 🐦coke17088 블로그**: 루나 이코노미 핵심 수혜주로 분류되나, 우주산업은 수익화까지 시간이 오래 걸리는 분야라는 리스크 지적 (출처: [coke17088 블로그](https://blog.naver.com/coke17088/224309495641))
+- **(2026-06-11) 🐦SNS·블로그 다수**: 스페이스X 상장 후 '제2의 테슬라 랠리' vs '차익실현 이벤트' 양극단 견해 공존. Wells Fargo CFO 발언이 펀더멘털 강화 신호인지, 단기 상승분 정당화인지는 엇갈림.
+- **(2026-06-02) 🐦네이버블로그 a_piece_of_cloud**: 연 매출 $8억 대비 시총 86.7배 '과잉 뻥튀기'. 다만, 스페이스X 비교 재평가 가능성은 인정
+- **(2026-06-04) 🐦네이버블로그 02pct_to_10b**: SpaceX 대비 유리점 5가지: 소형 발사체 독점, Neutron 확장, 수직계열화 마진, SDA 군수, 밸류 부담 적음
+- **(2026-06-07) 🐦SNS·블로그 다수**: 루나 이코노미 핵심 수혜 vs 우주 산업은 수익화까지 장기 소요
+- **(2026-06-08) 🐦alwaysbe_h**: Rocket Lab-Redwire 관계, 단순 경쟁 아닌 보완 관계. 위성버스(경쟁)+태양전지(보완) 분석
 
 ## 주요 이벤트
 | 날짜 | 이벤트 | 출처 |
 |---|---|---|
-| 2026-06-08 | 스페이스X 상장 D-4, '가격 기준점' 기대감으로 Rocket Lab 자금 유입 뚜렷 | [sisacast](http://www.sisacast.kr/news/articleView.html?idxno=96478) |
-| 2026-06-07 | 연초 대비 +236% 상승. 하반기 '우주 인프라와 피지컬 AI' 주도주 전망. TIGER 미국우주테크 ETF 내 비중 20.83%(2위) | [bnisee 블로그](https://blog.naver.com/bnisee/224309089524), [saloon21 블로그](https://blog.naver.com/saloon21/224309384221) |
-| 2026-06-05 | TIGER 미국우주테크 ETF 상장 50일 만에 순자산 2조원 돌파. Rocket Lab 핵심 비중 | [insightkorea.co.kr](https://www.insightkorea.co.kr/news/articleView.html?idxno=247694) |
-| 2026-06-05 | 글로벌 소형 발사 시장에서 혁신 기업 중심 격전지로 재확인. 일본 IHI 에어로스페이스 기술 난항 | [g-enews.com](https://www.g-enews.com/view.php?ud=202606051629075686e7e8286d56_1) |
-| 2026-06-02 | 1Q26 실적 발표: 매출 2.03억 달러(+63.5% YoY), 수주잔고 22억 달러, 순손실 4,502만 달러 | [네이버블로그 a_piece_of_cloud](https://blog.naver.com/a_piece_of_cloud/224305754435) |
-| 2026-06-02 | Motiv Space Systems 인수 완료 → Rocket Lab Robotics 리브랜딩 | [네이버블로그 jooor](https://blog.naver.com/jooor/224305359225) |
-| 2026-06-01 | SDA Tranche 3 Prime Contractor 선정($8억 500만). Northrop·L3Harris와 공동 수주 | [네이버블로그 deisler07](https://blog.naver.com/deisler07/224307228737) |
-| 2026-05-19 | SpaceX IPO 기대감 + 자체 성장 논리로 주가 급등. 사업 구조 유사성으로 직접 비교 대상 부각 | [fortunekorea.co.kr](https://www.fortunekorea.co.kr/news/articleView.html?idxno=52586), [g-enews.com](https://www.g-enews.com/view.php?ud=2026051906145468892bd56fbc3c_1) |
-| 2026-05-15 | 주가 130%+ 급등하며 숏스퀴즈 발생. 지난 12개월간 393% 상승 | [newspim.com](https://www.newspim.com/news/view/20260515000784), [g-enews.com](https://www.g-enews.com/view.php?ud=2026052222350140652bd56fbc3c_1) |
-| 2026-05 | 화성 탐사 로봇 기업 '모티브 스페이스 로보틱스' 인수 발표 | [theguru.co.kr](https://www.theguru.co.kr/news/article.html?no=101750) |
-| 2026-04 | 독일 레이저 통신장비 업체 '미나릭(Mynaric)' 인수 완료. 우주 산업 수직계열화 구축 | [theguru.co.kr](https://www.theguru.co.kr/news/article.html?no=100694) |
-| 2025 | 지주사 전환 과정에서 국내 투자자 양도소득세 부과 이슈 발생 | [edaily.co.kr](https://www.edaily.co.kr/news/newspath.asp?newsid=04513286645452856) |
-| 2026-06-08 | 🐦SNS·블로그 다수 | Rocket Lab +3.24%, Intuitive Machines +1.28%. 중동·금리 부담 속 우주주 양호. 다만 실적 기반보다 위험선호·단기 수급 영향. 변동성 관리 필요. | [ucs73 블로그](https://blog.naver.com/ucs73/224310204431) |
-| 2026-06-08 | 🐦SNS·블로그 | 신스펙티브(Synspective) 10번째 위성 발사 미션. Electron 로켓으로 SAR 위성 성좌 구축 지원. 핵심 반복 고객. | [affluent_2480 블로그](https://blog.naver.com/affluent_2480/224309945817) |
-| 2026-06-08 | 🐦SNS·블로그 | KODEX 미국우주항공 ETF(0167Z0) 상장. Rocket Lab·ASTS·LUNR 등 뉴스페이스 핵심 기업 편입. | [csrmanager 블로그](https://blog.naver.com/csrmanager/224310026536) |
-| 2026-06-08 | 🐦SNS·블로그 | ARKX·UFO·ROKT 등 미국 ETF에서 Rocket Lab 소형 발사체 대표주 편입. 액티브 ETF 특성상 스페이스X 상장 후 포트폴리오 조정 가능. | [wonee255 블로그](https://blog.naver.com/wonee255/224309907065) |
-| 2026-06-08 | 🐦SNS·블로그 | Rocket Lab 제품군 총정리: Electron·Neutron·Photon·Lightning·Phoenix·StarLite·InterMission. 종합 우주 인프라 기업. | [herbsod 블로그](https://blog.naver.com/herbsod/224310434483) |
-| 2026-06-08 | 🐦SNS·블로그 | Rocket Lab-Redwire 관계: 위성버스 부분 경쟁(Photon vs SabreSat), 태양전지 보완(SolAero vs ROSA). 단순 경쟁 아닌 상호 보완. | [alwaysbe_h 블로그](https://blog.naver.com/alwaysbe_h/224310712647) |
+| 2026-06-10 | Wells Fargo CFO 컨퍼런스: Neutron 개발·LAAS 정착·Haas 수주 긍정 발언 | [envymask- 블로그](https://blog.naver.com/envymask-/224313140090) |
+| 2026-06-10 | KODEX 미국우주항공 ETF, Rocket Lab 26.1% 최대 비중으로 공식 개시 | [etf\_kodex](https://blog.naver.com/etf\_kodex/224311746865) |
+| 2026-06-10 | 스페이스X 상장 D-1/D-2 시장: Rocket Lab $106.69(-1.42%), 거래량 596만 | 인피니티 성장 블로그 외 |
+| 2026-06-09 | SOL 우주항공밸류체인 ETF 포트폴리오 공개, Rocket Lab 22.22% | [soletf](https://blog.naver.com/soletf/224311921371) |
+| 2026-06-08 | KODEX 미국우주항공 ETF 상장 시작. 신스펙티브 10번째 위성 발사 미션 성공. Rocket Lab-Redwire 관계 분석 | [csrmanager](https://blog.naver.com/csrmanager/224310026536) |
+| 2026-06-07 | 연초 대비 +236% 상승. TIGER ETF 순자산 2조 돌파 | [bnisee](https://blog.naver.com/bnisee/224309089524) |
+| 2026-06-05 | TIGER 미국우주테크 ETF 2조 돌파, 글로벌 소형 발사 시장 격전지 재확인 | [insightkorea](https://www.insightkorea.co.kr/news/articleView.html?idxno=247694) |
+| 2026-06-02 | 1Q26 실적: 매출 $2.03억(+63.5% YoY), 수주잔고 $22억, 순손실 $4,502만 | [a_piece_of_cloud](https://blog.naver.com/a_piece_of_cloud/224305754435) |
+| 2026-06-01 | SDA Tranche 3 Prime Contractor 선정($8.05억) | [deisler07](https://blog.naver.com/deisler07/224307228737) |
+| 2026-05 | Motiv Space Systems 인수 → Rocket Lab Robotics 리브랜딩 | [theguru](https://www.theguru.co.kr/news/article.html?no=101750) |
+| 2026-05-19 | SpaceX IPO 기대감 + 자체 성장 논리로 주가 급등 | [fortunekorea](https://www.fortunekorea.co.kr/news/articleView.html?idxno=52586) |
+| 2026-05-15 | 주가 130%+ 급등, 숏스퀴즈 발생 | [newspim](https://www.newspim.com/news/view/20260515000784) |
+| 2026-04 | Mynaric(레이저 통신장비)·Motiv Space Robotics 인수 완료 | [theguru](https://www.theguru.co.kr/news/article.html?no=100694) |
+| 2025 | 지주사 전환 과정 국내 개인 투자자 양도소득세 부과 이슈 발생 | [edaily](https://www.edaily.co.kr/news/newspath.asp?newsid=04513286645452856) |
 
 ## 관련 출처/링크
 - [sisacast - 스페이스X 상장과 Rocket Lab](http://www.sisacast.kr/news/articleView.html?idxno=96478)
 - [fortunekorea.co.kr - SpaceX IPO 수혜주](https://www.fortunekorea.co.kr/news/articleView.html?idxno=52586)
-- [g-enews.com - Rocket Lab 주가 급등 분석](https://www.g-enews.com/view.php?ud=2026051906145468892bd56fbc3c_1)
-- [digitaltoday.co.kr - SpaceX IPO 관련주](https://www.digitaltoday.co.kr/news/articleView.html?idxno=664391)
-- [sedaily.com - 1Q26 실적 및 수주잔고](https://www.sedaily.com/article/20044264?ref=naver)
-- [newspim.com - 숏스퀴즈 현상](https://www.newspim.com/news/view/20260515000784)
 - [theguru.co.kr - 미나릭 인수](https://www.theguru.co.kr/news/article.html?no=100694)
-- [theguru.co.kr - 모티브 인수](https://www.theguru.co.kr/news/article.html?no=101750)
+- [theguru.co.kr - 모티브 인수·Rocket Lab Robotics](https://www.theguru.co.kr/news/article.html?no=101750)
 - [insightkorea.co.kr - TIGER ETF 2조 돌파](https://www.insightkorea.co.kr/news/articleView.html?idxno=247694)
-- [womaneconomy.co.kr - 뉴스페이스 혁신 기업](https://www.womaneconomy.co.kr/news/articleView.html?idxno=254757)
-- [ddaily.co.kr - TIGER 미국우주테크 ETF](https://www.ddaily.co.kr/page/view/2026052406372543265)
-- [smarttoday.co.kr - 우주 데이터센터 ETF](https://www.smarttoday.co.kr/ko-kr/articles/108024)
-- [segyebiz.com - 과거 기술·수익성 우려](http://www.segyebiz.com/newsView/20260414515083?OutUrl=naver)
+- [sedaily.com - 1Q26 실적 및 수주잔고](https://www.sedaily.com/article/20044264?ref=naver)
 - [edaily.co.kr - 양도소득세 이슈](https://www.edaily.co.kr/news/newspath.asp?newsid=04513286645452856)
-- [joseilbo.com - 해외주식 과세이연](http://www.joseilbo.com/news/news_read.php?uid=568947&class=10&grp=)
-- 다수 네이버블로그·티스토리(2026-06-01~06-08): homemcomum, calsian, hidy79, sophicare, ecoqueen14, pennypays, mejorestrella, jinfiction, jynote_no1, kimbomi0819, deisler07, bnisee, saloon21, latte3e, coke17088, geul_geul, sofumshop, 02pct_to_10b, a_piece_of_cloud, seoultrader77, jooor, quietnurse_, thedailyblossom, envymask-, tlsskaaaoemf, gulasil, cocopuppy99, dividend_rudolfu, pito302, han7o, kangho1119, ahahsla9, mysemotip, portfolio2100, moneycartel, letmeesee, seoulseniorscollege
-
-
-## 2026-06-08 업데이트
-
-### 신스펙티브(Synspective) 10번째 위성 발사 미션
-- Rocket Lab이 일본 지구 관측 위성 기업 신스펙티브(Synspective)의 10번째 위성 발사 미션을 Electron 로켓으로 수행. 신스펙티브는 Rocket Lab의 핵심 반복 고객으로, SAR 위성 성좌 구축을 위해 지속적으로 발사를 의뢰. (출처: [affluent_2480 블로그](https://blog.naver.com/affluent_2480/224309945817))
-
-### 뉴트론 5기 + 일렉트론 3기 대형 계약 진행 중
-- 비공개 고객과 Neutron 5기 + Electron 3기 대형 계약 진행 중(24% 진행). 백로그 22억 달러 돌파, 매니페스트 70기 이상. Motiv Space Systems 인수 완료 후 Rocket Lab Robotics로 리브랜딩 완료. (출처: [jooor 블로그](https://blog.naver.com/jooor/224310199495))
-
-### 우주 발사 섹터 경쟁 구도
-- 민간 우주 발사 시장은 SpaceX Falcon 9이 압도적 점유율이나, 소형 발사체 분야에서 Rocket Lab이 Electron으로 독보적 위치. FLYT(파이어플라이) 등 경쟁사와의 비교에서 Rocket Lab의 소형 발사체 경쟁력 재확인. (출처: [seunggabi2 블로그](https://blog.naver.com/seunggabi2/224310131888))
-
-### Rocket Lab-Redwire 관계 분석 (레드와이어 완전 해부 4편)
-- **위성버스 분야**: Photon(Rocket Lab 고객 전용) vs SabreSat·Thresher(Redwire 외부 판매용)로 **부분 경쟁** 관계.
-- **태양전지 분야**: Rocket Lab(SolAero, III-V·실리콘) vs Redwire(ROSA·ELSA 전개형 구조)로 **보완** 관계.
-- **별 추적기·센서 분야**: 각각 독립적 포트폴리오 보유. 두 기업이 우주 밸류체인 전반에서 경쟁과 협력을 동시에 하는 관계로 분석. (출처: [alwaysbe_h 블로그](https://blog.naver.com/alwaysbe_h/224310712647))
-
-### KODEX 미국우주항공 ETF 출시·편입
-- 삼성운용 KODEX 미국우주항공 ETF 상장. Rocket Lab·AST SpaceMobile·Intuitive Machines 등 뉴스페이스 핵심 기업들에 투자. 티커 0167Z0. (출처: [csrmanager 블로그](https://blog.naver.com/csrmanager/224310026536))
-
-### Rocket Lab 제품 포트폴리오 완전 정리
-- **소형 로켓**: Electron
-- **중형 로켓**: Neutron
-- **위성 플랫폼**: Photon
-- **광학·적외선 센서**: Lightning
-- **우주방어 센서**: Phoenix
-- **지상 운영 소프트웨어**: StarLite
-- **임무 소프트웨어**: InterMission
-Rocket Lab이 단순 발사체 기업이 아닌 종합 우주 인프라 기업으로서 폭넓은 제품 라인업을 보유함을 확인. (출처: [herbsod 블로그](https://blog.naver.com/herbsod/224310434483))
-
-### ETF 편입 현황 추가
-- **ARKX**: Rocket Lab 편입, L3Harris·Teradyne 등 방산·우주 테스트 장비 기업과 동시 편입
-- **UFO·ROKT**: Rocket Lab이 소형 발사체 대표주로 편입. 액티브 ETF로서 스페이스X 상장 후 편입 가능성 열려 있음. (출처: [wonee255 블로그](https://blog.naver.com/wonee255/224309907065))
-
-### 6/8 미 증시 거래일 흐름
-- Rocket Lab +3.24%, Intuitive Machines +1.28%로 우주주 양호한 흐름. 중동·금리 부담 속에서도 반도체와 함께 상승. 다만 우주 테마는 실적 기반보다 위험선호와 단기 수급 영향이 크므로 변동성 관리 필요. (출처: [ucs73 블로그](https://blog.naver.com/ucs73/224310204431))
-
-### TIGER 미국우주테크 ETF 스페이스X 미편입 배경
-- TIGER 미국우주테크 ETF는 스페이스X를 편입하지 못했으나, Rocket Lab, Intuitive Machines, AST SpaceMobile 등 우주 밸류체인 핵심 인프라 기업을 담아 기초 체력을 증명. 예정대로 상장 후 포트폴리오 조정 가능성. (출처: [nicodemus4620 블로그](https://blog.naver.com/nicodemus4620/224310986409))
-
-### 민간 기상위성 산업과 Rocket Lab
-- Rocket Lab은 소형 위성 발사 서비스 시장에서 중요한 역할을 하며, 민간 위성 활용 증가에 따라 성장 가능성 큼. (출처: [chatae3 블로그](https://blog.naver.com/chatae3/224310216066))
-
-### 우주산업 초기 투자비용 관점
-- Rocket Lab은 아직 대규모 이익을 내지 못하고 있으나, 우주산업은 철도망·고속도로 건설과 유사한 초기 투자비용이 큰 구조. 초기 투자 이후 인프라가 구축되면 수익성 개선 가능. (출처: [33bsh 블로그](https://blog.naver.com/33bsh/224309578173))
-
-### TIGER 미국우주테크 완전 정복
-- Rocket Lab을 '소형 위성 발사체의 강자. 재사용 로켓 기술로 스페이스X의 뒤를 추격 중'으로 평가. (출처: [godlove4866 블로그](https://blog.naver.com/godlove4866/224310439063))
-
-### 미국 주식 Redwire(RDW) vs Rocket Lab 비교
-- Rocket Lab: 가장 공격적인 성장 스토리. 발사체+위성 제조 수직 통합으로 SpaceX 대안으로 부각. 수익성 개선 진행 중으로 장기 성장 잠재력 가장 큼. vs Redwire: 안정적 위성 데이터 서비스. (출처: [jnpp87 블로그](https://blog.naver.com/jnpp87/224310380103))
-
-### 우나스텔라(전기펌프 엔진)와 Rocket Lab 비교
-- 우나스텔라가 채택한 전기펌프 엔진 방식의 글로벌 선례: Rocket Lab의 Electron 로켓. 이미 이 방식으로 다수 상업 발사 성공. 우나스텔라가 가려는 길의 가능성과 한계를 동시에 보여주는 사례. (출처: [marine891sky 블로그](https://blog.naver.com/marine891sky/224309459262))
-
-### 화성 탐사 물류 관점
-- Rocket Lab 산업 분류: 우주산업 > 심우주 탐사 > 우주 운송. 현재 단계: 초기 상용화. 영화 '마션'의 기술과 연결점: 화성 탐사 물류. 주의사항: 현재는 직접적인 화성 탐사보다 발사체·위성 사업이 주력. (출처: [portfolio2100 블로그](https://blog.naver.com/portfolio2100/224307730243))
-
-
-## 2026-06-09 업데이트: SOL 우주밸류체인 ETF·블랙스카이 계약·데이터센터 테마
-
-### SOL 우주항공밸류체인 ETF 포트폴리오
-- 삼성자산운용의 SOL 우주항공밸류체인 ETF 구성: **Rocket Lab 22.22%** (최대 비중). 기존 SOL 미국우주항공TOP10 ETF(20%)보다 비중 확대. (출처: [soletf 블로그](https://blog.naver.com/soletf/224311921371))
-
-### 블랙스카이(BlackSky, BKSY) 다중 발사 계약
-- 블랙스카이는 2021년 3월 Rocket Lab의 Electron 로켓으로 위성 9기를 올리는 5개 미션 계약 체결. 블랙스카이는 Rocket Lab의 핵심 반복 고객 중 하나. (출처: [alwaysbe_h 블로그](https://blog.naver.com/alwaysbe_h/224311973272))
-
-### 스페이스X 관련주 TOP10 1위
-- 다수 블로그에서 Rocket Lab을 "현재 상장된 기업 중 가장 대표적인 스페이스X 관련주"로 평가. Electron 발사 사업 + 위성 제작 + Neutron 개발이 핵심 근거. (출처: [msx_research 블로그](https://blog.naver.com/msx_research/224312005700))
-
-### 우주 데이터센터 테마 편입
-- '스페이스X IPO와 우주 데이터센터 시대' 분석에서 Rocket Lab이 Redwire·AST SpaceMobile·Iridium 등과 함께 우주 데이터센터 인프라 핵심 기업으로 분류. 한국 수혜주로 한화에어로스페이스·한화시스템·삼성전자 등 거론. (출처: [smartinvester 블로그](https://blog.naver.com/smartinvester/224311860208))
-
-
-## 2026-06-10 업데이트: 스페이스X 상장 D-2, ETF 비중 및 KODEX 편입
-
-### ETF 포트폴리오 업데이트 (2026-06-10 기준)
-- **TIGER 미국우주테크 ETF 내 비중**: Rocket Lab 24.78% (1위), Intuitive Machines 18.68%, Redwire 17.48%, AST SpaceMobile 11.35%, Planet Labs 7.42%. 6/8 대비 20.83%→24.78%로 비중 확대. (출처: [soft_waves 블로그](https://blog.naver.com/soft_waves/224312255973))
-- **KODEX 미국우주항공 ETF(0167Z0)**: Rocket Lab 약 17.5% (1위), AST SpaceMobile 약 14.1% (2위). 스페이스X를 뒤잇는 글로벌 소형 로켓 발사 서비스 시장 독보적 2위 기업으로 포지셔닝. (출처: [handasw 블로그](https://blog.naver.com/handasw/224312319588))
-- **KODEX 미국우주항공 ETF 상세 비중**: Rocket Lab 26.11%, AST SpaceMobile 13.87%, Intuitive Machines 12.32%, EchoStar 6.66%, Planet Labs 5.68%, Redwire 3.98%. (출처: [kjh44231 블로그](https://blog.naver.com/kjh44231/224312468154))
-- **TIGER 미국우주테크 ETF 주요 구성**: Rocket Lab, Intuitive Machines, L3Harris Technologies, Lockheed Martin, Northrop Grumman, Iridium Communications. (출처: [carsgoods 블로그](https://blog.naver.com/carsgoods/224312181664))
-
-### 스페이스X 상장 D-1/D-2 시장 현황
-- Rocket Lab(RKLB) 현재가 $106.69(-1.54, -1.42%), 장중 고가 $111.08. 거래량 약 596만 주. (출처: [infinitygrowth10x 블로그](https://blog.naver.com/infinitygrowth10x/224312306257))
-- 스페이스X가 거대한 버스를 우주로 보낸다면, Rocket Lab은 작고 빠른 스포츠카 같은 로켓을 전문으로 쏘아올리는 회사로 포지셔닝. 소형 위성 발사 분야에서 스페이스X와 차별화된 틈새 시장 장악. (출처: [soozin_a 블로그](https://blog.naver.com/soozin_a/224312195217))
-- 민간 로켓 산업 구도: 스페이스X(전영역 독보적), 블루오리진(중대형·우주관광), Rocket Lab(중소형 위성 발사 특화), ULA(락히드마틴·보잉 합작) 등 각자 무기를 벼리며 경쟁. (출처: [rufolzruwa 블로그](https://blog.naver.com/rufolzruwa/224312282343))
-- 스페이스X IPO 수혜주 38선: Rocket Lab(RKLB) $105.05, -2.94%. 미국 발사체 시장 2위로 스페이스X와 함께 우주항공 섹터를 견인하는 핵심 순수 우주주. Strong Buy에 가까운 기대주. (출처: [smarthumanlife 블로그](https://blog.naver.com/smarthumanlife/224312449632))
-- 한화투자증권 우주항공 밸류체인 분석: 업스트림(발사체·위성 제조) 핵심 기업으로 Rocket Lab, Northrop Grumman, L3Harris, Teledyne, AST SpaceMobile 등 주목. (출처: [1month 블로그](https://blog.naver.com/1month/224312452061))
-- 'AI 다음은 우주산업' 테마 부각 속, Rocket Lab을 TIGER 미국우주테크 ETF 핵심 편입 종목으로 분석. 로켓 발사 시장 중심 평가. (출처: [carsgoods 블로그](https://blog.naver.com/carsgoods/224312181664))
-
-### 글로벌 경쟁 구도 속 포지셔닝
-- 스페이스X, 블루오리진, 버진 갤럭틱, Rocket Lab 4강 체제. Rocket Lab은 피터 벡 창립자 주도로 소형 위성 발사에 특화. (출처: [428valeria 블로그](https://blog.naver.com/428valeria/224311971456))
-- 일반 투자자 진입 경로: TIGER 미국우주항공테크 ETF, SOL 미국우주항공 TOP10 ETF, KODEX 미국우주항공 ETF 등 다수 ETF에서 Rocket Lab이 핵심 편입 종목. (출처: [skyjkyyy 블로그](https://blog.naver.com/skyjkyyy/224311668086))
-
-
-## 2026-06-11 업데이트: Wells Fargo 컨퍼런스 CFO 발언·스페이스X 상장 D-1 ETF 비중 변화·발사체 산업 구도 심층 분석
-
-### Wells Fargo 연례 컨퍼런스 CFO Q&A (2026-06-10, 미국 현지)
-Rocket Lab CFO Adam Spice가 16th Annual Wells Fargo Industrials & Materials Conference에 참석해 회사 전략과 사업 현황 발표. 주요 발언:
-- **Neutron 로켓 개발 진행 상황**: 대형 고객 1곳은 Neutron 전용 설계(Lockheed Martin Luminate 타입). Neutron은 최초 발사가 핵심 관문(멀어지면 기회비용 발생). 2026년 내 발사 예상하나 일정 리스크 존재
-- **Haas(군수 대형 위성 버스) 수주**: 2건 이상 수주 → 2027년부터 매출 본격화. SDA Tranche 3 + Haas 포트폴리오로 방산 의존도 상승 중
-- **서비스형 발사(Launch as a Service)**: Electron은 이미 LAAS(Launch as a Service) 비즈니스 모델 정착. Neutron도 유사 모델로 전환 중. 정부 고객은 발사 전 선수금 지급 → 현금흐름 개선
-- **가격력(Pricing Power)**: 고객당 평균 계약 금액 상승 추세. 발사체 기술력 + 수직계열화로 가격 결정권 강화
-- **수직계열화 마진**: 발사체+위성+센서 내재화로 외부 조달 비용 절감. 경쟁사(Maxar·Northrop 등) 대비 마진 우위
-- **CFO 발언 평가**: "최근 6개월 중 가장 긍정적이면서도 현실적인 발언. 중립적·객관적 톤, 수직계열화·서비스형발사·Haas 수주가 핵심 성장 동력"
-
-(출처: [envymask- 블로그](https://blog.naver.com/envymask-/224313140090))
-
-### 스페이스X 상장 D-1 ETF 비중 업데이트
-- **KODEX 미국우주항공 ETF(0167Z0) 상세 비중** (2026-06-10 기준): Rocket Lab 26.1%(1위), AST SpaceMobile 13.4%(2위), Intuitive Machines 11.8%(3위), EchoStar 6.8%, Planet Labs 5.6%, Carpenter Technology 3.5%, Redwire 3.98%. 스페이스X 상장 시 최대 25% 비중으로 편입 설계. (출처: [etf_kodex 블로그](https://blog.naver.com/etf_kodex/224311746865), [bujamind1 블로그](https://blog.naver.com/bujamind1/224312902187))
-- **TIGER 미국우주테크 ETF**: 대표 종목 Rocket Lab·Intuitive Machines·Redwire·Planet Labs·AST SpaceMobile. (출처: [smartwallet514 블로그](https://blog.naver.com/smartwallet514/224312909878))
-- **KODEX 미국우주항공 ETF**: 순도 100% 우주항공 기업 포트폴리오. Rocket Lab 26.1% 최대 비중. (출처: [ecoinfl 블로그](https://blog.naver.com/ecoinfl/224312275082))
-
-### 발사체 산업 심층 분석
-- **글로벌 발사체 시장 구도** (2026-06-10 기준): 스페이스X(전영역 독보적), 블루오리진(중대형·우주관광), Rocket Lab(중소형 위성 발사 특화), ULA(락히드마틴·보잉 합작) 등 각자 무기 벼리는 경쟁 체제. (출처: [churry1029 블로그](https://blog.naver.com/churry1029/224312508012))
-- **Rocket Lab 포지셔닝**: 소형 위성 발사 시장 독보적 궤도 진입 이력. 차세대 중형 발사체 Neutron 개발로 Falcon 9과 본격 경쟁 준비. (출처: [rich_ways 블로그](https://blog.naver.com/rich_ways/224312981884))
-- **가장 직접적인 비교 대상**: Rocket Lab은 스페이스X의 유일한 상장 Peer 기업. 스페이스X 상장 시 낙수효과(Peer 기업 주가 동반 상승) 기대. (출처: [oksss9033 블로그](https://blog.naver.com/oksss9033/224313030545), [babjib_ 블로그](https://blog.naver.com/babjib_/224312932613))
-
-### 우주 관련주 종합 분석
-- **미국 우주 관련주 TOP 10**: Rocket Lab 1위 선정. 핵심 경쟁력은 '수직계열화(발사체·위성·우주시스템 통합)'. (출처: [alwaysbe_h 블로그](https://blog.naver.com/alwaysbe_h/224313138821))
-- **스페이스X 관련주 총정리**: Rocket Lab '제2의 스페이스X'. 서학개미 집중 매수 대상(Rocket Lab·Firefly Aerospace). (출처: [yujins37do 블로그](https://blog.naver.com/yujins37do/224313145159), [hamacadi 블로그](https://blog.naver.com/hamacadi/224313168746))
-- **반도체 다음 주도주**: '반도체 다음은 우주' 테마 부각. Rocket Lab·ASTS·LUNR·Redwire 핵심 수혜주. (출처: [rich_ways 블로그](https://blog.naver.com/rich_ways/224312981884))
-- **Sphere Corp(347700) 리스크 분석**: 발사체 경쟁 심화 시(블루오리진·Rocket Lab 성장) Sphere는 SpaceX 시장 점유율 위험에 노출. 로켓랩의 성장이 Sphere에는 부정적 영향 가능. (출처: [shsl99 블로그](https://blog.naver.com/shsl99/224312717674))
-
-### 상장 D-2 주가 현황
-- Rocket Lab(RKLB) $106.69(-1.54, -1.42%), 장중 고가 $111.08. 거래량 약 596만 주. (출처: 여러 블로그)
-- 우주 기술 테마 거래대금 순위: Virgin Galactic 48.95M(1위), Redwire 30.51M(2위, -1.59%), ASTS 15.98M(3위, -2.94%), Rocket Lab ~14.35M(4위).(출처: 여러 블로그)
-
-### ETF 내 비중 변화 (2026-06-10 기준)
-| ETF명 | Rocket Lab 비중 | 순위 | 비고 |
-|-------|----------------|------|------|
-| KODEX 미국우주항공 ETF | 26.1% | 1위 | 스페이스X 상장 시 최대 25% 편입 설계 |
-| TIGER 미국우주테크 ETF | ~25% 추정 | 1위 | Rocket Lab·LUNR·Redwire·PL·ASTS |
-| SOL 미국우주항공 TOP10 ETF | 20% | 1위 | 포트폴리오 유지 |
-
-(출처: [etf_kodex](https://blog.naver.com/etf_kodex/224311746865), [smartwallet514](https://blog.naver.com/smartwallet514/224312909878))
-
-### 국내 투자자 진입 경로 다양화
-- **KODEX 미국우주항공 ETF(0167Z0)**: Rocket Lab 26.1% 최대 비중. 스페이스X 상장 시 25% 편입 설계. (출처: [etf_kodex 블로그](https://blog.naver.com/etf_kodex/224311746865))
-- **일반 투자자 3경로**: 해외주식 직매수(KODEX·TIGER·SOL 등 국내 ETF)·미국 ETF(ARKX·UFO·ROKT 등). (출처: [churry1029 블로그](https://blog.naver.com/churry1029/224312508012))
-
-### 우주 데이터센터·AI 인프라 테마 부각
-- '우주 데이터센터'가 AI 인프라 투자 테마로 부상. Rocket Lab·Redwire·ASTS·Iridium·GE Vernova·Vertiv·Eaton 등 관찰 대상. 한국 수혜주: 스피어·켄코아에어로스페이스·HVM·한화에어로스페이스·한화시스템·삼성전자. (출처: 여러 블로그)
-
-### 스페이스X 상장 전망과 Rocket Lab 리스크
-- **낙수효과 기대**: 스페이스X 상장 시 Peer 기업 Rocket Lab·ASTS 주가 동반 상승 기대. 우주 섹터 전반 자금 유입 촉매. (출처: [babjib_ 블로그](https://blog.naver.com/babjib_/224312932613))
-- **차익실현 리스크**: RKLB·ASTS 등 우주주가 상장 기대감으로 급등한 상태. 실제 상장 후 차익 매물 출회 가능성 경고. (출처: [smartwallet514 블로그](https://blog.naver.com/smartwallet514/224312909878))
-- **스페이스X 상장·Rocket Lab 관계 양면성** (⚠️객관적·중립적 시각)
-  - **긍정적**: '가격 기준점' 형성 → 우주 산업 전반 밸류에이션 재평가. Rocket Lab 직접 비교 대상으로 수혜. (출처: [babjib_](https://blog.naver.com/babjib_/224312932613))
-  - **부정적**: 스페이스X 상장 후 성장주·우주주 자금 흡수 블랙홀 우려. Rocket Lab 차익실현 매물 가능성. (출처: [smartwallet514](https://blog.naver.com/smartwallet514/224312909878))
-
-### 발사체 산업 리스크 (6/11 기준)
-- **블루오리진 로켓 폭발 사고(2026-05-29) 후 2주 경과**: 우주 산업의 현실적 리스크 재확인. 순환매·차익실현 압력 지속.
-- **SpaceX 상장 후 경쟁 심화**: 스페이스X가 상장 자금으로 R&D 투자 확대 시 중소형 우주 기업의 상대적 경쟁력 약화 가능성. (출처: 여러 블로그)
-- **우주 산업 투자 사이클**: '철도망·고속도로 건설 유사 초기 투자비용 큰 구조'. 대규모 이익 실현까지 장기적 관점 필요. (출처: 여러 블로그)
-- **Sphere(347700) 리스크 전이**: 발사체 경쟁 심화 시 Rocket Lab의 성장이 경쟁사 Sphere에는 부정적 영향. (출처: [shsl99 블로그](https://blog.naver.com/shsl99/224312717674))
+- [newspim.com - 숏스퀴즈 현상](https://www.newspim.com/news/view/20260515000784)
+- [digitaltoday.co.kr - SpaceX IPO 관련주](https://www.digitaltoday.co.kr/news/articleView.html?idxno=664391)
+- [g-enews.com - 주가 급등 분석](https://www.g-enews.com/view.php?ud=2026051906145468892bd56fbc3c_1)
+- 다수 네이버블로그, 티스토리 (2026-06-01 ~ 06-11) 참조
