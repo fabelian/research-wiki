@@ -634,3 +634,16 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 
 ### 미래에셋생명 자진상장폐지 시나리오
 - 스페이스X 투자와 연계해 미래에셋그룹 차원의 지배구조 개편 가능성 제기. 미래에셋생명 최대주주 미래에셋증권(28.8%)·계열사 합산 82%. ([goodinvest4](https://blog.naver.com/goodinvest4/224313230752))
+
+
+## 2026-06-11 업데이트
+
+### 스페이스X 상장 D-1
+- **6/12 나스닥 상장 예정**. 국내 투자자는 당일 거래 불가 — ETF 통한 간접투자만 가능. 스페이스X 편입 앞둔 국내 우주·항공 ETF에 개미 뭉칫돈 유입. ([ajunews](https://www.ajunews.com/view/20260611161112904), [sbs](https://biz.sbs.co.kr/article_hub/20000316030?division=NAVER), [sentv](https://www.sentv.co.kr/article/view/sentv202606110073))
+- **청약 철회권 부여**: 미래에셋증권, 청약 참여 전문투자자 전원 대상 청약 철회권 부여. 상장 당일 매매 불가 리스크 고려한 선제 조치. 접수 6/11 정오 마감. ([econovill](https://www.econovill.com/news/articleView.html?idxno=742163), [yonhapnewstv](http://www.yonhapnewstv.co.kr/news/MYH20260611173442i9W))
+- **기관 물량 일부 축소 배정**: 미래에셋증권, 일부 기관투자자에게 신청 물량의 약 일부만 배정. ([newspim](https://www.newspim.com/news/view/20260611001022))
+- **1·2차 청약 완판**: 1차 1분 만에, 2차 2분 만에 완판. 5억 달러 모집 완료. ([ajunews](https://www.ajunews.com/view/20260611161112904))
+
+### ETF 구성·간접 투자 전략
+- 상장 전후 모멘텀 노리고 스페이스X 편입 앞둔 국내 우주·항공 ETF로 자금 유입. 개인은 ETF 통한 간접투자만 가능. ([sentv](https://www.sentv.co.kr/article/view/sentv202606110073))
+- 미래에셋증권 CP·전단채 순발행 2조1,200억 원(증권사 최대). 스페이스X 청약 자금 조달 영향.
