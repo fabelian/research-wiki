@@ -515,3 +515,21 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 
 ### 미래에셋증권, '분기 순익 1조' 시대
 - 은행 예금에서 투자 자산으로 머니무브 가속 — 스페이스X 연결. ([scchoisl](https://blog.naver.com/scchoisl/224312376803))
+
+
+## 2026-06-11 업데이트
+
+### 스페이스X 상장 D-1
+- 6/12 나스닥 상장 임박. 미래에셋증권, 기관투자자 청약 30% 수준만 배정. 청약 철회 가능 안내(16일부터). 상장 당일 바로 매매 불가 — 16일부터 거래 가능. ([kimbob0821](https://blog.naver.com/kimbob0821/224312390499), [rlagusdk0203](https://blog.naver.com/rlagusdk0203/224312224021), [totcar](https://blog.naver.com/totcar/224312414215))
+
+### 한국 개인 투자자 경로 재확인
+- 개인은 국내 증권사 MTS에서 6/12 17시부터 티커 'SPCX' 검색 매수 가능. 단, 상장 당일 바로 매도 불가. 미래에셋증권 배정분은 16일부터 매매 가능. ([rlagusdk0203](https://blog.naver.com/rlagusdk0203/224312224021))
+
+### 미래에셋증권 수혜 전망 재점화
+- 미래에셋그룹 약 4,000억원 이상 스페이스X 투자 추정. 상장 후 평가차익 실현 기대감. 단기 수혜 가능성. ([chubukyungbu](https://blog.naver.com/chubukyungbu/224311996925), [thankyou_plus](https://blog.naver.com/thankyou_plus/224312420102))
+
+### 청약 규모 200조 돌파
+- 스페이스X 청약 규모 200조 원 돌파(역대급). 글로벌 관심 집중. 미래에셋증권 등 대형 증권사 물량 확보 주도. ([yeonheeqq](https://blog.naver.com/yeonheeqq/224311778016))
+
+### 스페이스X 상장 분석 — 리스크 재확인
+- 과도한 밸류에이션·시장 기대치 대비 실적 괴리 리스크. 한국 투자자의 시차·매매 제한 리스크 재확인. ([ryuhongreoul](https://blog.naver.com/ryuhongreoul/224312409509))
