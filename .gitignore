@@ -11,6 +11,10 @@
 .venv/
 __pycache__/
 
+# 관계 그래프 파생물 — graph.html(텍스트)은 커밋, graph.sqlite(바이너리)는 제외.
+# graph.sqlite는 tools/build_graph.py가 생성하며 graph_query.py가 없으면 즉석 빌드한다.
+graph.sqlite
+
 # Quartz (정적 사이트 생성기)
 node_modules/
 public/

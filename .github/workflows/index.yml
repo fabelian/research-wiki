@@ -29,14 +29,16 @@ jobs:
         run: python tools/build_macro_dashboard.py
       - name: Rebuild index.md (frontmatter → 최신순 정렬)
         run: python tools/build_index.py
+      - name: Rebuild 관계 그래프 (위키 → graph.html, GRAPH_LAYER Phase 1)
+        run: python tools/build_graph.py
       - name: Commit & push if changed
         run: |
-          if [ -z "$(git status --porcelain wiki/ index.md)" ]; then
+          if [ -z "$(git status --porcelain wiki/ index.md graph.html)" ]; then
             echo "변경 없음 — 커밋 생략"; exit 0
           fi
           git config user.name "index-bot"
           git config user.email "index-bot@users.noreply.github.com"
-          git add wiki/ index.md
+          git add wiki/ index.md graph.html
           git commit -m "chore(tidy): 링크 정규화·인덱스 재생성(최신순)"
           for i in 1 2 3; do
             git fetch origin main
