@@ -9,10 +9,11 @@ updated: 2026-06-08
 SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월 12일 나스닥 상장을 앞두고 전 세계 투자자들의 이목을 집중시키고 있다. 우주 발사체·위성 인터넷([[스타링크]])·우주 탐사 분야에서 압도적 기술력을 보유 중이며, IPO를 계기로 [[Tesla]]·[[Rocket Lab]] 등 관련주 및 우주 테마 전반에 강력한 영향을 미치고 있다.
 
 ## 📌 최신 요약 (2026-06-10)
-- **스페이스X 상장 D-2**: '2700조' 상장 초읽기. 미래에셋증권 인수단 참여·1·2차 청약 완판. 관련 ETF 7종 약 4.4조 원 유입. ([dong_019](https://blog.naver.com/dong_019/224311043699))
-- **TIGER 미국우주테크 ETF**: 개인 순매수 1조 8,151억 원 유입, 패시브 ETF로 공모가 편입 유리. ([whitenaruto](https://blog.naver.com/whitenaruto/224311558773))
-- **SK하이닉스 목표가 380만원 유지**: 미래에셋증권·한국투자증권, 급락장에도 목표가 유지. ([yoonjuicy](https://blog.naver.com/yoonjuicy/224311582447))
-- **카카오 목표가 하향**: 미래에셋증권 78,000→58,000원, 파업·AI 효과 제한적. ([ain264](https://blog.naver.com/ain264/224311544672))
+- **스페이스X 상장 D-2**: 6/12 나스닥 상장 예정. 미래에셋증권 인수단 참여·1·2차 청약 완판. **청약 철회권 부여** — 상장 당일 매도 불가(6/16 이후 거래 재개). 관련 ETF 7종 약 4.4조 유입.
+- **기관청약 비율 제한·원화 방어 개입설**: 정부, 과도한 달러 환전 차원에서 기관청약 규모 제한(⚠️미확인).
+- **밸류에이션 논란**: 적자기업에 2,700조 평가 — "시장이 이미 반영했다" vs 미래 우주 산업 가치.
+- **NH투자증권도 글로벌 혁신 투자 협력 논의 중**.
+- **미래에셋증권·미래에셋벤처투자·아주IB투자·OCI홀딩스** 등 스페이스X 연결고리 종목 부각.
 
 ## 애널리스트 분석
 
@@ -490,3 +491,27 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 - Rocket Lab(RKLB) 현재가 $106.69(-1.42%). 시장에서 'Strong Buy에 가까운 기대주'로 평가. (출처: [infinitygrowth10x 블로그](https://blog.naver.com/infinitygrowth10x/224312306257), [smarthumanlife 블로그](https://blog.naver.com/smarthumanlife/224312449632))
 - 민간 로켓 산업 4강: 스페이스X, 블루오리진, 버진 갤럭틱, Rocket Lab. (출처: [428valeria 블로그](https://blog.naver.com/428valeria/224311971456))
 - 한화투자증권 우주항공 밸류체인 분석: 업스트림(발사체·위성 제조) 핵심 기업으로 Rocket Lab, Northrop Grumman, L3Harris, Teledyne, AST SpaceMobile. (출처: [1month 블로그](https://blog.naver.com/1month/224312452061))
+
+
+## 2026-06-10 업데이트
+
+### 청약 철회권 부여 — 상장 당일 매도 불가
+- 미래에셋증권, 스페이스X 청약 참여 투자자에게 **청약 철회권** 부여. 상장일(6/12) 매도 불가 — 6/16 이후 거래 재개. ([pingududu](https://blog.naver.com/pingududu/224312301005), [aaoc3142](https://blog.naver.com/aaoc3142/224312336632), [oper23300](https://blog.naver.com/oper23300/224312337869), [eattrip9203](https://blog.naver.com/eattrip9203/224312099359))
+- 미래에셋증권 "투자자 보호 차원" 명시. ([eco-atlas](https://blog.naver.com/eco-atlas/224312376939))
+
+### 기관청약 비율 제한 — 외환당국 개입설
+- 미래에셋증권, 기관투자자 청약 규모 일부 제한. 정부 과도한 달러 환전 차원에서 제동. 외환당국 개입설(⚠️미확인). ([worldeconemy](https://blog.naver.com/worldeconemy/224312359016), [thumb67](https://blog.naver.com/thumb67/224312363579), [businessamigo](https://blog.naver.com/businessamigo/224312388681))
+- 미래에셋증권, 1차 1분·2차 2분 완판. 총 5억 달러 모집 완료. ([fr1972](https://blog.naver.com/fr1972/224312367497))
+
+### 밸류에이션 논란 심화
+- 적자기업 스페이스X에 2,700조 원 시총 평가 — "시장이 이미 반영했다" 경고 vs 우주 산업 미래 가치 평가. ([goodinvest4](https://blog.naver.com/goodinvest4/224312390918), [moneylog2030](https://blog.naver.com/moneylog2030/224312011790))
+
+### NH투자증권도 글로벌 혁신 협력 논의
+- NH투자증권, 글로벌 혁신 투자 기회 확대를 위한 전략적 협력 방안 논의 중. ([worldeconemy](https://blog.naver.com/worldeconemy/224312359016))
+
+### 스페이스X 관련주 종합 정리
+- 미래에셋증권·미래에셋벤처투자·아주IB투자·OCI홀딩스 등 스페이스X 연결고리 종목 부각. ([9changmo-](https://blog.naver.com/9changmo-/224312329408), [bllime](https://blog.naver.com/bllime/224312330881))
+- 국내 투자자 경로: 해외주식 직매수(키움·토스·삼성 등 MTS에서 'SPCX' 검색)·ETF·펀드. ([moneylog2030](https://blog.naver.com/moneylog2030/224312011790))
+
+### 미래에셋증권, '분기 순익 1조' 시대
+- 은행 예금에서 투자 자산으로 머니무브 가속 — 스페이스X 연결. ([scchoisl](https://blog.naver.com/scchoisl/224312376803))
