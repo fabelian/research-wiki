@@ -4,6 +4,37 @@ ticker: 000660
 name: SK하이닉스
 sector: [[반도체]]
 created: 2026-05-20
+edges:
+  - rel: SUPPLIES_TO
+    target: "[[엔비디아]]"
+    confidence: 0.9
+    claim_type: 공식발표
+    source: "SK-엔비디아 AI 팩토리 2년 LTA (wiki/issues/젠슨황-방한-AI팩토리-2026Q2.md)"
+    date: 2026-06-08
+  - rel: COMPETES_WITH
+    target: "[[삼성전자]]"
+    confidence: 0.9
+    claim_type: 보도
+    source: "HBM·D램 메모리 경쟁"
+    date: 2026-06-08
+  - rel: COMPETES_WITH
+    target: "[[마이크론]]"
+    confidence: 0.8
+    claim_type: 보도
+    source: "메모리 3강 경쟁"
+    date: 2026-06-08
+  - rel: BELONGS_TO_THEME
+    target: "[[HBM]]"
+    confidence: 0.95
+    claim_type: 공식발표
+    source: "HBM 공급 선두"
+    date: 2026-06-08
+  - rel: HAS_RISK
+    target: "[[검은월요일-반도체쇼크-2026Q2]]"
+    confidence: 0.7
+    claim_type: 보도
+    source: "wiki/issues/검은월요일-반도체쇼크-2026Q2.md"
+    date: 2026-06-08
 updated: 2026-06-11
 ---
 

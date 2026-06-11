@@ -66,8 +66,8 @@ def test_build_graph_structured_edges_take_precedence_and_dedup():
     nodes, edges = g.build_graph(pages)
     supplies = [e for e in edges if e["rel"] == "SUPPLIES_TO"]
     assert len(supplies) == 1 and supplies[0]["confidence"] == 0.8
-    # prose가 추론한 MENTIONS도 별도 rel이라 공존(다른 키)
-    assert any(e["rel"] == "MENTIONS" and e["dst"] == "엔비디아" for e in edges)
+    # 구조화 엣지 우선 → 같은 타깃(엔비디아) prose MENTIONS는 억제(중복 방지)
+    assert not any(e["rel"] == "MENTIONS" and e["dst"] == "엔비디아" for e in edges)
 
 
 def test_write_sqlite_roundtrip_and_schema():

@@ -23,6 +23,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Install deps (PyYAML — graph edges 파싱)
+        run: pip install pyyaml
       - name: Fix links + frontmatter (명명정규화·쓰레기링크 해제·type 보강)
         run: python tools/fix_wiki.py
       - name: Rebuild 매크로 대시보드 (스냅샷 → 날짜×지표 14일)
