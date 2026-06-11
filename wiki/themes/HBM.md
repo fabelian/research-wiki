@@ -476,3 +476,31 @@ updated: 2026-06-08
 
 ### 🏗️ 삼성·SK 호남 반도체 공장 검토
 - 삼성·SK, 전남·호남권 반도체 패키징·설비 투자 검토 발표. 이달 말 공식화 전망. (출처: [ohmynews.com 2026-06-10](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003241996&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news))
+
+
+## 2026-06-10 업데이트 — HBM주 추가 급락·점유율 데이터 업데이트·SOCAMM2 LPDRAM 공급 제약
+
+### 📉 6/10 HBM주 추가 급락
+- **6/10 美 Micron -4.64%**(~$904), SOX -1.9%. CPI 4.2% + 이란 전쟁 + 기술주 위험 회피. (출처: [investor272](https://blog.naver.com/investor272/224312458855))
+- **마이크론 내재변동성 105%**: 개별 옵션 거래보다 SMH ETF 옵션 이용 유리 분석. (출처: [yoonwoo1](https://blog.naver.com/yoonwoo1/224312429952))
+- **Barron's**: 6/24 마이크론 실적이 반등 촉매 지목. (출처: [cbkim65](https://blog.naver.com/cbkim65/224312383554))
+
+### 📊 HBM 시장 점유율 업데이트 (2026-06-10)
+| 구분 | SK하이닉스 | 삼성전자 | 마이크론 | 출처 |
+|------|-----------|---------|---------|------|
+| HBM 시장 점유율 (2026) | 55~58% | 21~25% | 18~21% | [medosam](https://blog.naver.com/medosam/224312334041) 🐦 |
+| 2025 HBM 출하 점유율 | 55~58% | 25~28% | 15~18% | [minbog77](https://blog.naver.com/minbog77/224312335524) 🐦 |
+| 2025 HBM 매출 점유율 | 55~57% (약 170~190억$) | 22~25% (약 70억$) | 20~21% (약 70~110억$) | [minbog70](https://blog.naver.com/minbog70/224312337849) 🐦 |
+
+### 🆕 HBM4 양산 공식 확인
+- 🐦네이버블로그(bizdailylog, 2026-06-10): 마이크론 투자자 자료 인용 — "Micron High-Volume Production of HBM4 Designed for NVIDIA Vera Rubin". HBM4 양산 공식 확인. (출처: [bizdailylog](https://blog.naver.com/bizdailylog/224311546017))
+
+### 🆕 SOCAMM2 LPDRAM 공급 제약 — HBM 외 메모리 수요 병목
+- 🐦네이버블로그(red-sun0, 2026-06-10): NVIDIA Vera Rubin SOCAMM 메모리 축소는 LPDRAM 공급 부족 때문. Samsung·SK·Micron 2027년 생산 할당이 추정 수요의 약 60% 불과. (출처: [red-sun0](https://blog.naver.com/red-sun0/224312440850)) ⚠️개인 분석.
+
+### 🏭 HBM 장비 공급 병목
+- SK하이닉스, 협력사 납품단가 인상 검토. 삼성·Micron 모두 공격적 증설 → TC 본더·검사장비·웨이퍼 장비 수요 폭증 vs 공급 한계. (출처: [sgpjb1](https://blog.naver.com/sgpjb1/224312434564))
+
+### 📊 ETF 비중 업데이트
+| 2026-06-10 | PLUS 글로벌HBM반도체 ETF | — | 마이크론 31.4%, SK 24.3%, 삼성 22.6% | 1년 +636% (출처: [sena824](https://blog.naver.com/sena824/224312295121)) |
+| 2026-06-10 | Roundhill Memory ETF | — | 마이크론 26.6% | (출처: [sena824](https://blog.naver.com/sena824/224312295121)) |

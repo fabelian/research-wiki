@@ -654,3 +654,19 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 
 ### 🔗 피지컬 AI·AI 팩토리 동맹 확대
 - NAVER AI 팩토리 비전·삼성SDS GPUaaS·두산로보틱스 자동화 협력이 AI서버→AI 팩토리→로보틱스로 이어지는 생태계 확장 구조 재확인.
+
+
+## 2026-06-10 업데이트 — SOCAMM2 LPDRAM 공급 제약·NVIDIA Vera Rubin 메모리 축소 배경
+
+### 🆕 SOCAMM2 LPDRAM 공급 제약 — AI서버 메모리 수요 신호
+- 🐦네이버블로그(red-sun0, 2026-06-10): "NVIDIA Vera Rubin SOCAMM 메모리 절반 축소 = LPDRAM 공급 부족". Samsung·SK·Micron 2027년 초기 생산 계획상 LPDRAM 할당이 추정 수요의 약 60% 수준. 추가 증량 제한적 → LPDDR5X 공급 갭 해소 난항. (출처: [red-sun0](https://blog.naver.com/red-sun0/224312440850)) ⚠️개인 분석.
+- 이 분석은 기존 SemiAnalysis "Vera Rubin LPDDR 탑재량 반토막" 보고서의 배경으로 LPDRAM 공급 제약을 지목하며, AI서버 메모리 밸류체인의 병목이 HBM→LPDRAM으로 확장될 가능성 시사.
+
+### 📉 6/10 AI서버 관련주 추가 조정
+- **6/10 美 반도체 추가 하락**: 마이크론 -4.64%, 마벨 -5%, AMD -3.8%, ASML -5.5%. CPI 4.2% + 이란 전쟁 + 기술주 위험 회피. (출처: [investor272](https://blog.naver.com/investor272/224312458855), [milohoon](https://blog.naver.com/milohoon/224312410596))
+- 마이크론 내재변동성 105%로 개별 옵션 대신 SMH ETF 옵션 이용 선호. (출처: [yoonwoo1](https://blog.naver.com/yoonwoo1/224312429952))
+- **Barron's**: "Micron Stock Drops Again But This Powerful Catalyst Can Reignite Rally" — 6/24 실적 발표 지목. (출처: [cbkim65](https://blog.naver.com/cbkim65/224312383554), [mangleda-luck](https://blog.naver.com/mangleda-luck/224312398112))
+
+### 🏭 AI서버 인프라 → 반도체 장비 수요 파급
+- **UBS 반도체 전공정 장비 슈퍼사이클**: Micron·Samsung 등 메모리 업체 신규 팹 가동 본격화 → 장비 시장 슈퍼사이클 진단. (출처: [morning366](https://blog.naver.com/morning366/224312156063))
+- **HBM 장비 공급 병목**: SK·삼성·Micron 증설로 TC 본더·검사·웨이퍼 장비 수요 폭증. 협력사 납품단가 인상 검토. (출처: [sgpjb1](https://blog.naver.com/sgpjb1/224312434564))
