@@ -544,3 +544,15 @@ updated: 2026-06-08
 
 ### 🇺🇸 SK하이닉스 ADR 상장 — HBM 밸류체인 재평가 계기
 - SK하이닉스 8월 美 ADR 상장 추진. 글로벌 기관 접근성 개선→HBM 선도기업 밸류에이션 리레이팅 계기. '마이크론 대비 저평가' 논리 해소 기대. (출처: [7jani](https://blog.naver.com/7jani/224313213235) 🐦)
+
+
+## 2026-06-11 업데이트 — AI 칩 기판 병목 부상·샘 올트먼 방한·소부장 수혜 기대
+
+### 🏭 AI 칩 기판(서브스트레이트) — HBM 다음 병목
+- **MK 보도(2026-06-11)**: Google·Qualcomm·Samsung·SK hynix·Micron 등 AI 칩 기판 생산능력 확보 경쟁. HBM·GPU 다음 병목으로 기판 지목. HBM 출하량 확대를 위해 기판 증설 필수. (출처: [mk.co.kr](https://www.mk.co.kr/article/12071379))
+
+### 🤝 샘 올트먼 방한(2026-06-14) — HBM·소부장 수혜 기대
+- **OpenAI CEO 샘 올트먼 6/14 방한 예정**: 한미반도체·하나마이크론·이수성엔지니어링·원익IPS·ISC 등 HBM 소부장 관심 집중. (출처: [ezcomi1](https://blog.naver.com/ezcomi1/224313091395))
+
+### 🏭 유진테크 — HBM 양산 라인 장비 공급
+- 유진테크, 마이크론 포함 해외 고객사 대상 차세대 고성능 메모리(DDR5·HBM) 양산 라인 증설 장비 프로젝트 활발. (출처: [chiwooni](https://blog.naver.com/chiwooni/224313147843))
