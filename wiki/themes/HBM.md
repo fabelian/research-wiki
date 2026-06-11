@@ -68,6 +68,7 @@ updated: 2026-06-08
 | 2026-06-10 | HBM주 동반 급락(삼성 -7.30%, SK -8.71%). 외국인 23일째 순매도. CPI·FOMC 경계. | 아이뉴스24 |
 | 2026-06-10 | 레미콘 운송비 5.5% 인상안 부결, 평택·용인 팹 건설 차질 우려 | 뉴시스 |
 | 2026-06-10 | 삼성전자·SK하이닉스 합산 설비투자 100조 원대 진입 목전. 평택 P4·M15X 신규 팹 투자 사이클 가동 — HBM 생산 증설 기대. | blog.naver.com/tnwjddllxodnjsdl921 |
+| 2026-06-10 | HBM주 동반 급락(삼성 -6.06%, SK -7.54%). 마이크론 500억불 메가팹 착공—삼성·SK 독점 균열 가능성. 레미콘 파업 장기화→팹 차질. 프리마켓 5% 추가 폭락. | mk.co.kr, g-enews, heraldcorp |
 
 ## 관련 출처/링크
 - 주요 언론: 로이터, 아시아경제, ZDNet, 연합뉴스, 뉴시스, SBS Biz, 머니투데이, 이데일리, 헤럴드경제, 글로벌이코노믹, BusinessKorea 등.
@@ -457,3 +458,21 @@ updated: 2026-06-08
 
 ### 🤖 칩스앤미디어-암바렐라 비디오 IP — AI 반도체 경쟁 구도 다양화 (2026-06-09)
 - 칩스앤미디어, 美 암바렐라에 비디오 IP 공급. 암바렐라는 NVIDIA·Qualcomm·Mobileye와 AI·자율주행 SoC 경쟁. HBM 수요처 다양화 가능성 시사. (출처: [fantapola2](https://blog.naver.com/fantapola2/224312073662) ⚠️Trefis 인용)
+
+
+## 2026-06-10 업데이트 — HBM주 재급락·마이크론 메가팹·레미콘 파업
+
+### 📉 6/10 HBM주 동반 급락
+- 삼성전자 -6.06%, SK하이닉스 -7.54%. 전일 +15.91% 반등분 반납. 외국인 23일째 순매도. 프리마켓 5%대 추가 폭락. (출처: [mk.co.kr 2026-06-10](https://www.mk.co.kr/article/12071177))
+
+### 🆕 마이크론 500억불 메가팹 착공
+- 마이크론, 500억 달러 메가팹 착공 발표. HBM·메모리 공급망 북미 이동 가능성. 삼성·SK 독점 체제 균열 리스크. (출처: [g-enews.com 2026-06-10](https://www.g-enews.com/view.php?ud=202606110629568484fbbec65dfb_1))
+
+### 🏭 TSMC 가격 인상 — 삼성·하이닉스 원가 압박
+- TSMC 5월 매출 +30%, 가격 인상 현실화. HBM 공급망 삼성·SK 원가 전가 압박. (출처: [g-enews.com 2026-06-10](https://www.g-enews.com/view.php?ud=202606110646147310fbbec65dfb_1))
+
+### 🚛 레미콘 파업 장기화
+- 레미콘 노사 합의안 부결, 장기화. SK 용인·삼성 평택 팹 건설 차질 시 HBM 증설 지연 가능성. (출처: [biz.heraldcorp.com 2026-06-10](https://biz.heraldcorp.com/article/10769019?ref=naver))
+
+### 🏗️ 삼성·SK 호남 반도체 공장 검토
+- 삼성·SK, 전남·호남권 반도체 패키징·설비 투자 검토 발표. 이달 말 공식화 전망. (출처: [ohmynews.com 2026-06-10](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003241996&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news))
