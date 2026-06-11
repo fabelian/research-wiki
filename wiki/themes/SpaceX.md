@@ -567,3 +567,10 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 ### 서상영 연구원 코멘트
 - 서상영 미래에셋증권 연구원: 물가 안정에도 Fed 목표 상회·전쟁 장기화 우려로 금리인상 우려 지속. ([heraldcorp](https://biz.heraldcorp.com/article/10769042?ref=naver))
 - 서상영 연구원: 오라클 400억 달러 추가 조달은 AI 경쟁력 확보 위한 대규모 자본 필요성 시사. 현금흐름 악화·주주가치 희석 우려. ([heraldcorp](https://biz.heraldcorp.com/article/10769067?ref=naver))
+
+
+## 2026-06-10 업데이트: ETF 구성 및 우주 제약 테마
+
+### ETF 구성 변동
+- PLUS 우주항공&UAM ETF(티커 421320) 내 Redwire 비중 23.40(최대), [[Rocket Lab]] 22.18%. (출처: [네이버블로그](https://blog.naver.com/dong_donggri/224313030618))
+- 스페이스X 상장 D-2 시점에서 우주 테마 ETF 구성의 다변화 지속.
