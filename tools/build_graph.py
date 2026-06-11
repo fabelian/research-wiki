@@ -277,6 +277,8 @@ _HTML_HEAD = r"""<!doctype html><html lang="ko"><head><meta charset="utf-8">
 <div id="wrap"><svg id="g"></svg>
   <aside id="side"><h1>관계 그래프</h1>
     <div class="grp">노드 타입 필터</div><div id="filters"></div>
+    <div class="grp">시간 흐름 (updated ≤ <span id="tlabel">전체</span>)</div>
+    <div id="timebox"><input id="tslider" type="range" min="0" max="0" value="0" step="1" style="width:100%;accent-color:#d19a66"></div>
     <div id="info"><div class="typ" style="color:var(--dim)">노드를 클릭하면 연결이 표시됩니다.</div></div>
   </aside></div>
 <div id="hint">드래그 이동 · 스크롤 확대 · 노드 클릭 · 체크박스로 타입 필터</div>
@@ -332,11 +334,24 @@ const nEl=nodes.map((n,i)=>{
   g.addEventListener("mousedown",ev=>drag(ev,i));
   return g;});
 
-function visible(i){return active.has(nodes[i].type)}
+function typeVisible(i){return active.has(nodes[i].type)}
+let timeCut=null;  // 'YYYY-MM-DD' 이하만 표시. null=전체.
+function timeVisible(i){const u=nodes[i].updated;return timeCut===null||!u||u<=timeCut;}
+function visible(i){return typeVisible(i)&&timeVisible(i)}
 function applyFilter(){
   nEl.forEach((g,i)=>g.classList.toggle("hidden",!visible(i)));
   eEl.forEach((l,k)=>l.classList.toggle("hidden",!(visible(edges[k].s)&&visible(edges[k].t))));
 }
+// 시간 슬라이더: updated 날짜를 정렬해 'updated ≤ 커서'만 표시 → 시간 흐름 가시화
+const tdates=[...new Set(nodes.map(n=>n.updated).filter(Boolean))].sort();
+const tslider=document.getElementById("tslider"),tlabel=document.getElementById("tlabel");
+if(tdates.length>1){
+  tslider.max=tdates.length-1;tslider.value=tdates.length-1;
+  tslider.addEventListener("input",()=>{
+    const v=+tslider.value;timeCut=(v>=tdates.length-1)?null:tdates[v];
+    tlabel.textContent=timeCut||"전체";applyFilter();
+  });
+}else{document.getElementById("timebox").style.display="none";}
 
 let view={x:0,y:0,k:1};
 function applyView(){const tr=`translate(${view.x},${view.y}) scale(${view.k})`;
