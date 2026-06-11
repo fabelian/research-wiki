@@ -551,3 +551,19 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 
 ### 구다이글로벌 IPO — 미래에셋·NH·씨티·모건스탠리 주관
 - 주관사단 전담 인력 파견 상주. 북미 훈풍 속 상장 준비. ([news1](https://www.news1.kr/industry/general-industry/6193569))
+
+
+## 2026-06-10 업데이트
+
+### 미래에셋증권, 청약 철회권 부여
+- 미래에셋증권, 스페이스X 공모주 청약 참여자 전원(개인·법인 전문투자자)에게 청약 철회권 부여 결정. 상장 당일(6/12) 즉시 매매 불가 리스크를 고려한 선제적 투자자 보호 조치. 청약 철회 접수 6/11 정오 마감. ([newsquest](https://www.newsquest.co.kr/news/articleView.html?idxno=267618), [segyebiz](http://www.segyebiz.com/newsView/20260611503242?OutUrl=naver), [mk](https://www.mk.co.kr/article/12071243))
+
+### 미래에셋증권 CP·전단채 발행 급증
+- 미래에셋증권, 6월 스페이스X 청약 관련 CP·전단채 순발행 2조1,200억 원(증권사 최대). 단기 채권 시장에 유동성 공급 역할. ([einfomax](https://news.einfomax.co.kr/news/articleView.html?idxno=4419398))
+
+### 스페이스X 상장 후 외국인 '삼전닉스' 회귀 전망
+- 스페이스X 상장 이후 외국인 자금이 다시 국내 반도체 대형주([[삼성전자]]·[[SK하이닉스]])로 회귀할 전망. 미래에셋증권은 청약 철회권 부여로 투자자 보호. ([enewstoday](http://www.enewstoday.co.kr/news/articleView.html?idxno=2437813))
+
+### 서상영 연구원 코멘트
+- 서상영 미래에셋증권 연구원: 물가 안정에도 Fed 목표 상회·전쟁 장기화 우려로 금리인상 우려 지속. ([heraldcorp](https://biz.heraldcorp.com/article/10769042?ref=naver))
+- 서상영 연구원: 오라클 400억 달러 추가 조달은 AI 경쟁력 확보 위한 대규모 자본 필요성 시사. 현금흐름 악화·주주가치 희석 우려. ([heraldcorp](https://biz.heraldcorp.com/article/10769067?ref=naver))
