@@ -517,3 +517,68 @@ updated: 2026-06-08
 - **중동 전운**: 이란-이스라엘 긴장 고조, WTI 급등 → 위험자산 회피 심리 확산. (출처: [choicenews](http://www.choicenews.co.kr/news/articleView.html?idxno=166399))
 - **美 5월 CPI 4.2%**(헤드라인, 3년 최고): 연준 금리인하 기대 급락, AI·성장주 밸류에이션 부담 확대. (출처: [sjsori](https://www.sjsori.com/news/articleView.html?idxno=86538))
 - **AI 버블 논쟁 재점화**: 엔비디아 급락이 'AI 거품'론에 힘 실음. 증권가 "과도한 반응" vs 시장 "증명 구간" 충돌 심화. (출처: [sjsori](https://www.sjsori.com/news/articleView.html?idxno=86538))
+
+
+## 🆕 2026-06-10 추가 — 악성루머·HBM4 양산 루머 반박
+
+### 😱 악성루머 확산 — 반도체 라인 수율·폐기설 유포
+- 삼성전자·SK하이닉스 반도체 라인 수율 불량·대규모 폐기설 등 악의적 루머 유포. 증권가·업계 "멀쩡하게 잘 돌아가는 반도체 라인인데 악플·악성댓글을 마치 뉴스인 양 유포" 반박. (출처: [무등일보 2026-06-10](http://www.mdilbo.com/news/articleView.html?idxno=1105010))
+
+### 📉 HBM 관련주 추가 급락
+- 삼성전자 30만원 선 하회·반도체 ETF 10% 급락. 외국인 수급·레버리지 ETF 손실 확대. (출처: [hoho-news 2026-06-10](https://blog.naver.com/hoho-news/224313231232), [theka1037 2026-06-10](https://blog.naver.com/theka1037/224313230115))
+
+### 🎓 이재용 출타 중 HBM4 협력 지속
+- 이재용 회장 출타 중에도 젠슨 황-전영현 회동으로 HBM4 퀄 통과·파운드리 협력 지속 확인. (출처: [ja767676 2026-06-10](https://blog.naver.com/ja767676/224313230538))
+
+
+## 2026-06-10 업데이트 — 美 ADR 상장 기대·청주 P&T7 19조원 HBM 패키징 팹 신설
+
+### 🏭 SK하이닉스 청주 P&T7 — HBM 첨단 패키징 19조원 신규 투자
+- 청주 테크노폴리스 7만 평 부지에 **19조원** 규모 HBM 첨단 패키징 팹 **P&T7** 신설. 2026년 4월 착수, 2027년 말 완공 목표. HBM4·HBM4E 양산 라인 증설 핵심. (출처: [sogood2me](https://blog.naver.com/sogood2me/224313214639) 🐦)
+- 청주 선택 이유: 전력(청주변전소)·용수(대청호)·부지(충북혁신도시 연계)·인력(충북지역 반도체특성화대학) 인프라 종합 우위. (출처: [hk129_93](https://blog.naver.com/hk129_93/224313190851) 🐦)
+
+### 📊 ETF 내 HBM 관련주 비중 비교
+- **PLUS 글로벌HBM반도체 ETF**(6/10 기준): 마이크론 31.4%, SK하이닉스 24.3%, 삼성전자 22.6%. 1년 +636%. (출처: [lululala_jessi](https://blog.naver.com/lululala_jessi/224313214387) 🐦)
+- **Roundhill Memory ETF**(6/10 기준): 마이크론 26.6%. (출처: [lululala_jessi](https://blog.naver.com/lululala_jessi/224313214387) 🐦)
+- **SOL AI반도체TOP2플러스**: 국내 삼성·SK 중심 + 소재·장비 포함.
+
+### 🇺🇸 SK하이닉스 ADR 상장 — HBM 밸류체인 재평가 계기
+- SK하이닉스 8월 美 ADR 상장 추진. 글로벌 기관 접근성 개선→HBM 선도기업 밸류에이션 리레이팅 계기. '마이크론 대비 저평가' 논리 해소 기대. (출처: [7jani](https://blog.naver.com/7jani/224313213235) 🐦)
+
+
+## 2026-06-11 업데이트 — AI 칩 기판 병목 부상·샘 올트먼 방한·소부장 수혜 기대
+
+### 🏭 AI 칩 기판(서브스트레이트) — HBM 다음 병목
+- **MK 보도(2026-06-11)**: Google·Qualcomm·Samsung·SK hynix·Micron 등 AI 칩 기판 생산능력 확보 경쟁. HBM·GPU 다음 병목으로 기판 지목. HBM 출하량 확대를 위해 기판 증설 필수. (출처: [mk.co.kr](https://www.mk.co.kr/article/12071379))
+
+### 🤝 샘 올트먼 방한(2026-06-14) — HBM·소부장 수혜 기대
+- **OpenAI CEO 샘 올트먼 6/14 방한 예정**: 한미반도체·하나마이크론·이수성엔지니어링·원익IPS·ISC 등 HBM 소부장 관심 집중. (출처: [ezcomi1](https://blog.naver.com/ezcomi1/224313091395))
+
+### 🏭 유진테크 — HBM 양산 라인 장비 공급
+- 유진테크, 마이크론 포함 해외 고객사 대상 차세대 고성능 메모리(DDR5·HBM) 양산 라인 증설 장비 프로젝트 활발. (출처: [chiwooni](https://blog.naver.com/chiwooni/224313147843))
+
+
+## 2026-06-11 업데이트 — HBM 패키징 CoPoS·Vera Rubin 메모리 증가
+
+### 🔬 TSMC CoPoS — 엔비디아 파인만 HBM 패키징 첫 도입 (2026-06-10)
+- 궈밍치 분석: TSMC CoPoS(9.5배 레티클 초과) — 엔비디아 파인만(Feynman) AI 칩이 첫 도입 사례. (출처: [nlueoxy](https://blog.naver.com/nlueoxy/224313123115))
+- 초대형 패키징 기술이 HBM·GPU 통합에 미치는 영향: HBM 적층 수·대역폭 확장 가능성.
+- 🔎 개인 분석.
+
+### 📉 Vera Rubin 메모리 탑재량 증가 전망 — SOCAMM 논란 해소 (2026-06-10)
+- 엔비디아 Vera Rubin, 이전 세대 대비 메모리 탑재량 크게 증가 전망. (출처: [louie0930](https://blog.naver.com/louie0930/224313128236))
+- 기존 'Vera Rubin LPDDR 반토막설'(SemiAnalysis)과 상반되는 전망 — 메모리 탑재량 회복 시 HBM 수요 강세 지속.
+- 🔎 개인 분석.
+
+### 📊 6/10 HBM주 동반 하락
+- **6/10 美 반도체 추가 하락**: 마이크론 -4.70%, 엔비디아 -3.73%, TSMC -4.48%. CPI 4.2% + 중동 전운 영향 지속.
+- HBM 밸류체인 전구간 위험 회피 매도 확대.
+- 6/24 마이크론 실적 발표 앞두고 변동성 확대 — Barron's "Micron Stock Drops Again But Catalyst Can Reignite Rally".
+
+### 🤝 AI 데이터센터 생태계와 HBM (2026-06-10)
+- KKR 100억 달러 데이터센터 프로젝트(Helix), NVIDIA+KIA 투자 참여 — HBM 수요의 장기적 안정성 확보. (출처: [jinlogue](https://blog.naver.com/jinlogue/224313124055))
+- 엔비디아의 데이터센터 직접 투자 → GPU 수요 지속성 → HBM 수요 직결 구조.
+
+
+### 🆕 하이닉스 vs 삼성 — NVIDIA 협력관계 분석 (6/10)
+- 🐦네이버블로그(yeoli9, 2026-06-10): 하이닉스는 NVIDIA 공급망 핵심 파트너(기정사실), 삼성전자는 재진입 증명 중. NVIDIA 협력=단순 이미지 아닌 공급망 안정성·기술 신뢰도·수익성 직결 요소. (출처: [yeoli9](https://blog.naver.com/yeoli9/224313174714)) ⚠️개인 분석.
