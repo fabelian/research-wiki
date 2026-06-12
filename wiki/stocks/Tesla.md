@@ -7,6 +7,25 @@ sector:
   - "[[2차전지]]"
 created: 2026-06-03
 updated: 2026-06-11
+edges:
+  - rel: COMPETES_WITH
+    target: "[[현대차]]"
+    confidence: 0.7
+    claim_type: 보도
+    source: "전기차·자율주행·휴머노이드 경쟁"
+    date: 2026-06-08
+  - rel: BELONGS_TO_THEME
+    target: "[[자율주행]]"
+    confidence: 0.9
+    claim_type: 보도
+    source: "FSD"
+    date: 2026-06-08
+  - rel: BELONGS_TO_THEME
+    target: "[[로보틱스]]"
+    confidence: 0.7
+    claim_type: 보도
+    source: "옵티머스 휴머노이드"
+    date: 2026-06-08
 ---
 
 # Tesla (TSLA)
