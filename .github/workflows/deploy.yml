@@ -30,6 +30,8 @@ jobs:
         run: node stage.mjs
       - name: Build Quartz
         run: npx quartz build
+      - name: Copy 관계 그래프 뷰어 into site (public/graph.html)
+        run: cp graph.html public/graph.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

@@ -2,6 +2,7 @@
 
 ### 🌐 공개 사이트 → https://fabelian.github.io/research-wiki/
 > 브라우저만 있으면 누구나 열람. 검색·다크모드·관계 그래프·모바일 지원.
+> 🕸️ 관계 그래프 뷰어(타입·관계종류·신뢰도 필터) → https://fabelian.github.io/research-wiki/graph.html
 > 🖥️ 운영 대시보드(비공개·봇 관리) → https://research-wiki-app-production.up.railway.app
 
 ---
