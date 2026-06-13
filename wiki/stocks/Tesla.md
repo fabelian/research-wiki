@@ -50,6 +50,12 @@ edges:
     claim_type: "추정"
     source: "네이버블로그 me_no_you_young·sorigill"
     date: 2026-06-11
+  - rel: AFFECTS
+    target: "[[Tesla]]"
+    confidence: 0.7
+    claim_type: "보도"
+    source: "blog.naver.com/bondi_beach/224314725409"
+    date: 2026-06-12
 ---
 
 # Tesla (TSLA)
@@ -278,3 +284,43 @@ Tesla는 전기차, 에너지 저장(메가팩), 자율주행(FSD) 및 로보틱
 - 네이버블로그 solarfarmer: Tesla 하반기 FSD·수입전략 — RWD 재고 소진, HW3.0 장기 보유
 - 네이버블로그 jws148: 6/12 장외주식 시황 — Tesla 비상장
 - 네이버블로그 hyungmjee: Tesla 주식 공매도 vs 풋옵션 전략 비교
+
+
+## 2026-06-12 업데이트 — SpaceX IPO 데뷔 폭등(+24%, 시총 2조 달러)·머스크 조만장자 등극
+
+### 🚀 SpaceX IPO 첫날 +24% — 시총 2조 달러 돌파, Nasdaq 역대 최대
+- 🐦 네이버블로그(archive01_) (2026-06-12): SpaceX IPO 첫날 공모가 대비 +24% 상승, 시총 2조 달러 돌파(메타·Tesla 상회). Tesla(TSLA) +1.82% — SpaceX 합병 기대 및 이란 유가 하락 수혜. COO 그웬 숏웰 “Tesla와의 협력이 머스크의 삶을 더 편하게 할 것” 발언. (출처: 🔗archive01_)
+- 🐦 네이버블로그(enqqudwaks) (2026-06-12): SpaceX 시총 2조 달러, 미국 증시 6위(메타·Tesla 상회). 스타링크·재사용 발사체 독점 성장. (출처: 🔗enqqudwaks)
+- 🐦 네이버블로그(gyoh0224) (2026-06-12): SpaceX IPO 머스크 자산 8,350억 달러(세계 최초 조만장자). Tesla 지분과 함께 부의 핵심 축. (출처: 🔗gyoh0224)
+- 🐦 네이버블로그(bear_base) (2026-06-12): 세계 최초 ‘1조 달러 부자’ 탄생 — 머스크 자산 대부분 스페이스X·Tesla 주식, 즉시 현금화 어려움 지적. (출처: 🔗bear_base)
+- 🐦 네이버블로그(yuri_view) (2026-06-12): 스페이스X 상장 축포 — JP모건 제이미 다이먼 CEO, 머스크 최대 수혜자. (출처: 🔗yuri_view)
+- 🐦 네이버블로그(jeong_trois) (2026-06-12): 머스크 세계 부호 1위 약 8,350억 달러 — 래리 페이지(3,090억)·세르게이 브린(2,960억) 압도. (출처: 🔗jeong_trois)
+
+### 💰 Tesla-SpaceX 합병 전망 재점화
+- 머스크 생태계(Tesla·SpaceX·xAI·X) 통합 시너지 기대. Wedbush Dan Ives(기존 80%+ 전망) IPO 이후 합병 확률 재평가 중.
+- 규제 리스크(국가안보·독점) vs 수직 통합 효율성 논쟁 지속.
+
+### 🚗 모델Y·모델3 실구매가 분석 확산
+- 🐦 네이버블로그(bingtimjang) (2026-06-12): 모델3(5,999만원·보조금 3천만원대) vs 모델Y 실구매가 비교 — “무조건 싼 게 답은 아니다”. 사용 목적별 선택 가이드 확산. (출처: 🔗bingtimjang)
+- 🐦 네이버블로그(option729) (2026-06-12): 모델Y RWD 시승기 — 부드러운 가속·강력한 성능 강조. (출처: 🔗option729)
+
+### 🔋 Tesla 부품·악세서리 트렌드
+- 🐦 네이버블로그(sfinjun) (2026-06-12): 모델Y L 틴팅·PPF(하버캠프 헤리드콜막 SI+) 작업 사례. (출처: 🔗sfinjun)
+- 🐦 네이버블로그(coc2695) (2026-06-12): 사이버트럭 감성 스티어링 휠 악세서리 알리익스프레스 구매 가이드 확산. (출처: 🔗coc2695)
+
+### 🌍 글로벌 이벤트
+- 🐦 네이버블로그(bondi_beach) (2026-06-12): 이란 합의 기대에 美장 상승, Tesla +1.82%. SpaceX 데뷔 효과·위험자산 선호 회복. (출처: 🔗bondi_beach)
+
+### 🐦 SNS·블로그(2026-06-12)
+- 네이버블로그 archive01_: SpaceX +24% 나스닥 역대 최대 IPO, Tesla +1.82%
+- 네이버블로그 enqqudwaks: SpaceX 시총 2조 달러 돌파 분석
+- 네이버블로그 gyoh0224: 머스크 8,350억 달러 조만장자 등극
+- 네이버블로그 bear_base: 세계 최초 1조 달러 부자 — 현금화 리스크
+- 네이버블로그 bingtimjang: 모델3 vs 모델Y 실구매가 비교 분석
+- 네이버블로그 option729: 모델Y RWD 시승기
+- 네이버블로그 sfinjun: 모델Y L PPF·틴팅 작업
+- 네이버블로그 bondi_beach: 이란 합의 기대·SpaceX 데뷔 효과
+- 네이버블로그 jeong_trois: 머스크 8,350억 달러 세계 부호 1위
+
+
+| 2026-06-12 | SpaceX IPO +24% (시총 2조 달러), TSLA +1.82% — 머스크 자산 8,350억 달러 (네이버블로그 archive01_, enqqudwaks, gyoh0224, bear_base) |

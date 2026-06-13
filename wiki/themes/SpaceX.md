@@ -87,6 +87,12 @@ edges:
     claim_type: "보도"
     source: "https://www.sedaily.com/article/20055188?ref=naver"
     date: 2026-06-13
+  - rel: SUPPLIES_TO
+    target: "[[Tesla]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "blog.naver.com/archive01_/224314674873"
+    date: 2026-06-12
 ---
 
 # SpaceX
