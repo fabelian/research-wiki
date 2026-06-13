@@ -63,6 +63,18 @@ edges:
     claim_type: "추정"
     source: "https://blog.naver.com/satti1007/224314996606"
     date: 2026-06-12
+  - rel: AFFECTS
+    target: "[[한국투자신탁운용]]"
+    confidence: 0.85
+    claim_type: "보도"
+    source: "https://www.etoday.co.kr/news/view/2593285"
+    date: 2026-06-13
+  - rel: MENTIONS
+    target: "[[ETF]]"
+    confidence: 0.9
+    claim_type: "보도"
+    source: "https://www.mk.co.kr/article/12073341"
+    date: 2026-06-13
 ---
 
 # SpaceX
@@ -259,3 +271,18 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 
 
 | 2026-06-12 | **스페이스X 나스닥 상장 (+19%)**. 미래에셋증권 공모주 0주 배정 — 4,600억원 청약 전액 환불. 골드만삭스 최종 배정 제외. 금감원 경위 파악. ETF 선제 편입 무산. | 다수 블로그 |
+
+
+| 2026-06-13 | 미래에셋증권 | 공모주 배정 전량 무산 | 국내 인수단 미래에셋증권, 글로벌 주관사로부터 0주 배정. ETF 편입 계획 차질. 청약 증거금 전액 환불. | [investchosun](https://www.investchosun.com/site/data/html_dir/2026/06/13/2026061380052.html), [joongang](https://www.joongang.co.kr/article/25436486) |
+
+
+#### 2026-06-13 — 공모주 국내 배정 '0주' 사태
+- **미래에셋증권, 공모주 0주 배정**: 글로벌 인수단 내 미래에셋증권 물량 전량 삭감. 대표주관사 재량. 청약 증거금 전액 환불. 코리아패싱 논란.
+- **ETF 편입 차질**: 한투운용·미래에셋자산운용 등 스페이스X ETF 편입 계획 공모가 단계에서 무산. 장내 매수로 전환. 7종 우주항공 ETF(4.4조 원) 투자자 혼선.
+- **미래에셋증권 신뢰도 타격**: 배정 확정 공지 후 취소 절차로 주관사 프리미엄 훼손. 금감원 점검과 연계.
+- **기보유 지분 가치는 유효**: 1분기 평가이익(약 8,000억 원)은 기보유 지분 기반으로 유지. 2분기 추가 평가차익 기대는 일부 조정 불가피.
+
+
+| 2026-06-13 | 이벤트 | 영향 | 출처 |
+|---|---|---|---|
+| 2026-06-13 | **미래에셋증권, 스페이스X 공모주 0주 배정** — 국내 인수단 물량 전량 삭감, 청약 증거금 전액 환불, ETF 편입 계획 차질 | 단기: 미래에셋증권 주관사 프리미엄 훼손·ETF 편입 프리미엄 상실. 중장기: 기보유 지분 가치는 유효 | [investchosun](https://www.investchosun.com/site/data/html_dir/2026/06/13/2026061380052.html), [mk](https://www.mk.co.kr/article/12073341), [joongang](https://www.joongang.co.kr/article/25436486) |
