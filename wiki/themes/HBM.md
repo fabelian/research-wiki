@@ -5,6 +5,13 @@ ticker: N/A
 sector: 반도체
 created: 2026-06-01
 updated: 2026-06-11
+edges:
+  - rel: MENTIONS
+    target: "[[마이크론]]"
+    confidence: 0.85
+    claim_type: "보도"
+    source: "https://blog.naver.com/bizdailylog/224311577929"
+    date: 2026-06-11
 ---
 # HBM (고대역폭메모리)
 
@@ -80,6 +87,7 @@ updated: 2026-06-11
 | 2026-05-26 | UBS, 마이크론 HBM ASP +50% YoY 전망 | UBS |
 | 2026-01-02 | 모건스탠리, 중국 H200 수요 급증으로 HBM3E 가격 하락 전망 철회 | 모건스탠리 |
 | 2026-06-12 | 중동 종전론에 외국인 순매수 전환(삼성 8740억·SK 1.28조). 코스피 4.63% 폭등 8100선 회복. SK하이닉스·삼성전자 사이드카 발동. 노무라 SK하이닉스 목표가 500만 상향 "슈퍼사이클 시작". 레미콘 파업 7시간 협상 결렬. 샘 올트먼 방한 연기. | businesskorea·etnews·biz.chosun·ajunews |
+| 2026-06-11 | 이란 휴전 타결·중동 리스크 완화 → 반도체 섹터 대반등. Micron +11.69%($995.87), SK하이닉스 +9.37%, 삼성전자 +7%+. 美 반도체 ETF 6% 급등. | choicenews, ddaily, BusinessKorea |
 
 ## 관련 출처/링크
 - 주요 언론: 로이터, 아시아경제, ZDNet, 연합뉴스, 뉴시스, SBS Biz, 머니투데이, 이데일리, 헤럴드경제, 글로벌이코노믹, BusinessKorea, Korea Times, Arirang, MK, YTN, JTBC, KBS, MBN, 광주일보
