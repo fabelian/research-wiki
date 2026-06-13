@@ -286,3 +286,18 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 | 2026-06-13 | 이벤트 | 영향 | 출처 |
 |---|---|---|---|
 | 2026-06-13 | **미래에셋증권, 스페이스X 공모주 0주 배정** — 국내 인수단 물량 전량 삭감, 청약 증거금 전액 환불, ETF 편입 계획 차질 | 단기: 미래에셋증권 주관사 프리미엄 훼손·ETF 편입 프리미엄 상실. 중장기: 기보유 지분 가치는 유효 | [investchosun](https://www.investchosun.com/site/data/html_dir/2026/06/13/2026061380052.html), [mk](https://www.mk.co.kr/article/12073341), [joongang](https://www.joongang.co.kr/article/25436486) |
+
+
+## 2026-06-13 업데이트 — 공모주 국내 배정 0주·시총 2조 달러 돌파
+
+### 공모주 배정 이슈
+- **미래에셋증권, 공모주 배정 전량 삭감(0주)**: 클래스A 보통주 231만4815주 배정 예정→골드만삭스 최종 배정에서 전량 제외. 기관 수요 폭증이 원인. 국내 전문투자자 청약 물량 전액 환불. ([ajunews](https://www.ajunews.com/view/20260613151528748), [wowtv](http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606130326&t=NN))
+- **한국투자신탁운용·미래에셋자산운용, 공모주 미확보** — 신규 ETF 편입 계획 차질. 장내 매수로 전환. ([khan](https://www.khan.co.kr/article/202606131530001), [inews24](http://www.inews24.com/view/1976262))
+- **금감원, 국내 청약 과정 조사 착수**. ([newsfc](http://www.newsfc.co.kr/news/articleView.html?idxno=79256))
+- **기존 공모주 청약자 대상 '송구' 입장 발표** — 미래에셋증권 청약 철회권 부여와 무관하게 배정 자체 불발. ([consumernews](http://www.consumernews.co.kr/news/articleView.html?idxno=757428))
+
+### 시총 2조 달러 돌파 및 평가
+- **스페이스X 상장 첫날 시총 2조 달러 돌파** — 머스크 세계 최초 '조만장자(兆長者)' 등극. ([sisajournal-e](https://www.sisajournal-e.com/news/articleView.html?idxno=421727), [economist](https://economist.co.kr/article/view/ecn202606130012))
+- **미래에셋그룹 지분 평가이익은 유지** — 2022~2023년 2.78억 달러 투자(기업가치 1,270억 달러 → 2조 달러, 약 15.7배). IPO 배정 무산과 별개. ([mt](https://www.mt.co.kr/stock/2026/06/13/2026061314145838952))
+- **국내 투자자 우회 경로 유효**: 해외주식 계좌 직접 매수·ETF(장내)·펀드. ETF 편입은 장내 매수로 대체. ([joseilbo](http://www.joseilbo.com/news/news_read.php?uid=569993&class=53&grp=))
+- **상장일 매도 불가(6/16 거래 가능)**: 국내 투자자 이틀 지연 거래. 푸틴·트럼프 우크라 종전 협상 등 지정학 이슈 관찰 필요. ([ytn](https://www.ytn.co.kr/_ln/0102_202606131524558147))
