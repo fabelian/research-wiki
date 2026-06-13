@@ -257,7 +257,7 @@ _HTML_HEAD = r"""<!doctype html><html lang="ko"><head><meta charset="utf-8">
   .node text{fill:var(--ink);font-size:11px;pointer-events:none;
     paint-order:stroke;stroke:var(--bg);stroke-width:3px}
   .node.dim{opacity:.12}.edge.dim{opacity:.05}.hidden{display:none}
-  #side{width:310px;background:var(--panel);border-left:1px solid var(--line);
+  #side{width:340px;background:var(--panel);border-left:1px solid var(--line);
     padding:18px;overflow-y:auto;font-size:13px;line-height:1.55}
   #side h1{font-size:12px;letter-spacing:.08em;color:var(--dim);
     text-transform:uppercase;margin-bottom:12px;font-weight:600}
@@ -268,14 +268,19 @@ _HTML_HEAD = r"""<!doctype html><html lang="ko"><head><meta charset="utf-8">
   #side a{display:block;color:var(--ink);text-decoration:none;padding:2px 0;cursor:pointer}
   #side a:hover{color:#e8b14a}
   #side a small{color:var(--dim)}
-  #filters{margin:6px 0 4px}
-  #filters label{display:inline-flex;align-items:center;gap:5px;margin:2px 8px 2px 0;
-    font-size:12px;cursor:pointer;user-select:none}
-  #filters input{accent-color:#e8b14a}
-  #filters i{width:9px;height:9px;border-radius:50%;display:inline-block}
-  #legend{position:absolute;left:16px;bottom:14px;font-size:10px;color:var(--dim);max-width:60%}
-  #legend span{display:inline-flex;align-items:center;margin:0 10px 4px 0}
-  #legend b{width:16px;height:0;border-top:3px solid;display:inline-block;margin-right:5px}
+  #filters{margin:6px 0 10px}
+  #filters label{display:flex;align-items:center;gap:8px;margin:0;padding:4px 0;
+    font-size:13px;cursor:pointer;user-select:none}
+  #filters input{accent-color:#e8b14a;flex:0 0 auto}
+  #filters i{width:12px;height:12px;border-radius:3px;display:inline-block;flex:0 0 auto}
+  #filters .cnt{margin-left:auto;color:var(--dim);font-size:11px}
+  #legend{position:absolute;left:16px;bottom:14px;font-size:11.5px;color:var(--ink);
+    max-width:72%;background:rgba(14,16,20,.85);padding:9px 12px;border-radius:8px;
+    border:1px solid var(--line)}
+  #legend .t{color:var(--dim);font-size:10px;text-transform:uppercase;
+    letter-spacing:.06em;margin-bottom:6px}
+  #legend span{display:inline-flex;align-items:center;margin:0 13px 4px 0}
+  #legend b{width:18px;height:0;border-top:3px solid;display:inline-block;margin-right:6px}
   #hint{position:absolute;left:16px;top:12px;font-size:11px;color:var(--dim)}
 </style></head><body>
 <div id="wrap"><svg id="g"></svg>
@@ -307,17 +312,18 @@ const present=[...new Set(nodes.map(n=>n.type))];
 const active=new Set(present);
 const fbox=document.getElementById("filters");
 present.sort((a,b)=>(a==="_missing")-(b==="_missing"));
+const typeCount={};nodes.forEach(n=>typeCount[n.type]=(typeCount[n.type]||0)+1);
 present.forEach(t=>{
   const l=document.createElement("label");
-  l.innerHTML=`<input type="checkbox" checked data-t="${t}"><i style="background:${TC[t]||'#999'}"></i>${TYPE_LABEL[t]||t}`;
+  l.innerHTML=`<input type="checkbox" checked data-t="${t}"><i style="background:${TC[t]||'#999'}"></i>${TYPE_LABEL[t]||t}<span class="cnt">${typeCount[t]||0}</span>`;
   l.querySelector("input").addEventListener("change",e=>{
     e.target.checked?active.add(t):active.delete(t);applyFilter();});
   fbox.append(l);
 });
 // 관계 범례
-document.getElementById("legend").innerHTML=Object.keys(RC)
-  .map(r=>`<span><b style="border-color:${RC[r]}"></b>${r}</span>`).join("")
-  +`<span><b style="border-color:#7a8190;border-top-style:dashed"></b>추정/루머</span>`;
+document.getElementById("legend").innerHTML=`<div class="t">관계 종류 (엣지 색) · 굵기=신뢰도</div>`
+  +Object.keys(RC).map(r=>`<span><b style="border-color:${RC[r]}"></b>${r}</span>`).join("")
+  +`<span><b style="border-color:#7a8190;border-top-style:dashed"></b>추정/루머(점선)</span>`;
 
 const gE=document.createElementNS(NS,"g"),gN=document.createElementNS(NS,"g");svg.append(gE,gN);
 const eEl=edges.map(e=>{const l=document.createElementNS(NS,"line");l.setAttribute("class","edge");
