@@ -103,3 +103,20 @@ updated: 2026-06-11
 
 ### 회사 개요 재조명
 - **2026-06-12**: Redwire는 위성 제조, 우주선 부품, 태양광 어레이(Rosa/iROSA), 우주 생태계용 로봇 공학 및 바이오 인프라를 아우르는 포괄적인 우주 인프라 및 국방 기술 솔루션 제공 기업으로 재조명. (출처: [네이버블로그](https://blog.naver.com/stock_together/224313587873))
+
+
+## 2026-06-12 업데이트
+
+### 주가 급락(-10.79%) 및 거래량 63.63M
+- **2026-06-12**: Redwire 주가 전일 대비 -10.79% 급락, 거래량 63.63M. 당일 미국 우주 기술 테마주 내 거래대금 1위 기록. 동반 하락 종목: Rocket Lab(-15.53%), BlackSky(-9.87%), Spire Global(-7.88%) 등 전반적 약세. (출처: [네이버블로그](https://blog.naver.com/smarthumanlife/224314606279))
+
+### 우주 ETF 내 비중 변동 및 포트폴리오 영향
+- **2026-06-12**: TIGER 미국우주테크 ETF는 Redwire와 Intuitive Machines에 높은 비중으로 인해 강한 변동성 발생. 시촉 대비 성장성이 포트폴리오 최상단에 배치된 배경으로 분석. (출처: [네이버블로그](https://blog.naver.com/probaby7/224314633591))
+- **ACE 미국우주테크액티브 ETF**: Redwire와 Intuitive Machines에 집중 투자해 초기 고수익 실현했으나, 스페이스X 25% 편입 예정으로 포트폴리오 재편 움직임. (출처: [네이버블로그](https://blog.naver.com/lordglor/224314757247))
+- **TIGER vs KODEX vs ACE vs 원큐 비교**: 일부 ETF(ACE)가 Redwire와 Intuitive Machines에 몰빵 전략으로 수익 냈으나 TIGER는 변동성 확대. KODEX 미국우주항공 ETF는 Redwire를 비중 있게 담아 장기 안정성 확보 전략. (출처: [네이버블로그](https://blog.naver.com/richdo_invest/224314768010))
+
+### Axiom Space 우주정거장 태양전지 계약
+- **2026-06-12**: Redwire가 Axiom Space의 첫 우주정거장 모듈용 태양전지 배열(ROSA/iROSA) 계약 발표. 우주 인프라 핵심 부품 공급자로서의 입지 재확인. (출처: [네이버블로그](https://blog.naver.com/moneymoment/224314660711))
+
+### SpaceX 상장일(6/12) 우주 섹터 전반 변동성
+- **2026-06-12**: SpaceX 한국 상장일, Redwire 포함 우주 테마주 전반이 매도 압력에 직면. 상장일 충격에도 불구하고 Axiom Space 계약·우주 제조 테마는 중기적 수혜 기대 유지. (출처: [네이버블로그](https://blog.naver.com/theus76/224314704125))
