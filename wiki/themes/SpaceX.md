@@ -81,6 +81,12 @@ edges:
     claim_type: "보도"
     source: "https://blog.naver.com/zzipssa9090/224314620518"
     date: 2026-06-12
+  - rel: MENTIONS
+    target: "[[박준규]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "https://www.sedaily.com/article/20055188?ref=naver"
+    date: 2026-06-13
 ---
 
 # SpaceX
@@ -317,3 +323,8 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 - **스페이스X 한국 거래 방법**: 삼성증권·미래에셋증권·NH투자증권·한국투자증권 등 대형사 계좌로 거래 가능. 환전 수수료 95% 우대 또는 첫 거래 이벤트 진행 중. 미국 주식 온라인 거래 수수료 거래금액의 0.25% 수준. (블로그·wise-owl, 블로그·jhae1227) [방법1](https://blog.naver.com/wise-owl/224314809857) [방법2](https://blog.naver.com/jhae1227/224314909471)
 - **일론 머스크 조만장자 분석**: 스페이스X 상장으로 머스크 순자산 분석. 삼성증권·신한투자증권 등 제휴 증권사 계좌로 비상장 주식 거래 플랫폼 연동 가능. (블로그·kmos04) [출처](https://blog.naver.com/kmos04/224314873471)
 - **JTBC 뉴스룸 특집**: 스페이스X 상장일 보도. 신승진 삼성증권 투자정보팀장 출연. (블로그·donelly) [출처](https://blog.naver.com/donelly/224314947618)
+
+
+---
+
+| 2026-06-13 | **스페이스X CFO·COO 공개 웨비나**: 삼성증권 [[박준규]] 연구원 인용, 스페이스X 임원진이 6/10 웨비나에서 향후 사업 계획 질의응답. 우주 AIDC(데이터센터) 가속화 및 태양전지 확보 주력 방안 논의. | [sedaily](https://www.sedaily.com/article/20055188?ref=naver) |
