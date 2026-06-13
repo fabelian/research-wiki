@@ -102,3 +102,6 @@ AI 학습·추론에 특화된 서버 인프라. GPU([[엔비디아]] 중심), [
 - **핵융합-데이터센터**: CFS 투자, AI 데이터센터 전력 문제 장기 해법. ([esiguy](https://blog.naver.com/esiguy/224309347735)) ⚠️미확인.
 - **스페이스X=우주판 엔비디아**: AI 인프라와 우주 인프라 패러다임 전환 프레임. 스페이스X IPO PSR 94배 거품 논란. ([challengery](https://blog.naver.com/challengery/224312152561)) ⚠️개인 분석.
 - **TSMC CoPoS 첫 도입**: 엔비디아 파인만 AI 칩, 9.5배 레티클 초과 대형 패키징. ([nlueoxy](https://blog.naver.com/nlueoxy/224313123115)) ⚠️개인 분석.
+
+
+## 2026-06-11 업데이트 — 삼성 AX 전격 도입·AI 대전환
