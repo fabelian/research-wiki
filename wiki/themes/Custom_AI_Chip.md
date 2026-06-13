@@ -103,3 +103,12 @@ updated: 2026-06-08
 
 ### 🏭 TSMC 점유율 72% — 삼성 격차 확대
 - 트렌드포스, TSMC 1Q 파운드리 점유율 72% 돌파 (ppss).
+
+
+## 2026-06-12~13 업데이트
+
+### OpenAI-Broadcom 10GW 맞춤형 AI 가속기 협력
+- 25년 10월 OpenAI·Broadcom 10GW 규모 맞춤형 AI 가속기 협력 발표. OpenAI 설계·Broadcom 개발 배포. 배포 2026년 하반기~2029년 말까지. (https://blog.naver.com/claycashflow/224314642299)
+
+### 구글·삼성 파운드리 2나노 검토
+- TPU 구글-Broadcom 공동 설계·TSMC 생산 구조에서 TSMC+삼성 분업 모델 논의. (https://blog.naver.com/h2otube/224314187694)

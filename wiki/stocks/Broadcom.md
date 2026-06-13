@@ -17,6 +17,24 @@ edges:
     claim_type: 보도
     source: "브로드컴 실적 쇼크가 사건의 방아쇠 (wiki/issues/검은월요일-반도체쇼크-2026Q2.md)"
     date: 2026-06-05
+  - rel: MENTIONS
+    target: "[[삼성전기]]"
+    confidence: 0.6
+    claim_type: "보도"
+    source: "https://blog.naver.com/plaza_2moons/224314578625"
+    date: 2026-06-12
+  - rel: SUPPLIES_TO
+    target: "[[alphabet]]"
+    confidence: 0.7
+    claim_type: "보도"
+    source: "https://blog.naver.com/h2otube/224314187694"
+    date: 2026-06-12
+  - rel: SUPPLIES_TO
+    target: "[[Anthropic]]"
+    confidence: 0.7
+    claim_type: "보도"
+    source: "https://blog.naver.com/kjhoi79/224314803036"
+    date: 2026-06-12
 updated: 2026-06-11
 ---
 
@@ -146,3 +164,39 @@ updated: 2026-06-11
 - **psychy0096**(06-10): Google-Broadcom TPU 인프라 100만 대 이상 Ironwood 배치, 장기 계약.
 
 (⚠️모든 블로그 자료는 셀사이드 리포트 대비 신뢰도 차이 있음)
+
+
+## SNS·블로그 추가 관점 (2026-06-12~13)
+
+### 광통신·네트워킹 인프라 관점
+- **KODEX 미국AI광통신네트워크 ETF 정리**: Lumentum·Coherent·Marvell·Ciena·Corning·Tower Semi·Broadcom 등 AI 데이터센터 연결 인프라 전반 투자 구조. AI 시대의 네트워크 병목 해결 핵심 포지션. (https://blog.naver.com/elly002/224313926283)
+- **CPO 생태계 심화 분석**: Ayar Labs·Celestial AI(Marvell)·Ranovus 등 CPO 스위치(NVIDIA Spectrum-X/Quantum-X, Broadcom Tomahawk 6) 외장 레이저 수요와 GPU scale-up CPO의 EML/CW 레이저 수요 동시 성장 구조. Lumentum 업스트림 병목 포지션. (https://blog.naver.com/azmkhy/224314852195)
+- **51.2-Tbps급 CPO 기반 네트워크 스위치 양산**: Broadcom이 이미 CPO 기반 네트워크 스위치를 양산 중. 엔비디아도 차세대 AI 인프라 핵심 전환점으로 CPO 지목. (https://blog.naver.com/haeun0814/224314871018)
+
+### 빅테크·벨류에이션 논쟁 심화
+- **"빅테크의 곡간이 거덜 나고 있다"**: 구글 800억 달러·아마존·Broadcom 등 빅테크 부채 규모 임계점 접근. 하이일드 채권 시장 빅테크 발행 급증 경고. (https://blog.naver.com/bnisee/224309553726)
+- **빅테크 이익 절반 '장부상 숫자'**: 오픈AI·앤스로픽 무너지면 AI Capex 거품 붕괴 시나리오. Broadcom AI 서버용 네트워크 칩 의존도 분석. (https://blog.naver.com/pink12631/224314603672)
+- **"완벽한 성장(Perfect Growth)에 대한 시장의 강박"**: Broadcom 양호한 실적에도 12% 폭락한 사례가 시장의 '기대치를 뛰어넘는 완벽한 성장' 강박 증명. (https://blog.naver.com/rapclub/224314839224)
+
+### 매수 관점·전략
+- **닷컴버블 경험자 크래그 관점**: Broadcom 여전히 좋게 봤고, "you can't time the market" 전제하에 현재도 매수 의견. (https://blog.naver.com/roomswim2016/224314702166)
+- **SpaceX 청약 자금 재유입 기대**: 청약에서 튕겨 나간 자금이 Broadcom·NVIDIA·AMD·TSMC·SK하이닉스 등 고성능 AI 반도체 선도 기업들로 재유입될 가능성 높음. (https://blog.naver.com/cleanmental2/224314751284)
+- **Broadcom 투자포인트**: AI 네트워크 수혜·빅테크 고객 확보·실적 성장 지속, 전략 = 눌림목 매수. (https://blog.naver.com/kjy452/224314697667)
+
+### AI & 반도체 패키징 병목
+- **AI 칩 패키징 병목 심층 분석**: 25년 10월 OpenAI와 Broadcom은 10GW 규모 맞춤형 AI 가속기 협력 발표. OpenAI가 설계·Broadcom이 개발·배포. 배포는 2026년 하반기~2029년 말까지. (https://blog.naver.com/claycashflow/224314642299)
+
+### SOXX·SMH ETF 구조 비교
+- **SOXX vs SMH 비교**: 엔비디아·TSMC·Broadcom의 영향력이 SMH에서 더 크게 나타나는 구조. SOXX는 보다 균형적 분산. 둘 다 AI 데이터센터·GPU·HBM 핵심 ETF. (https://blog.naver.com/jimtae/224314966872)
+
+
+## 2026-06-12~13 업데이트
+
+### 신규 뉴스·블로그 반영
+- **KODEX 미국AI광통신네트워크 ETF**: Lumentum·Coherent·Marvell·Ciena·Corning·Tower Semi·Broadcom 등 AI 데이터센터 연결 인프라 전반 투자. 네트워크 병목 해결 핵심 포지션. (https://blog.naver.com/elly002/224313926283)
+- **Broadcom-Apollo-Blackstone AI XPV 플랫폼**: Anthropic AI 컴퓨팅 용량 지원 위해 초기 350억 달러 투입. 2028년까지 20GW 이상 인프라 목표. (https://blog.naver.com/kjhoi79/224314803036, https://blog.naver.com/wnguddhkd/224314858290)
+- **SOX 현황**: AI 성장 기대와 금리·과열 우려 충돌 구간. 장기 AI 인프라 확대 수혜 기대 vs 단기 변동성 큼. (https://blog.naver.com/lkbin007/224314554197)
+- **매크로브리핑 6/13**: Broadcom AI 가이던스 실망 + 강한 고용(5월 NFP)이 매도 촉발. 2025년 4월 이후 최대 낙폭. FOMC(6/17) 기준금리 3.50-3.75% 동결 유력. (https://blog.naver.com/378star/224314564335)
+- **소버린 AI**(Sovereign AI): Broadcom은 NVIDIA·AMD와 함께 AI 반도체 최대 수혜 분야 대표 기업. (https://blog.naver.com/sarasung1/224313211774)
+- **구글, 삼성 파운드리 2나노 검토**: TPU 구글-Broadcom 공동 설계·TSMC 생산 구조에서 TSMC+삼성 분업 모델 논의. (https://blog.naver.com/h2otube/224314187694)
+- **삼성전기 Broadcom 공급망 진입 협의**: Digitimes 보도(검토 단계). 2026.04 Apple·Broadcom향 유리기판(Glass Core) 샘플 공급 개시. (https://blog.naver.com/plaza_2moons/224314578625)

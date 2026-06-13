@@ -134,3 +134,12 @@ SK하이닉스 청주 4캠퍼스 M15X 공장 2층 가스룸 화재. 13명 병원
 ## 💰 바이낸스, SK하이닉스 무기한 선물 상장
 
 삼성전자·SK하이닉스·현대차 기초 주식 토큰화 선물 상품 상장. (매일안전신문 06-12)
+
+
+## 2026-06-12~13 업데이트
+
+### Broadcom-Apollo-Blackstone AI XPV 플랫폼
+- Anthropic AI 컴퓨팅 용량 지원 위해 초기 350억 달러 투입. 2028년까지 20GW 이상 AI 인프라 제공 목표. (https://blog.naver.com/kjhoi79/224314803036, https://blog.naver.com/wnguddhkd/224314858290)
+
+### 소버린 AI (Sovereign AI)
+- Broadcom은 NVIDIA·AMD와 함께 AI 반도체 최대 수혜 분야 대표 기업. (https://blog.naver.com/sarasung1/224313211774)
