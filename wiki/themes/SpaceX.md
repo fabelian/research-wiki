@@ -9,6 +9,30 @@ edges:
     claim_type: "보도"
     source: "https://www.huffingtonpost.kr/article/257913"
     date: 2026-06-12
+  - rel: AFFECTS
+    target: "[[Rocket Lab]]"
+    confidence: 0.9
+    claim_type: "보도"
+    source: "https://blog.naver.com/yulmu1/224314488604"
+    date: 2026-06-12
+  - rel: AFFECTS
+    target: "[[Intuitive_Machines]]"
+    confidence: 0.9
+    claim_type: "보도"
+    source: "https://blog.naver.com/stockdiary24/224314501840"
+    date: 2026-06-12
+  - rel: AFFECTS
+    target: "[[Planet_Labs]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "https://blog.naver.com/good-day-go/224314567583"
+    date: 2026-06-12
+  - rel: AFFECTS
+    target: "[[AST SpaceMobile]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "https://blog.naver.com/dnines/224314604606"
+    date: 2026-06-12
 ---
 
 # SpaceX
@@ -169,3 +193,22 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 | 2026-06-12 | **스페이스X 나스닥 상장일**. 미래에셋증권 +2.35%, 세아베스틸+6%, 케이피항공+14% 등 우주주 강세. ETF 편입 공지 삭제 논란. | newsis, investchosun, delighti |
 | 2026-06-12 | 미래에셋증권 공모주 청약 4,600억원 완판 — 전문투자자 한정, 일반 청약 불가. | delighti |
 | 2026-06-12 | 서상영 미래에셋증권 연구원 "이란 리스크 완화로 반도체 중심 회복" | bizwatch |
+
+
+## 2026-06-13 업데이트
+
+### 스페이스X 상장일(6/12): 첫날 19%↑, 시총 6위 등극
+- **상장 첫날 종가 $160.65(+19%)**, 시가총액 ~$2.3조(나스닥 6위). (출처: [blog.naver.com/stockdiary24/224314501840](https://blog.naver.com/stockdiary24/224314501840))
+- 머스크 '조만장자' 등극. (출처: [blog.naver.com/sjh2926/224314529873](https://blog.naver.com/sjh2926/224314529873))
+- **우주 Peer 기업 급락**: RKLB -10~11%, Intuitive Machines -13%, Planet Labs -8%, ASTS 동반 약세. "돈이 스페이스X로 이동". (출처: [blog.naver.com/yulmu1/224314488604](https://blog.naver.com/yulmu1/224314488604), [blog.naver.com/stockdiary24/224314501840](https://blog.naver.com/stockdiary24/224314501840))
+- Reuters: 스페이스X 편입 위한 자금 재배분 가능성. (출처: [blog.naver.com/ucs73/224314534715](https://blog.naver.com/ucs73/224314534715))
+- **옵션 변동성 확대**: SpaceX 옵션 출시로 단기 변동성 추가 확대 가능. (출처: [blog.naver.com/ucs73/224314534715](https://blog.naver.com/ucs73/224314534715))
+
+### 국내 투자자 접근 경로
+- 6/16(화)부터 해외주식 직매수 가능. 국내 ETF(TIGER·KODEX·SOL) 간접투자 유일. (출처: [blog.naver.com/rhghwkals/224314540664](https://blog.naver.com/rhghwkals/224314540664), [blog.naver.com/cmj07251/224314492641](https://blog.naver.com/cmj07251/224314492641))
+- 미래에셋 ETF '스페이스X 편입' 공지 삭제 논란 지속. (출처: [blog.naver.com/ant1343/224305764386](https://blog.naver.com/ant1343/224305764386))
+
+### 상장일 Peer 급락에 대한 반론
+- 단기 차익실현 + 자금 재배분. RKLB·ASTS 펀더멘털 변화 없음. (출처: [blog.naver.com/sileolee/224314538590](https://blog.naver.com/sileolee/224314538590))
+- 락업 해제(여름) 이후 진짜 변동성 예상. (출처: [blog.naver.com/jynote_no1/224314429306](https://blog.naver.com/jynote_no1/224314429306))
+- KODEX ETF 내 SpaceX 간접 편입(SPCX 주식 직접 매수 아님) 유의. (출처: [blog.naver.com/hapchoeninvest/224314556268](https://blog.naver.com/hapchoeninvest/224314556268))

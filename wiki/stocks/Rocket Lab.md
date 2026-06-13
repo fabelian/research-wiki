@@ -5,6 +5,25 @@ name: Rocket Lab
 sector: [[우주항공]]
 created: 2026-04-09
 updated: 2026-06-11
+edges:
+  - rel: AFFECTS
+    target: "[[SpaceX]]"
+    confidence: 0.9
+    claim_type: "보도"
+    source: "https://blog.naver.com/yulmu1/224314488604"
+    date: 2026-06-12
+  - rel: AFFECTS
+    target: "[[Intuitive_Machines]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "https://blog.naver.com/stockdiary24/224314501840"
+    date: 2026-06-12
+  - rel: AFFECTS
+    target: "[[AST SpaceMobile]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "https://blog.naver.com/dnines/224314604606"
+    date: 2026-06-12
 ---
 # Rocket Lab (RKLB)
 
@@ -73,6 +92,9 @@ updated: 2026-06-11
 | 2026-05-15 | 주가 130%+ 급등, 숏스퀴즈 발생 | [newspim](https://www.newspim.com/news/view/20260515000784) |
 | 2026-04 | Mynaric(레이저 통신장비)·Motiv Space Robotics 인수 완료 | [theguru](https://www.theguru.co.kr/news/article.html?no=100694) |
 | 2025 | 지주사 전환 과정 국내 개인 투자자 양도소득세 부과 이슈 발생 | [edaily](https://www.edaily.co.kr/news/newspath.asp?newsid=04513286645452856) |
+| 2026-06-12 | 스페이스X 상장일 RKLB -10~11% 급락. 투자자 자금 스페이스X 이동. | [yulmu1](https://blog.naver.com/yulmu1/224314488604) 외 다수 |
+| 2026-06-11 | 나스닥100 편입 공식 발표. 6/22 정기 변경 적용. QQQ 패시브 수요 기대. | [affluent_2480](https://blog.naver.com/affluent_2480/224314313903), [yous3163](https://blog.naver.com/yous3163/224314315685) |
+| 2026-06-12 | KODEX ETF 내 RKLB 비중 ~18.66%(1위). ASTS 18.20%와 근접. | [ace_begins](https://blog.naver.com/ace_begins/224314603951) |
 
 ## 관련 출처/링크
 - [sisacast - 스페이스X 상장과 Rocket Lab](http://www.sisacast.kr/news/articleView.html?idxno=96478)
@@ -106,3 +128,26 @@ updated: 2026-06-11
 
 ### Viasat 기밀 위성 버스 계약 (재확인)
 - SSC 대변인 공식 확인: Rocket Lab이 기밀 위성 버스 'Viasat' 수주. 공식 발표는 아직 없음.
+
+
+## 2026-06-13 업데이트
+
+### 스페이스X 상장일(6/12) RKLB 급락 — '돈의 이동' 현실화
+- **2026-06-12 스페이스X 상장일**: Rocket Lab(RKLB) -10~11% 급락. Intuitive Machines -13%, Planet Labs -8%, AST SpaceMobile 동반 약세. 우주 테마 전반에서 스페이스X로 자금 이동 현실화. (출처: [blog.naver.com/yulmu1](https://blog.naver.com/yulmu1/224314488604), [blog.naver.com/stockdiary24](https://blog.naver.com/stockdiary24/224314501840), [blog.naver.com/sjh2926/224314529873), [blog.naver.com/funnylifes/224314566608](https://blog.naver.com/funnylifes/224314566608))
+- Reuters 분석: "SpaceX 편입을 위한 자금 재배분 가능성"이 우주 Peer 기업 급락 원인. (출처: [blog.naver.com/ucs73/224314534715](https://blog.naver.com/ucs73/224314534715))
+- 반면 Fast Company: SpaceX IPO 열풍 속 RKLB 등 상장 우주주도 반사이익... 단기 급등 후 차익실현은 불가피. (출처: [fastcompany.com](https://www.fastcompany.com/91558644/space-stocks-rising-today-virgin-galactic-rocket-one-rocket-lab-asts))
+
+### 나스닥100 편입 분석 심화
+- **2026-06-11 공식 발표, 6/22 적용**: RKLB·ALAB·CRWV·NBIS·TER 나스닥100 편입. (출처: [blog.naver.com/quietnurse_/224314358302](https://blog.naver.com/quietnurse_/224314358302), [blog.naver.com/spoonfeedfinace/224314423270](https://blog.naver.com/spoonfeedfinace/224314423270))
+- QQQ·QQQM 등 나스닥100 추종 패시브 자금 매수 유입 기대. 과거 편입 종목 평균 3~6개월 후 초과수익률 관찰됨. (출처: [blog.naver.com/affluent_2480/224314313903](https://blog.naver.com/affluent_2480/224314313903))
+- 분석: 소형 발사체 시장 독점 → 나스닥100 편입 → 제도권 안착. 단기 변동성(스페이스X 자금 이동)과 중장기 패시브 수요 상충 구도. (출처: [blog.naver.com/yous3163/224314315685](https://blog.naver.com/yous3163/224314315685))
+- KODEX ETF 내 RKLB 비중 ~18.66%(1위), ASTS 18.20%(2위). (출처: [blog.naver.com/ace_begins/224314603951](https://blog.naver.com/ace_begins/224314603951))
+
+### 밸류에이션 비교 재확인
+- 스페이스X 상장일 시총 $2조+ 진입 시 PSR 94배 추정. RKLB ~25배, ASTS ~80배(예상매출 기준). (출처: [blog.naver.com/adp_jht/224314369499](https://blog.naver.com/adp_jht/224314369499))
+- RKLB 분기 매출 $203M(+63.5% YoY), 백로그 $2.2B, 순이익률 38% 전망(증권사 추정). "성장이 진짜로 들어오면 정당화 가능한 밸류" 분석 공존. (출처: [blog.naver.com/adp_jht/224314369499](https://blog.naver.com/adp_jht/224314369499))
+- 스페이스X 락업 해제(2026년 여름)가 진짜 변수로 지목. Peer 기업에도 2차 충격 가능. (출처: [blog.naver.com/jynote_no1/224314429306](https://blog.naver.com/jynote_no1/224314429306))
+
+### ASTC(애스트로테크) 스캠 논란과 RKLB 비교
+- ASTC -7.6%, RKLB -7.6%(일부 자료 -11%) 동반 하락했으나 원인 상이. ASTC는 희석·공매도·실적 검증 부족, RKLB는 자금 이동. (출처: [blog.naver.com/minyoung07133/224314464137](https://blog.naver.com/minyoung07133/224314464137))
+- ASTC(스캠 논란)와 RKLB(견고한 펀더멘털)의 질적 차이 재확인. (출처: [blog.naver.com/sileolee/224314538590](https://blog.naver.com/sileolee/224314538590))
