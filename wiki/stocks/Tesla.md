@@ -38,6 +38,18 @@ edges:
     claim_type: "보도"
     source: "blog.naver.com/me_no_you_young/224314118045"
     date: 2026-06-11
+  - rel: SUPPLIES_TO
+    target: "[[SpaceX]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "네이버블로그 me_no_you_young·sorigill"
+    date: 2026-06-11
+  - rel: MENTIONS
+    target: "[[SpaceX]]"
+    confidence: 0.4
+    claim_type: "추정"
+    source: "네이버블로그 me_no_you_young·sorigill"
+    date: 2026-06-11
 ---
 
 # Tesla (TSLA)
@@ -76,6 +88,7 @@ Tesla는 전기차, 에너지 저장(메가팩), 자율주행(FSD) 및 로보틱
 | 2013-07-17 | 골드만삭스 | 중립 | 84 (USD) | (과거 데이터) |
 | 2026-06-11 | 🐦 네이버블로그(solarfarmer) | (수입전략 시사) | - | RWD 재고 소진→롱레인지+FSD 구독 전환, 160만km 배터리 수명 강조 (출처: 🔗solarfarmer) |
 | 2026-06-11 | 🐦 네이버블로그(nhy7113) | (시장 분석) | - | 신형 모델3 RWD 5,999만원·보조금 반영 3,000만원대, 모델YL 6인승 553km 인증 (출처: 🔗nhy7113) |
+| 2026-06-11 | 🐦 네이버블로그(solarfarmer) | (RWD 재고 소진·HW3.0 보유) | - | RWD 돌연 수입 중단 = 재고 소진 전략; Model Y Long Range(160만km 배터리·FSD 구독) 전환 권장 (출처: 🔗solarfarmer) |
 
 ## 핵심 투자포인트
 
@@ -226,3 +239,42 @@ Tesla는 전기차, 에너지 저장(메가팩), 자율주행(FSD) 및 로보틱
 | 2026-06-11 | FSD V12 스마트파킹 비주얼 업데이트 공개 (네이버블로그 ugwang__) |
 | 2026-06-11 | Model 3 영국 Auto Express Driver Power 만족도 1위 (네이버블로그 teslazoa) |
 | 2026-06-11 | 스페이스X IPO 공모주 수요 급증 — 대여 주식 부족, 풋옵션 공매도 대안 부상 (네이버블로그 hyungmjee) |
+
+
+| 2026-06-11 | FSD 업데이트 — 주차 계획 프리뷰(Parking Plan) 도입, 새로운 FSD 비주얼 (네이버블로그 ugwang_, Digital Trends·Indiatimes 인용) |
+
+
+| 2026-06-11 | Model 3, Auto Express '2026 Driver Power' 영국 내 소유 만족도 1위 선정 (네이버블로그 teslazoa) |
+
+
+| 2026-06-11 | 유럽 최초 '접이식 폴딩 V4 슈퍼차저' 공개 (네이버블로그 yangbyung, TESLARATI 인용) |
+
+
+| 2026-06-11 | 모델Y 중고차 매물 소화 속도, 내연기관 SUV 압도 — 중고 전기차 회전율 최대 (네이버블로그 bbangjang__, brief__) |
+
+
+| 2026-06-11 | 사이버트럭 국내 실물 인증샷 확산, G-Dragon 애정 차량 재조명 (네이버블로그 bingtimjang) |
+
+
+| 2026-06-11 | 2026 신형 모델3, 6,939만원→5,999만원 할인 — 보조금 반영 3,000만원대 실구매가 분석 확산 (네이버블로그 nhy7113) |
+
+
+| 2026-06-11 | 2026 신형 모델YL(6인승), 한충전 553km 인증 — 6인승 SUV 최장 주행거리 (네이버블로그 nhy7113) |
+
+
+| 2026-06-11 | SpaceX IPO 6/12 최종 가격 결정 전망, 머스크 6,900억 달러 자산 평가 — Tesla 합병설 지속 (네이버블로그 me_no_you_young, sorigill, jws148) |
+
+
+### 🐦 SNS·블로그 (2026-06-11)
+- 네이버블로그 yangbyung: 유럽 접이식 V4 슈퍼차저, 웨이모 프리미어 구독 $29.99
+- 네이버블로그 bbangjang__: 모델Y 중고차 매물 소화 속도 내연기관 압도
+- 네이버블로그 brief__: "요즘 국산차 누가 타?" — 모델Y 국내 시장 잠식 심층
+- 네이버블로그 nhy7113: 신형 모델3 보조금 할인 분석, 신형 모델YL 553km 6인승
+- 네이버블로그 teslazoa: Model 3 영국 만족도 1위, 6월 2주차 Tesla 뉴스 종합
+- 네이버블로그 ugwang_: FSD 업데이트 — 주차 계획 프리뷰, 새로운 비주얼
+- 네이버블로그 me_no_you_young: SpaceX IPO 총정리 — 1.75조 달러, Tesla 합병설
+- 네이버블로그 sorigill: 머스크 세계 최초 조만장자(스페이스X 지분 6,900억 달러)
+- 네이버블로그 bingtimjang: 사이버트럭 국내 실물·G-Dragon 애정 차량
+- 네이버블로그 solarfarmer: Tesla 하반기 FSD·수입전략 — RWD 재고 소진, HW3.0 장기 보유
+- 네이버블로그 jws148: 6/12 장외주식 시황 — Tesla 비상장
+- 네이버블로그 hyungmjee: Tesla 주식 공매도 vs 풋옵션 전략 비교
