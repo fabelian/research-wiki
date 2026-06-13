@@ -63,13 +63,14 @@ const deg={};edges.forEach(e=>{deg[e.s]=(deg[e.s]||0)+1;deg[e.t]=(deg[e.t]||0)+1
 
 // 타입 필터 상태
 const present=[...new Set(nodes.map(n=>n.type))];
-const active=new Set(present);
+const OFF=new Set(["_missing","analyst"]);  // 기본 꺼짐(잡음): 미생성·애널
+const active=new Set(present.filter(t=>!OFF.has(t)));
 const fbox=document.getElementById("filters");
 present.sort((a,b)=>(a==="_missing")-(b==="_missing"));
 const typeCount={};nodes.forEach(n=>typeCount[n.type]=(typeCount[n.type]||0)+1);
 present.forEach(t=>{
   const l=document.createElement("label");
-  l.innerHTML=`<input type="checkbox" checked data-t="${t}"><i style="background:${TC[t]||'#999'}"></i>${TYPE_LABEL[t]||t}<span class="cnt">${typeCount[t]||0}</span>`;
+  l.innerHTML=`<input type="checkbox" ${active.has(t)?"checked":""} data-t="${t}"><i style="background:${TC[t]||'#999'}"></i>${TYPE_LABEL[t]||t}<span class="cnt">${typeCount[t]||0}</span>`;
   l.querySelector("input").addEventListener("change",e=>{
     e.target.checked?active.add(t):active.delete(t);applyFilter();});
   fbox.append(l);
@@ -116,6 +117,7 @@ if(tdates.length>1){
     tlabel.textContent=timeCut||"전체";applyFilter();
   });
 }else{document.getElementById("timebox").style.display="none";}
+applyFilter();  // 초기 필터 적용(미생성·애널 기본 숨김)
 
 let view={x:0,y:0,k:1};
 function applyView(){const tr=`translate(${view.x},${view.y}) scale(${view.k})`;
