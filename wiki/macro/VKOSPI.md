@@ -30,6 +30,9 @@ updated: 2026-06-10
 | 2026-06-11 | 88.69 (+0.38%, 장중 89.06) — 3거래일 연속 80선, 금융위기 수준 지속 | https://www.yna.co.kr/view/AKR20260611040151008?input=1195m (연합뉴스 종합) , https://www.fntoday.co.kr/news/articleView.html?idxno=386057 (파이낸셜투데이) |
 | 2026-06-11 | 87.30 (장중 89.47, -1.19%, 3거래일 연속 80선+) | https://www.mt.co.kr/stock/2026/06/12/2026061117393056190 , https://www.tokenpost.kr/news/market/368288 , https://www.ziksir.com/news/articleView.html?idxno=136528 |
 | 2026-06-12 | 85.25 (-2.34%, 나흘째 80선+, 외인 25거래일만에 순매수 전환) | https://www.yna.co.kr/view/AKR20260612038651008?input=1195m , https://news.sbs.co.kr/news/endPage.do?news_id=N1008607177&plink=ORI&cooper=NAVER , http://www.seouleconews.com/news/articleView.html?idxno=91771 |
+| 2026-06-12 | 89.91 (종가, +2.99%), 장중 91.94 신고가 — 4거래일 연속 80선+, 2009년 공식산출 이래 최고치 경신 | https://www.getnews.co.kr/news/articleView.html?idxno=872287 , https://www.industrynews.co.kr/news/articleView.html?idxno=82104 , https://www.mt.co.kr/stock/2026/06/12/2026061216301351534 |
+| 2026-06-12 | 87 (VKOSPI 87선 마감 — 엔터티 기사 기준, NToday) — 이란 종전 기대감으로 코스피 4.6% 급등·8000선 탈환에도 VKOSPI는 87~91.94 고공행진 지속 | https://www.ntoday.co.kr/news/articleView.html?idxno=127601 (VKOSPI 87선 마감 언급) |
+| 2026-06-12 | 89.91 (종가, +2.99%), 장중 91.94 신고가 — 이란 종전 기대감에 코스피 4.63%↑ 8000선 탈환에도 VKOSPI는 4거래일 연속 80선+, 장중 91.94로 2009년 이후 사상 최고치 경신 | https://www.getnews.co.kr/news/articleView.html?idxno=872287 , https://www.industrynews.co.kr/news/articleView.html?idxno=82104 , https://www.ntoday.co.kr/news/articleView.html?idxno=127601 |
 
 ## 영향 관계
 - VKOSPI↑ → 국내 위험회피, 외국인 코스피 순매도·[[한국CDS]] 동반 상승 경향
@@ -121,3 +124,6 @@ updated: 2026-06-10
 ### VKOSPI 사상 최고치 보도(고코리아 기획) — '오천피 신화'와 증시 변동성 구조 분석
 - 고코리아 기획보도(2026-06-12): 한국 증시 개인투자자 5,000만명 시대('오천피 신화') 뒤에 숨은 변동성 위험. VKOSPI가 6/4 73.44까지 치솟으며 연초(55.87) 대비 31% 급등. (출처: https://www.gokorea.kr/news/articleView.html?idxno=868923)
 - 반도체 레버리지 ETF 중심 반대매매 1조원+ 돌파. '레버리지 리스크'가 VKOSPI 80~90대 고공행진의 주원인.
+
+
+| (VKOSPI 셀사이드 전망 대상 아님 — 변동성지수, 스키마상 생략) | | | | |
