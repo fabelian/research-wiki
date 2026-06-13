@@ -75,6 +75,12 @@ edges:
     claim_type: "보도"
     source: "https://www.mk.co.kr/article/12073341"
     date: 2026-06-13
+  - rel: AFFECTS
+    target: "[[삼성증권]]"
+    confidence: 0.7
+    claim_type: "보도"
+    source: "https://blog.naver.com/zzipssa9090/224314620518"
+    date: 2026-06-12
 ---
 
 # SpaceX
@@ -301,3 +307,7 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 - **미래에셋그룹 지분 평가이익은 유지** — 2022~2023년 2.78억 달러 투자(기업가치 1,270억 달러 → 2조 달러, 약 15.7배). IPO 배정 무산과 별개. ([mt](https://www.mt.co.kr/stock/2026/06/13/2026061314145838952))
 - **국내 투자자 우회 경로 유효**: 해외주식 계좌 직접 매수·ETF(장내)·펀드. ETF 편입은 장내 매수로 대체. ([joseilbo](http://www.joseilbo.com/news/news_read.php?uid=569993&class=53&grp=))
 - **상장일 매도 불가(6/16 거래 가능)**: 국내 투자자 이틀 지연 거래. 푸틴·트럼프 우크라 종전 협상 등 지정학 이슈 관찰 필요. ([ytn](https://www.ytn.co.kr/_ln/0102_202606131524558147))
+
+
+## 2026-06-12 업데이트
+- **스페이스X 락업 전량 해제 시 패시브 자금 규모**: 삼성증권 추정 약 1,350억 달러. 스페이스X 상장 후 락업 해제 시 강제 매수 수요 규모를 업계 최초로 추정. ([블로그·zzipssa9090](https://blog.naver.com/zzipssa9090/224314620518))
