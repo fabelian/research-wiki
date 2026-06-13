@@ -287,3 +287,16 @@ SK하이닉스 청주 4캠퍼스 M15X 공장 2층 가스룸 화재. 13명 병원
 ### 🚗 현대차 PV5 로보택시 — AI 팩토리 연계
 - 현대차 PV5 로보택시에 엔비디아 DRIVE AGX Thor 탑재. 블랙웰 GPU 5만장 AI 팩토리 구축과 연계.
 - 출처: [현대차도 제네시스도 아니다](https://blog.naver.com/carborn79/224314836421)
+
+
+## 2026-06-12 업데이트 — 블로그 인사이트
+
+### 📰 엔비디아 메모리 용량 변동 리스크 재조명
+- 샌디스크 분석: 엔비디아 Vera Rubin 메모리 용량 축소 보도(6/5)가 AI서버 밸류체인 리스크로 재조명. (출처: [busyflow](https://blog.naver.com/busyflow/224314935097)) 🐦개인분석·이미 시장에 반영
+
+### 📰 광모듈·데이터센터 전력 인프라 동반 부각
+- AI 데이터센터 GPU 증가→광모듈(광트랜시버) 수요 급증. 엔비디아 GPU가 DC 연결 수요 견인. (출처: [gem_gem_gem](https://blog.naver.com/gem_gem_gem/224314882935)) 🐦개인분석
+- 젠슨 황 "AI 병목=전력" 발언 재조명. 데이터센터 전력 인프라 투자 테마 지속. (출처: [gem_gem_gem](https://blog.naver.com/gem_gem_gem/224314312416)) 🐦개인분석
+
+### 📰 CUDA 생태계 락인 효과 재확인
+- NVIDIA CUDA는 병렬 컴퓨팅 공통 언어. AI 기업들이 계속 CUDA를 사용하는 이유는 생태계 락인 효과. AI서버 SW 스택 핵심. (출처: [jimtae](https://blog.naver.com/jimtae/224314955773)) 🐦개인분석

@@ -24,6 +24,18 @@ edges:
     claim_type: "보도"
     source: "https://www.kukinews.com/article/view/kuk202606130009"
     date: 2026-06-13
+  - rel: SUPPLIES_TO
+    target: "[[엔비디아]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "https://blog.naver.com/steigenoderfallen/224314942371"
+    date: 2026-06-12
+  - rel: SUPPLIES_TO
+    target: "[[삼성전자]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "https://blog.naver.com/steigenoderfallen/224314942371"
+    date: 2026-06-12
 ---
 # HBM (고대역폭메모리)
 
@@ -182,3 +194,15 @@ edges:
 ### 🔌 IREN 21억 달러 계약 — HBM 수요 추가 견인
 - 엔비디아, AI 데이터센터 운영사 IREN과 21억 달러 계약. AI 인프라 투자 확대는 HBM 장기 수요 구조적 성장 요인.
 - 출처: [데이터센터 주요 뉴스](https://blog.naver.com/chrhim/224314904126)
+
+
+## 2026-06-12 업데이트 — 블로그 인사이트
+
+### 📰 삼성 HBM4 엔비디아 인증 로드맵 재확인
+- 엔비디아, Vera Rubin 플랫폼용 HBM4 메모리 공급업체로 삼성 인증 완료. 양사 CEO(젠슨 황·전영현) 회동 후속 조치. (출처: [steigenoderfallen](https://blog.naver.com/steigenoderfallen/224314942371)) 🐦개인분석
+
+### 📰 샌디스크 엔비디아 메모리 용량 변동 리스크
+- Vera Rubin 메모리 용량 축소 보도(6/5)가 HBM·메모리 섹터 변동성 요인으로 재조명. (출처: [busyflow](https://blog.naver.com/busyflow/224314935097)) 🐦개인분석
+
+### 📰 CUDA·NVLink 등 HBM 연동 인프라 교육 확산
+- NVIDIA NVLink·NCCL 등 GPU 간 연결 기술과 HBM 대역폭의 연계성 대중화. 분산 학습에서 HBM 메모리 대역폭의 중요성 부각. (출처: [resky1111](https://blog.naver.com/resky1111/224314937573), [jimtae](https://blog.naver.com/jimtae/224314955773)) 🐦개인분석
