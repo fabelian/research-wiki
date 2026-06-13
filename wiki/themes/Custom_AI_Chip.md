@@ -2,6 +2,13 @@
 type: theme
 created: 2026-04-30
 updated: 2026-04-30
+edges:
+  - rel: COMPETES_WITH
+    target: "[[TSMC]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "https://www.ppss.kr/news/articleView.html?idxno=298690"
+    date: 2026-06-12
 ---
 
 # Custom AI Chip (ASIC)
@@ -87,3 +94,12 @@ updated: 2026-06-08
 ### 🐦 SNS·블로그 인사이트
 - 🐦네이버블로그(pjjyy1010379, 2026-06-09): Broadcom(AVGO) 2026년 6월 분석 — 지금이 매수 기회인지 신규 투자자 대상 분석. ⚠️개인 분석.
 - 🐦네이버블로그(hdmin77, 2026-06-09): SpaceX IPO 전후 Nvidia·Broadcom 등 AI·우주 테마 연동 종목 수급 변동 주목. ⚠️개인 분석.
+
+
+## 2026-06-12 업데이트
+
+### 📉 한진만 사장 "파운드리 2028년 흑자"
+- 삼성전자 파운드리 사업 흑자 전환, 당초 예상 대비 늦어진 2028년 전망. 특별경영성과급 반영 시 추가 지연 가능.
+
+### 🏭 TSMC 점유율 72% — 삼성 격차 확대
+- 트렌드포스, TSMC 1Q 파운드리 점유율 72% 돌파 (ppss).
