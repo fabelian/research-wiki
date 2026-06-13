@@ -11,8 +11,8 @@ updated: 2026-06-11
 [[SpaceX]]의 유력한 민간 경쟁사이자 파트너. 소형 위성 발사 시장에서 독보적 위치를 점하고 있으며, 위성 버스·부품·제조까지 수직계열화한 종합 우주 기업. 2026년 1분기 매출 $2.03억(+63.5% YoY), 수주잔고 $22억. 연초 대비 +236% 상승.
 
 ## 📌 최신 요약 (2026-06-12)
+- **나스닥100 편입 발표 + 애프터마켓 급등**: 2026-06-11 나스닥100 편입 확정. ALAB·RKLB 애프터마켓 급등. 6/22 정기 변경 적용.
 - **스페이스X 상장일 +9.3% 급등**: 상장 당일 RKLB 9.26~9.3% 상승(종가 $107~$115 추정). Tesla·Nvidia와 함께 우주·성장주 동반 강세.
-- **나스닥100 신규 편입**: 2026-06-11 발표, 6/22일 정기 변경분부터 RKLB가 NBIS·CRWV·ALAB과 함께 나스닥100 편입. 지수 추종 자금 유입 기대.
 - **Viasat 기밀 위성 버스 계약**: SSC(Space Systems Command) 대변인 확인. Rocket Lab이 미국 정부 통신 위성 버스 'Viasat' 수주, 발표는 아직 없음(기밀). 군수 위성 제조 역량 입증.
 - **ETF 비중 견고**: KODEX 26.1%, TIGER 24.78%, SOL 22.22%, ACE 17%, NASA ETF(Tema Space Innovators) 8.11%. NASA ETF는 비상장 SpaceX 9.79% 다음 최대.
 - **경쟁사 대비 차별화**: Barron's 분석 — AST SpaceMobile·Rocket Lab은 12개월 170%/320% 상승, 예상매출의 80배/25배 거래. 스페이스X IPO 후 우량 우주주 재평가 지속.
@@ -86,3 +86,23 @@ updated: 2026-06-11
 - [digitaltoday.co.kr - SpaceX IPO 관련주](https://www.digitaltoday.co.kr/news/articleView.html?idxno=664391)
 - [g-enews.com - 주가 급등 분석](https://www.g-enews.com/view.php?ud=2026051906145468892bd56fbc3c_1)
 - 다수 네이버블로그, 티스토리 (2026-06-01 ~ 06-11) 참조
+
+
+## 2026-06-12 업데이트
+
+### 나스닥100 편입 확정 발표
+- **2026-06-11**: 나스닥100 정기 변경 발표. Rocket Lab(RKLB)이 CoreWeave(NBIS)·Nebius(CRWV)·Astera Labs(ALAB)·Teradyne(TER)과 함께 편입. 6/22일 장 시작 전 적용.
+- ALAB·RKLB 애프터마켓 급등. (출처: [econotimes.com](https://www.econotimes.com/Astera-Labs-and-Rocket-Lab-Surge-After-Nasdaq-100-Inclusion-Announcement-1744169), [네이버블로그·fracon](https://blog.naver.com/fracon/224314274545))
+- "우주 주식의 제도권 안착"으로 평가됨. 소형 로켓 '일렉트론' 80회 이상 성공 발사 기록+차세대 중형 로켓 '뉴트론' 개발 인정. (출처: [네이버블로그·fracon](https://blog.naver.com/fracon/224314274545))
+
+### ETF 편입 분석
+- **우주항공 ETF 편입 상세**: 로켓랩(Rocket Lab)은 KODEX·TIGER·SOL·ACE·NASA ETF 등에 다수 편입. KODEX 26.1% 최대 비중. (출처: [네이버블로그·thinknametf](https://blog.naver.com/thinknametf/224313641953))
+- **간접 투자 시 유의점**: ETF를 매수하면 편입 비중의 약 25% 내외가 로켓랩·인튜이티브 머신스·AST 스페이스모바일 등 미국 우주항공주에 투자. 나머지는 스페이스X·AI 인프라주에 분산. (출처: [네이버블로그·joolovesru](https://blog.naver.com/joolovesru/224314294126))
+- **리스크**: 우주항공 ETF는 단일 주식 대비 분산 효과 있으나, 스페이스X 상장 직후 테마 전반의 변동성 확대 가능성. 개별 종목 급등 시 ETF 괴리율·추적오차 주의. (출처: [네이버블로그·thinknametf](https://blog.naver.com/thinknametf/224313641953))
+
+### 스페이스X 상장일 Peer 동향
+- **2026-06-12 스페이스X 상장일**: Rocket Lab +9.3%, 버진 갤럭틱 +21.6%, ASTS +11.7%, Planet Labs +11.2%. 동반 강세. (출처: [네이버블로그·3minstock](https://blog.naver.com/3minstock/224314282198))
+- "Rocket Lab(RKLB)은 현재 상장된 미국 우주기업 중 가장 대표적인 기업. SpaceX와 비교 대상이 될 것." (출처: [네이버블로그·3minstock](https://blog.naver.com/3minstock/224314282198))
+
+### Viasat 기밀 위성 버스 계약 (재확인)
+- SSC 대변인 공식 확인: Rocket Lab이 기밀 위성 버스 'Viasat' 수주. 공식 발표는 아직 없음.
