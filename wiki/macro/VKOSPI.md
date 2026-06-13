@@ -31,6 +31,7 @@ updated: 2026-06-10
 | 2026-06-12 | 87 (VKOSPI 87선 마감 — 엔터티 기사 기준, NToday) — 이란 종전 기대감으로 코스피 4.6% 급등·8000선 탈환에도 VKOSPI는 87~91.94 고공행진 지속 | https://www.ntoday.co.kr/news/articleView.html?idxno=127601 (VKOSPI 87선 마감 언급) |
 | 2026-06-12 | 89.91 (종가, +2.99%), 장중 91.94 신고가 — 이란 종전 기대감에 코스피 4.63%↑ 8000선 탈환에도 VKOSPI는 4거래일 연속 80선+, 장중 91.94로 2009년 이후 사상 최고치 경신 | https://www.getnews.co.kr/news/articleView.html?idxno=872287 , https://www.industrynews.co.kr/news/articleView.html?idxno=82104 , https://www.ntoday.co.kr/news/articleView.html?idxno=127601 |
 | 2026-06-12 | 89.91 (+0.38%), 장중 91.94 사상 최고 경신 — 코스피 +4.63% 8000선 탈환에도 변동성 지수 고공행진. 25번째 사이드카 기록. VKOSPI 90포인트 돌파 사상 최고치 재경신. | https://blog.naver.com/s980214_/224314090644 , https://blog.naver.com/kimgun2028/224314181445 , https://blog.naver.com/ltk0805/224314260271 , https://blog.naver.com/crazy_shopper/224314267717 , https://www.khan.co.kr/article/202606121125001
+| 2026-06-11 | 89.91 (+0.38%, 장중 91.94 사상최고 경신 — 89.06→91.94→89.91 롤러코스터) — 5거래일 연속 80선+, 전일 88.69 대비 상승. 사이드카 25회(금융위기 이후 최다). VKOSPI와 VIX 괴리 지속. | https://blog.naver.com/s980214_/224314090644 (89.91, +2.61), https://blog.naver.com/kimgun2028/224314181445 (장중 91.94 사상최고), https://blog.naver.com/ltk0805/224314260271 (고가 부근 횡보), https://blog.naver.com/crazy_shopper/224314267717 (장중 91.94), https://www.khan.co.kr/article/202606121125001 (91.85) |
 
 ## 영향 관계
 - VKOSPI↑ → 국내 위험회피, 외국인 코스피 순매도·[[한국CDS]] 동반 상승 경향
