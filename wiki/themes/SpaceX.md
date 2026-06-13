@@ -57,6 +57,12 @@ edges:
     claim_type: "보도"
     source: "https://blog.naver.com/shobbylife/224314955757"
     date: 2026-06-12
+  - rel: COMPETES_WITH
+    target: "[[Tesla]]"
+    confidence: 0.3
+    claim_type: "추정"
+    source: "https://blog.naver.com/satti1007/224314996606"
+    date: 2026-06-12
 ---
 
 # SpaceX
