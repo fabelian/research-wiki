@@ -24,6 +24,30 @@ edges:
     claim_type: "보도"
     source: "https://blog.naver.com/dnines/224314604606"
     date: 2026-06-12
+  - rel: COMPETES_WITH
+    target: "[[Amazon]]"
+    confidence: 0.7
+    claim_type: "보도"
+    source: "https://blog.naver.com/kkh581106/224314995884"
+    date: 2026-06-12
+  - rel: COMPETES_WITH
+    target: "[[Iridium_Communications]]"
+    confidence: 0.5
+    claim_type: "보도"
+    source: "https://blog.naver.com/gem_gem_gem/224314885353"
+    date: 2026-06-12
+  - rel: COMPETES_WITH
+    target: "[[Viasat]]"
+    confidence: 0.5
+    claim_type: "보도"
+    source: "https://blog.naver.com/gem_gem_gem/224314885353"
+    date: 2026-06-12
+  - rel: HAS_RISK
+    target: "[[스페이스X_상장_차익실현]]"
+    confidence: 0.7
+    claim_type: "보도"
+    source: "https://blog.naver.com/kka_dream/224314575444"
+    date: 2026-06-12
 ---
 # Rocket Lab (RKLB)
 
@@ -151,3 +175,14 @@ edges:
 ### ASTC(애스트로테크) 스캠 논란과 RKLB 비교
 - ASTC -7.6%, RKLB -7.6%(일부 자료 -11%) 동반 하락했으나 원인 상이. ASTC는 희석·공매도·실적 검증 부족, RKLB는 자금 이동. (출처: [blog.naver.com/minyoung07133/224314464137](https://blog.naver.com/minyoung07133/224314464137))
 - ASTC(스캠 논란)와 RKLB(견고한 펀더멘털)의 질적 차이 재확인. (출처: [blog.naver.com/sileolee/224314538590](https://blog.naver.com/sileolee/224314538590))
+
+
+## 2026-06-12 업데이트
+
+### 스페이스X 상장 후 차익실현 압력 및 안정적 현금흐름 논의
+- **스페이스X 상장 직후 차익실현**: Rocket Lab, Planet Labs, Intuitive Machines 등 일부 우주 관련주가 차익실현 압력을 받음. 스페이스X 상장 호재가 중소형 우주 테마주 수급에 역효과를 낸 사례. (출처: [kka_dream 블로그](https://blog.naver.com/kka_dream/224314575444))
+- **업계 비교 분석**: (출처: [kkh581106 블로그](https://blog.naver.com/kkh581106/224314995884))
+  - Rocket Lab: ★★★★☆ 성장성, ★☆☆☆☆ 수익성, 만년 적자(개발 단계), 일렉트론·뉴트론(차세대 로켓), 종합 평가 8.5/10
+  - Amazon: ★★☆☆☆ 성장성, ★★★★★ 수익성, 압도적 흑자(AWS·커머스), 카이퍼 위성 프로젝트·AWS, 종합 평가 7.5/10
+  - 사업 재무 종합 평가에서 Rocket Lab이 Amazon보다 높은 점수(8.5 vs 7.5).
+- **안정적 현금흐름 산업 논의**: Rocket Lab, Iridium Communications, Viasat 등 미국 민간 우주 기업들은 안정적인 반복 매출 구조를 바탕으로 주목받음. 우주 산업은 이벤트 테마가 아닌 안정적 현금흐름 산업으로 재평가 중. (출처: [gem_gem_gem 블로그](https://blog.naver.com/gem_gem_gem/224314885353))

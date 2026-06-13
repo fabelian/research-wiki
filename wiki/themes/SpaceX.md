@@ -212,3 +212,11 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 - 단기 차익실현 + 자금 재배분. RKLB·ASTS 펀더멘털 변화 없음. (출처: [blog.naver.com/sileolee/224314538590](https://blog.naver.com/sileolee/224314538590))
 - 락업 해제(여름) 이후 진짜 변동성 예상. (출처: [blog.naver.com/jynote_no1/224314429306](https://blog.naver.com/jynote_no1/224314429306))
 - KODEX ETF 내 SpaceX 간접 편입(SPCX 주식 직접 매수 아님) 유의. (출처: [blog.naver.com/hapchoeninvest/224314556268](https://blog.naver.com/hapchoeninvest/224314556268))
+
+
+## 2026-06-12 업데이트
+
+### 상장 후 차익실현 리스크 현실화
+- 스페이스X 상장 직후 Rocket Lab, Planet Labs, Intuitive Machines 등 기존 Peer 우주주가 차익실현 압력 발생. 상장이라는 이벤트 소멸 후 중소형 우주 테마주 수급 부담 현실화. (출처: [kka_dream 블로그](https://blog.naver.com/kka_dream/224314575444))
+- **우주 기업 비교 평가**: Rocket Lab(8.5/10, 성장성 ★★★★☆, 만년 적자) vs Amazon(7.5/10, 안정적 흑자, AWS 기반). 민간 우주 기업 간 사업 단계·수익성 차별화 가속. (출처: [kkh581106 블로그](https://blog.naver.com/kkh581106/224314995884))
+- **안정적 현금흐름 산업 전환 논의**: 우주 산업이 IPO 이벤트 중심에서 안정적 반복 매출 산업으로 재평가. Rocket Lab·Iridium·Viasat 등이 대표적 사례. (출처: [gem_gem_gem 블로그](https://blog.naver.com/gem_gem_gem/224314885353))
