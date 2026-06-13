@@ -539,3 +539,10 @@ VIX 21.35~21.51(+38~40%, 6주 최고) 급등으로 글로벌 위험회피 국면
 - 중동 지정학적 리스크 해소 기대감으로 유가 급락(WTI -3.2%, 브렌트 -3.4%). (https://blog.naver.com/writing_light/224315019672)
 - "지정학적 리스크 해소로 유가와 국채 금리가 하락 안정세를 타면서, 자본 시장의 시선은 대외 변수 방어에서 실질적 기업 자본 효율성 검증으로 이동." (https://blog.naver.com/harmonysales/224315022798)
 - 다만 FOMC(6/16~17)·BOJ(6/15~16) 등 추가 이벤트 대기 중으로 변동성 완화 추세 지속 여부는 미확인.
+
+
+## 2026-06-13 업데이트 — 유가 급락·종전 기대에 위험선호 복귀
+
+- 미·이란 종전 합의 기대감 + 유가 급락 + 스페이스X 상장 효과로 위험선호 심리 회복. 외국인 코스피 2.2조 순매수 전환. (http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606130318&t=NN)
+- 스탠다드차타드 "WTI 86$ 안착 시 위험자산 회피 심리 완화" — VIX 하방 안정 가능성. (http://www.hansbiz.co.kr/news/articleView.html?idxno=844064)
+- 단, 네타냐후發 전쟁 불씨 여전 — 이스라엘-이란 군사적 긴장 지속 시 변동성 재확대 리스크. (https://www.ntoday.co.kr/news/articleView.html?idxno=127617)
