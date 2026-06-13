@@ -12,6 +12,18 @@ edges:
     claim_type: "보도"
     source: "https://blog.naver.com/bizdailylog/224311577929"
     date: 2026-06-11
+  - rel: MENTIONS
+    target: "[[삼성전자]]"
+    confidence: 0.9
+    claim_type: "보도"
+    source: "https://www.kukinews.com/article/view/kuk202606130009"
+    date: 2026-06-13
+  - rel: MENTIONS
+    target: "[[SK하이닉스]]"
+    confidence: 0.9
+    claim_type: "보도"
+    source: "https://www.kukinews.com/article/view/kuk202606130009"
+    date: 2026-06-13
 ---
 # HBM (고대역폭메모리)
 
@@ -136,3 +148,14 @@ edges:
 - **코미코 무상증자(6/15)**: 반도체 세정 전문. Intel·Micron·TSMC 등 글로벌 고객사 거래. (test8312) 🐦네이버블로그
 
 출처: carsgoods, japple100, cointownkorea, test8312 등 네이버블로그 6/11.
+
+
+## 2026-06-13 업데이트
+
+### 🔴 레미콘 운송거부 6일째 — 13일 협상 재개
+- 레미콘 운송 노사, 6/12 7시간 협상 결렬…13일 추가 협의 예정 (tvchosun).
+- 평택·용인 HBM 패키징 팹 건설 차질 지속.
+
+### 🏗️ 호남 반도체 패키징 SPC — 정치권 유치전 가열
+- 삼성전자·SK하이닉스 호남 반도체 공장 유치설 확산 (newsis).
+- 전남 장성 30조 규모 반도체 집적화단지 SPC 설립 검토 6/10 보도에 이어 지역 정치권 압박 가중.
