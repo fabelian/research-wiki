@@ -300,3 +300,9 @@ SK하이닉스 청주 4캠퍼스 M15X 공장 2층 가스룸 화재. 13명 병원
 
 ### 📰 CUDA 생태계 락인 효과 재확인
 - NVIDIA CUDA는 병렬 컴퓨팅 공통 언어. AI 기업들이 계속 CUDA를 사용하는 이유는 생태계 락인 효과. AI서버 SW 스택 핵심. (출처: [jimtae](https://blog.naver.com/jimtae/224314955773)) 🐦개인분석
+
+
+## 📌 AI 데이터센터 전력난 — Alphabet 포함 빅테크 전력 확보 경쟁 (2026-06-13)
+- **AI DC 1개 = 소형도시급 전력 소비**: 초대형 데이터센터는 원전 1기급 전력 필요. Microsoft·Amazon·Meta·Alphabet 전부 전력 확보 전쟁 중. ([🐦narckgw](https://blog.naver.com/narckgw/224315472043))
+- **Alphabet 연간 ~$1,000억 CAPEX 전망**: AI 투자 전쟁 속 Alphabet·MS·Meta·Apple 대규모 지출. AI 버블 논쟁 지속. ([🐦steigenoderfallen](https://blog.naver.com/steigenoderfallen/224315670915))
+- **AI 플랫폼 수익화 차별화**: MS(기업 S/W+클라우드+AI), Alphabet(검색·유튜브·클라우드+AI) — 플랫폼별 AI 연결 방식 차별화. ([🐦lhjas](https://blog.naver.com/lhjas/224315742865))
