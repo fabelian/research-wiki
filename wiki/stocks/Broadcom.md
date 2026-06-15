@@ -35,6 +35,30 @@ edges:
     claim_type: "보도"
     source: "https://blog.naver.com/kjhoi79/224314803036"
     date: 2026-06-12
+  - rel: MENTIONS
+    target: "[[Focuslight]]"
+    confidence: 0.3
+    claim_type: "추정"
+    source: "https://blog.naver.com/dailymaterials/224315338596"
+    date: 2026-06-14
+  - rel: MENTIONS
+    target: "[[Lumentum]]"
+    confidence: 0.4
+    claim_type: "보도"
+    source: "https://blog.naver.com/nnin_-/224315459523"
+    date: 2026-06-14
+  - rel: SUPPLIES_TO
+    target: "[[삼성전자]]"
+    confidence: 0.5
+    claim_type: "추정"
+    source: "https://blog.naver.com/dreamitboy9/224315449870"
+    date: 2026-06-14
+  - rel: COMPETES_WITH
+    target: "[[Marvell]]"
+    confidence: 0.7
+    claim_type: "보도"
+    source: "https://blog.naver.com/binna5/224292075026"
+    date: 2026-06-14
 updated: 2026-06-11
 ---
 
@@ -200,3 +224,47 @@ updated: 2026-06-11
 - **소버린 AI**(Sovereign AI): Broadcom은 NVIDIA·AMD와 함께 AI 반도체 최대 수혜 분야 대표 기업. (https://blog.naver.com/sarasung1/224313211774)
 - **구글, 삼성 파운드리 2나노 검토**: TPU 구글-Broadcom 공동 설계·TSMC 생산 구조에서 TSMC+삼성 분업 모델 논의. (https://blog.naver.com/h2otube/224314187694)
 - **삼성전기 Broadcom 공급망 진입 협의**: Digitimes 보도(검토 단계). 2026.04 Apple·Broadcom향 유리기판(Glass Core) 샘플 공급 개시. (https://blog.naver.com/plaza_2moons/224314578625)
+
+
+## 2026-06-14 업데이트 — 블로그 인사이트(25건)
+
+### 📰 시총 순위·시장 포지셔닝
+- **2026년 세계 시총 TOP 10**: Broadcom 8위(약 1.82조 달러). 엔비디아·애플·MS·아마존·구글·사우디아람코·TSMC·브로드컴·테슬라·메타 순. AI 네트워크 칩·맞춤형 반도체 수요 폭증이 상승 동력. (출처: [jae_ing](https://blog.naver.com/jae_ing/224315364889), [allceoinkorea](https://blog.naver.com/allceoinkorea/224315490471)) 🐦개인분석
+- **전세계 시총 TOP 기업**: Broadcom 7위(시총 약 2.1조 달러). 반도체·기업용 소프트웨어 개발. AI용 반도체·네트워크 장비·데이터센터 솔루션·기업 SW. (출처: [wlsghwns1110](https://blog.naver.com/wlsghwns1110/224315421321)) 🐦개인분석
+
+### 📰 반도체·ASIC 시장 구도 분석
+- **반도체 종류(기능편)**: Broadcom = 고성능 분야 선두. MediaTek = 가성비/대만. Band(주파수 대역) 개념 설명. (출처: [ericlee0417](https://blog.naver.com/ericlee0417/224315777798)) 🐦개인분석
+- **글로벌 반도체 대표기업**: Custom ASIC 시장 Broadcom 약 55~60% 점유율로 주도. Marvell이 추격. Broadcom의 단골은 Google(TPU). J.P. Morgan 분석. (출처: [binna5](https://blog.naver.com/binna5/224292075026)) 🐦개인분석
+- **AI 반도체 폭등 속 대장주 상승 이유**: Broadcom = AI 네트워크칩 및 맞춤형 AI 반도체 분야 주도. 엔비디아와 경쟁·보완 관계. (출처: [gem_gem_gem](https://blog.naver.com/gem_gem_gem/224314899152)) 🐦개인분석
+- **미국 반도체 지배하는 4명의 동양계 CEO**: NVIDIA(젠슨 황)·AMD(리사 수)·INTEL(팻 겔싱어)·BROADCOM(혹크 탄) — 모두 중국계. (출처: [polestar_1](https://blog.naver.com/polestar_1/224315309148)) 🐦개인분석
+- **엔비디아 GPU 체제 독주 거부하는 Google TPU**: 삼성전자(TPU 부상 반사수혜 최정점) — Google 핵심 파트너 Broadcom과 협력, TPU향 HBM·서버 D램 공급 확대. (출처: [dreamitboy9](https://blog.naver.com/dreamitboy9/224315449870)) 🐦개인분석
+- **AI GPU 투자 핵심 요약**: TSMC와 Broadcom이 GPU 생태계 주요 수혜주. Broadcom AI 네트워크 반도체 공급사 1위. NVIDIA·AMD와 함께 AI 인프라 주요 공급사. (출처: [gem_gem_gem](https://blog.naver.com/gem_gem_gem/224314896753)) 🐦개인분석
+- **AI 반도체 10년 후 생존 분석**: AMD·Intel·Broadcom도 AI 반도체 시장 확대 위해 공격 투자. 빅테크 자체 AI 칩 개발 경쟁 심화. (출처: [peter5263](https://blog.naver.com/peter5263/224315501103)) 🐦개인분석
+
+### 📰 실적 심층 분석 — 자체 분해
+- **AVGO 2026/6/14 실적 심층 분석 (leehcks)**: 2026 Q2 매출액 $221.87억 (전년비 +48%), GAAP EPS $1.91 (+85%). 사상 최대. VMware 기여: $31.99억(+134% YoY). AI 반도체 매출 $108.2억(+143%). 반도체 부문 총매출 $169.41억. 비GAAP EPS $2.27 (+30%). 현금흐름 $107.15억(FCF $55.75억). 자체 원화(1 USD=1,400 KRW) 환산 분석 포함. (출처: [leehcks](https://blog.naver.com/leehcks/224315182747)) 🐦개인분석
+
+### 📰 검은월요일 리뷰·밸류에이션 조정 논쟁
+- **해외 금융시장 동향(24주차)**: Broadcom 가이던스 실망이 칩 급락 트리거. 펀더멘털 훼손 아닌 밸류 부담 해소 과정. 반도체 주도 급반등 후 종전 무드로 위험자산 선호 회복. (출처: [redssky](https://blog.naver.com/redssky/224315078506)) 🐦개인분석
+- **6월 초 AI·반도체 급락 쏠림 리뷰**: 급락 트리거=Broadcom IR, Reuters 기준. 조정 vs 추세 전환 가르는 기준 점검(2026-06-13). 밸류 부담 vs 펀더멘털 훼손 여부. (출처: [realchecklab](https://blog.naver.com/realchecklab/224315271929)) 🐦개인분석
+- **패시브 쏠림 현상 분석**: Broadcom(AVGO)은 AI 커스텀 칩·네트워킹 시장 지배자. 지수 비중 상위권(탑 5~8위)에 위치해 수십억 달러 강제 매도 리스크. 주가 거품이 빠지면서 장기 밸류에이션 재평가. (출처: [hyungmjee](https://blog.naver.com/hyungmjee/224315291738)) 🐦개인분석
+- **6월 2주 공포/탐욕지수**: 엔비디아·브로드컴 등 AI·반도체 기술주 가파른 조정. 나스닥·S&P 급락 유발. 시장 최대 관심사 연준 금리·중동. (출처: [jusi-diary](https://blog.naver.com/jusi-diary/224315338867)) 🐦개인분석
+
+### 📰 CPO·광통신·데이터센터 인프라
+- **AI 데이터센터 핵심 광학기술 CPO**: Broadcom CPO 상용화 보고서(2024) 인용. CPO=단순 광트랜시버 소형화 아님. Focuslight Switzerland가 광원 모듈 개발. (출처: [dailymaterials-1](https://blog.naver.com/dailymaterials/224315338596)) 🐦개인분석
+- **SiN(Silicon Nitride) 광학 플랫폼**: NVIDIA·Broadcom·Cisco·Intel·TSMC 등 글로벌 기업 차세대 AI 인프라 핵심 기술로 광통신 기반 인터커넥트 채택. 광소자+반도체 패키지 융합. (출처: [dailymaterials-2](https://blog.naver.com/dailymaterials/224315347627)) 🐦개인분석
+- **위성통신과 광통신 비교**: Broadcom = CPO·네트워크 ASIC·스위치 광통신 핵심. Lumentum EML 레이저·광모듈 부품(엔비디아 투자 수혜). (출처: [nnin_-](https://blog.naver.com/nnin_-/224315459523)) 🐦개인분석
+- **삼성전자·ETF AI 반도체 투자법**: SOXL·SMH·SOXX 등 ETF에 NVIDIA·Microsoft·Apple·Broadcom 포함. AI 데이터센터 수백억 달러 투자. (출처: [mindset1119](https://blog.naver.com/mindset1119/224315314271)) 🐦개인분석
+
+### 📰 SOXL 구성·ETF 관련
+- **SOXL ETF 뜻과 주가**: 2026년 3월 31일 기준 SOXL 구성 — 1위 Nvidia 8.41%, 2위 Broadcom 8.28%, 3위 Micron 7.00%, 4위 AMD 6.48%, 5위 Applied Materials 5.85%, 6위 Marvell 5.18%. (출처: [ever_up](https://blog.naver.com/ever_up/224315099335)) 🐦개인분석
+- **서학개미 다시 반도체로**: SOXL·마이크론 대거 순매수. AI 반도체 수혜주=엔비디아·AMD·브로드컴·마이크론·마벨·ARM·TSMC·삼성전자·SK하이닉스. (출처: [wodyd1726](https://blog.naver.com/wodyd1726/224315528121)) 🐦개인분석
+
+### 📰 AI 에이전트·생태계 관련
+- **AI 에이전트 시대 산업·투자**: Broadcom·Marvell = 네트워킹·AI 칩. 클라우드·서버 HPE·Dell. 플랫폼 Google·MS·Amazon. AI 인프라 전반 연결. (출처: [bnisee](https://blog.naver.com/bnisee/224309580387)) 🐦개인분석
+- **앤트로픽 상장 먹구름·소버린 AI**: NVIDIA(GPU)·Micron(메모리)·Marvell/Broadcom(커스텀 ASIC)·Palantir(정보분석) → 한국주식 테마: 소버린 AI 모델=네이버·SKT, 메모리·HBM=SK하이닉스·삼성전자. (출처: [toom321](https://blog.naver.com/toom321/224315333246)) 🐦개인분석
+- **BESI 1Q26 분석**: Broadcom도 Apple M5 건 인지·긍정적 전개. 데이터센터 모듈 부문 또 다른 거대한... (출처: [rodonshin](https://blog.naver.com/rodonshin/224315383200)) 🐦개인분석
+
+
+### 📰 실제 가치 투자 접근
+- **Broadcom 하락은 '말도 안되는 억까'**: 자체 실적 분석(10-Q·Q2 보고서 기반). 2026 Q2 매출 $221.87억 (+48% YoY), AI 반도체 $108.2억 (+143%). 비GAAP EPS $2.27 (+30%). VMware 매출 $31.99억 (+134%). 원화(1 USD=1,400 KRW) 환산 시 반도체 부문 매출 약 23.7조 원. (출처: [leehcks 상세분석](https://blog.naver.com/leehcks/224315182747)) 🐦개인분석
