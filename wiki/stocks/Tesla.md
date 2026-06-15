@@ -69,15 +69,13 @@ edges:
 Tesla는 전기차, 에너지 저장(메가팩), 자율주행(FSD) 및 로보틱스를 아우르는 [[모빌리티]]·AI 기업이다.
 
 ## 📌 최신 요약 (2026-06-14)
-- **삼성 파운드리, Tesla AI5·AI6 칩 수주 본격화**: FSD·옵티머스 반도체 내재화 로드맵에서 삼성전자 파운드리 입지 확대 (출처: 🔗elppp)
-- **피지컬 AI 데이터 우위 재조명**: 수백만 대 차량 → 매일 실물 데이터 → FSD → Optimus 전이 학습, 타사 추종 불가 데이터 모트(Moat) (출처: 🔗ddubuck)
-- **시가총액 TOP10 이탈**: 스페이스X IPO(시총 2조 달러, 글로벌 6위)로 Tesla 글로벌 시총 7위권 하락, 엔비디아 5조 달러 독주 (출처: 🔗dydtjsdl0924)
-- **Tesla Optimus 양산 vs 중국 경쟁**: 미국 Tesla Optimus·Figure AI 양산 발표 vs 중국 Unitree·Xpeng 수만 대 양산 격차, LG전자 로봇 섹터 +148% (출처: 🔗kaemyoung)
-- **머스크 생태계 구조화 분석**: Tesla(현실AI·전기차·로봇·에너지)+SpaceX(우주·위성·스타링크)+xAI, 사업 생태계 시너지 기대 지속 (출처: 🔗jh_4867, unionsearch777)
-- **리비안 R2, Tesla Model Y와 가격 경쟁 예고**: 리비안, 대중시장 R2 모델로 Tesla와 실질적 경쟁 본격화 (출처: 🔗firegong)
-- **역사적 PER 논쟁 재점화**: Tesla 2020년 PER 1020 vs SpaceX PER 비교 — 거품 논쟁 지속 (출처: 🔗wisedastan)
-- **모델Y 韓 판매 1위 지속**: 5월 8,762대 수입차 최초 전체 1위 기록 유지
-- **FSD 글로벌 확장**: 누적 주행거리 110억 마일, 유럽 4개국 승인
+
+- **모델Y RWD·롱레인지 인증 철회**: Tesla, 인증 받은 두 모델 판매 2주 전 전격 철회 — RWD 재고 소진·롱레인지 전환 전략 연계 분석 (🔗solarfarmer)
+- **SpaceX IPO, Tesla에 '양날의 검'**: 단기 자금·관심 분산 부담 vs 중장기 머스크 생태계(Tesla·SpaceX·xAI) 통합 시너지, Tesla 'AI 플랫폼' 재평가 필요 (🔗keep-awake)
+- **미국 EV 시장 Model 3+Y = 96%**: 트럼프 세액공제 폐지에도 Tesla 판매 선두 유지, 평균 거래가 YoY -3.4%·MoM -1% (🔗gorilla1031)
+- **SpaceX-Tesla, 2025년 $506M 거래**: S-1 공개, 머스크 개인 리스크(Tesla 지분 상관관계)가 SpaceX 주가에도 간접 영향 (🔗lustelle)
+- **리비안 CEO, 반(反)옵티머스 로봇 10억 달러 투자**: 산업용 vs 인간형 로봇 노선 경쟁 구도 본격화 (🔗g-enews)
+- **머스크 기업 합산 BTC 30,221 보유**: SpaceX 비트코인 보유 공식 확인, Tesla 1분기 11,509 BTC 유지 (🔗coinreaders.com)
 
 ## 투자의견 컨센서스 추이
 
@@ -110,6 +108,11 @@ Tesla는 전기차, 에너지 저장(메가팩), 자율주행(FSD) 및 로보틱
 | 2026-06-14 | 🐦 네이버블로그(wisedastan) | (PER 비교) | - | Tesla 역대 PER 1020(2020) vs SpaceX PER — 거품 논쟁 재점화 (출처: 🔗wisedastan) |
 | 2026-06-14 | 🐦 네이버블로그(firegong) | (경쟁 분석) | - | 리비안 R2, Tesla Model Y와 가격 경쟁 본격화 — 대중시장 경쟁 구도 (출처: 🔗firegong) |
 | 2026-06-14 | 🐦 네이버블로그(cushionmania) | (로보택시 강조) | - | 캐시우드 "Tesla 본질 = 로보택시 + 수직 통합이 만드는 초격차" (출처: 🔗cushionmania) |
+| 2026-06-14 | 🐦 네이버블로그(solarfarmer) | (시장 분석) | - | 모델Y 롱레인지·RWD 인증 철회 — 재고 소진 전략과 연계 (출처: 🔗solarfarmer) |
+| 2026-06-14 | 🐦 네이버블로그(keep-awake) | (AI 플랫폼 재평가) | - | SpaceX IPO, Tesla 단기 부담 vs 중장기 머스크 생태계 통합 시너지 (출처: 🔗keep-awake) |
+| 2026-06-14 | 🐦 네이버블로그(gorilla1031) | (시장 분석) | - | Model 3+Y = Tesla 판매 96%, 평균 거래가 YoY -3.4%, MoM -1% (출처: 🔗gorilla1031) |
+| 2026-06-14 | 🐦 네이버블로그(lustelle) | (거래 관계) | - | SpaceX 2025년 Tesla와 약 5.06억 달러 거래 (출처: 🔗lustelle) |
+| 2026-06-14 | 🐦 coinreaders.com | (BTC 보유) | - | 머스크 기업(Tesla+SpaceX) 합산 BTC 30,221 보유 확인 (출처: 🔗coinreaders.com) |
 
 ## 핵심 투자포인트
 
@@ -365,3 +368,24 @@ Tesla는 전기차, 에너지 저장(메가팩), 자율주행(FSD) 및 로보틱
 
 ### 🏭 Tesla Optimus 양산 경쟁 구도
 - 🐦 네이버블로그(kaemyoung) (2026-06-14): LG전자 로봇 섹터 +148% 상승 배경에 Tesla Optimus 양산 발표 영향. 글로벌 휴머노이드 경쟁 구도: 미국(Tesla Optimus·Figure AI 양산 발표) vs 일본(Fanuc·Yaskawa 기존 강자) vs 중국(Unitree·Xpeng 수만 대 양산). (출처: 🔗kaemyoung)
+
+
+## 2026-06-14 업데이트
+
+### 🚗 모델Y RWD·롱레인지 인증 철회 — 재고 소진 전략
+- 🐦 네이버블로그(solarfarmer) (2026-06-14): Tesla, 모델Y 롱레인지와 저가형(RWD) 인증을 모두 받았다가 판매 2주 전 전격 철회. "계획하던대로 일을 진행하다가 중간에 판단 변경". 기존 RWD 재고 소진→롱레인지+FSD 구독 전환 전략과 연계 분석. (출처: 🔗solarfarmer)
+
+### 📊 SpaceX IPO, Tesla에 호재일까 악재일까
+- 🐦 네이버블로그(keep-awake) (2026-06-14): **단기**: 자금·투자자 관심 분산으로 Tesla 주가에 부담. **중장기**: 머스크 생태계(Tesla·SpaceX·xAI) 통합 시너지 기대. Tesla는 '자동차 회사'가 아닌 'AI 플랫폼'으로 재평가되어야 한다는 논지. (출처: 🔗keep-awake)
+
+### 🇺🇸 미국 전기차 시장 — Model 3+Y = Tesla 판매 96%
+- 🐦 네이버블로그(gorilla1031) (2026-06-14): 도널드 트럼프 대통령의 7,500달러 세액공제 폐지에도 Tesla 판매 선두 유지. Model 3+Model Y가 Tesla 전체 판매량의 96% 차지. Tesla 평균 거래 가격 전년동월비 -3.4%, 전월비 -1% 하락. (출처: 🔗gorilla1031)
+
+### 🔗 SpaceX-Tesla 거래 관계 $506M
+- 🐦 네이버블로그(lustelle) (2026-06-14): SpaceX S-1 공개에 따르면 2025년 Tesla와 약 5.06억 달러 거래. 머스크 개인 리스크(Tesla 지분과의 높은 상관관계, 정치적 이슈, 기업 간 이해충돌)가 SpaceX 주가에도 간접적 영향. (출처: 🔗lustelle)
+
+### 🤖 리비안 CEO, 반(反)옵티머스 로봇 10억 달러 투자
+- 🐦 g-enews (2026-06-14): 리비안(Rivian) 창업자 RJ 스카린지(43), Tesla 인간형 로봇 '옵티머스(Optimus)'와 정반대 경로의 **산업용 로봇** 회사에 7개월 만에 누적 10억 달러(약 1조 5,195억원) 투자 유치. 산업용 vs 인간형 로봇 노선 경쟁 구도 본격화. (출처: 🔗g-enews)
+
+### ₿ 머스크 기업 합산 비트코인 30,221 BTC 보유
+- 🐦 coinreaders.com (2026-06-14): SpaceX, 비트코인(BTC) 보유 공식 확인. Tesla 1분기 11,509 BTC 보유 유지. 머스크 기업(Tesla+SpaceX) 합산 BTC 보유량 30,221 BTC. 공개 기업 중 최대 BTC 보유 그룹. (출처: 🔗coinreaders.com)
