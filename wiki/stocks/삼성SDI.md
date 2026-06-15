@@ -38,3 +38,7 @@ updated: 2026-06-08
 - ["삼성SDI, 갤럭시S 출시에 따른 실적 개선"-신한](http://www.newspim.com/sub_view.php?cate1=1&cate2=6&news_id=363117)
 - [[로봇뉴스] 삼성SDI “전기차 기대감 유효”](http://www.etnews.com/20160614000147)
 - [[ET투자뉴스]삼성SDI, "전기차, 스마트폰 …" 매수(신규)-리딩투자증권](http://www.etnews.com/20170718000149)
+
+
+## 2026-06-11 업데이트
+- **삼성SDI 3Q26 조기 흑자전환 전망**: 삼성증권 리서치, 데이터센터향 배터리 수요 증가 + 유럽 EV 배터리 출하 본격화로 예상보다 빠른 흑자전환 진단. "북미 LFP ESS 본격 가동과 함께 4Q AMPC 개선 기대". ([newsprime](http://www.newsprime.co.kr/news/article.html?no=736493))
