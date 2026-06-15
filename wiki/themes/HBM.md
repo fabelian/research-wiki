@@ -246,3 +246,22 @@ edges:
 ### 🇯🇵 닛케이, 엔비디아-HBM 공급망 조명
 - 닛케이 "젠슨 황에게 일본은 매력 없다" 보도: 엔비디아 공급망에 SK하이닉스·삼성전자 HBM 필수 불가결 (khan 6/14).
 - HBM이 한국 반도체의 글로벌 전략적 가치 증명.
+
+
+## 2026-06-13/14 업데이트 — HBM 테마
+
+### 🐦 HBM 소부장 밸류체인 확장 지속
+- HBM 매출 300억 달러↑, 반도체 소부장(원익IPS·한미반도체·테크윙·심텍 등) 동반 수혜. (출처: [swifty_7](https://blog.naver.com/swifty_7/224315564730) 🐦네이버블로그)
+- 원익IPS 상한가 — SK하이닉스·삼성전자 핵심 장비 벤더 채택. (출처: [wisehub_kr](https://blog.naver.com/wisehub_kr/224315745356) 🐦네이버블로그)
+
+### 🐦 SK하이닉스 3배 ETF 출시 — HBM 테마 레버리지 상품 고도화
+- 단일 종목 3배 레버리지 ETF 신규 상장. HBM 테마에 대한 기관·개인 수요 고도화 신호. (출처: [mindset1119](https://blog.naver.com/mindset1119/224315761444) 🐦네이버블로그)
+
+### 🐦 ADR 상장 → HBM 글로벌 접근성 확대
+- SK하이닉스 ADR 8월 나스닥 상장 목표. HBM 선두주자 글로벌 자금 유입 기대. (출처: [sunbrief](https://blog.naver.com/sunbrief/224315757629) 🐦네이버블로그)
+
+### 🐦 반도체 슈퍼사이클·HBM 가격 상승 구조적 요인 지속
+- SK하이닉스 HBM 영업이익률 77% → 2분기 실적 서프라이즈 예상.
+- "삼전닉스 절반도 안 올랐다" — 하반기 HBM 가격 추가 상승 기대감. (출처: [tamiofficial](https://blog.naver.com/tamiofficial/224315759526), [beat_chani](https://blog.naver.com/beat_chani/224315752414) 🐦네이버블로그)
+
+⚠️ 모든 SNS·블로그 인용은 개인 분석 및 참고용.
