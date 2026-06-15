@@ -153,6 +153,12 @@ edges:
     claim_type: "보도"
     source: "https://news.bizwatch.co.kr/article/market/2026/06/13/0002"
     date: 2026-06-13
+  - rel: MENTIONS
+    target: "[[spacex-ipo-주식배정-취소-2026q2]]"
+    confidence: 0.9
+    claim_type: "보도"
+    source: "https://www.etnews.com/20260613000031"
+    date: 2026-06-13
 ---
 
 # SpaceX
@@ -541,3 +547,14 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 1. **해외주식 직접 매수**: 나스다 티커 SPCX — 6/16(화)부터 거래 가능 (네이버블로그·misskim616)
 2. **ETF**: KODEX 우주항공·TIGER 미국우주테크·ACE 미국우주테크액티브 — 단, 공모주 편입은 불발, 장중 매수로 대체
 3. **펀드**: 미래에셋그룹 펀드 간접 투자
+
+
+## 2026-06-13 업데이트 — 상장 첫날 19% 급등 & 미래에셋증권 공모주 배정 취소
+
+- **스페이스X 상장 첫날 $160.65(+19%, 공모가 $135)**. 머스크 최대주주 '조만장자' 등극. [MBN](http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5199609)
+- **미래에셋증권, 공모주 배정 전량 취소(0주)**. 3,000억~4,000억 원 자체 배정 예상과 달리 인수단 배정 물량 전량 삭감. [국제뉴스](https://www.gukjenews.com/news/articleView.html?idxno=3607645), [전자신문](https://www.etnews.com/20260613000031)
+- **국내 ETF 편입 계획 차질**: 한국투자운용·미래에셋자산운용 등 ETF 공모주 편입 추진 무산. [뉴시안](http://www.newsian.co.kr/news/articleView.html?idxno=90889), [아시아타임즈](https://www.asiatime.co.kr/article/20260613500018)
+- 관련 이슈: [[spacex-ipo-주식배정-취소-2026q2]]
+
+
+관련 이슈: [[spacex-ipo-주식배정-취소-2026q2]]
