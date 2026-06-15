@@ -459,3 +459,7 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 - **스페이스X '韓 패싱' 논란**: 글로벌 IB의 차별적 물량 배정 구조가 공개되면서 국내 투자자들의 박탈감·분노 고조. 일본과의 대비가 특히 부각. ([sedaily](https://www.sedaily.com/article/20055544?ref=naver))
 - **투자자 손해 보전 요구**: '미래에셋증권이 책임져야' vs '청약 시 리스크 안내 받았다' — 법적 책임 소재는 불명확. ([yna](https://www.yna.co.kr/view/AKR20260614044300008?input=1195m), [wowtv](http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606140061&t=NN))
 - **장기적 시사점**: 국내 증권사의 글로벌 IB 경쟁력 강화 필요성 대두. 단순히 '글로벌 네트워크'보다 '딜 수임 능력·협상력'이 핵심 과제로 부상. ([financialpost](https://www.financialpost.co.kr/news/articleView.html?idxno=262459))
+
+
+## 2026-06-13 업데이트 (토큰 매수 경로·삼성증권 계좌 연동)
+- **스페이스X 토큰 매수 경로 등장**: 시커코인(SKR)으로 스페이스X 주식 토큰 구매 가능 제기. 단, 삼성증권·미래에셋증권 등 국내 증권사를 통한 배당 권리 행사와 별개. ⚠️미확인. ([블로그·blockduk](https://blog.naver.com/blockduk/224315508725))
