@@ -99,6 +99,18 @@ edges:
     claim_type: "보도"
     source: "https://blog.naver.com/investqualitic/224315116959"
     date: 2026-06-14
+  - rel: MENTIONS
+    target: "[[미래에셋생명]]"
+    confidence: 0.85
+    claim_type: "보도"
+    source: "https://blog.naver.com/stock-planner/224315758507"
+    date: 2026-06-13
+  - rel: MENTIONS
+    target: "[[박준범]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "https://blog.naver.com/epdaily/224315761753"
+    date: 2026-06-13
 ---
 
 # SpaceX
@@ -370,3 +382,12 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 | 2026-06-13 | Peer 전반 급락(RKLB -10~13%, Virgin Galactic -30~37%). | [investqualitic](https://blog.naver.com/investqualitic/224315116959) |
 | 2026-06-13 | 스페이스X PSR 30~150배 추정. RKLB 60~91배 비교. | [esngu99](https://blog.naver.com/esngu99/224315051508) |
 | 2026-06-13 | 스페이스X '10배 후보' RKLB 1순위 언급. | [sorak0131](https://blog.naver.com/sorak0131/224315289164) |
+
+
+## 2026-06-13~14 업데이트 — 0주 배정 분석·금감원 검사·투자자 피해
+
+### 0주 배정 사태 심층 분석
+- **미래에셋증권 배정 전량 삭감 원인**: SEC 공시상 231만주 인수단이었으나 대표주관사 골드만삭스가 기관 수요 급증에 따라 재조정. 일본 미즈호증권은 62억달러 규모 신청으로 상당 물량 배정. ([blog](https://blog.naver.com/njina731r/224315761844), [blog](https://blog.naver.com/archi-so/224315759765))
+- **'코리아 패싱' 논란**: 한국 자본시장의 글로벌 IB 네트워크 한계 지적. 미래에셋증권의 국내 최대 글로벌 네트워크에도 불구하고 골드만삭스가 최종 배정권한 행사. ([blog](https://blog.naver.com/njina731r/224315761844))
+- **금감원 검사 착수**: 청약 과정·전문투자자 제도 악용·불완전판매·허위과장광고 여부 점검. ([헤럴드경제](https://biz.heraldcorp.com/article/10771333?ref=naver))
+- **투자자 피해**: 4,600억원 청약 증거금 전액 환불. 개인투자자
