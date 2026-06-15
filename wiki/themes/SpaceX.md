@@ -129,6 +129,12 @@ edges:
     claim_type: "보도"
     source: "https://blog.naver.com/universal_biz/224315629066"
     date: 2026-06-13
+  - rel: MENTIONS
+    target: "[[일본]]"
+    confidence: 0.85
+    claim_type: "보도"
+    source: "https://www.hansbiz.co.kr/news/articleView.html?idxno=844190"
+    date: 2026-06-14
 ---
 
 # SpaceX
@@ -427,3 +433,29 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 - **미래에셋증권 주가 시나리오**: 기보유 지분(2.78억 달러→약 15.7배 평가익)은 유효. 단기 주가 변동성 확대 vs 장기 지분 가치 유지. ([blog](https://blog.naver.com/endless_shinka/224315660975))
 - **일본 vs 한국 접근성 격차**: 일본은 IPO 참여 가능 vs 한국은 '그림의 떡'. 향후 국내 증권사 해외 IPO 참여 방식 개선 필요성 제기. ([blog](https://blog.naver.com/bluetime763/224315633876))
 - **미래에셋벤처투자·미래에셋증권 지분 수혜**: 미래에셋그룹 지분 평가이익은 IPO 배정 무산과 별개로 유효. ([blog](https://blog.naver.com/wolgeuprich/224315639247))
+
+
+## 2026-06-14 업데이트 — 공모주 0주 후폭풍·日 22억달러 vs 韓 0주·금감원 검사
+
+### 공모주 배정 최종 결과: 韓 0주 vs 日 22억달러
+- **미래에셋증권, SEC 신고서상 231만주(약 4,700억원) 배정 예정에서 최종 0주**. 대표 주관사 골드만삭스가 개장 직전 일방통보. ([sedaily](https://www.sedaily.com/article/20055527?ref=naver), [mydaily](https://www.mydaily.co.kr/page/view/2026061418242788543))
+- **일본 미즈호증권은 22억 달러(약 3조원) 규모 공모주 배정**받아 한일 대비 극명. 글로벌 IB의 머니게임 구조에서 한국 증권사의 낮은 협상력이 원인으로 분석. ([mk](https://www.mk.co.kr/article/12073835), [hansbiz](http://www.hansbiz.co.kr/news/articleView.html?idxno=844190))
+- **'우물안 개구리' 비판**: 미래에셋증권이 글로벌 딜에서 장기적 관계·딜 수임 이력 부족으로 철저히 소외. ([sedaily](https://www.sedaily.com/article/20055527?ref=naver))
+
+### 금감원 검사 본격화
+- **금감원, 미래에셋증권 현장 검사(감사) 수준으로 격상**. 공모주 배정 경위·청약 과정 적정성·투자자 위험 안내 의무·전문투자자 제도 활용의 적법성 집중 점검. 법적 분쟁·민원 확대 가능성. ([yna](https://www.yna.co.kr/view/AKR20260614048300002?input=1195m), [ajunews](https://www.ajunews.com/view/20260614195559551), [tokenpost](https://www.tokenpost.kr/news/economy/369185))
+- **미래에셋증권 '호구 vs 빌런' 이중 비판**: 청약자 피해자 vs 리스크 고지 부족 비판 동시 존재. ([financialpost](https://www.financialpost.co.kr/news/articleView.html?idxno=262459))
+
+### ETF 편입 차질 구체화 및 시총 2조 달러
+- **미래에셋자산운용·한국투자신탁운용, 공모주 확보 실패로 장내 매수(T+2) 전환**. 공모가($135) 대비 프리미엄(상장일 $160.65, +19%) 부담. ETF 투자자 단기 손실 불가피. ([sedaily](https://www.sedaily.com/article/20055533?ref=naver), [asiatoday](https://www.asiatoday.co.kr/kn/view.php?key=20260615010004706), [fnnews](http://www.fnnews.com/news/202606141817122500))
+- **스페이스X 상장일 시총 2조 달러 돌파**, 미 시총 6위. AI 인프라 투자 자금 유입 기대. ([fnnews](http://www.fnnews.com/news/202606141817122500))
+- **한국투자신탁운용**: '스페이스X 실패를 성장통으로' — 글로벌 딜 역량 강화 필요성. ([econovill](https://www.econovill.com/news/articleView.html?idxno=742342))
+
+### 머스크 '조만장자' 등극
+- 스페이스X 상장으로 일론 머스크 세계 최초 조만장자 등극. 스페이스X 시총 1.75조 달러(상장일 +19%) → 단숨에 미 시총 6위. ([kookje](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260615.22022003933))
+
+
+### 🐦 전문가·투자자 반응 요약
+- **스페이스X '韓 패싱' 논란**: 글로벌 IB의 차별적 물량 배정 구조가 공개되면서 국내 투자자들의 박탈감·분노 고조. 일본과의 대비가 특히 부각. ([sedaily](https://www.sedaily.com/article/20055544?ref=naver))
+- **투자자 손해 보전 요구**: '미래에셋증권이 책임져야' vs '청약 시 리스크 안내 받았다' — 법적 책임 소재는 불명확. ([yna](https://www.yna.co.kr/view/AKR20260614044300008?input=1195m), [wowtv](http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606140061&t=NN))
+- **장기적 시사점**: 국내 증권사의 글로벌 IB 경쟁력 강화 필요성 대두. 단순히 '글로벌 네트워크'보다 '딜 수임 능력·협상력'이 핵심 과제로 부상. ([financialpost](https://www.financialpost.co.kr/news/articleView.html?idxno=262459))
