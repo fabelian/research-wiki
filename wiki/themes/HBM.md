@@ -36,6 +36,18 @@ edges:
     claim_type: "보도"
     source: "https://blog.naver.com/steigenoderfallen/224314942371"
     date: 2026-06-12
+  - rel: MENTIONS
+    target: "[[앤트로픽]]"
+    confidence: 0.4
+    claim_type: "보도"
+    source: "https://blog.naver.com/cabikim/224315733138"
+    date: 2026-06-13
+  - rel: MENTIONS
+    target: "[[후성]]"
+    confidence: 0.5
+    claim_type: "보도"
+    source: "https://blog.naver.com/moneyguidebook/224315288391"
+    date: 2026-06-13
 ---
 # HBM (고대역폭메모리)
 
@@ -265,3 +277,15 @@ edges:
 - "삼전닉스 절반도 안 올랐다" — 하반기 HBM 가격 추가 상승 기대감. (출처: [tamiofficial](https://blog.naver.com/tamiofficial/224315759526), [beat_chani](https://blog.naver.com/beat_chani/224315752414) 🐦네이버블로그)
 
 ⚠️ 모든 SNS·블로그 인용은 개인 분석 및 참고용.
+
+
+## 2026-06-13 업데이트
+
+### 🐦 앤트로픽 AI 서비스 전면 중단 — HBM 수요 리스크
+- 미국 상무부, 앤트로픽 AI 모델 해외 서비스 전면 중단. 삼성전자·SK하이닉스 AI 접근 제한. HBM·메모리 수요에 중장기 변수. (cabikim 06-13) ⚠️블로그 인용
+
+### 🐦 SK실트론 협상 장기화 — 수직계열화 리스크
+- SK·두산 간 SK실트론 인수·매각 협상 장기화. SK하이닉스와 수직계열화 고리 유지 필요성 대두. (vbcbxb2 06-13)
+
+### 🐦 반도체 가스·소부장 밸류체인 확장
+- 후성(반도체 가스) 일주일 만 63% 급등, HBM 생산 확대의 간접 수혜. 설비투자 재개가 HBM 장비·소재 전반에 긍정적 영향. (moneyguidebook 06-13)
