@@ -306,3 +306,15 @@ SK하이닉스 청주 4캠퍼스 M15X 공장 2층 가스룸 화재. 13명 병원
 - **AI DC 1개 = 소형도시급 전력 소비**: 초대형 데이터센터는 원전 1기급 전력 필요. Microsoft·Amazon·Meta·Alphabet 전부 전력 확보 전쟁 중. ([🐦narckgw](https://blog.naver.com/narckgw/224315472043))
 - **Alphabet 연간 ~$1,000억 CAPEX 전망**: AI 투자 전쟁 속 Alphabet·MS·Meta·Apple 대규모 지출. AI 버블 논쟁 지속. ([🐦steigenoderfallen](https://blog.naver.com/steigenoderfallen/224315670915))
 - **AI 플랫폼 수익화 차별화**: MS(기업 S/W+클라우드+AI), Alphabet(검색·유튜브·클라우드+AI) — 플랫폼별 AI 연결 방식 차별화. ([🐦lhjas](https://blog.naver.com/lhjas/224315742865))
+
+
+## 2026-06-13 업데이트 (블로그 인사이트)
+
+### 📰 AI 서버 밸류체인 확장 — 광모듈·칩 기판
+- AI 데이터센터 GPU 증가→광모듈(광트랜시버)·FC-BGA 칩 기판 수요 급증. (출처: [blog.naver.com/excusehwang](https://blog.naver.com/excusehwang/224315766357)) 🐦개인분석
+
+### 📰 엔비디아 공급망 = 한국(AI 서버 메모리) + 대만(파운드리)
+- 젠슨 황 방한·컴퓨텍스 2026 결과 한국 AI 서버 메모리 공급망 중요성 확인. 일본 소외. (출처: [blog.naver.com/sunhoo272](https://blog.naver.com/sunhoo272/224315759121)) 🐦개인분석
+
+### 📰 저평가 분석 — 삼성전자·SK하이닉스·마이크론 비교
+- 삼성전자 극심한 저평가 국면, AI 서버 테마 내 추가 상승 여력. (출처: [blog.naver.com/moonriver_ecomy](https://blog.naver.com/moonriver_ecomy/224315764984)) 🐦개인분석

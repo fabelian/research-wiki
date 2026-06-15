@@ -206,3 +206,15 @@ edges:
 
 ### 📰 CUDA·NVLink 등 HBM 연동 인프라 교육 확산
 - NVIDIA NVLink·NCCL 등 GPU 간 연결 기술과 HBM 대역폭의 연계성 대중화. 분산 학습에서 HBM 메모리 대역폭의 중요성 부각. (출처: [resky1111](https://blog.naver.com/resky1111/224314937573), [jimtae](https://blog.naver.com/jimtae/224314955773)) 🐦개인분석
+
+
+## 2026-06-13 업데이트 (블로그 인사이트)
+
+### 📰 HBM 밸류체인 확장 — 소재·광모듈·칩 기판
+- HBM→광모듈·FC-BGA 칩 기판으로 밸류체인 병목 이동. [[삼성전기]](MLCC·FC-BGA)·[[한미반도체]](TC본더)·[[리노공업]] 등 소부장 수혜 예상. (출처: [blog.naver.com/excusehwang](https://blog.naver.com/excusehwang/224315766357)) 🐦개인분석
+
+### 📰 삼성전자·SK하이닉스 소재 공급망 재조명
+- [[솔브레인]]이 삼성전자·SK하이닉스 양사 HBM·파운드리 소재 납품. 단일 고객 리스크 분산 효과. (출처: [blog.naver.com/healthcogy](https://blog.naver.com/healthcogy/224315683771)) 🐦개인분석
+
+### 📰 엔비디아 공급망 = 한국(HBM) + 대만(파운드리) 구도
+- 젠슨 황 아시아 행보 속 한국 HBM·메모리 공급망의 전략적 중요성 재확인. (출처: [blog.naver.com/sunhoo272](https://blog.naver.com/sunhoo272/224315759121)) 🐦개인분석
