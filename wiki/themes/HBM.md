@@ -48,6 +48,12 @@ edges:
     claim_type: "보도"
     source: "https://blog.naver.com/moneyguidebook/224315288391"
     date: 2026-06-13
+  - rel: MENTIONS
+    target: "[[비큐AI]]"
+    confidence: 0.5
+    claim_type: "추정"
+    source: "https://blog.naver.com/msn357357/224315029889"
+    date: 2026-06-12
 ---
 # HBM (고대역폭메모리)
 
@@ -307,3 +313,12 @@ edges:
 
 ## 주요 이벤트
 - **2026-06-11**: SK하이닉스 HBM 독주·주가 전망 분석 — HBM3/HBM3E 엔비디아 독점 공급 리더십 강조. HBM은 AI 가속기 필수 제품.
+
+
+## 2026-06-13 업데이트
+
+### 🔄 삼성 부활=생태계 안정화 — 마이크론 분석
+- 'MU' 분석 게시글: 삼성전자의 HBM 부활은 SK하이닉스에는 경쟁 위협이지만, 반도체 생태계 전체로는 공급 안정화에 기여. 글로벌 HBM 공급망 다변화 차원에서 긍정적 평가. (jk-tqqq 네이버블로그, 2026-06-12)
+
+### 📈 반도체 슈퍼사이클 — 소부장·ETF 확장
+- 삼성·SK 목표주가 일제 상향과 함께 HBM 테마가 반도체 소부장 장비·소재주·ETF로 확산. (stock-baby 네이버블로그, 2026-06-12)
