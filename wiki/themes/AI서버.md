@@ -430,3 +430,18 @@ SK하이닉스 청주 4캠퍼스 M15X 공장 2층 가스룸 화재. 13명 병원
 - **3040 강남 아파트 3.7조 머니무브(6/13)**: 투자 심리·주거용 부동산 수요 신호. 현대차·기아·네이버 등 플랫폼·자동차 섹터 수익성과 직접 연관 적음.
 - **삼성전기 실리콘 커패시터 관심(6/13)**: AI서버·로보틱스 부품 수요 연장선. 간접 참고.
 - **생활·요리·제품 리뷰 콘텐츠**: 네이버 블로그 트래픽 안정적 유지 신호.
+
+
+## 2026-06-13 업데이트 — 블로그 인사이트
+
+### 📰 NVIDIA가 바꾼 경쟁의 틀 — 토큰 경제학
+- Rubin 플랫폼, Blackwell 대비 토큰당 비용 최대 1/10. DSX MaxLPS로 전력 예산 내 토큰 성능 극대화. AI서버 구축 패러다임 변화 지속. (출처: [rmseltofl1](https://blog.naver.com/rmseltofl1/224315592516)) 🐦네이블로그
+
+### 📰 MANGOS 신조어 — AI서버·AI 인프라 구성 변화
+- MANGOS(Meta·Anthropic·Nvidia·Google·OpenAI·SpaceX) 신조어 부상. AI서버 인프라의 핵심 플레이어 구성 변화 반영. (출처: [eyp1955](https://blog.naver.com/eyp1955/224315581660)) 🐦네이블로그
+
+### 📰 엔비디아, Vera CPU 중국 판매 개시
+- 로이터 단독: 엔비디아, 중국 고객 대상 Vera CPU 세일즈 피치 시작. 미·중 반도체 규제 속 전략적 움직임. AI서버 CPU 시장에서 x86 경쟁 가속화. (출처: [ncsedm](https://blog.naver.com/ncsedm/224314915149)) 🐦네이블로그
+
+### 📰 AI ETF 구성 — CrowdStrike·NVIDIA·Palantir 편입
+- AI 관련 기업만 선별한 지수 3배 레버리지 ETF 주요 편입: CrowdStrike(12.4%), NVIDIA(8.5%), Palantir(8.38%), Datadog(7.25%), Astera Labs(6.53%). AI서버·사이버보안·인프라 동반 성장 프레임. (출처: [cap29551](https://blog.naver.com/cap29551/224315588436)) 🐦네이블로그
