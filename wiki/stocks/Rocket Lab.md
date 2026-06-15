@@ -78,6 +78,12 @@ edges:
     claim_type: "보도"
     source: "https://blog.naver.com/kmos04/224314394531"
     date: 2026-06-12
+  - rel: HAS_RISK
+    target: "[[우주주-스페이스X-자금이동-2026Q2]]"
+    confidence: 0.9
+    claim_type: "보도"
+    source: "https://blog.naver.com/clever547/224315466234"
+    date: 2026-06-14
 ---
 # Rocket Lab (RKLB)
 
@@ -104,6 +110,8 @@ edges:
 | 2026-06-03 | 🐦SNS·블로그 다수 | 매수(강세) / ETF 핵심 편입 | N/A | ACE ETF 1위. PPA·ITA ETF 동시 편입 |
 | 2026-06-02 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | 1Q26 매출 $2.03억(+63.5% YoY), 수주잔고 $22억. Motiv Space Systems 인수 완료 |
 | 2026-06-01 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | SDA Tranche 3 Prime $8억 500만 수주. 연평균 40%+ 매출 성장 |
+| 2026-06-13 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | 스페이스X 상장 첫날 RKLB -11% 차익실현. 나스닥100 편입(6/22)이 조정 상쇄 기대. ITA ETF 4.21% 편입 |
+| 2026-06-14 | 🐦SNS·블로그 다수 | 매수(강세) | N/A | RKLB 추가 -8% 하락(누적 -19% 내외). Slusky 이사 $4.94M 매도 공시. ASTS -12% 등 Peer 동반 급락 |
 
 ## 핵심 투자포인트
 - **소형 발사체 시장 독점적 지위**: Electron 로켓으로 시장 압도적 1위. 연평균 40%+ 매출 성장
@@ -149,6 +157,8 @@ edges:
 | 2026-06-12 | 스페이스X 상장일 RKLB -10~11% 급락. 투자자 자금 스페이스X 이동. | [yulmu1](https://blog.naver.com/yulmu1/224314488604) 외 다수 |
 | 2026-06-11 | 나스닥100 편입 공식 발표. 6/22 정기 변경 적용. QQQ 패시브 수요 기대. | [affluent_2480](https://blog.naver.com/affluent_2480/224314313903), [yous3163](https://blog.naver.com/yous3163/224314315685) |
 | 2026-06-12 | KODEX ETF 내 RKLB 비중 ~18.66%(1위). ASTS 18.20%와 근접. | [ace_begins](https://blog.naver.com/ace_begins/224314603951) |
+| 2026-06-13 | ITA 미국 방산 ETF, RKLB 4.21% 편입(7위) | [blog.naver.com/realchecklab/224315549396](https://blog.naver.com/realchecklab/224315549396) |
+| 2026-06-13~14 | 스페이스X 상장 후 RKLB -11%→추가 -8% 하락. Director Slusky $4.94M 매도 공시. 나스닥100 편입 D-8 | [blog.naver.com/clever547/224315466234](https://blog.naver.com/clever547/224315466234), [inews24](http://www.inews24.com/view/1976333), [blog.naver.com/studying_stocks/224315735485](https://blog.naver.com/studying_stocks/224315735485) |
 
 ## 관련 출처/링크
 - [sisacast - 스페이스X 상장과 Rocket Lab](http://www.sisacast.kr/news/articleView.html?idxno=96478)
@@ -350,3 +360,22 @@ edges:
 - [lhjas - IPO 뒤 20% 오른 이유](https://blog.naver.com/lhjas/224314883600)
 - [offdaylog_ - 스페이스X 상장, 지금 알아야 할 것](https://blog.naver.com/offdaylog_/224314927937)
 - [steigenoderfallen - 로켓랩 어디까지 갈까](https://blog.naver.com/steigenoderfallen/224314947931)
+
+
+## 2026-06-14 업데이트
+
+### 스페이스X 상장 후 RKLB 차익실현(-11%) 및 내부자 매도
+- **RKLB -11% 급락**: 스페이스X 상장 첫날(6/12) Rocket Lab -11% 하락. Procure Space ETF(UFO)도 -6.9% 동반 하락. 섹터 전반 자금 이탈이 ETF 유출 데이터로 확인됨. (출처: [blog.naver.com/clever547/224315466234](https://blog.naver.com/clever547/224315466234))
+- **8% 추가 하락(6/13 이후)**: Rocket Lab과 Planet Labs 각각 약 8% 하락, Intuitive Machines -11%, AST SpaceMobile -12% 급락. 스페이스X 스타링크 경쟁사 타격更大. (출처: [inews24](http://www.inews24.com/view/1976333))
+- **내부자 매도 공시**: Alexander R. Slusky(Director) 직전 공시 기준 약 $4.94M 매도. 스페이스X 상장 전후 우주 섹터 수급이 예민해진 가운데 확인된 직전 내부자 매도. (출처: [blog.naver.com/studying_stocks/224315735485](https://blog.naver.com/studying_stocks/224315735485))
+- **상대 강도 긍정 평가**: -11% 하락에도 불구, Procure Space ETF(UFO) 전체 하락 폭 대비 RKLB의 상대 강도가 우수하다는 분석 존재. 업종 내 최선호 관점 유지. (출처: [blog.naver.com/clever547/224315466234](https://blog.naver.com/clever547/224315466234))
+
+### 나스닥100 편입 확정(6/22) 및 중기 전망
+- **6월 22일 장 시작 전 공식 반영 예정**: 스페이스X IPO 이후 우주주 전반 차익실현 조정이 발생했으나, 나스닥100 편입 확정(6/22)으로 패시브 자금 유입이 조정을 상쇄할 것이라는 기대. (출처: [blog.naver.com/yous3163/224315471008](https://blog.naver.com/yous3163/224315471008))
+- **ITA ETF 편입(4.21%)**: ITA 미국 방산 ETF 내 Rocket Lab 4.21% 비중(7위). 군수·방산 테마 연계. (출처: [blog.naver.com/realchecklab/224315549396](https://blog.naver.com/realchecklab/224315549396))
+
+### ETF 내 RKLB 수혜 지속
+- **스페이스X 핵심 수혜주 분석**: Rocket Lab(RKLB)은 우주 발사체 분야 대표 성장주. 스페이스X가 우주 시장 규모를 키울수록 함께 성장 가능. NASA ETF·UFO·ROKT·ITA 등 다수 ETF 최대 편입. (출처: [blog.naver.com/angel4126/224315739463](https://blog.naver.com/angel4126/224315739463), [blog.naver.com/pmm00/224315742771](https://blog.naver.com/pmm00/224315742771), [blog.naver.com/lifup-/224315747726](https://blog.naver.com/lifup-/224315747726))
+
+### 미국 우주항공 관련주 TOP3
+- **Rocket Lab, AST SpaceMobile, Virgin Galactic**: 미국 우주항공주 TOP3 후보 소개. 스페이스X 상장 이후 이들 종목의 상대적 밸류에이션 매력 부각. (출처: [blog.naver.com/tvfoodmap/224315433836](https://blog.naver.com/tvfoodmap/224315433836))

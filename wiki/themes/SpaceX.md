@@ -171,6 +171,12 @@ edges:
     claim_type: "보도"
     source: "https://www.bizhankook.com/bk/article/32527"
     date: 2026-06-13
+  - rel: AFFECTS
+    target: "[[우주주-스페이스X-자금이동-2026Q2]]"
+    confidence: 0.9
+    claim_type: "보도"
+    source: "https://blog.naver.com/clever547/224315466234"
+    date: 2026-06-14
 ---
 
 # SpaceX
@@ -579,3 +585,17 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 - **ETF 편입 공지 삭제 논란** 지속 — 미래에셋자산운용, 환율 부담·정부 눈치 작용 분석.
 - **외국인 25거래일 만에 순매수 전환**. 코스피 8,100선 안착. 삼성증권 "미국·이란 합의 도출 시 유럽 시장 상승" ([sedaily](https://www.sedaily.com/article/20055313?ref=naver))
 - **[[Rocket Lab]] 나스닥100 편입(6/22 적용)** — 지수 추종 패시브 수요 기대. 케이피항공 +14% 등 국내 우주주 동반 강세.
+
+
+## 2026-06-14 업데이트
+
+### 상장 이후 Peer 업체 급락
+- **스페이스X 상장 첫날 +19%, Peer 급락**: RKLB -11%, Intuitive Machines -11%, Planet Labs -8%, AST SpaceMobile -12%, UFO ETF -6.9%. 섹터 전반 자금 이동 확인. (출처: [blog.naver.com/clever547/224315466234](https://blog.naver.com/clever547/224315466234), [inews24](http://www.inews24.com/view/1976333))
+- **Rocket Lab 이사 $4.94M 매도**: 스페이스X 상장 전후 내부자 매도 공시. 우주 섹터 수급 민감도 확인. (출처: [blog.naver.com/studying_stocks/224315735485](https://blog.naver.com/studying_stocks/224315735485))
+- **중장기 전망 혼재**: 나스닥100 편입(6/22)이 조정을 제한할 것이라는 전망 vs 락업 해제(여름) 추가 변수. (출처: [blog.naver.com/yous3163/224315471008](https://blog.naver.com/yous3163/224315471008))
+
+### ITA 방산 ETF 내 우주주 편입 지속
+- **ITA ETF**: Rocket Lab 4.21% 편입(7위). 스페이스X 상장 후 방산·우주 교차 편입 증가. (출처: [blog.naver.com/realchecklab/224315549396](https://blog.naver.com/realchecklab/224315549396))
+
+### 미국 우주항공주 TOP3 재확인
+- **Rocket Lab, AST SpaceMobile, Virgin Galactic**: 스페이스X 상장 이후 상대 밸류에이션 매력 부각. ETF 내 핵심 편입 지위 유지. (출처: [blog.naver.com/tvfoodmap/224315433836](https://blog.naver.com/tvfoodmap/224315433836))
