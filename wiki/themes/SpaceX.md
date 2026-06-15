@@ -111,6 +111,24 @@ edges:
     claim_type: "보도"
     source: "https://blog.naver.com/epdaily/224315761753"
     date: 2026-06-13
+  - rel: SUPPLIES_TO
+    target: "[[SPCX ETF]]"
+    confidence: 0.9
+    claim_type: "보도"
+    source: "https://blog.naver.com/wolgeuprich/224315639247"
+    date: 2026-06-13
+  - rel: MENTIONS
+    target: "[[일본 공모주 시장]]"
+    confidence: 0.7
+    claim_type: "보도"
+    source: "https://blog.naver.com/boas2003/224315631149"
+    date: 2026-06-13
+  - rel: AFFECTS
+    target: "[[TIGER 미국우주테크 ETF]]"
+    confidence: 0.85
+    claim_type: "보도"
+    source: "https://blog.naver.com/universal_biz/224315629066"
+    date: 2026-06-13
 ---
 
 # SpaceX
@@ -391,3 +409,21 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 - **'코리아 패싱' 논란**: 한국 자본시장의 글로벌 IB 네트워크 한계 지적. 미래에셋증권의 국내 최대 글로벌 네트워크에도 불구하고 골드만삭스가 최종 배정권한 행사. ([blog](https://blog.naver.com/njina731r/224315761844))
 - **금감원 검사 착수**: 청약 과정·전문투자자 제도 악용·불완전판매·허위과장광고 여부 점검. ([헤럴드경제](https://biz.heraldcorp.com/article/10771333?ref=naver))
 - **투자자 피해**: 4,600억원 청약 증거금 전액 환불. 개인투자자
+
+
+## 2026-06-13 업데이트 — 상장 첫날 +27%·0주 배정·ETF 대응·일본 격차
+
+### 상장 첫날 성과
+- **스페이스X 상장 첫날 +19~+27%** (SPCX ETF 기준). 시총 2조 달러 돌파. 머스크 세계 최초 '조만장자' 등극. ([blog](https://blog.naver.com/wolgeuprich/224315639247), [blog](https://blog.naver.com/newskinggg/224315643997))
+- **국내 투자자 경로**: 해외 계좌 직매수(6/16부터 거래 가능) 또는 SPCX·SPC 등 ETF 매수. ([blog](https://blog.naver.com/zixxni_2/224314999357))
+
+### 공모주 0주 배정 사태 심층 분석
+- **미래에셋증권 협상력 부재 논란**: SEC 공시상 인수단이었으나 골드만삭스 최종 배정 제외. 일본은 공모주 배정 유지 vs 한국은 0주. '코리아 패싱' 비판. ([blog](https://blog.naver.com/park6074-2/224315633697), [blog](https://blog.naver.com/boas2003/224315631149))
+- **ET·펀드 편입 차질**: 미래에셋자산운용 TIGER·한국투자신탁운용 ACE ETF 모두 공모주 확보 실패. 장내 매수로 전환했으나 공모가 편입 프리미엄 상실. ([blog](https://blog.naver.com/universal_biz/224315629066), [blog](https://blog.naver.com/enisori/224315635060))
+- **한국인 공모주 청약 한계**: 미국 증권사 앱 청약과 달리 한국 시스템상 개인 청약 불가. 전문투자자 대상 제한으로 실질적 접근성 낮음. ([blog](https://blog.naver.com/chm0411/224315627899), [blog](https://blog.naver.com/zixxni_2/224314999357))
+
+### 파급 효과 및 전망
+- **우주 ETF 투자자 단기 손실**: TIGER·ACE·KODEX 스페이스X 편입 지연으로 괴리율 확대 우려. ([blog](https://blog.naver.com/boas2003/224315630164))
+- **미래에셋증권 주가 시나리오**: 기보유 지분(2.78억 달러→약 15.7배 평가익)은 유효. 단기 주가 변동성 확대 vs 장기 지분 가치 유지. ([blog](https://blog.naver.com/endless_shinka/224315660975))
+- **일본 vs 한국 접근성 격차**: 일본은 IPO 참여 가능 vs 한국은 '그림의 떡'. 향후 국내 증권사 해외 IPO 참여 방식 개선 필요성 제기. ([blog](https://blog.naver.com/bluetime763/224315633876))
+- **미래에셋벤처투자·미래에셋증권 지분 수혜**: 미래에셋그룹 지분 평가이익은 IPO 배정 무산과 별개로 유효. ([blog](https://blog.naver.com/wolgeuprich/224315639247))
