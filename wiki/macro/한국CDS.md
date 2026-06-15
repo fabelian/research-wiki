@@ -5,6 +5,31 @@ category: 신용
 unit: bp
 created: 2026-06-06
 updated: 2026-06-06
+edges:
+  - rel: MENTIONS
+    target: "[[한국금리]]"
+    confidence: 0.6
+    claim_type: "보도"
+    source: "https://blog.naver.com/7fffd4_/224315605616"
+    date: 2026-06-13
+  - rel: MENTIONS
+    target: "[[미국금리]]"
+    confidence: 0.6
+    claim_type: "보도"
+    source: "https://blog.naver.com/7fffd4_/224315605616"
+    date: 2026-06-13
+  - rel: MENTIONS
+    target: "[[한국금리]]"
+    confidence: 0.5
+    claim_type: "보도"
+    source: "https://blog.naver.com/story_teller01/224315593930"
+    date: 2026-06-13
+  - rel: MENTIONS
+    target: "[[미국금리]]"
+    confidence: 0.5
+    claim_type: "보도"
+    source: "https://blog.naver.com/story_teller01/224315593930"
+    date: 2026-06-13
 ---
 # 한국CDS
 한국 5년물 국가 CDS 스프레드. 국가 신용위험·외국인 수급 심리의 척도. [[VIX]]와 동반 움직임 잦음.
@@ -38,6 +63,7 @@ updated: 2026-06-06
 | 2026-06-10 | N/A (뉴스에 CDS 언급 없음 — 우주센터·SK하이닉스 광고 소식만 포함) | https://blog.naver.com/magusu/224312393154 |
 | 2026-06-11 | N/A (인도네시아 긴급 금리인상·Moody's/Fitch 신용등급 전망 부정적 하향 — 신흥국 CDS 프리미엄 상승 압력. 한국 CDS 22~23bp 안정대 vs 신흥국 차별화 주목) | https://blog.naver.com/kitcahn/224312852623 (네이버블로그·kitcahn·보도기반) |
 | 2026-06-11 | N/A (인도네시아 긴급 금리인상·Moody's/Fitch 신용등급 전망 부정적 하향 — 신흥국 CDS 프리미엄 상승 압력. 한국 CDS 22~23bp 안정대 vs 신흥국 차별화 주목) | https://blog.naver.com/kitcahn/224312852623 (네이버블로그·kitcahn·보도기반) |
+| 2026-06-13 | N/A (수치 직접 언급 없음 — CDS프리미엄=국가 부도 경고등 교육 콘텐츠) | https://blog.naver.com/7fffd4_/224315605616 (🐦SNS·7fffd4_·금리교육) |
 
 ## 셀사이드 전망
 | 증권사 | 날짜 | 전망레벨 | 기간 | 출처 |
@@ -281,3 +307,14 @@ updated: 2026-06-06
 ### 2026-06-11: 한국 CDS 22~23bp 안정대 유지 — 글로벌 신용 리스크 완화 속 디커플링 지속
 - 트럼프 이란 공습 취소·종전 협상 진전으로 글로벌 지정학 리스크 완화. 유가 WTI 91.3$(-2.22%), 브렌트유 94.76$(-2.22%) 하락 → 신흥국 CDS 전반 하방 압력. (토큰포스트 2026-06-11·보도기반)
 - 한국 CDS 22~23bp 안정대 유지 추정. VKOSPI 87.30(3거래일 연속 80선)과의 괴리 지속 — '레버리지 ETF 수급'이라는 한국 증시 고유 충격이 국가 신용 리스크로 전이되지 않음 재확인.
+
+
+## 2026-06-13 업데이트
+
+### 🐦 블로그: 금리-국가신용등급·CDS 연결 교육 콘텐츠
+- **story_teller01** (2026-06-13): '글로벌 금리 상승은 시작되었나?' — 국가신용등급이 낮은 나라의 국채·신용도 낮은 기업의 회사채 금리가 높은 원리 설명. 기준금리(중앙은행) vs CDS 간접 연결. (출처: https://blog.naver.com/story_teller01/224315593930)
+- **7fffd4_** (2026-06-13): '금리는 답을 알고 있다' — “CDS프리미엄은 국가 부도 경고등이다” 직접 명시. 한국과 미국 금리 격차 논의 맥락에서 CDS 프리미엄을 부도 리스크 지표로 교육. (출처: https://blog.naver.com/7fffd4_/224315605616)
+- **jiyou011011** (2026-06-13): '아자아자 경제모임' — “갚아서 부도가 나고, 돈을 빌려준 중소 증권사나 저축은행, 새마을금고 같은 금융기관들까지 연쇄적으로 돈을 못 받아서 망하는 ‘금융위기’” — CDS 직접 언급은 없으나 연쇄부도·금융위기 시나리오는 CDS 프리미엄 급등 배경 맥락으로 참조. (출처: https://blog.naver.com/jiyou011011/224315357809)
+
+### 종합
+- 이번 ingest의 3개 블로그 모두 신규 CDS 수치를 제시하지는 않았으나, CDS 프리미엄 개념·국가 부도 리스크 지표로서의 교육 콘텐츠라는 점에서 지식베이스 보강.
