@@ -186,3 +186,71 @@ edges:
   - Amazon: ★★☆☆☆ 성장성, ★★★★★ 수익성, 압도적 흑자(AWS·커머스), 카이퍼 위성 프로젝트·AWS, 종합 평가 7.5/10
   - 사업 재무 종합 평가에서 Rocket Lab이 Amazon보다 높은 점수(8.5 vs 7.5).
 - **안정적 현금흐름 산업 논의**: Rocket Lab, Iridium Communications, Viasat 등 미국 민간 우주 기업들은 안정적인 반복 매출 구조를 바탕으로 주목받음. 우주 산업은 이벤트 테마가 아닌 안정적 현금흐름 산업으로 재평가 중. (출처: [gem_gem_gem 블로그](https://blog.naver.com/gem_gem_gem/224314885353))
+
+
+## 2026-06-14 업데이트
+
+### 스페이스X 상장 후 RKLB 급락 및 나스닥100 편입 확정
+- **스페이스X 상장 첫날(+19.22%) 후 RKLB -10~13% 급락**: 나스닥100 편입 호재에도 불구, 스페이스X 상장으로 인한 투자자 자금 이탈이 우주 Peer 전반에 영향을 미침. RKLB -10.79~13%, Virgin Galactic -30~37%, AST SpaceMobile -15~16%, Intuitive Machines -7~13%, Redwire -13%, Planet Labs -9%, EchoStar -11~12% 추정. (출처: [busyflow](https://blog.naver.com/busyflow/224315065544), [ezkahn](https://blog.naver.com/ezkahn/224315070092), [challengery](https://blog.naver.com/challengery/224315070362), [investqualitic](https://blog.naver.com/investqualitic/224315116959), [jasonjedi](https://blog.naver.com/jasonjedi/224315192417))
+- **한편 다른 출처는 5%대 강세로 보도**: 일부 매체는 RKLB가 나스닥100 편입 + 스페이스X 효과로 5%대 강세를 보였다고 보도. (출처: [wallstreet-snack](https://blog.naver.com/wallstreet-snack/224315097569)) — 출처별 시차·데이터 차이 존재.
+- **나스닥100 편입 발표(6/22 적용)**: RKLB·NBIS·ALAB·CRWV·TER 편입 확정. 나스닥100 최초 편입이라는 제도권 안착 의미. (출처: [youngh2618](https://blog.naver.com/youngh2618/224315039213), [merci1208-](https://blog.naver.com/merci1208-/224315078351))
+
+### 급락 원인 및 반등 관측
+- **원인**: '투자자 자금이 스페이스X로 대이동' (Reuters 인용). 스페이스X 시총 2조 달러 돌파로 Peer 기업 자금 블랙홀 우려 현실화. (출처: [ywkim9](https://blog.naver.com/ywkim9/224315096562), [jasonjedi](https://blog.naver.com/jasonjedi/224315192417))
+- **반대 시각**: "이번 하락은 섹터 전반의 단기 조정. 편입시점이 더 중요" — 나스닥100 편입 확정으로 지수 추종 패시브 수급 유입 예상. (출처: [bornfree22](https://blog.naver.com/bornfree22/224315365673))
+- **다음 주 반등 관측**: 스페이스X 상장 첫날 대성공(시총 2조 달러)으로 월가 기관 포트폴리오 재편이 우주 섹터로 확장될 가능성. RKLB가 나스닥100 편입 확정으로 패시브 수요 유입 + Peer 우주주 중 재평가 1순위로 지목. (출처: [dorlqkq](https://blog.naver.com/dorlqkq/224315362103), [dorlqkq](https://blog.naver.com/dorlqkq/224315363764))
+
+### 밸류에이션 비교 심층 분석
+- **스페이스X vs RKLB PSR 비교**: 스페이스X PSR 30~150배, RKLB 약 60~91배. 스페이스X의 규모·수익성 우위를 감안해 RKLB에 할인 적용. AI 피어(CoreWeave·Nebius) 기준 PSR 40~151배. (출처: [esngu99](https://blog.naver.com/esngu99/224315051508))
+- **RKLB 밸류에이션 90배는 시총 90조 기업이 아닌 점을 고려해야**: 시총과 밸류에이션 스케일 차이를 감안한 평가 필요. (출처: [deeptrigger](https://blog.naver.com/deeptrigger/224315126596))
+- **VanEck·우주 ETF 급등**: VanEck 우주 ETF 급등, RKLB·Globalstar·ASTS·Redwire 등 위성·우주주 동반 상승. (출처: [steigenoderfallen](https://blog.naver.com/steigenoderfallen/224315130163))
+
+### 재사용 로켓 · 발사체 포트폴리오 투자 수요
+- **재사용 로켓 투자 필요성 대두**: 재사용 로켓 시장 투자 기회를 놓치면 90% 손해라는 분석. RKLB는 소형 발사체 니치 마켓 강점, Blue Origin은 다양한 우주 사업, 한화에어로스페이스는 국내 선도. RKLB·Blue Origin이 글로벌 상업용 우주 시장의 중추. (출처: [gem_gem_gem](https://blog.naver.com/gem_gem_gem/224314320344), [gem_gem_gem](https://blog.naver.com/gem_gem_gem/224314321244), [gem_gem_gem](https://blog.naver.com/gem_gem_gem/224314322280))
+- **스페이스X 다음 10배 후보**: RKLB가 가장 많이 언급. 소형 위성 발사 시장 강점, 수직계열화, Electron+Neutron+Photon의 종합 우주 인프라 포지셔닝. (출처: [sorak0131](https://blog.naver.com/sorak0131/224315289164))
+
+### RKLB 사업 모델 재조명
+- **RKLB 사업**: Electron 발사체(Neutron 출시 예정) + 위성 부품(Photon·반응차륜·태양전지) + 우주 제조(Robotics) + 군수 계약. 단순 발사 기업이 아닌 종합 우주 인프라 기업. (출처: [jlo_jobconsulting](https://blog.naver.com/jlo_jobconsulting/224315335611))
+- **ETF 구성**: 1Q 미국우주항공테크 ETF(하나자산운용) 보유 종목 — RKLB, 조비 에비에이션 등. KODEX·TIGER·SOL·ACE ETF 모두 RKLB 최대 비중. (출처: [kmentum](https://blog.naver.com/kmentum/224315155199))
+- **우주항공 섹터 대장주**: Lockheed Martin, Northrop Grumman, Rocket Lab 등이 우주항공 ETF 대표 대장주·수혜주. 방산·위성 시스템·발사체 경쟁력. (출처: [gem_gem_gem](https://blog.naver.com/gem_gem_gem/224314886899))
+
+### 중장기 전망 및 투자 전략
+- **상충하는 견해**: '스페이스X 상장 후 자금 블랙홀 우려 현실화 → Peer 지속 하락 가능' vs '나스닥100 편입 + ETF 패시브 수급 + 우주 섹터 재평가 → 중장기 상승'. (출처: [busyflow](https://blog.naver.com/busyflow/224315065544), [jasonjedi](https://blog.naver.com/jasonjedi/224315192417))
+- **스페이스X 대비 RKLB 포지셔닝**: [pharmd0808](https://blog.naver.com/pharmd0808/224315773721), [radsun3149](https://blog.naver.com/radsun3149/224315372306) — RKLB는 '소형 로켓' 틈새시장 선점, 스페이스X와 다른 성장 궤적.
+- **중장기 하락 베팅 리스크**: RKLB는 나스닥100 편입으로 강제 매수 수요가 발생하는 구조. 여름 락업 해제(스페이스X) 변수는 있으나, 6/22 리밸런싱 전 패시브 자금 유입이 하방 지지. (출처: [busyflow](https://blog.naver.com/busyflow/224315065544))
+
+### Peer 비교 종합
+| 기업 | 시총 | 핵심 사업 | 경쟁 관계 |
+|------|------|-----------|-----------|
+| SpaceX | $2조 | 대형 발사체+스타링크 | RKLB와 보완+부분 경쟁 |
+| Rocket Lab(RKLB) | ~$90억 | 소형 발사체+위성버스+로봇 | 스페이스X·블루오리진과 차별화 |
+| Blue Origin | 비상장 | 다양한 우주 사업 | 중장기 경쟁 |
+| 한화에어로스페이스 | 국내 | 발사체 부품 | RKLB와 국제 협력 가능 |
+
+- **Bloomberg·Reuters 보도**: Reuters는 스페이스X 첫날 Planet Labs -9%, EchoStar -11% 보도. Motley Fool은 RKLB·ASTS·Intuitive Machines 급락 보도. (출처: [jasonjedi](https://blog.naver.com/jasonjedi/224315192417))
+
+
+### 나스닥100 편입 후 이벤트 종합 표
+| 날짜 | 이벤트 | 출처 |
+|------|--------|------|
+| 2026-06-13~14 | 스페이스X 상장 첫날(+19%) 충격으로 RKLB -10~13% 급락. 나스닥100 편입(6/22 적용) 호재와 상충. '자금 블랙홀' vs '패시브 수급' 양론. | [busyflow](https://blog.naver.com/busyflow/224315065544) 외 다수 |
+| 2026-06-13 | 재사용 로켓 투자 수요 급부상. RKLB 소형 발사체 니치 마켓 강점 재확인. | [gem_gem_gem](https://blog.naver.com/gem_gem_gem/224314320344) |
+| 2026-06-13 | RKLB '스페이스X 다음 10배 후보' 1순위. 소형 위성 발사 시장 독점·수직계열화. | [sorak0131](https://blog.naver.com/sorak0131/224315289164) |
+| 2026-06-13 | RKLB PSR 60~91배 추정(스페이스X 30~150배·CoreWeave·Nebius 40~151배). | [esngu99](https://blog.naver.com/esngu99/224315051508) |
+| 2026-06-14 | 다음 주 반등 예측 — 월가 기관 포트폴리오 재편, 나스닥100 패시브 수급 유입 기대. | [dorlqkq](https://blog.naver.com/dorlqkq/224315362103) |
+
+
+### 상충하는 견해 추가
+- **(2026-06-14) 🐦SNS·블로그 다수**: 스페이스X 상장 후 'Peer 급락 = 단기 자금 이동' vs '중장기 구조적 자금 블랙홀' 논쟁 지속. RKLB 나스닥100 편입(6/22)이 반등 촉매인지 확인 필요. 일부는 5%대 강세 보도(OI 매체 발표 시차). (출처: [busyflow](https://blog.naver.com/busyflow/224315065544), [wallstreet-snack](https://blog.naver.com/wallstreet-snack/224315097569))
+
+
+### 위험 업데이트
+- **(2026-06-14) 스페이스X 상장 후 Peer 급락 현실화**: RKLB -10~13% 낙폭. 6/22 나스닥100 편입 전 추가 하락 가능성. (출처: [busyflow](https://blog.naver.com/busyflow/224315065544), [jasonjedi](https://blog.naver.com/jasonjedi/224315192417))
+- **재사용 로켓 시장 경쟁 심화**: Blue Origin·한화에어로스페이스 등 경쟁 진입 가속화. RKLB 소형 발사체 독점 지위에 도전 가능. (출처: [gem_gem_gem](https://blog.naver.com/gem_gem_gem/224314320344))
+
+
+### 🐦SNS 투자의견 히스토리 추가
+| 날짜 | 증권사 | 투자의견 | 목표주가 | 비고 |
+|---|---|---|---|---|
+| 2026-06-14 | 🐦SNS·블로그 다수 | 혼조 | N/A | 스페이스X 상장 후 급락(-10~13%) vs 나스닥100 편입 호재. 단기 매도 vs 중장기 매수 엇갈림. |
+| 2026-06-14 | 🐦SNS·블로그 다수 | 매수(반등 예상) | N/A | 다음 주 반등 관측 — 월가 기관 포트폴리오 재편·ETF 패시브 수급. |

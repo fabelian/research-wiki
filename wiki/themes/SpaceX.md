@@ -93,6 +93,12 @@ edges:
     claim_type: "보도"
     source: "blog.naver.com/archive01_/224314674873"
     date: 2026-06-12
+  - rel: AFFECTS
+    target: "[[Virgin Galactic]]"
+    confidence: 0.9
+    claim_type: "보도"
+    source: "https://blog.naver.com/investqualitic/224315116959"
+    date: 2026-06-14
 ---
 
 # SpaceX
@@ -334,3 +340,33 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 ---
 
 | 2026-06-13 | **스페이스X CFO·COO 공개 웨비나**: 삼성증권 [[박준규]] 연구원 인용, 스페이스X 임원진이 6/10 웨비나에서 향후 사업 계획 질의응답. 우주 AIDC(데이터센터) 가속화 및 태양전지 확보 주력 방안 논의. | [sedaily](https://www.sedaily.com/article/20055188?ref=naver) |
+
+
+## 2026-06-14 업데이트
+
+### 스페이스X 상장 첫날 결과
+- **SPCX 상장 첫날 +19%**, 시총 2조 달러 돌파. 일론 머스크 세계 최초 '조만장자' 등극. (출처: [investqualitic](https://blog.naver.com/investqualitic/224315116959), [jasonjedi](https://blog.naver.com/jasonjedi/224315192417))
+- **Peer 급락**: RKLB -10~13%, Virgin Galactic -30~37%, ASTS -15~16%, Intuitive Machines -7~13%, Redwire -13%, Planet Labs -9%, EchoStar -11~12%. '자금 블랙홀' 현실화. (출처: [busyflow](https://blog.naver.com/busyflow/224315065544), [investqualitic](https://blog.naver.com/investqualitic/224315116959))
+- **반론(일부 매체)**: RKLB는 5%대 강세 보도도 존재. 시차·데이터 차이. (출처: [wallstreet-snack](https://blog.naver.com/wallstreet-snack/224315097569))
+
+### 스페이스X 적정가격 분석
+- **PSR 30~150배 비교 분석**: RKLB(약 60~91배), CoreWeave·Nebius 네오클라우드(40~151배). 스페이스X 규모·수익성 우위를 Low/Base에서 할인. AI사업 EV는 CoreWeave·Nebius 피어 기준. (출처: [esngu99](https://blog.naver.com/esngu99/224315051508))
+- **락업 해제 시 패시브 자금 규모**: 삼성증권 추정 약 1,350억 달러. (출처: 기존 블로그 zzipssa9090)
+
+### 미국 우주항공 ETF 전반적 영향
+- **ETF 구성 비교**: Lockheed Martin·Northrop Grumman·Rocket Lab이 대표 대장주. 방산·위성 시스템·발사체 경쟁력. (출처: [gem_gem_gem](https://blog.naver.com/gem_gem_gem/224314886899))
+- **1Q 미국우주항공테크 ETF(하나자산운용)**: RKLB·조비 에비에이션 등 보유. (출처: [kmentum](https://blog.naver.com/kmentum/224315155199))
+- **VanEck 우주 ETF 급등**: RKLB·Globalstar·ASTS·Redwire 동반 상승. (출처: [steigenoderfallen](https://blog.naver.com/steigenoderfallen/224315130163))
+
+### 스페이스X 다음 10배 후보
+- **RKLB가 가장 많이 언급**: 소형 발사체 독점, Neutron 확장, 수직계열화, 군수 계약. 스페이스X와 차별화된 성장 궤적. (출처: [sorak0131](https://blog.naver.com/sorak0131/224315289164))
+- **경쟁사 대비 차별화 포인트**: RKLB는 '소형 로켓' 틈새시장 선점, 스페이스X는 대형 발사체+스타링크. 보완+부분 경쟁 구조. (출처: [radsun3149](https://blog.naver.com/radsun3149/224315372306), [pharmd0808](https://blog.naver.com/pharmd0808/224315773721))
+
+
+### 주요 이벤트 표(6/13-14 추가분)
+| 날짜 | 이벤트 | 출처 |
+|------|--------|------|
+| 2026-06-13 | 스페이스X 상장 첫날 +19%, 시총 $2조 돌파. 머스크 조만장자 등극. | [investqualitic](https://blog.naver.com/investqualitic/224315116959) |
+| 2026-06-13 | Peer 전반 급락(RKLB -10~13%, Virgin Galactic -30~37%). | [investqualitic](https://blog.naver.com/investqualitic/224315116959) |
+| 2026-06-13 | 스페이스X PSR 30~150배 추정. RKLB 60~91배 비교. | [esngu99](https://blog.naver.com/esngu99/224315051508) |
+| 2026-06-13 | 스페이스X '10배 후보' RKLB 1순위 언급. | [sorak0131](https://blog.naver.com/sorak0131/224315289164) |
