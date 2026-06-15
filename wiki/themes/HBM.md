@@ -303,3 +303,7 @@ edges:
 
 ### 📰 BofA 엔비디아 최우선 추천 — HBM 수요 연장
 - BofA, 엔비디아 반도체 최우선 추천 유지. CPU·GPU·AI 가속기 확대가 HBM·메모리 밸류체인 수요를 구조적으로 견인하는 프레임. (출처: [eijiro_kirishima](https://blog.naver.com/eijiro_kirishima/224315604706)) 🐦네이블로그
+
+
+## 주요 이벤트
+- **2026-06-11**: SK하이닉스 HBM 독주·주가 전망 분석 — HBM3/HBM3E 엔비디아 독점 공급 리더십 강조. HBM은 AI 가속기 필수 제품.
