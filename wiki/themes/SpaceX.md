@@ -135,6 +135,12 @@ edges:
     claim_type: "보도"
     source: "https://www.hansbiz.co.kr/news/articleView.html?idxno=844190"
     date: 2026-06-14
+  - rel: MENTIONS
+    target: "[[김종민]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "https://www.dt.co.kr/article/12067454?ref=naver"
+    date: 2026-06-14
 ---
 
 # SpaceX
@@ -463,3 +469,9 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 
 ## 2026-06-13 업데이트 (토큰 매수 경로·삼성증권 계좌 연동)
 - **스페이스X 토큰 매수 경로 등장**: 시커코인(SKR)으로 스페이스X 주식 토큰 구매 가능 제기. 단, 삼성증권·미래에셋증권 등 국내 증권사를 통한 배당 권리 행사와 별개. ⚠️미확인. ([블로그·blockduk](https://blog.naver.com/blockduk/224315508725))
+
+
+## 2026-06-14 업데이트
+
+### 삼성증권 김종민 연구원 견해
+- [[삼성증권]] [[김종민]] 연구원은 "스페이스X 상장은 단기 유동성 요인일 뿐, 중장기 전망은 견고하다"며 "이번 흔들림은 일시적"이라고 평가. ([dt](https://www.dt.co.kr/article/12067454?ref=naver))
