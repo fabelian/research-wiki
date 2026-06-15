@@ -22,6 +22,18 @@ edges:
     claim_type: "보도"
     source: "https://www.asiatoday.co.kr/kn/view.php?key=20260611010004110"
     date: 2026-06-14
+  - rel: MENTIONS
+    target: "[[삼성전자]]"
+    confidence: 0.7
+    claim_type: "보도"
+    source: "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606140063&t=NN"
+    date: 2026-06-14
+  - rel: MENTIONS
+    target: "[[앤트로픽]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674893"
+    date: 2026-06-14
 ---
 
 # AI서버
@@ -379,3 +391,16 @@ SK하이닉스 청주 4캠퍼스 M15X 공장 2층 가스룸 화재. 13명 병원
 ### 📊 AI가 한국 GDP 2% 상회 — AI서버 투자 경제적 파급력
 - 내년 삼성전자·SK하이닉스 상여금이 한국 GDP 2% 상회 전망. (mt.co.kr 6/14)
 - AI서버·반도체 호황의 거시경제 영향력 확대.
+
+
+## 2026-06-14 업데이트
+
+### 🌐 구글, 삼성전자 파운드리에 차세대 AI 반도체 생산 검토
+- 구글, AI 반도체(Tensor 등) 생산 일부를 삼성전자 파운드리에 위탁하는 방안 검토 중 (wowtv 6/14).
+- 삼성전자 AI서버 반도체 파운드리 수주 확대 가능성.
+
+### 🇯🇵 닛케이 "젠슨 황에게 일본은 매력 없다"
+- 한국·대만이 엔비디아 공급망의 핵심. TSMC·삼성전자·SK하이닉스 없이 AI 칩 생산 불가능 (khan 6/14).
+
+### 🔐 美정부, 앤트로픽 미토스 접근 제한 — AI 보안 협력 변수
+- 한국 기관(KISA·삼성전자·SK하이닉스·SKT) 글래스윙 접근권 확보했으나 美제한 (khan·digitaltoday 6/14).
