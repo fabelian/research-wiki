@@ -1,6 +1,37 @@
 ---
 type: stock
 name: Intuitive_Machines
+edges:
+  - rel: SUPPLIES_TO
+    target: "[[NASA]]"
+    confidence: 0.85
+    claim_type: "보도"
+    source: "https://blog.naver.com/lg320/224315734124"
+    date: 2026-06-13
+  - rel: AFFECTS
+    target: "[[달_탐사]]"
+    confidence: 0.85
+    claim_type: "보도"
+    source: "https://blog.naver.com/lg320/224315734124"
+    date: 2026-06-13
+  - rel: MENTIONS
+    target: "[[Firefly Aerospace]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "https://blog.naver.com/lg320/224315734124"
+    date: 2026-06-13
+  - rel: MENTIONS
+    target: "[[Astrolab]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "https://blog.naver.com/lg320/224315734124"
+    date: 2026-06-13
+  - rel: MENTIONS
+    target: "[[Lunar Outpost]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "https://blog.naver.com/lg320/224315734124"
+    date: 2026-06-13
 ---
 type: stock
 ticker: LUNR
@@ -67,3 +98,11 @@ updated: 2026-04-15
 ## 2026-06-07 업데이트
 ### 🐦SNS·블로그: 스페이스X 상장 수혜 ETF 분석
 - 네이버 블로그에서 '스페이스X 상장 수혜 ETF'로 ROKT(SPDR S&P Kensho Final Frontiers ETF)를 분석한 결과, Intuitive Machines은 4.75% 비중으로 세 번째 주요 보유 종목으로 확인되었습니다. ROKT는 Lockheed Martin(3.67%)보다 Intuitive Machines에 더 많이 투자하는 등 우주 순도가 높은 ETF로 평가됩니다. (출처: [네이버블로그](https://blog.naver.com/24th_onestep/224309058391))
+
+
+## 2026-06-13 업데이트
+
+### NASA Lunar Vertex 임무 추가 수주 및 협력 생태계 확장
+- **Nova-C Trinity 착륙선으로 Lunar Vertex 임무 수행**: Intuitive Machines가 NASA로부터 달 남극 탐사 Lunar Vertex 임무를 Nova-C Trinity 착륙선으로 수행하는 추가 계약을 수주했습니다. (출처: [네이버블로그](https://blog.naver.com/lg320/224315734124))
+- **Astrolab·Lunar Outpost와 LTV(달 탐사차량) 개발 협력**: NASA의 아르테미스 프로그램 일환으로, Astrolab·Lunar Outpost 등 민간 기업과 함께 달 탐사차량(LTV)을 개발 중입니다. (출처: 동일)
+- **Firefly Aerospace와 MoonFall 드론 운송 협력**: Firefly Aerospace가 개발 중인 MoonFall 드론 운송 우주선 개발에 Intuitive Machines가 참여하며, 달 탐사 생태계 내 협력 관계를 확장하고 있습니다. (출처: 동일)
