@@ -48,6 +48,36 @@ edges:
     claim_type: "보도"
     source: "https://blog.naver.com/kka_dream/224314575444"
     date: 2026-06-12
+  - rel: COMPETES_WITH
+    target: "[[Planet_Labs]]"
+    confidence: 0.3
+    claim_type: "보도"
+    source: "https://blog.naver.com/ksb8435/224314676288"
+    date: 2026-06-12
+  - rel: BELONGS_TO_THEME
+    target: "[[SpaceX]]"
+    confidence: 0.9
+    claim_type: "보도"
+    source: "https://blog.naver.com/spoonfeedfinace/224314715365"
+    date: 2026-06-12
+  - rel: BELONGS_TO_THEME
+    target: "[[달_탐사]]"
+    confidence: 0.3
+    claim_type: "보도"
+    source: "https://blog.naver.com/kzxsazxsa/224314869468"
+    date: 2026-06-12
+  - rel: BELONGS_TO_THEME
+    target: "[[우주제조]]"
+    confidence: 0.4
+    claim_type: "보도"
+    source: "https://blog.naver.com/yoongafil/224314650006"
+    date: 2026-06-12
+  - rel: MENTIONS
+    target: "[[AST SpaceMobile (ASTS)]]"
+    confidence: 0.7
+    claim_type: "보도"
+    source: "https://blog.naver.com/kmos04/224314394531"
+    date: 2026-06-12
 ---
 # Rocket Lab (RKLB)
 
@@ -254,3 +284,69 @@ edges:
 |---|---|---|---|---|
 | 2026-06-14 | 🐦SNS·블로그 다수 | 혼조 | N/A | 스페이스X 상장 후 급락(-10~13%) vs 나스닥100 편입 호재. 단기 매도 vs 중장기 매수 엇갈림. |
 | 2026-06-14 | 🐦SNS·블로그 다수 | 매수(반등 예상) | N/A | 다음 주 반등 관측 — 월가 기관 포트폴리오 재편·ETF 패시브 수급. |
+
+
+## 2026-06-12 업데이트
+
+### 스페이스X 상장일: Peer 동반 급락
+- **2026-06-12**: 스페이스X 나스닥 상장일. RKLB **-10.79%** 급락. Intuitive Machines -13.12%, AST SpaceMobile -15.53%, Planet Labs -8.8%, Firefly Aerospace -19.05% 등 Peer 전반 급락. (출처: [yanggun7201](https://blog.naver.com/yanggun7201/224314797241), [skyblyue0814](https://blog.naver.com/skyblyue0814/224314797447), [ksb8435](https://blog.naver.com/ksb8435/224314676288))
+- "왕이 나타나니 신하들이 무릎 꿇었다" — 스페이스X로 자금 쏠림 현상. (출처: [yanggun7201](https://blog.naver.com/yanggun7201/224314797241))
+- **해석**: 우주 테마 전체 강세 아닌, 스페이스X로의 자금 집중으로 기존 Peer 하락. (출처: [st0ck_diary](https://blog.naver.com/st0ck_diary/224314761320), [lubendi](https://blog.naver.com/lubendi/224314861223))
+- **반론**: 일부 분석가 — "작은 우주 기업에서 큰 우주 기업으로 이동"은 자연스러운 리밸런싱. RKLB 펀더멘털(수주잔고 $22억·나스닥100 편입) 변함 없음. (출처: [mooyg918](https://blog.naver.com/mooyg918/224314823632), [spoonfeedfinace](https://blog.naver.com/spoonfeedfinace/224314715365))
+- Firefly Aerospace(-19.05%), Virgin Galactic(장중 -37% → 회복) 등 더 큰 낙폭. RKLB는 Peer 중 상대적 선방. (출처: [dbdefault](https://blog.naver.com/dbdefault/224314631381))
+
+### '제2의 스페이스X' 경쟁사 비교 심층 분석
+- **한국 우주 ETF 대비**: RKLB vs ASTS 비교 — RKLB는 발사체+위성버스+Neutron 수직계열화로 종합 우주 인프라. ASTS는 위성 통신 단일 테마로 변동성 높음. (출처: [kmos04](https://blog.naver.com/kmos04/224314394531))
+- 업스트림(RKLB·Northrop·L3Harris·Teledyne·ASTS) vs 다운스트림 구분 재확인. (출처: [kmos04](https://blog.naver.com/kmos04/224314394531))
+- **Barron's 분석 재인용**: RKLB 12개월 320%↑(예상매출 25배), ASTS 170%↑(예상매출 80배). 스페이스X 상장 후 차익실현 리스크. (출처: [kmos04](https://blog.naver.com/kmos04/224314394531))
+
+### 나스닥100 편입 확정 — 6/22 적용 재확인
+- **6/22 나스닥 정기 리밸런싱**: RKLB·CoreWeave(NBIS)·Astera Labs(ALAB)·Nebius(CRWV)·Teradyne(TER) 신규 편입. (출처: [ecokinder](https://blog.naver.com/ecokinder/224314241940), [the_greatest_](https://blog.naver.com/the_greatest_/224314667480), [dodoo0217](https://blog.naver.com/dodoo0217/224314751067))
+- 주가 30%+ 급등 반영. (출처: [steigenoderfallen](https://blog.naver.com/steigenoderfallen/224314947931))
+- 지수 추종 패시브 수요 기대. SPCX는 MSCI, 나스닥100은 별도 지수. (출처: [steigenoderfallen](https://blog.naver.com/steigenoderfallen/224314947931))
+
+### ETF 편입 상세 업데이트
+- **UFO(Procure Space ETF)** 주요 편입: Rocket Lab·Viasat·Iridium·Planet Labs·MDA Space·Globalstar. (출처: [yoongafil](https://blog.naver.com/yoongafil/224314650006))
+- **ARKX(ARK Space Exploration ETF)**: Rocket Lab 포함. (출처: [offdaylog_](https://blog.naver.com/offdaylog_/224314927937))
+- **국내 ETF 유형별 분류**: 순수 우주 ETF(로켓·위성·우주 인프라) vs 위성통신 ETF vs 방산·우주 혼합. RKLB는 전자에 속함. (출처: [yoongafil](https://blog.naver.com/yoongafil/224314650006))
+
+### RKLB vs Peer 심층 비교
+- **발사체 수혜**: RKLB — 스페이스X 대체 발사 수요와 소형 위성 발사 시장 독점. (출처: [moneymoment](https://blog.naver.com/moneymoment/224314671132))
+- **직접 수혜 종목군**: 스페이스X 경쟁 관계이면서 우주 산업 전체 관심도 상승 시 동반 주목 구조. (출처: [ssambakkk0505](https://blog.naver.com/ssambakkk0505/224314676742))
+- **RKLB 강점 요약**: 민첩한 혁신(소형 위성 집중)·기술력 우수, 규모의 경제 부족은 과제. (출처: [helpnara](https://blog.naver.com/helpnara/224314652966))
+- **스페이스X와 3대 차이**: (1) 소형 발사체 독점 (2) Neutron 중형 확장 (3) 수직계열화 마진 우위. (출처: [dndn_dn](https://blog.naver.com/dndn_dn/224314762665))
+- **2026년 1분기 매출 $2.0억 돌파·수주잔고 $22억** 재확인. (출처: [dndn_dn](https://blog.naver.com/dndn_dn/224314762665))
+
+### 스페이스X 상장 후 RKLB 투자 전략
+- **단기**: 스페이스X 자금 쏠림으로 Peer 압력 지속 가능. 차익실현 리스크.
+- **중기**: 나스닥100 편입(6/22)으로 지수 추종 패시브 수요 + $750억 시총 기대. (출처: [steigenoderfallen](https://blog.naver.com/steigenoderfallen/224314947931))
+- **장기**: '미니 스페이스X' 포지셔닝. 스페이스X 상장으로 우주 섹터 전체 TAM 확장, RKLB도 수혜. (출처: [spoonfeedfinace](https://blog.naver.com/spoonfeedfinace/224314715365), [mooyg918](https://blog.naver.com/mooyg918/224314823632))
+- **리스크**: 스페이스X가 '새 비교 기준'이 되어 RKLB 재평가 압력. (출처: [spoonfeedfinace](https://blog.naver.com/spoonfeedfinace/224314715365))
+- **국내 ETF 투자 유의**: 스페이스X 상장 당일 국내 ETF 편입 실패. ETF 매수 시 편입 비중 확인 필수. (출처: [lubendi](https://blog.naver.com/lubendi/224314861223))
+
+### 관련 출처/링크
+- [kmos04 - 제2의 스페이스X 탑픽](https://blog.naver.com/kmos04/224314394531)
+- [dbdefault - 스페이스X 상장 첫날](https://blog.naver.com/dbdefault/224314631381)
+- [qusdygks119 - 상장 후 2조 달러](https://blog.naver.com/qusdygks119/224314641692)
+- [yoongafil - 우주 ETF 분석](https://blog.naver.com/yoongafil/224314650006)
+- [ecokinder - 나스닥 편입 5개 종목](https://blog.naver.com/ecokinder/224314241940)
+- [helpnara - AI 시대 최대 수혜주](https://blog.naver.com/helpnara/224314652966)
+- [the_greatest_ - 매일 아침 뉴스 브리핑](https://blog.naver.com/the_greatest_/224314667480)
+- [moneymoment - 숨은 수혜주 TOP5](https://blog.naver.com/moneymoment/224314671132)
+- [ksb8435 - 6월 12일 나스닥 마감 브리핑](https://blog.naver.com/ksb8435/224314676288)
+- [ssambakkk0505 - 스페이스X 상장 파장](https://blog.naver.com/ssambakkk0505/224314676742)
+- [daieotu-che - 상장 첫날 19% 폭등](https://blog.naver.com/daieotu-che/224314679392)
+- [spoonfeedfinace - 우주주 무조건 사면 안 되는 이유](https://blog.naver.com/spoonfeedfinace/224314715365)
+- [spoonfeedfinace - 러셀2000 분석](https://blog.naver.com/spoonfeedfinace/224314717651)
+- [dodoo0217 - 6/22 나스닥100 리밸런싱](https://blog.naver.com/dodoo0217/224314751067)
+- [st0ck_diary - 6/12 장마감 리포트](https://blog.naver.com/st0ck_diary/224314761320)
+- [dndn_dn - 스페이스X 상장 쇼크](https://blog.naver.com/dndn_dn/224314762665)
+- [yanggun7201 - 2조달러 스페이스X](https://blog.naver.com/yanggun7201/224314797241)
+- [skyblyue0814 - 161달러, 지금 사도 되나](https://blog.naver.com/skyblyue0814/224314797447)
+- [mooyg918 - RKLB 10% 급락](https://blog.naver.com/mooyg918/224314823632)
+- [myungs8 - 스타링크 분할 상장](https://blog.naver.com/myungs8/224314834246)
+- [lubendi - 국내 ETF 편입 실패](https://blog.naver.com/lubendi/224314861223)
+- [kzxsazxsa - 관련주 투자 포인트](https://blog.naver.com/kzxsazxsa/224314869468)
+- [lhjas - IPO 뒤 20% 오른 이유](https://blog.naver.com/lhjas/224314883600)
+- [offdaylog_ - 스페이스X 상장, 지금 알아야 할 것](https://blog.naver.com/offdaylog_/224314927937)
+- [steigenoderfallen - 로켓랩 어디까지 갈까](https://blog.naver.com/steigenoderfallen/224314947931)

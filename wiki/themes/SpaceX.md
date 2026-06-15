@@ -482,3 +482,34 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 - **스페이스X D-Day 상장(6/12)**: [[김종민]] 삼성증권 수석연구위원, "역사상 최대 메가 IPO…단기 국내 증시 수급 교란 요인" 재확인. 글로벌 투자자 포트폴리오 조정 가능성. ([mt](https://www.mt.co.kr/world/2026/06/12/2026061122400674251))
 - **국내 투자자 매수 경로**: SPCX 티커로 삼성증권·미래에셋·키움증권·한국투자·NH투자증권 등 해외주식 계좌에서 일반 매수 가능(공모가 아님). 상장일(6/12) 당일 거래 불가, 6/16(화)부터 거래 예정. ACE ETF 경로도 가능. ([news2day](https://www.news2day.co.kr/article/20260612500011), [blog.lululemon3939](https://blog.naver.com/lululemon3939/224314220913))
 - **밸류에이션 논쟁 지속**: 블룸버그·삼성증권 등 분석 인용, 스페이스X 나스닥 상장은 제도권 자본시장 첫발. ([blog.drreen](https://blog.naver.com/drreen/224314235712))
+
+
+## 2026-06-12 업데이트 — 상장 첫날 시장 반응
+
+### 상장일 실적
+- **공모가 $135 → 상장일 종가 $161 (+19.3%)**. 시가총액 약 $2.1조(약 2,800조 원). (출처: [skyblyue0814](https://blog.naver.com/skyblyue0814/224314797241), [dbdefault](https://blog.naver.com/dbdefault/224314631381))
+- 거래량 5억 주 이상. (출처: [ksb8435](https://blog.naver.com/ksb8435/224314676288))
+- **국내 투자자**: 상장 당일(6/12) 매매 불가, 6/16 이후 거래 재개 확인. (출처: [daieotu-che](https://blog.naver.com/daieotu-che/224314679392))
+
+### Peer 동향
+- **스페이스X 상장일 Peer 전반 급락**: Virgin Galactic -37%(장중), Firefly Aerospace -19.05%, AST SpaceMobile -15.53%, Intuitive Machines -13.12%, Rocket Lab -10.79%, Planet Labs -8.8%. (출처: [yanggun7201](https://blog.naver.com/yanggun7201/224314797241))
+- **원인**: 투자자들이 '작은 우주 기업 → 큰 우주 기업(스페이스X)'으로 자금 이동. (출처: [lubendi](https://blog.naver.com/lubendi/224314861223))
+- **예외**: 일부 발사체·위성 기업은 상장일 선방(Redwire 소폭 하락에 그침).
+
+### 국내 ETF 편입 실패 논란
+- **스페이스X 국내 ETF 편입 당일 발표 없음**. 미래에셋자산운용 등 편입 공지 미발표. (출처: [lubendi](https://blog.naver.com/lubendi/224314861223))
+- 기존 분석(환율 부담·정부 눈치)이 현실화된 양상.
+- **간접 투자 경로**: 해외주식 직매수(6/16 이후) / ARKX·UFO·ROCK 등 해외 ETF / 미래에셋증권 MTS(SPCX 검색). (출처: [daieotu-che](https://blog.naver.com/daieotu-che/224314679392))
+
+### 새 비교 기준 설정
+- **스페이스X가 '새 비교 기준'**이 되어 RKLB·ASTS 등 Peer 재평가 압력 작용. (출처: [spoonfeedfinace](https://blog.naver.com/spoonfeedfinace/224314715365))
+- 스타링크·xAI 분할 상장 가능성 지속 거론. (출처: [myungs8](https://blog.naver.com/myungs8/224314834246))
+- **2025년 영업손실 $47~50억** 추정, 스타링크 수익 vs 스타십·xAI R&D 비용 상쇄 구조. (출처: [myungs8](https://blog.naver.com/myungs8/224314834246))
+
+### 관련 출처/링크
+- [dbdefault - 상장 첫날 시총 2.1조](https://blog.naver.com/dbdefault/224314631381)
+- [skyblyue0814 - 161달러 분석](https://blog.naver.com/skyblyue0814/224314797447)
+- [yanggun7201 - 2조 달러 쇼크](https://blog.naver.com/yanggun7201/224314797241)
+- [lubendi - ETF 편입 실패](https://blog.naver.com/lubendi/224314861223)
+- [spoonfeedfinace - 새 비교 기준](https://blog.naver.com/spoonfeedfinace/224314715365)
+- [myungs8 - 스타링크 분할 상장](https://blog.naver.com/myungs8/224314834246)
