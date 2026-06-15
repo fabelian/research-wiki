@@ -159,6 +159,18 @@ edges:
     claim_type: "보도"
     source: "https://www.etnews.com/20260613000031"
     date: 2026-06-13
+  - rel: AFFECTS
+    target: "[[케이피항공]]"
+    confidence: 0.7
+    claim_type: "보도"
+    source: "https://www.bizhankook.com/bk/article/32527"
+    date: 2026-06-13
+  - rel: AFFECTS
+    target: "[[세아베스틸지주]]"
+    confidence: 0.6
+    claim_type: "보도"
+    source: "https://www.bizhankook.com/bk/article/32527"
+    date: 2026-06-13
 ---
 
 # SpaceX
@@ -558,3 +570,12 @@ SpaceX는 일론 머스크가 이끄는 민간 우주 기업으로, 2026년 6월
 
 
 관련 이슈: [[spacex-ipo-주식배정-취소-2026q2]]
+
+
+## 2026-06-13 업데이트
+- **스페이스X 나스닥 상장 첫날 +19.22% 상승 마감**. 공모가 $135 대비 큰 폭 상승. ([bizhankook](https://www.bizhankook.com/bk/article/32527))
+- **[[김종민]] 삼성증권**: "역사상 최대 규모 IPO, 단기 유동성 쏠림 야기" ([bizhankook](https://www.bizhankook.com/bk/article/32527))
+- **상장일 세부**: 국내 일반투자자는 6/16부터 거래 가능. 미래에셋증권 공모주 청약 4,600억원 완판.
+- **ETF 편입 공지 삭제 논란** 지속 — 미래에셋자산운용, 환율 부담·정부 눈치 작용 분석.
+- **외국인 25거래일 만에 순매수 전환**. 코스피 8,100선 안착. 삼성증권 "미국·이란 합의 도출 시 유럽 시장 상승" ([sedaily](https://www.sedaily.com/article/20055313?ref=naver))
+- **[[Rocket Lab]] 나스닥100 편입(6/22 적용)** — 지수 추종 패시브 수요 기대. 케이피항공 +14% 등 국내 우주주 동반 강세.
