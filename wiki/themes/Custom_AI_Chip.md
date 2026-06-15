@@ -112,3 +112,9 @@ updated: 2026-06-08
 
 ### 구글·삼성 파운드리 2나노 검토
 - TPU 구글-Broadcom 공동 설계·TSMC 생산 구조에서 TSMC+삼성 분업 모델 논의. (https://blog.naver.com/h2otube/224314187694)
+
+
+## 2026-06-13 업데이트
+
+### 🏭 구글, 차세대 TPU 생산 TSMC+삼성전자 분할 보도
+- 구글, 차세대 TPU 생산을 TSMC와 삼성전자 파운드리로 분할 위탁한다는 보도. 삼성 파운드리는 구글·테슬라·Groq 이어 추가 Custon AI Chip 수주 확보 전망. (출처: [kdj5043](https://blog.naver.com/kdj5043/224315769762)) 🐦SNS·개인분석 ⚠️미확인
