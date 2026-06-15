@@ -34,8 +34,10 @@ edges:
 # 한국CDS
 한국 5년물 국가 CDS 스프레드. 국가 신용위험·외국인 수급 심리의 척도. [[VIX]]와 동반 움직임 잦음.
 
-## 최신 스냅샷
-- N/A — 2026-06-06 ingest 시점에 신뢰 가능한 값 미확보(주요 데이터 소스 placeholder, 검색결과 과거 기사 혼재). 차후 ingest 시 보완.
+## 최신 스냅샷 (2026-06-13)
+- N/A — 신규 뉴스에서 한국CDS 직접 수치 없음. 22~23bp 안정대 유지 추정.
+- 이란 종전 협상 서명(트럼프 '14일 합의') → 지정학 리스크 완화 → CDS 추가 하방 안정 기대. (https://biz.newdaily.co.kr/site/data/html/2026/06/14/2026061400006.html)
+- CPI·PPI 예상치 부합 → 신흥국 CDS 전반 안정 요인. FOMC(6/16~17) 결과 대기. (https://www.tokenpost.kr/news/market/369113)
 
 ## 스냅샷 히스토리
 | 날짜 | CDS 5Y(bp) | 출처 |
@@ -64,6 +66,7 @@ edges:
 | 2026-06-11 | N/A (인도네시아 긴급 금리인상·Moody's/Fitch 신용등급 전망 부정적 하향 — 신흥국 CDS 프리미엄 상승 압력. 한국 CDS 22~23bp 안정대 vs 신흥국 차별화 주목) | https://blog.naver.com/kitcahn/224312852623 (네이버블로그·kitcahn·보도기반) |
 | 2026-06-11 | N/A (인도네시아 긴급 금리인상·Moody's/Fitch 신용등급 전망 부정적 하향 — 신흥국 CDS 프리미엄 상승 압력. 한국 CDS 22~23bp 안정대 vs 신흥국 차별화 주목) | https://blog.naver.com/kitcahn/224312852623 (네이버블로그·kitcahn·보도기반) |
 | 2026-06-13 | N/A (수치 직접 언급 없음 — CDS프리미엄=국가 부도 경고등 교육 콘텐츠) | https://blog.naver.com/7fffd4_/224315605616 (🐦SNS·7fffd4_·금리교육) |
+| 2026-06-13 | N/A (신규 뉴스 中 CDS 수치 없음) | https://www.yna.co.kr/view/AKR20260612159800008?input=1195m , https://biz.newdaily.co.kr/site/data/html/2026/06/14/2026061400006.html , https://www.tokenpost.kr/news/market/369113 , https://www.gokorea.kr/news/articleView.html?idxno=869038 |
 
 ## 셀사이드 전망
 | 증권사 | 날짜 | 전망레벨 | 기간 | 출처 |
@@ -75,6 +78,7 @@ edges:
 | 강경태·황현정 (한국투자증권) | 2026-06-10 | 개별대미투자사업 상업적 합리성 최우선 검토 — 기금 조성 재원은 국가신용등급 채권, 상업적 합리성 검증 필연. 국가 신용 리스크 관리 관점 | 단기~중기 | https://blog.naver.com/dhp039/224311379277 (🌐한국투자증권 리포트 요약) |
 | 서상영(미래에셋증권) | 2026-06-09 | CDS 22bp 내외 안정 — VKOSPI 91.23 역대 최고·반대매매 1조 돌파에도 신용 리스크는 안정 구간 유지 | 단기 | https://www.yna.co.kr/view/AKR20260610022000008?input=1195m , https://blog.naver.com/enewstock/224311772970 |
 | 피치(Fitch) | 2026-06-11 | 글로벌 국가신용등급 전망 '악화'로 하향 — 이란전쟁 여파. 한국 CDS 22~23bp 안정대 vs 글로벌 신용 리스크 상승 분화 주목 | 단기~중기 | https://www.ekn.kr/web/view.php?key=20260611024292536 |
+| (이번 ingest 신규 없음) | | | | |
 
 ## 영향 관계
 - CDS↑ → 국가 신용위험 인식 확대, 외국인 자금 이탈·원화 약세([[원달러환율]]↑)
@@ -318,3 +322,11 @@ edges:
 
 ### 종합
 - 이번 ingest의 3개 블로그 모두 신규 CDS 수치를 제시하지는 않았으나, CDS 프리미엄 개념·국가 부도 리스크 지표로서의 교육 콘텐츠라는 점에서 지식베이스 보강.
+
+
+## 2026-06-13 업데이트 — 신규 뉴스: 종전협상·CPI·FOMC 맥락에서 한국CDS 안정 추정
+
+### 복수 뉴스 CDS 관련 맥락
+- 연합뉴스(2026-06-13): CPI 4.2%·VKOSPI 91.23 보도. CDS 직접 언급 없으나 국가 신용 리스크 직접적 충격 없음. (https://www.yna.co.kr/view/AKR20260612159800008?input=1195m)
+- 뉴데일리(2026-06-14): 트럼프 이란 합의 서명 — 유가 안정·지정학 리스크 완화 → CDS 하방 안정 기대. (https://biz.newdaily.co.kr/site/data/html/2026/06/14/2026061400006.html)
+- 토큰포스트(2026-06-14): CPI·PPI 부합, FOMC 대기. CDS 22~23bp 안정대 지속 추정. (https://www.tokenpost.kr/news/market/369113)

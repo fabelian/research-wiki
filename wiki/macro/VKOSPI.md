@@ -9,8 +9,10 @@ updated: 2026-06-10
 # VKOSPI
 코스피200 변동성지수(한국판 공포지수). 국내 위험회피 강도 판단. [[VIX]]·[[공포탐욕지수]]·[[한국CDS]]와 연계 해석. 셀사이드 전망은 다루지 않는다(변동성지수, 스키마상 생략 대상).
 
-## 최신 스냅샷
+## 최신 스냅샷 (2026-06-13)
 - 89.91 pt (2026-06-12, 종가), 장중 91.94 사상 최고 경신 — 출처: 경향신문·연합뉴스·네이버블로그 복수
+- 6/13 복수 뉴스에서 VKOSPI 91.23(6/9)·91.94(6/12 장중) 사상최고 인용 지속. 6/13 종가 미확인.
+- 참고: https://blog.naver.com/zesjang/224315331387 , https://www.yna.co.kr/view/AKR20260612159800008?input=1195m , https://biz.newdaily.co.kr/site/data/html/2026/06/14/2026061400006.html
 
 ## 스냅샷 히스토리
 | 날짜 | VKOSPI(pt) | 출처 |
@@ -32,6 +34,7 @@ updated: 2026-06-10
 | 2026-06-12 | 89.91 (종가, +2.99%), 장중 91.94 신고가 — 이란 종전 기대감에 코스피 4.63%↑ 8000선 탈환에도 VKOSPI는 4거래일 연속 80선+, 장중 91.94로 2009년 이후 사상 최고치 경신 | https://www.getnews.co.kr/news/articleView.html?idxno=872287 , https://www.industrynews.co.kr/news/articleView.html?idxno=82104 , https://www.ntoday.co.kr/news/articleView.html?idxno=127601 |
 | 2026-06-12 | 89.91 (+0.38%), 장중 91.94 사상 최고 경신 — 코스피 +4.63% 8000선 탈환에도 변동성 지수 고공행진. 25번째 사이드카 기록. VKOSPI 90포인트 돌파 사상 최고치 재경신. | https://blog.naver.com/s980214_/224314090644 , https://blog.naver.com/kimgun2028/224314181445 , https://blog.naver.com/ltk0805/224314260271 , https://blog.naver.com/crazy_shopper/224314267717 , https://www.khan.co.kr/article/202606121125001
 | 2026-06-11 | 89.91 (+0.38%, 장중 91.94 사상최고 경신 — 89.06→91.94→89.91 롤러코스터) — 5거래일 연속 80선+, 전일 88.69 대비 상승. 사이드카 25회(금융위기 이후 최다). VKOSPI와 VIX 괴리 지속. | https://blog.naver.com/s980214_/224314090644 (89.91, +2.61), https://blog.naver.com/kimgun2028/224314181445 (장중 91.94 사상최고), https://blog.naver.com/ltk0805/224314260271 (고가 부근 횡보), https://blog.naver.com/crazy_shopper/224314267717 (장중 91.94), https://www.khan.co.kr/article/202606121125001 (91.85) |
+| 2026-06-13 | N/A (종가 미확인) | 6/12 장중 91.94 사상최고 경신·6/9 91.23 인용 복수 — https://blog.naver.com/zesjang/224315331387 , https://www.yna.co.kr/view/AKR20260612159800008?input=1195m , https://biz.newdaily.co.kr/site/data/html/2026/06/14/2026061400006.html , https://www.tokenpost.kr/news/market/369113 , https://www.gokorea.kr/news/articleView.html?idxno=869038 , https://blog.naver.com/prettygirl-30/224315591200 , https://blog.naver.com/jd01115/224315628676 , https://blog.naver.com/wawaman12/224313838201 , https://blog.naver.com/archi-so/224315498266 , https://blog.naver.com/dogwood104/224315059043 |
 
 ## 영향 관계
 - VKOSPI↑ → 국내 위험회피, 외국인 코스피 순매도·[[한국CDS]] 동반 상승 경향
@@ -149,3 +152,13 @@ updated: 2026-06-10
 - 이란 종전 MOU 서명 기대→유가 급락(WTI -3.2%, 브렌트 -3.4%)→변동성 완화 경로 논의. (https://blog.naver.com/writing_light/224315019672)
 - "지정학적 리스크 해소로 유가와 국채 금리 하락 안정세. 자본 시장의 시선은 ROI 검증으로 이동." (https://blog.naver.com/harmonysales/224315022798)
 - 다만 FOMC(6/16~17)·종전 MOU 실제 서명 변수 남아 있어 VKOSPI 단기 반등 가능성 열려 있음.
+
+
+## 2026-06-13 업데이트 — 신규 뉴스 복수: VKOSPI 91.23·91.94 사상최고 인용 지속
+
+### 복수 뉴스 VKOSPI 인용 요약
+- 연합뉴스(2026-06-13, 22:25): '한국형 공포 지수' VKOSPI 9일 종가 91.23까지 치솟음. CPI 4.2% 발표 맥락. (https://www.yna.co.kr/view/AKR20260612159800008?input=1195m)
+- 뉴데일리(2026-06-14, 01:32): 트럼프 '14일 이란 합의 서명' — VKOSPI 9일 종가 91.23 인용. CPI·PPI 예상치 부합 언급. (https://biz.newdaily.co.kr/site/data/html/2026/06/14/2026061400006.html)
+- 토큰포스트(2026-06-14, 01:48): VKOSPI 9일 종가 91.23 인용. CPI·PPI '최악은 면했다' 평가. FOMC 주목. (https://www.tokenpost.kr/news/market/369113)
+- 고코리아(2026-06-14, 02:40): 코스피 상승세 속 VKOSPI 지속 증가 — 빚투·반대매매 우려. (https://www.gokorea.kr/news/articleView.html?idxno=869038)
+- 네이버블로그 복수(2026-06-13): VKOSPI 공포지수 언급 — 롤러코스터 장세·분할매수 전략·옵션 IV 분석 등. (https://blog.naver.com/zesjang/224315331387 , https://blog.naver.com/wawaman12/224313838201 , https://blog.naver.com/youth2015a/224315435020 , https://blog.naver.com/pkhbd/224315292478 , https://blog.naver.com/archi-so/224315498266 , https://blog.naver.com/dogwood104/224315059043 , https://blog.naver.com/prettygirl-30/224315591200 , https://blog.naver.com/jd01115/224315628676)
