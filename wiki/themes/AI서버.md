@@ -52,6 +52,12 @@ edges:
     claim_type: "보도"
     source: "https://blog.naver.com/msn357357/224315029889"
     date: 2026-06-12
+  - rel: MENTIONS
+    target: "[[스페이스X]]"
+    confidence: 0.8
+    claim_type: "보도"
+    source: "https://blog.naver.com/it-real/224309783982"
+    date: 2026-06-13
 ---
 
 # AI서버
@@ -517,3 +523,15 @@ SK하이닉스 청주 4캠퍼스 M15X 공장 2층 가스룸 화재. 13명 병원
 
 
 관련 이슈: [[SK하이닉스-ADR상장-2026Q2]]
+
+
+## 2026-06-13 업데이트
+
+### 구글이 SpaceX에 서버 빌린 이유
+- Alphabet(Google)이 SpaceX에 GCP 서버를 제공한 배경: AI 워크로드 분산·위성 데이터 처리 목적. SpaceX IPO 성공으로 Alphabet 클라우드 계약($920M/월) 재확인. (출처: [it-real 6/13](https://blog.naver.com/it-real/224309783982))
+
+### 빅테크 AI 인프라 FCF 폭발적 성장 전망
+- 하이퍼스케일러(Alphabet·Meta·Microsoft·Amazon) 4사의 2030년 잉여현금흐름 폭발적 성장 추정. Alphabet 단독 2,000억 달러 이상 FCF 전망. AI CAPEX 정당성의 핵심 근거. (출처: [meowk 6/13](https://blog.naver.com/meowk/224315327008))
+
+### 하이퍼스케일러 증자 부담 & AI 투자 사이클
+- Alphabet 850억$ 증자에 이어 Meta 대규모 주식 매각 검토(FT). 신규 IPO(SpaceX 등) 공급과 빅테크 증자 부담이 시장 변동성 요인. (출처: [tsnconsulting 6/13](https://blog.naver.com/tsnconsulting/224315250925), [jkhan012 6/13](https://blog.naver.com/jkhan012/224315364060))
